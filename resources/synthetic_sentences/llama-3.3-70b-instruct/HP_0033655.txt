@@ -1,0 +1,35 @@
+* The CT scan revealed a well-defined pulmonary cavity within a consolidative lesion in the left upper lobe, measuring 3 cm in diameter with a surrounding wall thickness of 5 mm.
+* Radiographic findings were consistent with a pulmonary cavern, characterized by a gas-filled space with a clearly demarcated wall, located within a lung mass.
+* A cavitary lesion was noted in the right lower lobe, associated with a thick-walled cavity containing a small air-fluid level, suggestive of an infectious process.
+* Pulmonary cavitation was observed in a nodule in the left lower lobe, with a diameter of 2 cm and a surrounding wall thickness of 6 mm, raising concerns for malignancy or infection.
+* The patient's chest X-ray showed a lucent area within a zone of consolidation in the right upper lobe, consistent with a pulmonary cavity, potentially caused by a necrotizing infection.
+* A thick-walled cavity was identified within a lung mass in the left upper lobe, measuring 4 cm in diameter, with a surrounding wall thickness of 8 mm, concerning for a malignant process.
+* The CT scan demonstrated a gas-filled space within a nodule in the right lower lobe, with a clearly defined wall, consistent with a pulmonary cavern, possibly caused by a fungal infection.
+* A cavitary lesion was seen in the left upper lobe, characterized by a lucency within a zone of consolidation, with a surrounding wall thickness of 5 mm, suggestive of an infectious or inflammatory process.
+* Radiographic findings revealed a pulmonary cavity within a mass in the right lower lobe, with a diameter of 5 cm and a surrounding wall thickness of 10 mm, concerning for malignancy.
+* The patient's imaging studies showed a lucent area within a lung nodule, consistent with a pulmonary cavity, potentially caused by a bacterial or mycobacterial infection.
+* A thick-walled cavity was noted within a consolidative lesion in the left lower lobe, measuring 3 cm in diameter, with a surrounding wall thickness of 7 mm, suggestive of a necrotizing infection.
+* Pulmonary cavitation was observed in a lung mass in the right upper lobe, with a diameter of 6 cm and a surrounding wall thickness of 12 mm, concerning for a malignant process.
+* The CT scan revealed a gas-filled space within a nodule in the left upper lobe, with a clearly defined wall, consistent with a pulmonary cavern, possibly caused by a viral infection.
+* A cavitary lesion was identified in the right lower lobe, characterized by a lucency within a zone of consolidation, with a surrounding wall thickness of 6 mm, suggestive of an infectious or inflammatory process.
+* Radiographic findings were consistent with a pulmonary cavity within a lung mass in the left lower lobe, with a diameter of 4 cm and a surrounding wall thickness of 9 mm, potentially caused by an autoimmune disorder.
+* The patient's imaging studies showed a lucent area within a lung nodule, consistent with a pulmonary cavity, possibly caused by a parasitic infection.
+* A thick-walled cavity was noted within a consolidative lesion in the right upper lobe, measuring 5 cm in diameter, with a surrounding wall thickness of 11 mm, suggestive of a necrotizing infection.
+* Pulmonary cavitation was observed in a nodule in the left lower lobe, with a diameter of 3 cm and a surrounding wall thickness of 8 mm, raising concerns for malignancy or infection.
+* The CT scan demonstrated a gas-filled space within a lung mass in the right lower lobe, with a clearly defined wall, consistent with a pulmonary cavern, potentially caused by a malignant process.
+* A cavitary lesion was seen in the left upper lobe, characterized by a lucency within a zone of consolidation, with a surrounding wall thickness of 7 mm, suggestive of an infectious or inflammatory process.
+* Radiographic findings revealed a pulmonary cavity within a nodule in the right upper lobe, with a diameter of 2 cm and a surrounding wall thickness of 5 mm, potentially caused by a bacterial or mycobacterial infection.
+* The patient's chest X-ray showed a lucent area within a zone of consolidation in the left lower lobe, consistent with a pulmonary cavity, possibly caused by a fungal infection.
+* A thick-walled cavity was identified within a lung mass in the right lower lobe, measuring 6 cm in diameter, with a surrounding wall thickness of 13 mm, concerning for malignancy.
+* Pulmonary cavitation was observed in a lung mass in the left upper lobe, with a diameter of 5 cm and a surrounding wall thickness of 10 mm, concerning for a malignant process.
+* The CT scan revealed a gas-filled space within a nodule in the right lower lobe, with a clearly defined wall, consistent with a pulmonary cavern, possibly caused by a viral infection.
+* A cavitary lesion was noted in the left lower lobe, characterized by a lucency within a zone of consolidation, with a surrounding wall thickness of 6 mm, suggestive of an infectious or inflammatory process.
+* Radiographic findings were consistent with a pulmonary cavity within a lung mass in the right upper lobe, with a diameter of 4 cm and a surrounding wall thickness of 9 mm, potentially caused by an autoimmune disorder.
+* The patient's imaging studies showed a lucent area within a lung nodule, consistent with a pulmonary cavity, possibly caused by a parasitic infection.
+* A thick-walled cavity was noted within a consolidative lesion in the left upper lobe, measuring 4 cm in diameter, with a surrounding wall thickness of 9 mm, suggestive of a necrotizing infection.
+* Pulmonary cavitation was observed in a nodule in the right lower lobe, with a diameter of 3 cm and a surrounding wall thickness of 8 mm, raising concerns for malignancy or infection.
+* The CT scan demonstrated a gas-filled space within a lung mass in the left lower lobe, with a clearly defined wall, consistent with a pulmonary cavern, potentially caused by a malignant process.
+* A cavitary lesion was seen in the right upper lobe, characterized by a lucency within a zone of consolidation, with a surrounding wall thickness of 7 mm, suggestive of an infectious or inflammatory process.
+* Radiographic findings revealed a pulmonary cavity within a nodule in the left upper lobe, with a diameter of 2 cm and a surrounding wall thickness of 5 mm, potentially caused by a bacterial or mycobacterial infection.
+* The patient's chest X-ray showed a lucent area within a zone of consolidation in the right lower lobe, consistent with a pulmonary cavity, possibly caused by a fungal infection.
+* A thick-walled cavity was identified within a lung mass in the left lower lobe, measuring 5 cm in diameter, with a surrounding wall thickness of 11 mm, concerning for malignancy.

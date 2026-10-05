@@ -1,0 +1,37 @@
+* The pulmonary function test revealed a significantly reduced FEV1/FVC ratio, suggesting an obstructive lung defect.
+* Patient's spirometry results showed an abnormally low FEV1/FVC ratio, consistent with obstructive lung disease.
+* Forced expiratory volume in one second to forced vital capacity ratio was decreased, indicating an obstructive pattern.
+* The FEV1/FVC ratio was below the lower limit of normal, consistent with an obstructive defect as per ATS criteria.
+* Obstructive lung disease is suspected given the patient's reduced FEV1/FVC ratio, which fell below 70% according to GOLD criteria.
+* Pulmonary function testing demonstrated an obstructive deficit, as evidenced by a low FEV1/FVC ratio.
+* The patient's symptoms, in conjunction with a reduced FEV1/FVC ratio, support a diagnosis of obstructive lung disease.
+* Spirometry results indicated an obstructive pattern, with an FEV1/FVC ratio less than 85%, meeting the National Asthma Education and Prevention Program guidelines for obstruction.
+* Reduced FEV1/FVC ratio was observed on pulmonary function testing, suggesting airway obstruction.
+* An abnormally low ratio of forced expiratory volume in one second to forced vital capacity was noted, indicating obstructive lung disease.
+* Patient presented with symptoms consistent with obstructive lung disease, and pulmonary function testing revealed a decreased FEV1/FVC ratio.
+* The FEV1/FVC ratio was significantly reduced, indicating an obstructive defect according to the GOLD criteria.
+* Obstructive lung disease was diagnosed based on symptoms and a low FEV1/FVC ratio, which was below the fifth percentile of normal values.
+* Spirometry demonstrated an obstructive pattern, characterized by a reduced FEV1/FVC ratio.
+* The patient's reduced FEV1/FVC ratio, in conjunction with clinical symptoms, supported a diagnosis of obstructive lung disease.
+* Pulmonary function testing revealed an obstructive deficit, as indicated by a low FEV1/FVC ratio.
+* Forced expiratory volume in one second to forced vital capacity ratio was decreased, suggesting airway obstruction.
+* The FEV1/FVC ratio was below the expected normal range, indicating an obstructive lung defect.
+* An obstructive pattern was observed on pulmonary function testing, characterized by a reduced FEV1/FVC ratio.
+* The patient's symptoms and reduced FEV1/FVC ratio were consistent with obstructive lung disease, as defined by the National Asthma Education and Prevention Program guidelines.
+* Spirometry results showed an obstructive deficit, with an FEV1/FVC ratio less than 85%.
+* A reduced FEV1/FVC ratio was noted on pulmonary function testing, suggesting obstructive lung disease.
+* Patient's pulmonary function test results indicated an obstructive defect, with a decreased FEV1/FVC ratio.
+* The FEV1/FVC ratio was significantly reduced, falling below the lower limit of normal as defined by the ATS criteria.
+* Obstructive lung disease was suspected based on symptoms and a reduced FEV1/FVC ratio, which was below 70% according to the GOLD criteria.
+* Pulmonary function testing demonstrated an obstructive pattern, with a low FEV1/FVC ratio.
+* The patient presented with symptoms consistent with obstructive lung disease and had a reduced FEV1/FVC ratio on pulmonary function testing.
+* The FEV1/FVC ratio was decreased, indicating an obstructive defect as per the National Asthma Education and Prevention Program guidelines.
+* An obstructive deficit was noted on pulmonary function testing, characterized by a reduced FEV1/FVC ratio.
+* The patient's reduced FEV1/FVC ratio supported a diagnosis of obstructive lung disease, as defined by the ATS criteria.
+* Spirometry results indicated an obstructive pattern, with an FEV1/FVC ratio below the expected normal range.
+* Pulmonary function testing revealed an obstructive defect, with a reduced FEV1/FVC ratio.
+* The patient's symptoms and pulmonary function test results were consistent with obstructive lung disease, characterized by a reduced FEV1/FVC ratio.
+* A low FEV1/FVC ratio was observed on pulmonary function testing, suggesting an obstructive lung defect.
+* The FEV1/FVC ratio was significantly reduced, indicating an obstructive pattern according to the GOLD criteria.
+* Patient's pulmonary function test results showed an obstructive deficit, with an FEV1/FVC ratio less than 85%.
+* Obstructive lung disease was diagnosed based on symptoms and a reduced FEV1/FVC ratio, which fell below the lower limit of normal as defined by the ATS criteria.

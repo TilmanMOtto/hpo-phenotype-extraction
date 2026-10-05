@@ -1,0 +1,35 @@
+* The patient's cardiac index was found to be below the expected range, indicating possible cardiac dysfunction.
+* Echocardiogram revealed a reduced cardiac index, suggesting impaired cardiac performance.
+* An abnormal cardiac index was noted, with a calculated value of 2.5 L/min/m^2, indicating potential cardiovascular disease.
+* Cardiac output, when indexed to body surface area, was significantly lower than normal, raising concerns about cardiac function.
+* The cardiac index was calculated to be 1.8 L/min/m^2, which is below the normal range, prompting further investigation.
+* There was a notable decrease in cardiac index, likely due to decreased stroke volume and/or heart rate.
+* The patient's heart rate and stroke volume were within normal limits, but the cardiac index was elevated, suggesting possible issues with body surface area calculation.
+* Upon review of the patient's hemodynamic data, an abnormal cardiac index was identified, warranting closer monitoring.
+* A low cardiac index was observed, which may be indicative of decreased cardiac output or increased body surface area.
+* The calculated cardiac index was higher than expected, potentially reflecting increased metabolic demand or other underlying conditions.
+* A reduced cardiac index was associated with symptoms of fatigue and shortness of breath, suggesting possible cardiac dysfunction.
+* The patient's cardiac index was abnormal, with a value of 3.2 L/min/m^2, which may indicate hyperdynamic circulation.
+* An elevated cardiac index was noted in the presence of fever and tachycardia, likely representing increased metabolic demand.
+* Cardiac MRI revealed an abnormal cardiac index, which may be related to underlying cardiomyopathy.
+* The cardiac index was found to be lower than normal in the setting of heart failure, as expected.
+* There was a significant correlation between the patient's abnormal cardiac index and their symptoms of exercise intolerance.
+* The patient's cardiac index was calculated to be 2.2 L/min/m^2, which is within the lower limit of normal, but still warrants monitoring.
+* An abnormal cardiac index was identified in the context of sepsis, likely reflecting distributive shock.
+* A decreased cardiac index was observed in the setting of cardiogenic shock, as anticipated.
+* The cardiac index was abnormal, with a calculated value of 1.5 L/min/m^2, indicating possible cardiac dysfunction in the setting of pulmonary hypertension.
+* The patient's cardiac index was elevated, potentially reflecting anemia or other conditions leading to increased cardiac output.
+* Cardiac catheterization revealed an abnormal cardiac index, which may be related to underlying coronary artery disease.
+* The cardiac index was found to be abnormal in the setting of cardiac tamponade, as expected.
+* A low cardiac index was associated with symptoms of dizziness and lightheadedness, suggesting possible cardiac dysfunction.
+* The patient's cardiac index was calculated to be 3.5 L/min/m^2, which is higher than normal, potentially reflecting hyperthyroidism or other conditions.
+* An abnormal cardiac index was identified in the context of severe burns, likely representing hypovolemic shock.
+* The cardiac index was abnormal, with a value of 2.8 L/min/m^2, which may indicate cardiac dysfunction in the setting of chronic kidney disease.
+* The patient's cardiac index was found to be lower than normal, potentially reflecting cardiac dysfunction or other underlying conditions.
+* A decreased cardiac index was observed in the setting of heart transplant, as expected.
+* The cardiac index was calculated to be 1.2 L/min/m^2, which is below the normal range, prompting further evaluation.
+* An abnormal cardiac index was noted in the context of pheochromocytoma, likely reflecting increased cardiac output.
+* The patient's cardiac index was elevated, potentially reflecting pregnancy or other conditions leading to increased cardiac output.
+* Cardiac index was abnormal, with a calculated value of 2.1 L/min/m^2, indicating possible cardiac dysfunction in the setting of hypertension.
+* The cardiac index was found to be abnormal in the setting of coronary artery disease, as anticipated.
+* A low cardiac index was associated with symptoms of chest pain and shortness of breath, suggesting possible cardiac dysfunction.

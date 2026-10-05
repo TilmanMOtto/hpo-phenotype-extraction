@@ -1,0 +1,27 @@
+47:64	HP:0001067	neurofibromatosis
+96:109	HP:0000005	heterogeneity
+471:493	HP:0009588	vestibular schwannomas
+482:493	HP:0100008	schwannomas
+509:519	HP:0004375	CNS tumors
+513:519	HP:0002664	tumors
+529:540	HP:0008069	skin tumors
+534:540	HP:0002664	tumors
+554:575	HP:0000478	ocular manifestations
+586:595	HP:0000518	cataracts
+600:618	HP:0009594	retinal hamartomas
+692:714	HP:0009588	Vestibular schwannomas
+703:714	HP:0100008	schwannomas
+782:791	HP:0000518	cataracts
+801:812	HP:0008069	skin tumors
+806:812	HP:0002664	tumors
+822:835	HP:0010302	spinal tumors
+829:835	HP:0002664	tumors
+849:860	HP:0002858	meningiomas
+991:1004	HP:0000005	heterogeneity
+1162:1172	HP:0004375	CNS tumors
+1166:1172	HP:0002664	tumors
+1184:1206	HP:0009588	vestibular schwannomas
+1195:1206	HP:0100008	schwannomas
+1235:1253	HP:0009594	retinal hamartomas
+608:618	HP:0010566	hamartomas
+1243:1253	HP:0010566	hamartomas

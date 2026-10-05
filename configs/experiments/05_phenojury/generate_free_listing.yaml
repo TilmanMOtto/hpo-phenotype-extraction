@@ -1,0 +1,92 @@
+# Juror generations with the Free Listing prompt (thesis section 5.3).
+#
+# Command:  sbatch slurm/phenojury_generate.sbatch   (one task per juror; DATASET=gsc for GSC+)
+# Models: the eight jurors of thesis Table 5.1 at native half precision, greedy decoding,
+# 512 new tokens (1536 for the three reasoning models). PhenoBERT thresholds p1 0.8, p2 0.6, p3 0.9.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seeds: none needed (greedy decoding).
+# Reads the HCY reports, writes <output>/phenojury_generation_free_listing/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc
+dataset: hcy
+# hcy paths:
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms_all.csv
+# gsc path:
+gsc_dir: resources/data/GSC_2024
+
+# [Stage], extract | aggregate
+# extract:   one model (model_key) generates + is grounded by PhenoBERT, then unloads. GPU.
+# aggregate: no model is loaded. The cached per-model detections are merged and every
+#            aggregation rule is re-run over them. CPU-only, and cheap to re-run.
+stage: extract
+model_key:
+
+# [Required paths]
+stanza_dir: ${paths:stanza_dir}
+output_dir: ${paths:output_dir}
+
+# [Model models], the 8 ensemble members, same keys and order as the earlier runs.
+# The key selects the loader family in models/huggingface/slm_loaders.py and names every
+# output file, so it is essential. Any blank path is skipped at aggregation time.
+slm_dirs:
+  apertus: ${paths:models.jurors.apertus}  # swiss-ai/Apertus-8B-Instruct-2509
+  deepseek: ${paths:models.jurors.deepseek}  # DeepSeek-R1-Distill-Qwen-7B
+  intelligent_internet: ${paths:models.jurors.intelligent_internet}  # Intelligent-Internet/II-Medical-8B-1706
+  openbiollm: ${paths:models.jurors.openbiollm}  # aaditya/OpenBioLLM-Llama3-8B
+  llama: ${paths:models.jurors.llama}  # meta-llama/Llama-3.1-8B-Instruct
+  medpsy: ${paths:models.jurors.medpsy}  # qvac/MedPsy-4B
+  medgemma: ${paths:models.jurors.medgemma}  # google/medgemma-1.5-4b-it
+  phi4: ${paths:models.jurors.phi4}  # Microsoft/Phi-4
+
+# [PhenoBERT], grounds each model's free text to HPO IDs with per-sentence attribution.
+phenobert_dir: ${paths:phenobert.dir}
+# Interpreter with stanza==1.4.1 (PhenoBERT_env). Empty → same interpreter as this process.
+phenobert_python: ${paths:phenobert.python}
+# Separate Stanza resources dir for PhenoBERT (1.4.1, old flat schema).
+# Must NOT point at stanza_dir (1.10.1 schema), the two versions are incompatible.
+phenobert_stanza_dir: ${paths:stanza_dir_phenobert}
+phenobert_threads: 4
+phenobert_p1: 0.8         # CNN layer-1 confidence
+phenobert_p2: 0.6         # sub-model confidence
+phenobert_p3: 0.9         # BERT semantic filter
+
+# [Generation], greedy everywhere (earlier sampled at temperature 0.6. This run is reproducible).
+max_new_tokens: 512
+# Reasoning models must be able to close their <think> block: strip_think drops an unterminated
+# block entirely, so a truncated CoT silently zeroes that model's contribution.
+max_new_tokens_overrides:
+  deepseek: 1536
+  intelligent_internet: 1536
+  medpsy: 1536
+
+# [Performance]
+# gen_batch_size: sentences per forward pass. Real batching (left-padded) exists for the standard
+# loader family. Medgemma/openbiollm fall back to the sequential loop automatically.
+gen_batch_size: 8
+# Resume from a cached llm_extractions_{model}.jsonl / phenobert_output_{model}/ if present.
+# Generation is modeled per report (appended + flushed), so this now continues a partial
+# extraction rather than trusting or discarding it wholesale. False forces fresh generation.
+reuse_extractions: true
+# Stop cleanly after the current report once this many seconds have elapsed (null = off). The
+# extract cluster script also forwards SLURM's --signal=B:USR1@300 wall-clock warning, which does
+# The same thing. Either way, resubmitting the job resumes where it stopped.
+max_runtime_s:
+
+# [Aggregation], swept, not fixed. vote_k{k} for k=1..n_active (k=1 == the earlier runs'union,
+# k=n_active == unanimity) plus the earlier runs'per-sentence plurality. All rules are re-run offline
+# from slm_ensemble_detections.jsonl, so a new rule never needs the GPUs again.
+min_detection_count: 1    # PhenoBERT detections per HPO needed to count as "detected"
+
+# [Pilot / scaling]
+max_patients:
+
+mlflow_experiment_name: exp13_comparison

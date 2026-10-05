@@ -1,0 +1,40 @@
+* The patient's prothrombin time (PT) was significantly prolonged, indicating a potential coagulopathy that requires further investigation.
+* Elevated international normalized ratio (INR) levels were observed, suggesting an increased risk of bleeding complications.
+* Coagulation studies revealed a prolonged PT, which is consistent with a deficiency in factors II, V, VII, or X.
+* The patient's INR was elevated at 2.5, indicating a need for close monitoring and potential adjustment of anticoagulant therapy.
+* Prolongation of the PT was noted, which may be indicative of liver disease, vitamin K deficiency, or warfarin therapy.
+* The activated partial thromboplastin time (APTT) was within normal limits, but the PT was prolonged, suggesting a specific defect in the extrinsic coagulation pathway.
+* Increased INR levels were reported, which may be associated with an increased risk of hemorrhagic complications.
+* The patient's coagulation profile showed a prolonged PT and a normal APTT, suggesting a possible factor VII deficiency.
+* Low factor II activity was detected, which is consistent with a prolonged PT and an increased risk of bleeding.
+* The PT was prolonged at 18 seconds, which is outside the normal reference range of 10-12 seconds.
+* Reduced prothrombin activity was observed, which may be due to a variety of causes including liver disease, vitamin K deficiency, or warfarin therapy.
+* The patient's INR was found to be elevated at 3.2, indicating a high risk of bleeding complications and requiring immediate attention.
+* Coagulation studies revealed a prolonged PT and a normal APTT, suggesting a defect in the extrinsic coagulation pathway.
+* The patient's PT was prolonged, and the APTT was normal, suggesting a possible factor VII deficiency or a problem with the extrinsic pathway.
+* Increased international normalized ratio (INR) levels were reported, which may be associated with an increased risk of bleeding complications.
+* Prolongation of the PT was noted, which may be indicative of a coagulopathy or a problem with the extrinsic coagulation pathway.
+* The patient's coagulation profile showed a prolonged PT and a normal APTT, suggesting a possible defect in the extrinsic coagulation pathway.
+* Low factor II activity was detected, which is consistent with a prolonged PT and an increased risk of bleeding complications.
+* The PT was prolonged at 20 seconds, which is significantly outside the normal reference range.
+* Reduced factor II activity was observed, which may be due to a variety of causes including liver disease, vitamin K deficiency, or warfarin therapy.
+* Coagulation studies revealed a prolonged PT, which is consistent with a deficiency in factors II, V, VII, or X.
+* The patient's INR was elevated at 2.8, indicating a need for close monitoring and potential adjustment of anticoagulant therapy.
+* Prolonged PT was noted, which may be indicative of a coagulopathy or a problem with the extrinsic coagulation pathway.
+* Increased INR levels were observed, which may be associated with an increased risk of hemorrhagic complications.
+* The patient's PT was prolonged, and the APTT was normal, suggesting a possible defect in the extrinsic coagulation pathway.
+* The coagulation profile showed a prolonged PT and a normal APTT, suggesting a possible defect in the extrinsic coagulation pathway.
+* Low factor II activity was detected, which is consistent with a prolonged PT and an increased risk of bleeding.
+* The patient's INR was found to be elevated at 3.5, indicating a high risk of bleeding complications and requiring immediate attention.
+* Coagulation studies revealed a prolonged PT, which is consistent with a deficiency in factors II, V, VII, or X.
+* Prolongation of the PT was noted, which may be indicative of liver disease, vitamin K deficiency, or warfarin therapy.
+* The patient's PT was prolonged at 19 seconds, which is outside the normal reference range of 10-12 seconds.
+* Reduced prothrombin activity was observed, which may be due to a variety of causes including liver disease, vitamin K deficiency, or warfarin therapy.
+* Increased international normalized ratio (INR) levels were reported, which may be associated with an increased risk of bleeding complications.
+* The patient's PT was prolonged, and the APTT was normal, suggesting a possible factor VII deficiency or a problem with the extrinsic pathway.
+* Coagulation studies revealed a prolonged PT and a normal APTT, suggesting a specific defect in the extrinsic coagulation pathway.
+* Low factor II activity was detected, which is consistent with a prolonged PT and an increased risk of bleeding complications.
+* The patient's INR was elevated at 2.2, indicating a need for close monitoring and potential adjustment of anticoagulant therapy.
+* Prolonged PT was noted, which may be indicative of a coagulopathy or a problem with the extrinsic coagulation pathway.
+* The coagulation profile showed a prolonged PT and a normal APTT, suggesting a possible defect in the extrinsic coagulation pathway.
+* Increased INR levels were observed, which may be associated with an increased risk of hemorrhagic complications.

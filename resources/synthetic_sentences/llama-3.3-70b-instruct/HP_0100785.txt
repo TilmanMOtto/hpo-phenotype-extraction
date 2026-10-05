@@ -1,0 +1,37 @@
+* The patient reports experiencing persistent difficulty falling asleep, leading to significant daytime fatigue and impaired functional status.
+* Overnight sleep studies revealed fragmented sleep patterns, characterized by frequent awakenings and an inability to achieve restorative sleep.
+* Difficulty maintaining sleep has been a longstanding issue for this patient, who awakens multiple times throughout the night and has trouble returning to sleep.
+* Clinical evaluation suggests that the patient's insomnia is exacerbating their underlying psychiatric condition, contributing to increased symptoms of anxiety and depression.
+* The patient's sleep diary indicates a consistent pattern of taking longer than 30 minutes to fall asleep, with a significant impact on daily functioning.
+* Polysomnography (PSG) confirmed the presence of insomnia, demonstrating reduced sleep efficiency and prolonged wakefulness after sleep onset.
+* Patient complaints of difficulty staying asleep have been ongoing for several months, resulting in considerable distress and impairment in social and occupational functioning.
+* A thorough medical evaluation was conducted to rule out underlying medical conditions that may be contributing to the patient's insomnia, but none were identified.
+* Behavioral interventions, such as cognitive-behavioral therapy for insomnia (CBT-I), are being recommended to address the patient's maladaptive sleep habits and improve sleep quality.
+* Actigraphy data revealed a disrupted sleep-wake cycle, with the patient experiencing excessive daytime sleepiness and fatigue due to poor sleep consolidation.
+* The patient's electronic health record (EHR) notes a history of difficulty falling asleep, with multiple failed attempts at sleep initiation each night.
+* Insomnia has been identified as a comorbid condition, contributing to increased symptom severity and reduced quality of life in this patient with a pre-existing medical condition.
+* Therapeutic interventions, including pharmacological and non-pharmacological approaches, are being considered to address the patient's insomnia and improve overall sleep hygiene.
+* Sleep disturbance, characterized by difficulty maintaining sleep, has been a persistent issue for this patient, despite attempts at self-management and lifestyle modifications.
+* Clinical assessment suggests that the patient's insomnia is having a significant impact on their mood, with increased irritability and emotional reactivity.
+* The patient's sleep patterns, as recorded in their sleep diary, demonstrate a consistent inability to achieve a full night's sleep, resulting in excessive daytime sleepiness.
+* Diagnostic evaluation, including a comprehensive sleep history and physical examination, confirmed the presence of insomnia in this patient.
+* Patient reports of difficulty falling asleep and staying asleep have been documented in the medical record, with associated complaints of fatigue, decreased concentration, and impaired cognitive function.
+* Sleep stage analysis revealed reduced slow-wave sleep and increased wakefulness after sleep onset, consistent with a diagnosis of insomnia.
+* This patient's insomnia has resulted in significant impairment in social and occupational functioning, with reduced productivity and increased absenteeism.
+* A sleep-focused clinical interview revealed a long-standing history of difficulty initiating and maintaining sleep, with associated symptoms of anxiety and depression.
+* The patient's EHR notes multiple previous diagnoses of insomnia, with various treatments and interventions attempted to address this condition.
+* Clinical evaluation suggests that the patient's insomnia is related to underlying psychological factors, including stress and anxiety, which are exacerbating their sleep disturbance.
+* Actigraphy and sleep diary data both support the diagnosis of insomnia, demonstrating a persistent pattern of disrupted sleep and wakefulness.
+* The patient's complaints of difficulty staying asleep have been documented in the medical record, with associated symptoms of fatigue, decreased energy, and impaired functional status.
+* A comprehensive diagnostic evaluation, including PSG and actigraphy, confirmed the presence of insomnia in this patient, with associated sleep stage disturbances.
+* Patient reports of insomnia have been consistent over time, with a persistent pattern of difficulty initiating and maintaining sleep, resulting in significant distress and impairment.
+* Clinical assessment suggests that the patient's insomnia is having a negative impact on their overall quality of life, with reduced enjoyment of daily activities and decreased social participation.
+* This patient's sleep disturbance, characterized by difficulty falling asleep and staying asleep, has resulted in significant impairment in cognitive function, including decreased concentration and attention.
+* The patient's medical history notes a previous diagnosis of insomnia, which was treated with a combination of pharmacological and behavioral interventions.
+* Sleep-focused therapy, including CBT-I, is being recommended to address the patient's maladaptive sleep habits and improve sleep quality, with the goal of reducing symptoms of insomnia.
+* The patient's EHR notes a history of difficulty maintaining sleep, with associated complaints of daytime fatigue, decreased energy, and impaired functional status.
+* Clinical evaluation suggests that the patient's insomnia is related to underlying sleep disorders, including sleep apnea and restless legs syndrome, which are contributing to their sleep disturbance.
+* Actigraphy data revealed a disrupted sleep-wake cycle, with the patient experiencing excessive daytime sleepiness and fatigue due to poor sleep consolidation and reduced sleep efficiency.
+* The patient's sleep patterns, as recorded in their sleep diary, demonstrate a consistent inability to achieve a full night's sleep, resulting in significant distress and impairment in social and occupational functioning.
+* Diagnostic evaluation, including a comprehensive sleep history and physical examination, confirmed the presence of insomnia in this patient, with associated symptoms of anxiety, depression, and reduced quality of life.
+* Patient reports of difficulty falling asleep and staying asleep have been documented in the medical record, with associated complaints of fatigue, decreased concentration, and impaired cognitive function, resulting in significant impairment in daily functioning.

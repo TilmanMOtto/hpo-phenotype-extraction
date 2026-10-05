@@ -1,0 +1,35 @@
+* The patient's granulocytes demonstrated a decreased expression of CD18, as measured by flow cytometry.
+* Flow cytometric analysis revealed a reduced level of CD18 on the surface of the patient's granulocytes.
+* Noted was a diminished presence of CD18 on granulocyte membranes, potentially impacting cellular adhesion and migration.
+* The beta2 integrin subunit, CD18, was found to be underexpressed on the patient's granulocytes, which could affect their ability to bind to ligands such as ICAM-1 and fibrinogen.
+* Assessment of granulocyte surface markers showed a decrease in CD18, suggesting impaired leukocyte function.
+* Laboratory results indicated a reduced level of CD18 expression on granulocytes, which may be associated with defects in cell adhesion and signaling.
+* The patient's white blood cell differential revealed granulocytes with decreased CD18, potentially indicating a disorder of leukocyte function.
+* Flow cytometry results demonstrated a lower than expected level of CD18 on the patient's granulocytes, warranting further investigation.
+* Decreased expression of the CD18 integrin subunit was observed on the surface of granulocytes, possibly contributing to an increased susceptibility to infection.
+* The patient was found to have a reduced CD18 level on granulocytes, which may impact the cells' ability to interact with endothelial cells and migrate to sites of inflammation.
+* Notable was the diminished expression of CD18 on the patient's granulocytes, which could be related to an underlying immunodeficiency.
+* A flow cytometric analysis revealed decreased CD18 levels on granulocytes, suggesting an abnormality in leukocyte adhesion molecule expression.
+* The patient's granulocytes showed reduced binding to ICAM-1, likely due to decreased expression of the CD18 integrin subunit.
+* Laboratory findings included reduced CD18 expression on granulocytes, which may affect the patient's ability to mount an effective immune response.
+* Decreased CD18 levels on granulocytes were observed, potentially indicating a congenital or acquired disorder of leukocyte function.
+* Flow cytometric evaluation demonstrated decreased CD18 on the patient's granulocytes, which may be associated with recurrent infections.
+* The patient's granulocytes exhibited decreased CD18 expression, possibly contributing to impaired leukocyte recruitment to sites of inflammation.
+* Noted was a decrease in CD18 expression on the patient's granulocytes, which could impact their ability to interact with the extracellular matrix.
+* The patient had reduced CD18 levels on granulocytes, which may be related to an increased risk of infection or autoimmune disorders.
+* A decrease in CD18 expression was observed on the patient's granulocytes, potentially indicating a defect in leukocyte adhesion and transmigration.
+* Flow cytometry revealed decreased CD18 levels on granulocytes, suggesting an abnormality in the patient's immune cell function.
+* The patient's granulocytes demonstrated reduced CD18 expression, which may affect their ability to bind to fibrinogen and other ligands.
+* Decreased CD18 expression on granulocytes was noted, potentially contributing to impaired leukocyte function and increased susceptibility to infection.
+* Laboratory results showed reduced CD18 levels on the patient's granulocytes, which may be associated with an underlying condition affecting leukocyte adhesion and migration.
+* The patient had a reduced level of CD18 on granulocytes, which could impact the cells' ability to interact with other immune cells and facilitate an effective immune response.
+* Flow cytometric analysis demonstrated decreased CD18 expression on the patient's granulocytes, potentially indicating a disorder of leukocyte function.
+* Notable was the reduced expression of CD18 on the patient's granulocytes, which may be related to an increased risk of infection or autoimmune disorders.
+* The patient's granulocytes exhibited decreased CD18 levels, potentially affecting their ability to bind to counterreceptors such as ICAM-1 and -2.
+* Decreased CD18 expression on granulocytes was observed, which may be associated with defects in leukocyte adhesion and signaling.
+* The patient had decreased CD18 levels on granulocytes, potentially indicating an abnormality in immune cell function and increased susceptibility to infection.
+* Flow cytometry results showed reduced CD18 expression on the patient's granulocytes, which may impact the cells' ability to interact with the endothelium and migrate to sites of inflammation.
+* Laboratory findings included decreased CD18 levels on granulocytes, which could be related to an underlying condition affecting leukocyte adhesion and migration.
+* The patient's granulocytes demonstrated reduced CD18 expression, potentially contributing to impaired leukocyte function and increased risk of infection.
+* Noted was a decrease in CD18 expression on the patient's granulocytes, which may affect the cells' ability to bind to ligands such as iC3b and polysaccharides.
+* The patient had a reduced level of CD18 on granulocytes, which may be associated with an increased risk of infection or autoimmune disorders due to impaired leukocyte adhesion and migration.

@@ -1,0 +1,36 @@
+* The patient's ECG showed a rapid heart rate exceeding 100 beats per minute with broad QRS complexes, consistent with ventricular tachycardia.
+* A wide QRS complex tachycardia was observed, with a ventricular origin and a rate of over 100 beats per minute, indicative of VT.
+* The electrocardiogram revealed three or more consecutive QRS complexes with a duration longer than 120 ms and a rate of 100 beats per minute or more, characteristic of ventricular tachycardia.
+* The patient experienced a potentially life-threatening arrhythmia, with a wide QRS complex tachycardia and a rate exceeding 100 beats per minute, diagnosed as VT.
+* Sustained VT was diagnosed, persisting for 30 seconds or more, with a uniform QRS morphology on the ECG.
+* Non-sustained VT was observed, lasting less than 30 seconds, with a ventricular origin and a rate of over 100 beats per minute.
+* The ECG showed a monomorphic VT pattern, with a uniform QRS morphology and a rate exceeding 100 beats per minute.
+* Polymorphic VT was diagnosed, with QRS morphologies varying from beat to beat and a rate of over 100 beats per minute.
+* The patient's VT was likely related to underlying structural heart disease, with a rapid heart rate and broad QRS complexes on the ECG.
+* Acute myocardial infarction was suspected as the underlying cause of the patient's VT, with a wide QRS complex tachycardia and a rate exceeding 100 beats per minute.
+* Drug toxicity was considered as a potential cause of the patient's VT, with a ventricular origin and a rate of over 100 beats per minute.
+* Electrolyte abnormalities were suspected as a contributing factor to the patient's VT, with a rapid heart rate and broad QRS complexes on the ECG.
+* The patient's family history suggested a possible Mendelian disease, which may have contributed to the development of VT.
+* The ECG showed a ventricular rate of 120 beats per minute, with broad QRS complexes and a ventricular origin, consistent with VT.
+* The patient's VT was characterized by a rapid heart rate and broad QRS complexes, with a duration longer than 120 ms.
+* A wide QRS complex tachycardia was observed, with a ventricular origin and a rate exceeding 100 beats per minute, requiring immediate attention.
+* The patient experienced a cardiac emergency, with a rapid heart rate and broad QRS complexes, diagnosed as VT.
+* The ECG revealed a monomorphic VT pattern, with a uniform QRS morphology and a rate of 110 beats per minute.
+* Polymorphic VT was observed, with QRS morphologies varying from beat to beat and a rate of 120 beats per minute.
+* The patient's VT was related to underlying coronary artery disease, with a rapid heart rate and broad QRS complexes on the ECG.
+* The patient's VT was likely caused by a re-entrant circuit in the ventricles, with a rapid heart rate and broad QRS complexes.
+* The ECG showed a ventricular rate of 130 beats per minute, with broad QRS complexes and a ventricular origin, consistent with VT.
+* The patient's VT was characterized by a rapid heart rate and broad QRS complexes, with a duration longer than 140 ms.
+* A wide QRS complex tachycardia was observed, with a ventricular origin and a rate exceeding 100 beats per minute, requiring prompt treatment.
+* The patient experienced a life-threatening arrhythmia, with a rapid heart rate and broad QRS complexes, diagnosed as VT.
+* The ECG revealed a polymorphic VT pattern, with QRS morphologies varying from beat to beat and a rate of 110 beats per minute.
+* The patient's VT was related to underlying cardiomyopathy, with a rapid heart rate and broad QRS complexes on the ECG.
+* The patient's VT was likely caused by a triggering event, such as a myocardial infarction, with a rapid heart rate and broad QRS complexes.
+* The ECG showed a ventricular rate of 140 beats per minute, with broad QRS complexes and a ventricular origin, consistent with VT.
+* The patient's VT was characterized by a rapid heart rate and broad QRS complexes, with a duration longer than 160 ms.
+* A wide QRS complex tachycardia was observed, with a ventricular origin and a rate exceeding 100 beats per minute, requiring immediate medical attention.
+* The patient experienced a cardiac emergency, with a rapid heart rate and broad QRS complexes, diagnosed as VT.
+* The ECG revealed a monomorphic VT pattern, with a uniform QRS morphology and a rate of 120 beats per minute.
+* Polymorphic VT was observed, with QRS morphologies varying from beat to beat and a rate of 130 beats per minute.
+* The patient's VT was related to underlying cardiac disease, with a rapid heart rate and broad QRS complexes on the ECG.
+* The patient's VT was likely caused by a combination of factors, including underlying heart disease and electrolyte abnormalities, with a rapid heart rate and broad QRS complexes.

@@ -1,0 +1,34 @@
+* The patient's immune workup revealed a notable elevation in the proportion of unswitched memory B cells, suggesting an abnormality in B cell maturation.
+* Flow cytometry analysis demonstrated an increased percentage of non-class-switched memory B cells, which may indicate a defect in the class-switching process.
+* Immunophenotyping showed a higher-than-expected proportion of IgM+IgD+ memory B cells, consistent with an elevated proportion of unswitched memory B cells.
+* The B cell subset analysis revealed an increased proportion of CD27+IgM+ cells, indicating a predominance of unswitched memory B cells.
+* Elevated levels of unswitched memory B cells were observed in the patient's peripheral blood, which may be associated with immune dysfunction.
+* The proportion of non-class-switched memory B cells was found to be increased, suggesting a potential issue with B cell differentiation.
+* Increased proportions of unswitched memory B cells were noted on repeat immunological evaluations, indicating a persistent abnormality.
+* The patient's lymphocyte panel showed an abnormal increase in the proportion of unswitched memory B cells, which may be related to underlying immunodeficiency.
+* Flow cytometric analysis revealed an elevated proportion of CD19+CD27+IgM+ cells, consistent with an increased proportion of unswitched memory B cells.
+* The immunological profile of the patient demonstrated an increased proportion of non-class-switched memory B cells, which may impact humoral immunity.
+* Unswitched memory B cells were found to be overrepresented in the patient's B cell compartment, indicating a possible disturbance in B cell development.
+* An increase in the proportion of unswitched memory B cells was observed, which may be associated with an increased risk of infection.
+* The proportion of unswitched memory B cells was significantly elevated, suggesting an abnormality in B cell function.
+* Immunological assessment revealed an elevated proportion of non-class-switched memory B cells, which may indicate a defect in the immune system.
+* The patient's immune system showed an elevated proportion of unswitched memory B cells, which may be related to autoimmunity.
+* Analysis of B cell subsets revealed an increased proportion of unswitched memory B cells, indicating a potential issue with immune regulation.
+* Elevated levels of unswitched memory B cells were detected, which may be associated with an increased susceptibility to disease.
+* The proportion of non-class-switched memory B cells was increased, suggesting a possible defect in B cell maturation.
+* Flow cytometry demonstrated an elevated proportion of unswitched memory B cells, which may indicate an abnormality in the immune response.
+* The patient's B cell profile showed an increased proportion of unswitched memory B cells, which may be related to immune dysfunction.
+* Increased proportions of unswitched memory B cells were observed, indicating a potential issue with humoral immunity.
+* The immunological evaluation revealed an elevated proportion of non-class-switched memory B cells, suggesting an abnormality in B cell development.
+* Unswitched memory B cells were overrepresented in the patient's immune system, indicating a possible disturbance in immune function.
+* An elevated proportion of unswitched memory B cells was detected, which may be associated with an increased risk of immune-related disorders.
+* The proportion of unswitched memory B cells was significantly increased, suggesting a defect in B cell differentiation.
+* Immunological analysis revealed an elevated proportion of non-class-switched memory B cells, which may indicate an immune system abnormality.
+* The patient's immune profile demonstrated an increased proportion of unswitched memory B cells, which may impact immune function.
+* Elevated levels of unswitched memory B cells were observed, indicating a potential issue with immune regulation.
+* Flow cytometric analysis showed an elevated proportion of CD19+CD27+IgM+ cells, consistent with an increased proportion of unswitched memory B cells.
+* The B cell subset analysis revealed an increased proportion of IgM+IgD+ cells, indicating a predominance of unswitched memory B cells.
+* The patient's lymphocyte panel demonstrated an abnormal increase in the proportion of unswitched memory B cells, which may be related to immunodeficiency.
+* Increased proportions of unswitched memory B cells were noted, suggesting a persistent abnormality in the immune system.
+* The immunological assessment revealed an elevated proportion of non-class-switched memory B cells, indicating a possible issue with humoral immunity.
+* The proportion of unswitched memory B cells was elevated, suggesting an abnormality in B cell function and potentially impacting immune response.

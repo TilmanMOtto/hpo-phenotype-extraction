@@ -1,0 +1,36 @@
+* The patient's complete blood count (CBC) revealed a notable deviation in lymphocyte count, warranting further investigation.
+* Lymphocytosis was observed, characterized by an elevated lymphocyte count in the peripheral blood smear.
+* A marked decrease in lymphocyte count was detected, suggestive of lymphocytopenia.
+* The absolute lymphocyte count (ALC) was found to be outside the normal range, indicating an abnormality in lymphocyte production or destruction.
+* Flow cytometry analysis showed an abnormal distribution of lymphocyte subsets, which may be indicative of an underlying immunological disorder.
+* The patient presented with a significantly low lymphocyte count, consistent with a diagnosis of lymphocytopenia.
+* An abnormally high lymphocyte count was reported, which could be associated with a viral infection or other inflammatory conditions.
+* Lymphocyte count was observed to be elevated, with a concomitant increase in monocyte count, suggesting a possible acute infection.
+* The differential count showed a disproportionate percentage of lymphocytes, indicative of an abnormal lymphocyte count.
+* Immunophenotyping by flow cytometry revealed an aberrant lymphocyte population, characterized by an abnormal count and distribution of specific lymphocyte subsets.
+* A decrease in lymphocyte count was noted, which may be related to immunosuppression or bone marrow dysfunction.
+* The patient's lymphocyte count was significantly elevated, with a notable increase in CD4+ and CD8+ T-cell subsets.
+* Abnormal lymphocyte count was found in conjunction with other hematological abnormalities, including anemia and thrombocytopenia.
+* Flow cytometric analysis demonstrated an abnormal B-cell to T-cell ratio, contributing to an overall abnormal lymphocyte count.
+* The patient exhibited a low lymphocyte count, which may be a consequence of chronic illness, medication, or other underlying conditions.
+* An elevated lymphocyte count was detected in the context of a viral infection, with a notable predominance of CD8+ T-cells.
+* Lymphocyte count was abnormal, with a significant increase in natural killer (NK) cells, suggesting a potential immunological disorder.
+* The CBC revealed lymphocytosis, with an absolute lymphocyte count exceeding the upper limit of normal.
+* A notable abnormality in lymphocyte count was observed, with a decrease in the CD4+ to CD8+ T-cell ratio.
+* Immunological evaluation showed an abnormal lymphocyte count, characterized by a decrease in B-cells and an increase in T-cells.
+* The patient's lymphocyte count was found to be abnormally low, with a significant decrease in both B-cells and T-cells.
+* Flow cytometry demonstrated an abnormal lymphocyte population, with an elevated count of immature lymphocytes.
+* Lymphocyte count was abnormally high, with a notable increase in activated T-cells, suggesting an underlying inflammatory process.
+* A marked abnormality in lymphocyte count was detected, with a significant decrease in the absolute lymphocyte count (ALC).
+* The patient exhibited an abnormal lymphocyte count, characterized by a disproportionate increase in gamma-delta T-cells.
+* Lymphocyte count was found to be abnormal, with a significant increase in regulatory T-cells (Tregs), which may be indicative of an immunological disorder.
+* The CBC showed an abnormal lymphocyte count, with a notable increase in large granular lymphocytes (LGLs).
+* Flow cytometric analysis revealed an abnormal B-cell count, contributing to an overall abnormal lymphocyte count.
+* The patient's lymphocyte count was abnormally low, with a significant decrease in both naive and memory T-cells.
+* An abnormal lymphocyte count was detected, with a notable increase in CD56+ NK cells, suggesting a potential immunological disorder.
+* Lymphocyte count was elevated, with a significant increase in CD4+ T-cells, which may be indicative of an underlying inflammatory condition.
+* The patient exhibited an abnormal lymphocyte count, characterized by a decrease in mature lymphocytes and an increase in immature lymphocytes.
+* Flow cytometry demonstrated an abnormal lymphocyte population, with a notable increase in lymphocytes expressing activation markers.
+* The patient's lymphocyte count was found to be abnormally high, with a significant increase in T-cells and a decrease in B-cells.
+* Lymphocyte count was abnormal, with a notable increase in lymphocytes expressing inhibitory receptors, suggesting a potential immunological disorder.
+* The CBC revealed an abnormal lymphocyte count, with a significant decrease in absolute lymphocyte count (ALC) and a notable increase in monocyte count.

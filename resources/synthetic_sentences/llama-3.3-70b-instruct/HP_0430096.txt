@@ -1,0 +1,38 @@
+* The patient's lymph node biopsy showed positive CD23 staining, indicating the presence of this low-affinity IgE receptor on the B cells.
+* Immunophenotyping by flow cytometry revealed CD23 expression on a subset of mature B cells, consistent with the diagnosis.
+* CD23 was detected on the surface of eosinophils in the peripheral blood smear, suggesting an allergic response.
+* The presence of CD23 on follicular dendritic cells was confirmed by immunohistochemistry, supporting the diagnosis of a lymphoproliferative disorder.
+* Activated macrophages in the patient's tissue sample expressed CD23, as demonstrated by immunofluorescence staining.
+* Flow cytometric analysis of the patient's bone marrow aspirate showed CD23 positivity on a population of mature B cells.
+* CD23 expression was observed on platelets in the patient's blood sample, which may be relevant to the diagnosis of an immune-mediated disorder.
+* The low-affinity IgE receptor, CD23, was detected on the surface of mature B cells in the patient's lymph node biopsy.
+* Immunohistochemical staining for CD23 was positive in the patient's tissue sample, indicating the presence of this receptor on follicular dendritic cells.
+* CD23 expression was identified on a subset of eosinophils in the patient's sputum sample, suggesting an allergic response.
+* The patient's diagnosis was supported by the detection of CD23 on activated macrophages in the tissue biopsy.
+* Flow cytometric analysis revealed CD23 positivity on a population of mature B cells in the patient's peripheral blood.
+* CD23 staining was observed on follicular dendritic cells in the patient's lymph node biopsy, consistent with the diagnosis.
+* The presence of CD23 on mature B cells was confirmed by immunofluorescence staining, supporting the diagnosis of a lymphoproliferative disorder.
+* CD23 expression was detected on platelets in the patient's blood sample, which may be relevant to the diagnosis of an immune-mediated disorder.
+* Immunohistochemical analysis revealed CD23 positivity on eosinophils in the patient's tissue sample.
+* The patient's bone marrow biopsy showed CD23 expression on a subset of mature B cells, consistent with the diagnosis.
+* CD23 was detected on the surface of follicular dendritic cells in the patient's lymph node biopsy, supporting the diagnosis.
+* Flow cytometric analysis of the patient's blood sample revealed CD23 positivity on a population of activated macrophages.
+* The low-affinity IgE receptor, CD23, was expressed on mature B cells in the patient's tissue biopsy.
+* Immunofluorescence staining for CD23 was positive in the patient's tissue sample, indicating the presence of this receptor on eosinophils.
+* CD23 expression was identified on a subset of platelets in the patient's blood sample, which may be relevant to the diagnosis of an immune-mediated disorder.
+* The patient's diagnosis was supported by the detection of CD23 on mature B cells in the lymph node biopsy.
+* CD23 staining was observed on activated macrophages in the patient's tissue biopsy, consistent with the diagnosis.
+* Flow cytometric analysis revealed CD23 positivity on a population of follicular dendritic cells in the patient's lymph node biopsy.
+* The presence of CD23 on eosinophils was confirmed by immunohistochemical staining, supporting the diagnosis of an allergic response.
+* CD23 expression was detected on mature B cells in the patient's bone marrow aspirate, consistent with the diagnosis.
+* Immunohistochemical analysis revealed CD23 positivity on platelets in the patient's blood sample.
+* The patient's tissue biopsy showed CD23 expression on a subset of follicular dendritic cells, supporting the diagnosis.
+* CD23 was detected on the surface of activated macrophages in the patient's tissue sample, consistent with the diagnosis.
+* Flow cytometric analysis of the patient's peripheral blood revealed CD23 positivity on a population of mature B cells.
+* The low-affinity IgE receptor, CD23, was expressed on eosinophils in the patient's sputum sample, suggesting an allergic response.
+* Immunofluorescence staining for CD23 was positive in the patient's lymph node biopsy, indicating the presence of this receptor on mature B cells.
+* CD23 expression was identified on a subset of platelets in the patient's blood sample, which may be relevant to the diagnosis of an immune-mediated disorder.
+* The patient's diagnosis was supported by the detection of CD23 on follicular dendritic cells in the tissue biopsy.
+* CD23 staining was observed on mature B cells in the patient's bone marrow biopsy, consistent with the diagnosis.
+* Flow cytometric analysis revealed CD23 positivity on a population of activated macrophages in the patient's blood sample.
+* The presence of CD23 on eosinophils was confirmed by immunohistochemical staining, supporting the diagnosis of an allergic response.

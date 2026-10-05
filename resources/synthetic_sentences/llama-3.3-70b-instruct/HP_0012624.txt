@@ -1,0 +1,35 @@
+* The patient's renal function is impaired, with a glomerular filtration rate (GFR) of 75 mL/min/1.73 m2, indicative of stage 2 chronic kidney disease.
+* Chronic kidney disease (CKD) stage 2 is diagnosed, characterized by a mildly decreased GFR of 80 mL/min/1.73 m2.
+* Mildly reduced kidney function is evident, with a calculated GFR of 70 mL/min/1.73 m2, consistent with stage 2 CKD.
+* The patient has early-stage chronic kidney disease, with a GFR of 85 mL/min/1.73 m2, suggesting some loss of renal function.
+* Stage 2 CKD is present, as evidenced by a GFR of 65 mL/min/1.73 m2, indicating mild impairment of kidney function.
+* Renal impairment is noted, with a GFR of 78 mL/min/1.73 m2, placing the patient in the stage 2 CKD category.
+* The estimated GFR (eGFR) is 82 mL/min/1.73 m2, consistent with mild chronic kidney disease (stage 2).
+* A diagnosis of stage 2 chronic kidney disease is made, based on a GFR of 72 mL/min/1.73 m2, indicating mildly decreased renal function.
+* The patient's kidney function is mildly compromised, with a measured GFR of 68 mL/min/1.73 m2, corresponding to stage 2 CKD.
+* Stage 2 CKD is diagnosed, with a GFR of 88 mL/min/1.73 m2, indicating early renal impairment.
+* The patient has stage 2 chronic kidney disease, characterized by a GFR of 76 mL/min/1.73 m2, suggesting mild kidney dysfunction.
+* Mild renal dysfunction is present, with a GFR of 84 mL/min/1.73 m2, consistent with stage 2 CKD.
+* The patient's eGFR is 79 mL/min/1.73 m2, indicating stage 2 chronic kidney disease with mild impairment of kidney function.
+* Renal function is mildly impaired, with a calculated GFR of 81 mL/min/1.73 m2, suggesting stage 2 CKD.
+* A GFR of 86 mL/min/1.73 m2 confirms the diagnosis of stage 2 chronic kidney disease.
+* The patient has mild chronic kidney disease, with a GFR of 74 mL/min/1.73 m2, indicating early-stage renal impairment.
+* Stage 2 CKD is present, with a GFR of 69 mL/min/1.73 m2, indicating mildly reduced kidney function.
+* The patient's kidney function is compromised, with an eGFR of 83 mL/min/1.73 m2, consistent with stage 2 CKD.
+* A mildly decreased GFR of 77 mL/min/1.73 m2 is indicative of stage 2 chronic kidney disease.
+* The patient has stage 2 CKD, with a calculated GFR of 71 mL/min/1.73 m2, suggesting mild renal impairment.
+* Mild kidney dysfunction is noted, with a GFR of 87 mL/min/1.73 m2, corresponding to stage 2 CKD.
+* The patient's renal function is mildly reduced, with an eGFR of 85 mL/min/1.73 m2, consistent with stage 2 CKD.
+* Stage 2 chronic kidney disease is diagnosed, with a GFR of 73 mL/min/1.73 m2, indicating mild impairment of kidney function.
+* The patient has early-stage chronic kidney disease, with a GFR of 80 mL/min/1.73 m2, suggesting mildly reduced renal function.
+* A GFR of 75 mL/min/1.73 m2 confirms the diagnosis of stage 2 CKD, with mild kidney dysfunction.
+* The patient's kidney function is mildly impaired, with a calculated GFR of 67 mL/min/1.73 m2, indicating stage 2 CKD.
+* Stage 2 CKD is present, with a GFR of 89 mL/min/1.73 m2, indicating mild renal impairment.
+* The patient has stage 2 chronic kidney disease, characterized by a GFR of 66 mL/min/1.73 m2, suggesting mild kidney dysfunction.
+* Mild chronic kidney disease (stage 2) is diagnosed, with a GFR of 78 mL/min/1.73 m2, indicating mildly reduced renal function.
+* The patient's renal function is mildly compromised, with an eGFR of 72 mL/min/1.73 m2, consistent with stage 2 CKD.
+* A mildly decreased GFR of 70 mL/min/1.73 m2 is consistent with stage 2 chronic kidney disease.
+* The patient has stage 2 CKD, with a calculated GFR of 84 mL/min/1.73 m2, indicating mild kidney impairment.
+* Stage 2 CKD is diagnosed, with a GFR of 82 mL/min/1.73 m2, suggesting mild renal dysfunction.
+* The patient's kidney function is mildly reduced, with a GFR of 68 mL/min/1.73 m2, indicating stage 2 chronic kidney disease.
+* The patient has stage 2 CKD, characterized by a GFR of 77 mL/min/1.73 m2, suggesting mildly impaired renal function.

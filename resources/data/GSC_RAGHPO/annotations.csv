@@ -1,0 +1,1012 @@
+doc_id,hpo_id,hpo_description
+1003450,HP:0000006,autosomal dominant trait
+1003450,HP:0001156,brachydactyly
+1003450,HP:0001363,craniosynostosis
+1003450,HP:0001385,dysplastic hip joints
+1003450,HP:0001792,aplastic or hypoplastic nails
+1003450,HP:0001798,aplastic nails
+1003450,HP:0001859,symphalangism
+1003450,HP:0009702,synostosis of some carpal and tarsal bones
+10051003,HP:0000006,autosomal dominant disorder
+10051003,HP:0000356,external ear anomalies
+10051003,HP:0000365,hearing loss
+10051003,HP:0000377,ear anomalies
+10051003,HP:0001199,triphalangeal thumbs
+10051003,HP:0001249,mental retardation
+10051003,HP:0002023,imperforate anus
+10051003,HP:0012210,renal malformations
+10051003,HP:0100258,preaxial polydactyly
+10066029,HP:0000006,autosomal dominant
+10066029,HP:0000924,skeletal abnormalities
+10066029,HP:0002671,basal cell carcinoma
+10066029,HP:0005462,calcification of falx cerebri
+10066029,HP:0010603,odontogenic keratocysts
+10066029,HP:0010610,palmar pits
+10066029,HP:0010612,palmar and/or plantar pits
+10066029,HP:0430048,intracranial calcifications
+10440824,HP:0000377,otic
+10440824,HP:0009794,branchial arch
+10440824,HP:0009797,cholesteatoma
+10440824,HP:0010827,anomalies of the facial nerve
+10440824,HP:0012210,renal malformations
+10482951,HP:0000154,macrostomia
+10482951,HP:0000303,prognathia
+10482951,HP:0001251,ataxia
+10482951,HP:0001252,muscular hypotonia
+10482951,HP:0001256,mild mental retardation
+10482951,HP:0001344,absence of speech
+10482951,HP:0001513,obesity
+10482951,HP:0005484,postnatal microcephaly
+10482951,HP:0010864,severe mental retardation
+10482951,HP:0034338,imprinting defect
+10482951,HP:0100024,happy disposition
+10569966,HP:0000006,autosomal dominant condition
+10569966,HP:0000951,skin features
+10569966,HP:0000957,caf√© au lait patches
+10569966,HP:0001067,neurofibroma
+10569966,HP:0002664,tumour
+10569966,HP:0002858,meningioma
+10569966,HP:0100008,schwannoma
+10593995,HP:0000006,autosomal dominant
+10593995,HP:0000078,genital anomalies
+10593995,HP:0000175,cleft palate
+10593995,HP:0000196,lower lip pits
+10593995,HP:0001159,syndactyly
+10593995,HP:0001597,nail anomalies
+10593995,HP:0009756,popliteal pterygium syndrome
+10593995,HP:0410030,cleft lip
+10631923,HP:0000006,dominant
+10631923,HP:0000308,microretrognathia
+10631923,HP:0000365,Deafness
+10631923,HP:0000369,low set ears
+10631923,HP:0000598,ear anomalies
+10631923,HP:0001199,Triphalangeal thumb
+10631923,HP:0001256,mildly mentally retarded
+10631923,HP:0001545,antepositioned anus
+10631923,HP:0001780,large toes
+10631923,HP:0002023,imperforate anus
+10631923,HP:0002027,abdominal pain
+10631923,HP:0002574,episodes of abdominal pain
+10631923,HP:0005473,inculomalleolar fusion
+10631923,HP:0009944,bifid right thumb
+10631923,HP:0011380,Anomalies of the semicircular canals
+10631923,HP:0011453,incus anomalies
+10631923,HP:0100665,angioneurotic edema
+10767004,HP:0000077,renal anomalies
+10767004,HP:0000153,oral anomalies
+10767004,HP:0000271,craniofacial anomalies
+10767004,HP:0000365,deafness
+10767004,HP:0000377,auricular anomalies
+10767004,HP:0000951,skin defects
+10767004,HP:0004467,prehelical pits
+10767004,HP:0007678,nasolacrimal duct stenosis
+10767004,HP:0009795,fistulas
+10767004,HP:0009796,cysts
+10767004,HP:0010783,"thin, erythematous wrinkled skin"
+10767004,HP:0012372,ophthalmologic anomalies
+10767004,HP:0100678,wrinkled skin
+10771486,HP:0001067,neurofibromas
+10771486,HP:0002858,meningiomas
+10771486,HP:0008069,skin tumors
+10771486,HP:0009588,vestibular schwannomas
+10771486,HP:0009593,schwannomas in the skin
+10861661,HP:0000252,microcephaly
+10861661,HP:0001250,epilepsy
+10861661,HP:0001344,complete absence of speech
+10861661,HP:0032382,paternal uniparental disomy (UPD)
+10861661,HP:0032384,isodisomies
+11078565,HP:0000154,a wide mouth
+11078565,HP:0000365,mild hearing loss
+11078565,HP:0000490,deep-set eyes
+11078565,HP:0000687,widely-spaced teeth
+11078565,HP:0002136,wide-based gait
+11078565,HP:0002463,severe speech impairment
+11078565,HP:0011342,mild to moderate global developmental delay
+11078565,HP:0011343,mild to moderate global developmental delay
+11078565,HP:0040082,inappropriate happy demeanor
+11078565,HP:0410018,frequent ear infections
+11312426,HP:0000006,autosomal dominant
+11312426,HP:0002664,lifetime tumors
+11312426,HP:0002671,basal cell carcinomas
+11312426,HP:0010609,acrochordon-like growths
+11312426,HP:0200034,flesh-colored and pigmented pedunculated papules
+11343340,HP:0000729,autism spectrum disorder
+11343340,HP:0003287,mitochondrial disorders
+11343340,HP:0007069,static encephalopathy
+11343340,HP:0100021,cerebral palsy
+11382639,HP:0000006,autosomal dominant
+11382639,HP:0000271,basal cell carcinomas on the face
+11382639,HP:0000892,bifid rib
+11382639,HP:0002007,frontal bossing
+11382639,HP:0002671,eyelid basal cell carcinoma
+11382639,HP:0010603,odontogenic keratocyst
+11382639,HP:0010610,palmar pits
+11382639,HP:0010766,ectopic calcification
+11382639,HP:0040194,increased occipitofrontal circumference
+11484202,HP:0000377,ear malformations
+11484202,HP:0000407,sensorineural hearing loss
+11484202,HP:0001155,hand anomalies
+11484202,HP:0001627,cardiac anomalies
+11484202,HP:0001660,truncus arteriosus
+11484202,HP:0002023,imperforate anus
+11484202,HP:0009778,hypoplastic thumbs
+11484202,HP:0010882,pulmonary valve atresia
+11748306,HP:0000252,microcephaly
+11748306,HP:0000707,neurobehavioural disorder
+11748306,HP:0001010,hypopigmentation
+11748306,HP:0001250,seizure
+11748306,HP:0002141,balance disorder
+11748306,HP:0002463,profound speech impairment
+11748306,HP:0010864,mental retardation
+11748306,HP:0011344,severe developmental delay
+11748306,HP:0034338,imprinting defect
+11748306,HP:0040082,inappropriately happy affect
+11748306,HP:0100022,movement
+12011146,HP:0001067,neurofibromatosis type 2 (NF2)
+12011146,HP:0002664,tumour
+12011146,HP:0002858,meningiomas
+12011146,HP:0009588,vestibular schwannoma
+12011146,HP:0009589,bilateral disease
+12011146,HP:0009590,unilateral vestibular schwannoma
+12219090,HP:0000078,genital anomalies
+12219090,HP:0000175,cleft palate
+12219090,HP:0000202,cleft lip and palate
+12219090,HP:0000234,orofacial phenotype
+12219090,HP:0000951,skin
+12219090,HP:0004429,viral infection
+12219090,HP:0009756,Popliteal pterygium syndrome
+12219090,HP:0100267,lip pit
+12219090,HP:0410030,Cleft lip
+1248162,HP:0000113,bilateral polycystic kidneys
+1248162,HP:0000376,Mondini type cochlear malformation
+1248162,HP:0000378,"cup-shaped, anteverted pinnae"
+1248162,HP:0000381,stapes fixation
+1248162,HP:0000410,mixed hearing loss
+1248162,HP:0004742,anomalies of the collecting system
+1248162,HP:0007925,aplasia of the lacrimal ducts
+1248162,HP:0009795,branchial cleft fistula
+1248162,HP:0012582,bilateral renal dysplasia
+1248162,HP:0030025,bilateral prehelical pits
+12567410,HP:0000924,skeletal abnormalities
+12567410,HP:0001385,developmental hip dysplasia
+12567410,HP:0001762,clubfoot
+12567410,HP:0001838,severe bilateral vertical talus
+12567410,HP:0003302,spondylolisthesis
+12567410,HP:0003304,spondylolysis
+12567410,HP:0004322,short stature
+12567410,HP:0005106,premature vertebral end-plate disease
+12567410,HP:0009373,brachydactyly type C (BDC)
+12868482,HP:0002195,dysgenesis of the vermis
+12868482,HP:0002514,tentorium cerebelli
+12868482,HP:0005462,calcification of the falx cerebri
+12868482,HP:0006989,dysgenesis of the corpus callosum
+12900905,HP:0001054,multiple nevi
+12900905,HP:0002037,edematous and spotty bleeding mucosa
+12900905,HP:0002239,spotty bleeding mucosa
+12900905,HP:0002573,blood stools
+12900905,HP:0002650,severe scoliosis
+12900905,HP:0005462,calcification of the falx cerebri
+12900905,HP:0010603,jaw cysts
+12900905,HP:0010610,palmar and plantar pits
+12900905,HP:0010612,palmar and plantar pits
+12900905,HP:0011024,intestinal disorders
+12900905,HP:0100279,ulcerative colitis
+1347096,HP:0000006,autosomal dominant disorder
+1347096,HP:0000924,skeletal anomalies
+1347096,HP:0001263,developmental malformations
+1347096,HP:0002671,basal-cell-carcinoma
+1347096,HP:0010603,recurrent odontogenic keratocysts
+1347096,HP:0030731,multiple naevoid basal-cell carcinomas
+1347096,HP:0430048,intracranial calcification
+1348213,HP:0000006,autosomal dominant
+1348213,HP:0001263,developmental defects
+1348213,HP:0002671,basal cell carcinomas of the skin
+1348213,HP:0002885,medulloblastomas
+1348213,HP:0010618,ovarian fibromas
+1348213,HP:0034343,loss of heterozygosity
+1415348,HP:0000089,renal hypoplasia
+1415348,HP:0000104,agenesis
+1415348,HP:0000110,renal hypoplasia/dysplasia
+1415348,HP:0001562,oligohydramnios
+1415348,HP:0002089,pulmonary hypoplasia
+1415348,HP:0004452,ossicles
+1415348,HP:0004467,preauricular pits
+1415348,HP:0007678,lacrimal duct stenosis
+1415348,HP:0008609,immaturity of the middle ear cleft
+1415348,HP:0009795,branchial fistulae
+1415348,HP:0009796,cyst
+1415348,HP:0010827,facial nerve
+1415348,HP:0011396,cochlear nerve
+14699618,HP:0000242,biparietal bossing
+14699618,HP:0000303,mandible prognathism
+14699618,HP:0000494,downward slanting palpebral fissures
+14699618,HP:0000767,pectus excavatum
+14699618,HP:0000889,abnormal clavicular shape
+14699618,HP:0001172,thumb abnormalities
+14699618,HP:0002671,basal cell carcinoma
+14699618,HP:0003298,occult spina bifida
+14699618,HP:0004601,occult spina bifida at L5-S4
+14699618,HP:0005449,bridging of sella turcica
+14699618,HP:0006446,bilateral patellar dysplasia
+14735582,HP:0001193,ulnar deviation
+14735582,HP:0005819,"shortening of the middle phalanges of the index, middle, and little finger"
+14735582,HP:0009373,Brachydactyly type C (BDC)
+14735582,HP:0009463,ulnar deviation of the second and third digits
+14735582,HP:0009464,ulnar deviation of the second and third digits
+14735582,HP:0010044,shortening of metacarpal IV
+14735582,HP:0010047,shortening of  metacarpal V
+14735582,HP:0010049,mild shortening of the metacarpals IV and V
+14735582,HP:0030367,hyperphalangy
+14735582,HP:0031010,middle finger hyperphalangy
+1478663,HP:0000006,autosomal dominant disorder
+1478663,HP:0000077,renal anomalies
+1478663,HP:0000365,hearing impairment
+1478663,HP:0000394,lop-ear deformity
+1478663,HP:0004467,preauricular pits
+1478663,HP:0100272,branchial cleft sinus tracts
+1479598,HP:0000006,autosomal dominant inheritance
+1479598,HP:0001067,type 2 neurofibromatosis (NF2)
+1479598,HP:0002664,multiple other tumours
+1479598,HP:0009589,bilateral vestibular schwannomas
+1479599,HP:0000518,cataract
+1479599,HP:0001067,type 2 neurofibromatosis (NF2)
+1479599,HP:0009588,vestibular schwannomas
+1479599,HP:0010302,spinal tumours
+1479599,HP:0100009,cranial meningiomas
+1484939,HP:0000360,tinnitus
+1484939,HP:0000365,deafness
+1484939,HP:0000518,cataract
+1484939,HP:0000618,blindness
+1484939,HP:0000957,caf√© au lait spots
+1484939,HP:0001250,seizures
+1484939,HP:0001324,muscle weakness
+1484939,HP:0002321,vertigo
+1484939,HP:0003202,muscle wasting
+1484939,HP:0003401,tingling
+1484939,HP:0008069,skin tumours
+1484939,HP:0009588,vestibular schwannomas
+1484939,HP:0010302,spinal tumours
+1484939,HP:0033748,numbness
+1484939,HP:0100009,cranial meningiomas
+1496981,HP:0002858,meningiomas
+1496981,HP:0002888,ependymomas
+1496981,HP:0009588,acoustic neuromas
+1496981,HP:0100008,schwannomas
+1496982,HP:0000006,autosomal dominant
+1496982,HP:0000951,skin manifestations
+1496982,HP:0001067,Neurofibromatosis type 2 (NF2)
+1496982,HP:0002888,ependymomas
+1496982,HP:0004375,tumors of the nervous system
+1496982,HP:0009589,bilateral vestibular schwannomas
+1496982,HP:0100009,cranial meningiomas
+1496982,HP:0100010,spinal meningiomas
+15150776,HP:0001257,asymmetric spasticity
+15150776,HP:0001442,mosaicism
+15150776,HP:0002059,cerebral atrophy
+15150776,HP:0012443,severe brain malformation
+15190457,HP:0000006,autosomal dominant
+15190457,HP:0001067,Neurofibromatosis
+15190457,HP:0004375,nervous system tumors
+15190457,HP:0009588,"tumors on the vestibular branch of the VIII cranial nerve,"
+15190457,HP:0010302,spinal tumors
+15190457,HP:0030430,nerve tumors
+15190457,HP:0100007,peripheral nerve tumors
+15190457,HP:0100009,intracranial meningiomas
+15470370,HP:0000252,microcephaly
+15470370,HP:0001250,seizures
+15470370,HP:0001251,ataxia
+15470370,HP:0001252,hypotonia
+15470370,HP:0001344,absence of vocalization
+15470370,HP:0002015,swallowing disorders
+15470370,HP:0002463,speech impairment
+15734008,HP:0000163,oral
+15734008,HP:0000478,ophthalmic anomalies
+15734008,HP:0001098,fundus lesion
+15734008,HP:0004464,auricular
+15734008,HP:0004484,craniofacial
+15734008,HP:0009594,hamartoma of the retina
+15734008,HP:0009795,branchial cleft fistula
+15734008,HP:0011481,openings of sinus tracts
+15734008,HP:0011523,iris pigment epithelial cyst
+15734008,HP:0030510,combined hamartoma of the retina and retina pigment epithelium
+15734008,HP:0030668,orbital dermoid cyst
+15734008,HP:3000066,lacrimal sac fistula
+1583664,HP:0000006,autosomal dominant
+1583664,HP:0000378,cupped ears
+1583664,HP:0009373,brachydactyly type C
+1583664,HP:0010109,shortening of the big toes
+16401744,HP:0000708,peculair behavioral profile
+16401744,HP:0000733,stereotyped jerky movements
+16401744,HP:0000749,outbursts of laughter
+16401744,HP:0000750,speech disorder
+16401744,HP:0001250,refractory epilepsy
+16401744,HP:0001263,developmentally delayed
+16401744,HP:0001945,fever
+16401744,HP:0002069,tonic-clonic seizures
+16401744,HP:0002123,myoclonic
+16401744,HP:0002133,status epilepticus
+16401744,HP:0002197,generalized epilepsy
+16401744,HP:0002353,electroencephalographic patterns
+16401744,HP:0007270,atypical absences
+16401744,HP:0007359,partial epilepsy
+16401744,HP:0010864,severe mental retardation
+16401744,HP:0100024,happy disposition
+17353411,HP:0000478,ocular manifestations
+17353411,HP:0001067,neurofibromatosis type 2 (NF2)
+17353411,HP:0007935,juvenile posterior subcapsular cataracts
+17353411,HP:0100011,intrascleral schwannoma
+17353411,HP:0100014,epiretinal membranes
+17431915,HP:0000347,mandibular hypoplasia
+17431915,HP:0000356,external ear anomalies
+17431915,HP:0000413,atretic ear canals
+17431915,HP:0001140,epibulbar dermoid
+17431915,HP:0001545,anteriorly placed anus
+17431915,HP:0100258,right preaxial polydactyly
+1745350,HP:0000006,autosomal dominant inheritance
+1745350,HP:0000957,caf√© au lait spots (CLS)
+1745350,HP:0001067,neurofibromatosis
+1745350,HP:0008069,cutaneous tumors
+1745350,HP:0009588,acoustic tumors
+1745350,HP:0009735,spinal neurofibromas
+1745350,HP:0009737,Lisch nodules
+18177466,HP:0000077,renal anomalies
+18177466,HP:0000104,renal agenesis
+18177466,HP:0000153,orofacial manifestations
+18177466,HP:0000175,cleft palate
+18177466,HP:0000364,auditory manifestations
+18177466,HP:0000365,hearing loss
+18177466,HP:0000478,ophthalmic manifestations
+18177466,HP:0000545,myopia
+18177466,HP:0000598,otic anomalies
+18177466,HP:0001367,articular manifestations
+18177466,HP:0004327,vitreous anomaly
+18177466,HP:0004467,pre-auricular pits
+18177466,HP:0009794,branchial anomalies
+18177466,HP:0009795,branchial fistulae
+18177466,HP:0012368,flat face
+18220287,HP:0000006,autosomal dominant
+18220287,HP:0000077,renal anomalies
+18220287,HP:0000104,kidney agenesis
+18220287,HP:0000356,external ear malformations
+18220287,HP:0000365,hearing loss
+18220287,HP:0000377,branchial and external ear malformations
+18220287,HP:0004467,ear pits
+18220287,HP:0009794,branchial malformations
+18220287,HP:0009795,branchial fistulae
+18220287,HP:0012715,profound hearing loss
+18423521,HP:0000006,autosomal-dominant
+18423521,HP:0000077,renal anomalies
+18423521,HP:0000164,dental anomalies
+18423521,HP:0000175,cleft palate
+18423521,HP:0000202,oral clefts
+18423521,HP:0000271,characteristic facial appearance
+18423521,HP:0000356,malformed pinnae
+18423521,HP:0000377,supra-auricular defects
+18423521,HP:0000478,ocular anomalies
+18423521,HP:0000951,cutaneous anomalies
+18423521,HP:0000968,ectodermal anomalies
+18423521,HP:0001595,hair anomalies
+18423521,HP:0010517,dermal thymus
+18478600,HP:0000047,hypospadias
+18478600,HP:0000078,"skeletal, genital malformations"
+18478600,HP:0000202,orofacial clefting
+18478600,HP:0000924,skeletal malformations
+18478600,HP:0000951,involvement of the skin
+18478600,HP:0008718,unilateral renal aplasia
+18478600,HP:0008743,coronal hypospadias
+18478600,HP:0009755,ankyloblepharon
+18478600,HP:0009756,Popliteal pterygium syndrome (PPS)
+18478600,HP:0012210,renal malformation
+18478600,HP:0100267,lip pits
+18478600,HP:0100269,paramedian lip pits
+18478600,HP:0100333,unilateral cleft lip and palate
+18478600,HP:0100334,unilateral cleft lip and palate
+18478600,HP:0410030,cleft lip
+19206155,HP:0000006,autosomal dominant
+19206155,HP:0000077,renal abnormalities
+19206155,HP:0000365,hearing loss
+19206155,HP:0009794,branchial arch abnormalities
+19476995,HP:0000006,autosomal-dominant
+19476995,HP:0000478,ophthalmological lesions
+19476995,HP:0000518,cataracts
+19476995,HP:0001067,neurofibroma
+19476995,HP:0002858,meningioma
+19476995,HP:0002888,ependymoma
+19476995,HP:0004375,nervous system tumours
+19476995,HP:0008069,skin tumours
+19476995,HP:0009592,astrocytoma
+19476995,HP:0009594,retinal hamartomas
+19476995,HP:0009830,peripheral neuropathy
+19476995,HP:0011355,cutaneous lesions
+19476995,HP:0100008,schwannomas
+19476995,HP:0100014,epiretinal membranes
+2012134,HP:0000478,eye abnormalities
+2012134,HP:0001010,hypopigmentation
+2012134,HP:0001107,oculocutaneous albinism
+2012134,HP:0001250,seizures
+2012134,HP:0001252,hypotonia
+2012134,HP:0001347,hyperreflexia
+2012134,HP:0002487,hyperkinesis
+2012134,HP:0005484,postnatal-onset microcephaly
+2012134,HP:0007661,choroidal pigment hypoplasia
+2012134,HP:0012736,severe to profound global developmental delay
+2105641,HP:0000006,autosomal dominant disorder
+2105641,HP:0001067,Neurofibromatosis 2
+2105641,HP:0002664,multiple tumors of the nervous system
+2105641,HP:0002858,meningiomas
+2105641,HP:0002888,ependymomas
+2105641,HP:0009588,acoustic neuromas
+2105641,HP:0009733,gliomas
+2164325,HP:0000175,cleft palate
+2164325,HP:0001159,syndactyly was familial
+2164325,HP:0001770,toe syndactyly
+2164325,HP:0009756,popliteal pterygium syndrome (PPS)
+2282716,HP:0001067,neurofibromatosis 2 (NF-2)
+2282716,HP:0009589,bilateral occurrence of acoustic neurinomas
+2282716,HP:0010302,spinal tumors
+2282716,HP:0033714,multiple meningiomas
+2466440,HP:0000154,wide mouth
+2466440,HP:0000252,microcephaly
+2466440,HP:0000303,prominent jaw
+2466440,HP:0000307,pointed chin
+2466440,HP:0000748,laughter
+2466440,HP:0000749,episodes of paroxysmal laughter
+2466440,HP:0001250,seizures
+2466440,HP:0001251,ataxia
+2466440,HP:0001263,global developmental delay
+2466440,HP:0002066,ataxic gait
+2466440,HP:0002136,broad gait
+2466440,HP:0045084,jerky limb movements
+2466440,HP:0100022,movement disorder
+2466440,HP:0100023,flapping of the hands
+2466440,HP:0100703,tongue thrusting
+263442,HP:0000006,autosomal dominant
+263442,HP:0000077,renal anomalies
+263442,HP:0000089,hypoplasia
+263442,HP:0000104,absence
+263442,HP:0000356,outer
+263442,HP:0000365,deafness
+263442,HP:0004467,preauricular pits
+263442,HP:0007678,lachrymal duct stenosis
+263442,HP:0008609,middle
+263442,HP:0009794,branchial clefts
+263442,HP:0009795,branchial fistula
+263442,HP:0009796,cyst
+263442,HP:0011390,inner
+263442,HP:0012210,severe renal malformation
+2888021,HP:0000006,autosomal dominant disorder
+2888021,HP:0001067,neurofibromas
+2888021,HP:0002664,tumour suppressor gene
+2888021,HP:0002858,meningiomas
+2888021,HP:0004375,tumours of the nervous system
+2888021,HP:0009588,acoustic neuroma
+2888021,HP:0009589,bilateral acoustic neuromas
+2888021,HP:0009733,gliomas
+292745,HP:0000892,bifid ribs
+292745,HP:0000924,skeletal abnormalities
+292745,HP:0002671,basal cell carcinomas
+292745,HP:0005462,lamellar calcification of the falx cerebri
+292745,HP:0008069,skin tumours
+292745,HP:0010603,odontogenic keratocysts
+292745,HP:0030792,jaw lesions
+3092103,HP:0000006,autosomal dominant
+3092103,HP:0001067,bilateral acoustic neurofibromatosis
+3092103,HP:0002664,tumour
+3092103,HP:0002858,meningioma
+3092103,HP:0002898,embryonal tumours
+3092103,HP:0004375,tumours of the nervous system
+3092103,HP:0009588,acoustic neuroma
+3092103,HP:0009589,bilateral acoustic neuromas
+3105060,HP:0001067,Bilateral acoustic neurofibromatosis (BANF)
+3105060,HP:0002858,meningioma
+3105060,HP:0009588,acoustic neuromas
+3105060,HP:0030065,tumors of neural crest origin
+3134615,HP:0001067,neurofibromatosis 1 (von Recklinghausen's disease or peripheral neurofibromatosis)
+3134615,HP:0002858,meningiomas
+3134615,HP:0002888,ependymomas
+3134615,HP:0009589,bilateral acoustic neuromas
+3134615,HP:0100006,central nervous system tumors
+3134615,HP:0100251,multiple central nervous system tumors
+3134615,HP:0430048,intracranial nontumoral calcifications
+3180506,HP:0000006,dominantly inherited
+3180506,HP:0000077,renal anomalies
+3180506,HP:0000119,urorenal anomalies
+3180506,HP:0000356,ear malformations
+3180506,HP:0000384,preauricular protuberances
+3180506,HP:0000407,sensorineural hearing loss
+3180506,HP:0001159,syndactyly
+3180506,HP:0001177,preaxial hexadactyly
+3180506,HP:0001199,triphalangeal thumb
+3180506,HP:0002023,imperforate anus
+3180506,HP:0002813,limb malformations
+3180506,HP:0003246,prominent perineal raphe
+3180506,HP:0004378,"anal,urorenal, ear and limb malformations"
+3180506,HP:0004792,rectoperineal fistula
+3180506,HP:0012732,anorectal malformations
+3180506,HP:0030084,clinodactyly
+3180506,HP:0030676,hypoplastic satyr ears
+3185841,HP:0001291,lesions of further cranial nerves
+3185841,HP:0001317,cerebellar symptoms
+3185841,HP:0002363,brain stem symptoms
+3185841,HP:0002516,increasing intracranial pressure
+3185841,HP:0002664,bilateral tumor
+3185841,HP:0009588,acoustic neuromas
+3321995,HP:0000006,autosomal dominant
+3321995,HP:0000164,dental anomalies
+3321995,HP:0000177,abnormal upper lip
+3321995,HP:0000218,highly arched plate
+3321995,HP:0000377,malformed ears
+3321995,HP:0000431,broad bridge
+3321995,HP:0000437,flattened tip
+3321995,HP:0000568,microphthalmia
+3321995,HP:0000579,lacrimal duct obstruction
+3321995,HP:0000589,coloboma
+3321995,HP:0001155,hand anomalies
+3321995,HP:0001263,developmental delay
+3321995,HP:0001510,growth retardation
+3321995,HP:0002216,premature graying of hair
+3321995,HP:0005105,malformed nose with broad bridge and flattened tip
+3321995,HP:0007398,linear skin lesions behind the ears
+3321995,HP:0011355,skin lesions
+3321995,HP:0030025,auricular pits
+3321995,HP:0100267,lip pits
+3321995,HP:0100272,branchial cleft sinuses
+3321995,HP:0200040,subcutaneous cysts of the scalp
+3321995,HP:0410030,poorly repaired cleft lip
+3547011,HP:0000772,"skeletal--specifically, rib--abnormalities"
+3547011,HP:0001056,milia
+3547011,HP:0002671,nevoid basal-cell carcinoma syndrome
+3547011,HP:0002858,meningioma
+3547011,HP:0002885,medulloblastoma
+3547011,HP:0008069,skin tumors
+3547011,HP:0009730,fetal rhabdomyoma
+3547011,HP:0010603,odontogenic keratocyst
+3547011,HP:0010605,chalazia
+3547011,HP:0010610,palmar pits
+3547011,HP:0010612,palmar and plantar pits
+3547011,HP:0010617,cardiac fibroma
+3547011,HP:0010618,ovarian fibroma
+3547011,HP:0025249,comedones
+3547011,HP:0030452,lymphatic or chylous cysts of the mesentery
+3547011,HP:0030731,multiple basal-cell carcinomata
+3547011,HP:0030792,fibrosarcoma of the jaws
+3547011,HP:0100244,ovarian fibrosarcoma
+3547011,HP:0200040,epidermoid cysts
+3688021,HP:0000316,mild hypertelorism
+3688021,HP:0000748,laughter
+3688021,HP:0000749,"frequent, unprovoked and prolonged bouts of laughter"
+3688021,HP:0001250,seizures
+3688021,HP:0001251,ataxic-like movements
+3688021,HP:0002311,ataxia-like incoordination
+3688021,HP:0010864,severe mental retardation
+3740720,HP:0000006,autosomal dominant
+3740720,HP:0000365,hearing loss
+3740720,HP:0000377,auricular deformities
+3740720,HP:0000405,conductive
+3740720,HP:0000407,sensorineural
+3740720,HP:0000410,mixed type
+3740720,HP:0004467,preauricular pits
+3740720,HP:0009795,fistula
+3740720,HP:0009796,cysts
+3740720,HP:0012210,renal malformations
+3740720,HP:0100272,lateral cervical sinuses
+3799714,HP:0000089,renal hypoplasia
+3799714,HP:0000598,ear  anomalies
+3799714,HP:0009794,branchial  anomalies
+3799714,HP:0012210,malformations of the kidney or collecting system
+4006277,HP:0000006,autosomal dominant
+4006277,HP:0000077,renal anomalies
+4006277,HP:0000365,deafness
+4006277,HP:0001291,cranial nerve-end organ innervation
+4006277,HP:0004467,ear pits
+4006277,HP:0007678,lacrimal stenosis
+4006277,HP:0009796,branchial cleft cysts
+4006277,HP:0100274,gustatory lacrimation
+509397,HP:0000271,severe facial mutilations
+509397,HP:0001269,congenital hemiparesis
+509397,HP:0001662,severe bradycardia
+509397,HP:0002060,cerebral invasion
+509397,HP:0002615,hypotension
+509397,HP:0002671,extensive uncontrolled basal cell epithelioma of the face
+509397,HP:0003764,basal cell nevus syndrome
+509397,HP:0005290,absent internal carotid artery
+509397,HP:0010628,facial nerve palsy
+6261046,HP:0001640,enlarged cardiac silhouette
+6261046,HP:0002664,tumor
+6261046,HP:0004308,ventricular arrhythmia
+6261046,HP:0010617,unresectable left ventricular fibroma
+657583,HP:0000006,autosomal dominant mutation
+657583,HP:0000077,renal anomalies
+657583,HP:0000110,renal adysplasia
+657583,HP:0000356,external ear malformations
+657583,HP:0000365,hearing loss
+657583,HP:0000377,auricular malformation
+657583,HP:0000410,mixed hearing loss
+657583,HP:0002009,Potter facies
+657583,HP:0009794,familial branchial arch malformations
+657583,HP:0009795,cervical fistulae
+6631421,HP:0001249,mental retardation
+6631421,HP:0001513,obesity
+6631421,HP:0001999,dysmorphia
+6631421,HP:0009370,brachydactylia
+6631421,HP:0031013,bilateral thumb ankylosis
+6741990,HP:0000006,autosomal dominant trait
+6741990,HP:0000143,rectovaginal fistula
+6741990,HP:0000356,auricular changes
+6741990,HP:0000407,sensorineural deafness
+6741990,HP:0001627,congenital heart defect
+6741990,HP:0002023,imperforate anus
+6741990,HP:0009778,hypoplastic thumb
+6774282,HP:0000006,autosomal dominant disorder
+6774282,HP:0000951,mild skin changes
+6774282,HP:0001067,neurofibromatosis
+6774282,HP:0009589,bilateral acoustic neuroma
+6829601,HP:0000579,congenital nasolacrimal duct obstruction
+6829601,HP:0001999,unusual facial appearance
+6829601,HP:0004484,unusual craniofacial anomalies
+6829601,HP:0009794,branchial cleft
+6829601,HP:0011480,unilateral microphthalmia
+6829601,HP:0034185,lip pseudoclefts
+6859100,HP:0000006,autosomal dominant inheritance
+6859100,HP:0000073,duplication of the ureters
+6859100,HP:0000384,preauricular  tag
+6859100,HP:0004467,preauricular pit
+6859100,HP:0005580,bifid renal pelvices
+6859100,HP:0008619,severe bilateral sensorineural hearing loss
+6882181,HP:0000238,mild hydrocephalus
+6882181,HP:0000496,oculomotor disturbances
+6882181,HP:0002118,ventricular malformation
+6882181,HP:0002353,EEG abnormalities
+6882181,HP:0010603,jaw cyst basal cell naevoid syndrome
+6882181,HP:0430048,intracranial calcification
+6964893,HP:0000006,autosomal dominant disorder
+6964893,HP:0000077,renal anomalies
+6964893,HP:0000089,mild hypoplasia
+6964893,HP:0000104,complete absence
+6964893,HP:0000356,structural defects of the outer ear
+6964893,HP:0000365,hearing loss
+6964893,HP:0000405,conductive hearing loss
+6964893,HP:0000407,sensorineural hearing loss
+6964893,HP:0000410,mixed hearing loss
+6964893,HP:0001317,cerebellar syndrome
+6964893,HP:0004467,preauricular pits
+6964893,HP:0007678,lacrimal duct stenosis
+6964893,HP:0008609,structural defects of the middle ear
+6964893,HP:0009794,branchial clefts
+6964893,HP:0009795,branchial fistulas
+6964893,HP:0009796,cysts of the second branchial arch
+6964893,HP:0011390,structural defects of the inner ear
+6964893,HP:0012210,renal malformation
+6973119,HP:0000365,hearing loss
+6973119,HP:0000381,ankylosis of the stapes
+6973119,HP:0000405,conduction hearing loss
+6973119,HP:0000410,mixed hearing loss
+6973119,HP:0001751,vestibular findings
+6973119,HP:0004452,disconnection of the ossicular chain
+7039311,HP:0000006,autosomal dominant inheritance
+7039311,HP:0000171,small tongue
+7039311,HP:0000175,cleft palate
+7039311,HP:0000211,trismus
+7039311,HP:0000286,epicanthal folds
+7039311,HP:0000508,ptosis
+7039311,HP:0000563,keratoconus
+7039311,HP:0001166,congenital contractural arachnodactyly
+7039311,HP:0001188,tightly clenched fists
+7039311,HP:0002650,scoliosis
+7039311,HP:0002804,arthrogryposis
+7039311,HP:0003121,congenital distal limb contractures
+7039311,HP:0004322,short stature
+7039311,HP:0005656,positional foot deformities
+7039311,HP:0005684,distal arthrogryposis type 1
+7039311,HP:0009465,ulnar deviation
+7039311,HP:0010557,medially overlapping fingers
+7039311,HP:0012385,camptodactyly in adults
+7039311,HP:0410030,cleft lip
+7091188,HP:0000749,episodes of laughter
+7091188,HP:0001272,unilateral cerebellar atrophy
+7091188,HP:0001288,puppet-like gait
+7091188,HP:0001317,cerebellar abnormalities
+7091188,HP:0004484,characteristic craniofacial abnormalities
+7091188,HP:0010864,severe mental retardation
+7200726,HP:0000006,dominant trait
+7200726,HP:0001511,intrauterine and postnatal growth retardation
+7200726,HP:0001999,unusual facial appearance
+7200726,HP:0002216,premature aging
+7200726,HP:0008897,postnatal growth retardation
+7200726,HP:0100272,bilateral branchial sinuses
+7246489,HP:0000248,microbrachycephaly
+7246489,HP:0000303,prognathism
+7246489,HP:0000749,inappropriate paroxysms of laughter
+7246489,HP:0001250,epilepsy
+7246489,HP:0001251,puppet-like ataxic movements
+7246489,HP:0010808,tongue protrusion
+7246489,HP:0010864,severe mental retardation
+730159,HP:0000006,autosomal dominant mode of inheritance
+730159,HP:0000772,anomalies of ribs
+730159,HP:0000925,anomalies of spine
+730159,HP:0001054,multiple basal cell nevi
+730159,HP:0002671,basal cell nevus syndrome
+730159,HP:0002703,abnormal calcifications
+730159,HP:0010603,cysts of the jaw
+730159,HP:0011821,anomalies of the facial skull
+7446562,HP:0000006,autosomal-dominant inheritance
+7446562,HP:0001216,delayed carpal ossification
+7446562,HP:0001776,bilateral clubfeet at birth
+7446562,HP:0002803,congenital joint contractures
+7446562,HP:0004322,short in stature
+7446562,HP:0005684,arthrogryposis
+7446562,HP:0009465,severe ulnar deviation of fingers
+7446562,HP:0009473,contractures of both hands
+7446562,HP:0034392,soft-tissue contractures of both hands
+7450780,HP:0000303,large mandible with prognathia
+7450780,HP:0000749,easily provoked and prolonged paroxysms of laughter
+7450780,HP:0001250,epileptic seizures
+7450780,HP:0001252,hypotonia
+7450780,HP:0001336,atactic jerky movements
+7450780,HP:0010864,severe mental retardation
+7468659,HP:0000006,autosomal dominant syndrome
+7468659,HP:0000110,severe renal dysplasia
+7468659,HP:0000365,hearing impairment
+7468659,HP:0004467,preauricular pits
+7468659,HP:0012714,severe hearing loss
+7485365,HP:0000478,developmental abnormalities of the eye
+7485365,HP:0000518,cataracts
+7485365,HP:0000657,ocular motor deficits
+7485365,HP:0001067,neurofibromatosis 2
+7485365,HP:0007787,posterior subcapsular
+7485365,HP:0009594,retinal hamartomas
+7485365,HP:0100017,plaque-like posterior subcapsular or capsular cataract
+7485365,HP:0100019,cortical cataract
+7485365,HP:0100020,posterior capsular cataract
+7625442,HP:0000154,macrostomia
+7625442,HP:0000248,brachycephaly
+7625442,HP:0000252,microcephaly
+7625442,HP:0000303,mandibular prognathism
+7625442,HP:0000687,widely spaced teeth
+7625442,HP:0000749,bursts of laughter
+7625442,HP:0000752,hyperactive behaviour
+7625442,HP:0001249,mental retardation
+7625442,HP:0001344,absence of speech
+7625442,HP:0002136,wide based gait
+7625442,HP:0002650,scoliosis
+7625442,HP:0010808,tongue protrusion
+7625442,HP:0100022,puppetlike movements
+7625442,HP:0100024,happy disposition
+7747758,HP:0000518,cataracts
+7747758,HP:0001067,neurofibromatosis 2
+7747758,HP:0002858,meningiomas
+7747758,HP:0008069,skin tumors
+7747758,HP:0009588,vestibular schwannomas
+7747758,HP:0009594,retinal hamartomas
+7747758,HP:0010302,spinal tumors
+7747758,HP:0100006,other CNS tumors
+7747785,HP:0000006,autosomal dominant inheritance
+7747785,HP:0000153,oral anomalies
+7747785,HP:0000365,hearing
+7747785,HP:0000377,supra-auricular defects
+7747785,HP:0000478,eye anomalies
+7747785,HP:0000505,visual
+7747785,HP:0000598,ear anomalies
+7747785,HP:0000750,speech problems
+7747785,HP:0000951,cervical/infra-auricular skin defects
+7747785,HP:0001252,hypotonia
+7747785,HP:0001263,development delays
+7747785,HP:0001627,congenital heart defects
+7747785,HP:0001999,craniofacial anomalies
+7747785,HP:0002011,central nervous system defects
+7747785,HP:0012210,renal malformations
+7762579,HP:0001166,contractural arachnodactyly
+7762579,HP:0001760,severe hand and foot involvement
+7762579,HP:0001999,craniofacial anomalies
+7762579,HP:0003416,severe congenital spinal stenosis
+7762579,HP:0005684,distal arthrogryposis
+7762579,HP:0005912,biliary atresia
+7762579,HP:0100257,ectrodactyly
+8042672,HP:0000006,autosomal dominant
+8042672,HP:0000953,increased skin pigmentation
+8042672,HP:0002671,basal cell carcinomas
+8042672,HP:0005462,calcification of the falx cerebri
+8042672,HP:0008069,skin tumors
+8042672,HP:0010603,jaw cysts
+8042672,HP:0010612,palmar and/or plantar pits
+8318482,HP:0000523,subcapsular cataract
+8318482,HP:0001067,neurofibromatosis 2
+8318482,HP:0007787,posterior subcapsular/capsular cataract
+8318482,HP:0008011,peripheral cortical cataracts
+8318482,HP:0100017,capsular cataract
+8318482,HP:0100019,peripheral cortical lens opacities
+8326488,HP:0000175,cleft palate
+8326488,HP:0000486,squint
+8326488,HP:0000504,opthalmic abnormailites
+8326488,HP:0000518,cataract
+8326488,HP:0002671,basal cell carcinomas
+8326488,HP:0002885,medulloblastoma
+8326488,HP:0010603,jaw cysts
+8326488,HP:0010617,cardiac fibroma
+8326488,HP:0010618,ovarian fibroma
+8326488,HP:0030731,naevoid basal cell carcinoma syndrome
+8576558,HP:0000496,eye deviation
+8576558,HP:0001250,seizure
+8576558,HP:0001251,ataxia
+8576558,HP:0001336,jerky movements
+8576558,HP:0002013,vomiting
+8576558,HP:0002133,status epilepticus
+8576558,HP:0002353,electroencephalographic patterns
+8576558,HP:0007030,"nonprogressive, age-dependent myoclonic encephalopathy"
+8576558,HP:0007359,partial seizure
+8576558,HP:0032667,myoclonic status epilepticus
+8576558,HP:0100022,movement problems
+8669439,HP:0000154,macrostomia
+8669439,HP:0000271,craniofacial anomalies
+8669439,HP:0000347,micrognathia
+8669439,HP:0000356,ear anomalies
+8669439,HP:0000384,preauricular tags
+8669439,HP:0001140,epibulbar dermoids
+8669439,HP:0001172,thumb anomalies
+8669439,HP:0002023,imperforate anus
+8669439,HP:0002818,"radial, and anal findings"
+8669439,HP:0004378,anal anomalies
+8669439,HP:0011332,hemifacial microsomia
+8751853,HP:0000479,retinal abnormalities
+8751853,HP:0000518,cataracts
+8751853,HP:0001067,neurofibromatosis 2
+8751853,HP:0002858,meningiomas
+8751853,HP:0008069,skin tumors
+8751853,HP:0009588,vestibular schwannomas
+8751853,HP:0009589,bilateral vestibular schwannomas
+8751853,HP:0009594,retinal hamartomas
+8751853,HP:0010302,spinal tumors
+8751853,HP:0100014,epiretinal membranes
+8751853,HP:0100835,benign neural tumors
+8755929,HP:0000006,autosomal dominant
+8755929,HP:0000405,conductive hearing loss
+8755929,HP:0001249,mental retardation
+8755929,HP:0001508,failure to thrive
+8755929,HP:0002671,multiple basal cell carcinomas
+8755929,HP:0002885,medulloblastomas
+8755929,HP:0010618,ovarian fibromas
+8786067,HP:0000748,inappropriate laughter
+8786067,HP:0001250,epilepsy
+8786067,HP:0001344,absent speech
+8786067,HP:0002353,abnormal electroencephalogram
+8786067,HP:0010864,severe mental retardation
+8832722,HP:0000006,dominantly inherited
+8832722,HP:0000175,cleft palate
+8832722,HP:0000288,abnormality of the philtrum
+8832722,HP:0000322,short philtrum
+8832722,HP:0000568,microphthalmos
+8832722,HP:0000579,bilateral congenital nasolacrimal duct obstruction
+8832722,HP:0000589,ocular colobomata
+8832722,HP:0001263,developmental abnormalities
+8832722,HP:0007633,bilateral microphthalmos
+8832722,HP:0008718,dysplastic left kidney
+8832722,HP:0100336,bilateral cleft lip
+8832722,HP:0100337,bilateral cleft palate
+8923936,HP:0001760,foot deformities
+8923936,HP:0001762,talipes equinovarus
+8923936,HP:0001838,vertical talus
+8923936,HP:0005684,distal arthrogryposis type 1A (DA1A)
+8923936,HP:0006143,abnormal digital flexion creases
+8923936,HP:0010557,overlapping fingers at birth
+8929945,HP:0000154,"large, wide mouth"
+8929945,HP:0001010,hypopigmentation
+8929945,HP:0001107,oculocutaneous albinism
+8929945,HP:0001250,epilepsy
+8929945,HP:0001251,ataxic
+8929945,HP:0001319,Hypotonia at birth
+8929945,HP:0001344,absent language
+8929945,HP:0002353,abnormal EEG
+8929945,HP:0002360,disrupted sleep patterns
+8929945,HP:0002540,could not walk independently
+8929945,HP:0004322,short stature
+8929945,HP:0005484,poor postnatal head growth
+8929945,HP:0008872,neonatal feeding difficulties
+8929945,HP:0010864,severe mental retardation
+8929945,HP:0011968,feeding difficulties
+8929945,HP:0100024,happy disposition
+8988171,HP:0000749,frequent smiling and laughter
+8988171,HP:0001249,mental retardation
+8988171,HP:0001250,seizures
+8988171,HP:0001288,abnormal gait
+9096761,HP:0000006,autosomal dominant disorder
+9096761,HP:0000175,cleft lip or palate
+9096761,HP:0000256,macrocephaly
+9096761,HP:0000280,coarse face
+9096761,HP:0000316,hypertelorism
+9096761,HP:0000766,pectus deformity
+9096761,HP:0000772,spine and rib anomalies
+9096761,HP:0000892,bifid ribs
+9096761,HP:0000912,Sprengel deformity
+9096761,HP:0000925,spine and rib anomalies
+9096761,HP:0002007,frontal bossing
+9096761,HP:0002650,scoliosis
+9096761,HP:0002664,tumor
+9096761,HP:0002671,Nevoid basal cell carcinoma syndrome (NBCC; Gorlin syndrome)
+9096761,HP:0002885,medulloblastoma
+9096761,HP:0002937,hemivertebrae
+9096761,HP:0002948,fusion of the vertebral bodies
+9096761,HP:0003298,spina bifida occulta
+9096761,HP:0004482,relative macrocephaly
+9096761,HP:0005449,bridged sella
+9096761,HP:0005462,calcification of the falx cerebri
+9096761,HP:0010044,short fourth metacarpal
+9096761,HP:0010603,keratocysts of the jaw
+9096761,HP:0010610,palmar/plantar pits
+9096761,HP:0010612,palmar/plantar pits
+9096761,HP:0010618,ovarian fibromas
+9096761,HP:0410030,cleft lip or palate
+9096762,HP:0000953,increased skin pigmentation
+9096762,HP:0002671,nevoid basal cell carcinoma syndrome (NBCCS)
+9096762,HP:0002885,medulloblastoma
+9096762,HP:0010603,large odontogenic keratocyst of the mandible
+9096762,HP:0010610,pits of the palms and soles
+9096762,HP:0010612,plantar pit
+9182785,HP:0000252,microcephaly
+9182785,HP:0000256,large head
+9182785,HP:0000303,large mouth and jaw with deep set eyes
+9182785,HP:0000478,ocular abnormalities
+9182785,HP:0000490,deep set eyes
+9182785,HP:0000563,keratoconus
+9182785,HP:0000748,laughter
+9182785,HP:0000749,outbursts of laughter
+9182785,HP:0001250,epilepsy
+9182785,HP:0001251,"ataxic with an awkward, clumsy, heavy, and/or lilting gait"
+9182785,HP:0001344,lack of speech
+9182785,HP:0002070,ataxic limb movements
+9182785,HP:0002353,abnormal EEG
+9182785,HP:0002540,never walked
+9182785,HP:0002808,kyphosis
+9182785,HP:0010864,severe intellectual disability
+9225971,HP:0001067,neurofibromatosis type 2 (NF2)
+9225971,HP:0001263,retarded
+9225971,HP:0009589,bilateral vestibular schwannomas
+9225971,HP:0100008,neurinomas
+9225971,HP:0100009,multiple intracranial meningiomas
+9236523,HP:0000843,hyperparathyroidism
+9236523,HP:0000951,cutaneous manifestations
+9236523,HP:0000957,cafe au lait macules
+9236523,HP:0002664,multiple endocrine neoplasia type 1 (MEN 1)
+9236523,HP:0007449,confetti-like hypopigmented macules
+9236523,HP:0009720,multiple facial angiofibromas
+9236523,HP:0011355,skin lesions
+9236523,HP:0012032,lipomas
+9236523,HP:0020073,hypopigmented macules
+9236523,HP:0200034,multiple gingival papules
+9236523,HP:6000022,collagenomas
+9425907,HP:0000006,autosomal-dominant
+9425907,HP:0000077,renal anomalies
+9425907,HP:0000356,ear anomalies
+9425907,HP:0004378,anal anomalies
+9425907,HP:0040064,limb anomalies
+9486718,HP:0000577,exotropia
+9486718,HP:0002671,Nevoid basal cell carcinoma syndrome (NBCCS)
+9486718,HP:0006477,cystic mass in the left posterior alveolar ridge
+9486718,HP:0010603,odontogenic keratocyst
+9486718,HP:0010610,palmar and plantar pitting
+9486718,HP:0010612,palmar and plantar pitting
+9546330,HP:0001250,epilepsy
+9546330,HP:0001336,myoclonias
+9546330,HP:0007270,atypical absences
+9546330,HP:0010819,atonic seizures
+9546330,HP:0011097,epileptic spasms
+9546330,HP:0032382,uniparental disomy
+9546330,HP:0034338,methylation imprinting abnormalities
+955942,HP:0000248,microbrachycephaly
+955942,HP:0000271,peculiar face
+955942,HP:0000748,laughter
+955942,HP:0001249,mental deficiency
+955942,HP:0001250,epilepsy
+955942,HP:0001251,ataxia
+955942,HP:0002069,grand-mal attacks
+955942,HP:0012469,infantile spasms
+955942,HP:0031844,euphoria and laughter
+998578,HP:0000006,autosomal dominant syndrome
+998578,HP:0000077,high recurrence risk of renal anomalies in families with this syndrome
+998578,HP:0000104,renal agenesis
+998578,HP:0000271,immature development of the lungs
+998578,HP:0000365,partial deafness
+998578,HP:0002009,potter facies
+998578,HP:0002107,pneumothorax
+998578,HP:0004467,preauricular pits
+998578,HP:0009795,cervical fistulae
+998578,HP:0012210,severe renal dysgenesis

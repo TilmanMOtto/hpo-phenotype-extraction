@@ -1,0 +1,38 @@
+* The immunophenotypic analysis revealed strong expression of CD5 on the tumor cells, consistent with a diagnosis of mantle cell lymphoma.
+* Flow cytometry results showed a clonal population of B cells expressing CD5, suggesting a possible diagnosis of chronic lymphocytic leukemia.
+* The presence of CD5 was detected on a subset of B cells in the germinal center, a finding consistent with normal lymphoid tissue architecture.
+* Immunohistochemical staining with anti-CD5 antibodies highlighted a distinctive pattern of CD5 expression in the mantle zone, supporting a diagnosis of small lymphocytic lymphoma.
+* A significant proportion of the patient's B cells expressed CD5, as demonstrated by flow cytometric analysis, which may indicate an underlying lymphoproliferative disorder.
+* The CD5-positive B cell population was predominantly located in the germinal center, as observed in reactive lymphoid tissues.
+* Chronic lymphocytic leukemia was diagnosed based on the co-expression of CD5 and CD23 on the leukemic cells.
+* The tumor cells exhibited a typical immunophenotype, including CD5 positivity, which is characteristic of mantle cell lymphoma.
+* Flow cytometric evaluation of the patient's lymph node biopsy specimen revealed a CD5-positive B cell population, concerning for a lymphoid malignancy.
+* Immunohistochemical analysis of the lymph node tissue demonstrated CD5 expression on a subset of B cells, consistent with a normal germinal center reaction.
+* The lymphoma cells showed strong CD5 expression, which, in combination with other immunophenotypic features, supported a diagnosis of diffuse large B cell lymphoma with a germinal center phenotype.
+* A small population of CD5-positive B cells was detected in the patient's peripheral blood, which may be indicative of a lymphoproliferative disorder.
+* The expression of CD5 on the surface of B cells was assessed using flow cytometry, revealing a clonal population with a distinctive immunophenotypic profile.
+* Immunohistochemical staining for CD5 highlighted a distinct population of B cells in the mantle zone, which is consistent with a diagnosis of mantle cell lymphoma.
+* The presence of CD5-positive B cells in the patient's bone marrow biopsy specimen suggested a possible diagnosis of chronic lymphocytic leukemia.
+* Flow cytometric analysis of the patient's lymph node tissue revealed a CD5-positive B cell population, which, in combination with other immunophenotypic features, supported a diagnosis of follicular lymphoma.
+* The tumor cells exhibited a characteristic immunophenotype, including CD5 expression, which is typical of mantle cell lymphoma.
+* A subset of B cells in the patient's lymph node tissue expressed CD5, as demonstrated by immunohistochemical analysis, which may indicate a normal germinal center reaction.
+* The expression of CD5 on the surface of T cells was observed, as expected, given the widespread expression of this antigen on T cells.
+* The patient's lymphoma cells showed strong CD5 expression, which, in combination with other immunophenotypic features, supported a diagnosis of small lymphocytic lymphoma.
+* Flow cytometric evaluation of the patient's peripheral blood revealed a small population of CD5-positive B cells, which may be indicative of a lymphoproliferative disorder.
+* Immunohistochemical staining for CD5 highlighted a distinctive pattern of expression in the germinal center, consistent with a normal lymphoid tissue architecture.
+* The lymphoma cells exhibited a characteristic immunophenotype, including CD5 positivity, which is typical of chronic lymphocytic leukemia.
+* The presence of CD5-positive B cells in the patient's lymph node tissue was observed, which may indicate a possible diagnosis of follicular lymphoma.
+* Flow cytometric analysis of the patient's bone marrow biopsy specimen revealed a clonal population of CD5-positive B cells, concerning for a lymphoid malignancy.
+* The expression of CD5 on the surface of B cells was assessed using immunohistochemistry, revealing a distinct population of cells in the mantle zone.
+* A subset of T cells in the patient's lymph node tissue expressed CD5, as expected, given the widespread expression of this antigen on T cells.
+* The patient's lymphoma cells showed strong CD5 expression, which, in combination with other immunophenotypic features, supported a diagnosis of mantle cell lymphoma.
+* Immunohistochemical analysis of the patient's lymph node tissue demonstrated CD5 expression on a subset of B cells, consistent with a normal germinal center reaction.
+* The tumor cells exhibited a characteristic immunophenotype, including CD5 positivity, which is typical of small lymphocytic lymphoma.
+* Flow cytometric evaluation of the patient's peripheral blood revealed a clonal population of CD5-positive B cells, concerning for a lymphoid malignancy.
+* The presence of CD5-positive B cells in the patient's bone marrow biopsy specimen suggested a possible diagnosis of chronic lymphocytic leukemia.
+* Immunohistochemical staining for CD5 highlighted a distinct population of B cells in the germinal center, consistent with a normal lymphoid tissue architecture.
+* The expression of CD5 on the surface of B cells was assessed using flow cytometry, revealing a distinctive immunophenotypic profile.
+* A small population of CD5-positive B cells was detected in the patient's lymph node tissue, which may be indicative of a lymphoproliferative disorder.
+* The lymphoma cells showed strong CD5 expression, which, in combination with other immunophenotypic features, supported a diagnosis of follicular lymphoma.
+* Flow cytometric analysis of the patient's lymph node tissue revealed a CD5-positive B cell population, which, in combination with other immunophenotypic features, supported a diagnosis of mantle cell lymphoma.
+* Immunohistochemical staining for CD5 highlighted a characteristic pattern of expression in the mantle zone, consistent with a diagnosis of small lymphocytic lymphoma.

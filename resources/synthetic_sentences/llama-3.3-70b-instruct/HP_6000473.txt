@@ -1,0 +1,35 @@
+* The patient's peripheral blood flow cytometry results revealed a reduced count of T cells expressing the transcription factor FOXP3.
+* Noted decrease in FOXP3+ Tregs in the peripheral blood, suggesting an immune regulatory imbalance.
+* Flow cytometric analysis of the patient's blood showed a lower than expected number of T cells positive for FOXP3 expression.
+* The T regulatory cell count, as determined by FOXP3 expression, was found to be below the normal range in this patient's peripheral blood sample.
+* Reduced frequency of FOXP3-expressing CD4+ T cells observed in the patient's blood, potentially indicative of an underlying immune dysfunction.
+* Peripheral blood lymphocyte subset analysis by flow cytometry indicated a decreased proportion of FOXP3+ T cells.
+* The patient was found to have a low count of peripheral blood T cells that express FOXP3, a marker of regulatory T cells.
+* Flow cytometric assessment of the patient's immune cell profile showed diminished FOXP3 expression among T cells.
+* Evaluation of the patient's immune status revealed a decrease in the absolute count of FOXP3+ T cells in the peripheral blood.
+* A deficiency in T cells expressing FOXP3 was identified through flow cytometry, pointing towards a possible issue with immune regulation.
+* The number of FOXP3-positive T cells in the patient's blood was lower than the established normal range, according to flow cytometric analysis.
+* Regulatory T cell count, as indicated by FOXP3 expression, was decreased in the patient's peripheral blood sample.
+* A reduced number of T cells expressing the FOXP3 transcription factor was detected by flow cytometry in the patient's blood.
+* Flow cytometry results showed a decrease in the percentage of T cells that express FOXP3, a marker for regulatory T cells.
+* The patient's immune panel revealed a diminished count of FOXP3-expressing T cells, suggesting an abnormality in immune regulation.
+* Notable decrease in the proportion of FOXP3-positive T cells in the peripheral blood, which may indicate immune dysfunction.
+* The peripheral blood T cell subset analysis showed a lower than normal count of cells expressing FOXP3.
+* The flow cytometric analysis indicated a reduced number of T cells that stained positive for FOXP3 in the patient's blood.
+* A decrease in FOXP3-expressing T cells was observed, which could impact the patient's immune regulatory functions.
+* Flow cytometry results indicated a lower count of FOXP3+ T cells in the patient's peripheral blood compared to the normal range.
+* Analysis of the patient's peripheral blood demonstrated a reduced frequency of T cells expressing FOXP3.
+* The immune cell profile of the patient showed a decrease in the number of T cells that express the FOXP3 marker.
+* Diminished FOXP3 expression on T cells was detected in the patient's blood by flow cytometric analysis.
+* The Treg cell count, defined by FOXP3 positivity, was found to be decreased in the patient's peripheral blood.
+* Flow cytometric evaluation revealed a decrease in the absolute number of FOXP3-positive T cells in the patient's blood sample.
+* Decreased expression of FOXP3 on T cells was noted in the patient's peripheral blood, suggesting a potential issue with immune regulation.
+* A lower than expected number of FOXP3-expressing T cells was found in the patient's blood, which may indicate an immune regulatory imbalance.
+* Flow cytometry analysis of the patient's blood showed reduced FOXP3 expression among CD4+ T cells.
+* Evaluation of the patient's immune system revealed a decrease in the proportion of T cells expressing FOXP3.
+* The patient had a decreased count of peripheral blood T cells that express the FOXP3 transcription factor, as determined by flow cytometry.
+* Noted a decrease in the percentage of T cells expressing FOXP3 in the patient's peripheral blood sample.
+* The flow cytometric assessment of the patient's lymphocyte subsets showed a decrease in FOXP3+ T cells.
+* Reduced numbers of FOXP3-positive T regulatory cells were observed in the patient's blood, which could affect immune function.
+* The immune status evaluation revealed a diminished count of T cells expressing FOXP3 in the patient's peripheral blood.
+* Decreased FOXP3 expression on T cells was identified in the patient's blood sample through flow cytometry.

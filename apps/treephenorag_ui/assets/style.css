@@ -1,0 +1,446 @@
+/* Tree UI — one stylesheet, themed by [data-theme] on <body>.
+   The main dashboard styles inline dicts in Python; this app keeps CSS in CSS so light
+   and dark are one swap of custom properties rather than a second set of Python literals. */
+
+:root,
+body[data-theme="light"] {
+  --surface: #fcfcfb;
+  --surface-2: #f4f4f2;
+  --surface-3: #ebebe7;
+  --border: #dededa;
+  --text: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #82817c;
+  --accent: #2a78d6;
+  --good: #0ca30c;
+  --warning: #fab219;
+  --serious: #ec835a;
+  --critical: #d03b3b;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .05), 0 4px 12px rgba(0, 0, 0, .04);
+}
+
+body[data-theme="dark"] {
+  --surface: #1a1a19;
+  --surface-2: #242423;
+  --surface-3: #2e2e2c;
+  --border: #3a3a37;
+  --text: #ffffff;
+  --text-secondary: #c3c2b7;
+  --text-muted: #8e8d85;
+  --accent: #3987e5;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 4px 12px rgba(0, 0, 0, .25);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--surface-2);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* ── shell ───────────────────────────────────────────────────────────────── */
+
+.shell { display: flex; min-height: 100vh; }
+
+.sidebar {
+  width: 300px;
+  flex: 0 0 300px;
+  padding: 20px;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.main { flex: 1; padding: 24px 28px; min-width: 0; }
+
+.brand { font-size: 16px; font-weight: 650; letter-spacing: -.01em; margin: 0 0 2px; }
+.brand-sub { color: var(--text-muted); font-size: 12px; margin-bottom: 22px; }
+
+.field { margin-bottom: 16px; }
+.field-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.sidebar-section {
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+/* The "also restrict the metrics" opt-in, under the subset dropdown. */
+.field-check { margin-top: 8px; font-size: 12px; color: var(--text-muted); }
+.field-check label { display: flex; align-items: center; gap: 6px; cursor: pointer; }
+.field-check input { margin: 0; }
+
+.path-input {
+  width: 100%;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 11px;
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface-2);
+  color: var(--text);
+}
+.path-input:focus { outline: none; border-color: var(--accent); }
+
+.details-summary {
+  cursor: pointer;
+  list-style: revert;
+  margin-bottom: 0;
+}
+.details-summary:hover { color: var(--text); }
+
+/* ── panels ──────────────────────────────────────────────────────────────── */
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px 18px 14px;
+  margin-bottom: 18px;
+  box-shadow: var(--shadow);
+}
+
+.panel-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.panel-title { margin: 0; font-size: 14px; font-weight: 650; letter-spacing: -.01em; }
+.panel-subtitle { color: var(--text-muted); font-size: 12px; margin-top: 2px; max-width: 68ch; }
+.panel-tools { display: flex; gap: 6px; flex: 0 0 auto; }
+.panel-body { min-width: 0; }
+
+.copy-btn {
+  font: inherit;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 3px 9px;
+  cursor: pointer;
+  transition: color .12s, border-color .12s;
+}
+.copy-btn:hover { color: var(--accent); border-color: var(--accent); }
+.copy-clip { display: inline-flex; align-items: center; }
+
+/* ── stat tiles ──────────────────────────────────────────────────────────── */
+
+.stat-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.stat {
+  flex: 1 1 140px;
+  min-width: 140px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 12px 14px;
+  box-shadow: var(--shadow);
+}
+
+.stat-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-muted);
+}
+.stat-value {
+  font-size: 24px;
+  font-weight: 660;
+  letter-spacing: -.02em;
+  margin-top: 3px;
+  font-variant-numeric: tabular-nums;
+}
+.stat-value[data-tone="good"] { color: var(--good); }
+.stat-value[data-tone="warning"] { color: var(--warning); }
+.stat-value[data-tone="critical"] { color: var(--critical); }
+.stat-value[data-tone="accent"] { color: var(--accent); }
+.stat-sub { font-size: 12px; color: var(--text-muted); margin-top: 1px; }
+
+/* `data-tone` colours the number; `data-tint` colours the tile it sits in. Both, on the two score
+   tiles of the deep dive, so "accepted" and "pruned" are legible before the number is read. Kept
+   faint on purpose — a tile is context for its neighbours, not an alert. */
+.stat[data-tint="good"] {
+  background: color-mix(in srgb, var(--good) 7%, var(--surface));
+  border-color: color-mix(in srgb, var(--good) 32%, var(--border));
+}
+.stat[data-tint="warning"] {
+  background: color-mix(in srgb, var(--warning) 9%, var(--surface));
+  border-color: color-mix(in srgb, var(--warning) 36%, var(--border));
+}
+.stat[data-tint="critical"] {
+  background: color-mix(in srgb, var(--critical) 7%, var(--surface));
+  border-color: color-mix(in srgb, var(--critical) 32%, var(--border));
+}
+
+/* ── notes ───────────────────────────────────────────────────────────────── */
+
+.note {
+  border-radius: 8px;
+  padding: 9px 12px;
+  font-size: 12.5px;
+  margin-bottom: 14px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text-secondary);
+}
+.note-warn { border-color: var(--warning); background: color-mix(in srgb, var(--warning) 8%, var(--surface)); }
+.note-danger { border-color: var(--critical); background: color-mix(in srgb, var(--critical) 8%, var(--surface)); }
+
+.empty { color: var(--text-muted); padding: 28px; text-align: center; font-size: 13px; }
+
+/* ── tables ──────────────────────────────────────────────────────────────── */
+
+.tbl { width: 100%; border-collapse: collapse; font-size: 13px; }
+.tbl th {
+  text-align: left;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-muted);
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+}
+.tbl td { padding: 6px 10px; border-bottom: 1px solid var(--surface-3); }
+.tbl td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.tbl tr:hover td { background: var(--surface-2); }
+.tbl-scroll { max-height: 420px; overflow: auto; }
+
+.delta-pos { color: var(--good); font-weight: 600; }
+.delta-neg { color: var(--critical); font-weight: 600; }
+
+/* A small badge. Inherited from tree_ui with `color: #fff` and no background, which made every
+   pill that does not set its own colour invisible on a light surface — the sentence numbers and
+   the gold-term chips in the deep dive, and the rank/cos/margin badges in the calls panel. The
+   default is now a themed chip; callers that mean a specific colour set it inline, and an inline
+   style still wins. */
+.pill {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+}
+
+/* ── patient view ────────────────────────────────────────────────────────── */
+
+.split { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 18px; }
+@media (max-width: 1200px) { .split { grid-template-columns: 1fr; } }
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 12px;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  max-height: 300px;
+  overflow: auto;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  padding: 2px 7px;
+  border-radius: 5px;
+  background: var(--surface-3);
+  color: var(--text-secondary);
+  margin-left: 6px;
+}
+.badge-reconstructed { background: color-mix(in srgb, var(--warning) 22%, var(--surface)); color: var(--text); }
+
+.kv { display: grid; grid-template-columns: auto 1fr; gap: 3px 14px; font-size: 13px; margin-bottom: 12px; }
+.kv dt { color: var(--text-muted); }
+.kv dd { margin: 0; font-variant-numeric: tabular-nums; }
+
+.report-text { line-height: 1.75; font-size: 13.5px; }
+.report-text mark {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  color: inherit;
+  border-radius: 3px;
+  padding: 1px 2px;
+}
+
+/* ── the report as a document ─────────────────────────────────────────────
+   Continuous prose, not a list of rows. `pre-wrap` is what puts the report's own line breaks and
+   blank lines back — the segmentation drops them, and a clinical report without its paragraphs is
+   markedly harder to read. Ported from app/hcy_curation_ui/assets/style.css so the two apps lay
+   one report out the same way; the custom properties it uses are defined identically in both. */
+.prose {
+  line-height: 1.7;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  max-width: 78ch;
+}
+
+/* A sentence is inline: it must not create a box, a line break, or a baseline shift. Hover shows
+   its extent, and the tooltip names it — a visible index per sentence would put a column of
+   numbers back into the prose, which is the thing this layout exists to remove. Padding is
+   horizontal only: vertical padding on an inline element overlaps the lines above and below. */
+.seg {
+  display: inline;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background-color .08s ease;
+}
+.seg:hover { background: var(--surface-3); }
+
+/* A sentence the selected node's SLM calls were actually made on. A tint rather than the old left
+   rule: an inline span has no box to hang a rule on, and the rule was the reason each sentence
+   used to be its own block. */
+.seg-retrieved {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 28%, transparent);
+}
+.seg-retrieved:hover { background: color-mix(in srgb, var(--accent) 20%, transparent); }
+
+/* Where a call row sent the reader. Held until another is picked, so the sentence is still
+   findable after the scroll animation ends. */
+.seg-selected {
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+/* The curated gold on its own trigger word: a box, not an underline, so it is distinguishable at a
+   glance from a PhenoBERT detection sharing the sentence. The colour is set inline — green where
+   this method found the term, red where it missed it — and carries through `currentColor`. */
+.gold-mark {
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+.chip-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.chip-row .pill { cursor: help; }
+
+/* Anything carrying a definition on hover says so, rather than leaving the reader to discover it
+   by accident. Dotted underline is the long-standing convention for exactly this, and it is the
+   same rule app/hcy_curation_ui uses on `.code-chip`. */
+.has-def {
+  cursor: help;
+  border-bottom: 1px dotted currentColor;
+}
+.chip-row .has-def { border-bottom-color: transparent; }
+
+/* A `sent #N` badge that scrolls the report to its sentence. Only drawn as a link when the
+   sentence actually resolved — an inert click reads as a broken control, not as missing data. */
+.pill-link { cursor: pointer; }
+.pill-link:hover { color: var(--accent); border-color: var(--accent); }
+
+/* A PhenoBERT match and the term it normalised to, kept on one line: the tag is meaningless if it
+   wraps away from the phrase it labels, which is the one way this layout can mislead. The text
+   inside still wraps — only the wrapper is nowrap, and long phrases are rare. Ported from
+   app/exp13_06_ui/assets/deepdive.css so the two apps annotate the same run identically. */
+.pb-ann { white-space: nowrap; }
+.pb-ann mark { white-space: normal; }
+
+/* No colour here on purpose: the three annotation kinds are coloured inline from
+   theme.palette(), so the text marks and the Plotly figures cannot drift apart. */
+.pb-tag {
+  display: inline-block;
+  margin: 0 2px 0 3px;
+  padding: 0 4px;
+  border: 1px solid;
+  border-radius: 4px;
+  font-size: .74em;
+  font-weight: 600;
+  line-height: 1.5;
+  vertical-align: 1px;
+  white-space: normal;
+}
+
+.legend-row { margin-top: 10px; font-size: 12px; }
+
+/* The report picker: ◀ [ dropdown ] ▶ */
+.stepper { display: flex; align-items: center; gap: 8px; }
+.step-btn { padding: 4px 11px; font-size: 13px; line-height: 1.2; }
+.step-btn:disabled { opacity: .3; cursor: default; }
+
+/* ── presentation mode: hide the chrome, enlarge the evidence ────────────── */
+
+body[data-present="1"] .sidebar { display: none; }
+body[data-present="1"] .main { padding: 30px 44px; }
+body[data-present="1"] { font-size: 16px; }
+body[data-present="1"] .panel { padding: 22px 26px; }
+body[data-present="1"] .stat-value { font-size: 34px; }
+body[data-present="1"] .panel-title { font-size: 17px; }
+body[data-present="1"] .present-hide { display: none; }
+
+/* Dash tab chrome, restyled to match the panels. Dash ships light-mode defaults inline, so the
+   unselected tabs are unreadable on a dark surface without overriding them. */
+.tabs-bar { margin-bottom: 18px; }
+
+.tabs-bar .tab {
+  background: var(--surface-2) !important;
+  border-color: var(--border) !important;
+  color: var(--text-muted) !important;
+  font-weight: 550;
+  transition: color .12s;
+}
+.tabs-bar .tab:hover { color: var(--text) !important; }
+.tabs-bar .tab--selected {
+  background: var(--surface) !important;
+  color: var(--text) !important;
+  border-top: 2px solid var(--accent) !important;
+  border-bottom-color: var(--surface) !important;
+}
+
+/* Dropdowns and the data table are react-select / dash-table internals; they too default to a
+   white surface. */
+body[data-theme="dark"] .Select-control,
+body[data-theme="dark"] .Select-menu-outer,
+body[data-theme="dark"] .Select--multi .Select-value {
+  background: var(--surface-2) !important;
+  border-color: var(--border) !important;
+  color: var(--text) !important;
+}
+body[data-theme="dark"] .Select-value-label,
+body[data-theme="dark"] .Select-placeholder,
+body[data-theme="dark"] .Select-option {
+  color: var(--text-secondary) !important;
+  background: var(--surface-2) !important;
+}
+body[data-theme="dark"] .Select-option.is-focused { background: var(--surface-3) !important; }
+body[data-theme="dark"] .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner td,
+body[data-theme="dark"] .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner th {
+  background: var(--surface) !important;
+  color: var(--text-secondary) !important;
+  border-color: var(--border) !important;
+}

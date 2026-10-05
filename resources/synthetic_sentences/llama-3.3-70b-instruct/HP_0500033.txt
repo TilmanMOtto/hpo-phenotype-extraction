@@ -1,0 +1,33 @@
+* The patient's immune panel revealed an aberrant distribution of NK cell subsets, suggesting an underlying immunological imbalance.
+* Flow cytometry analysis demonstrated a skewed proportion of CD56bright and CD56dim NK cell subsets, indicative of immune dysregulation.
+* An abnormal ratio of natural killer cell subsets was noted, with a decrease in the typically predominant CD16+ population.
+* Immunophenotyping showed an unusual pattern of NK cell subset distribution, with an increased proportion of NKG2D+ cells.
+* The NK cell subset profile was altered, characterized by a reduced percentage of CD57+ cells, which may impact cytotoxic function.
+* Abnormalities in NK cell subset distribution were observed, including an elevated proportion of CD158+ cells, which could influence immune response.
+* The patient's lymphocyte subset analysis revealed an atypical distribution of natural killer cells, with a predominance of CD16- cells.
+* An imbalance in NK cell subsets was detected, featuring an increased percentage of CD69+ cells, which may indicate activation.
+* Flow cytometric analysis of NK cell subsets showed a distorted distribution, with a relative decrease in the CD94+ population.
+* The distribution of natural killer cell subsets was found to be abnormal, with a notable increase in the CD159a+ subset.
+* Immunological evaluation revealed an abnormal NK cell subset profile, characterized by a reduced proportion of CD161+ cells.
+* A discrepancy in NK cell subset distribution was observed, featuring an elevated percentage of CD107a+ cells, which may reflect degranulation.
+* NK cell subset analysis demonstrated an abnormal distribution, with a predominant CD56+CD16- population.
+* The patient's immune profile showed an abnormal distribution of NK cell subsets, including a decreased proportion of KIR+ cells.
+* An unusual pattern of NK cell subset distribution was noted, with an increased proportion of NKG2A+ cells, which could influence immune regulation.
+* Flow cytometry revealed an abnormal NK cell subset profile, featuring a reduced percentage of CD85j+ cells.
+* Abnormalities in NK cell subset distribution were detected, including an elevated proportion of CD272+ cells, which may impact immune function.
+* The distribution of NK cell subsets was altered, with a notable decrease in the CD160+ population.
+* The patient's lymphocyte profile revealed an abnormal distribution of natural killer cell subsets, including a predominance of CD16+ cells.
+* Immunophenotyping demonstrated an abnormal NK cell subset distribution, characterized by an increased proportion of CD244+ cells.
+* An abnormal ratio of NK cell subsets was observed, featuring a decreased proportion of CD158b+ cells.
+* The NK cell subset profile was distorted, with a relative increase in the CD314+ population.
+* Flow cytometric analysis revealed an abnormal distribution of NK cell subsets, including a decreased proportion of CD159c+ cells.
+* The patient's immune evaluation showed an abnormal NK cell subset distribution, characterized by an elevated proportion of CD161+ cells.
+* An imbalance in NK cell subsets was detected, featuring a decreased percentage of CD94/NKG2A+ cells.
+* The distribution of natural killer cell subsets was found to be abnormal, with a notable increase in the CD16- population.
+* NK cell subset analysis demonstrated an abnormal distribution, with a predominant CD56dim subset.
+* The patient's lymphocyte subset analysis revealed an atypical distribution of natural killer cells, with a reduced proportion of CD16+ cells.
+* Immunological evaluation revealed an abnormal NK cell subset profile, characterized by an increased proportion of CD107a+ cells.
+* A discrepancy in NK cell subset distribution was observed, featuring a decreased percentage of CD272+ cells.
+* The patient's immune profile showed an abnormal distribution of NK cell subsets, including an elevated proportion of KIR+ cells.
+* An unusual pattern of NK cell subset distribution was noted, with a decreased proportion of NKG2D+ cells, which could influence immune response.
+* Flow cytometry revealed an abnormal NK cell subset profile, featuring an increased percentage of CD85j+ cells.

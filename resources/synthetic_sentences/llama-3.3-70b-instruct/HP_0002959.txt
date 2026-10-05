@@ -1,0 +1,36 @@
+* The patient's immunological workup revealed a defect in the class-switch recombination process, hindering the production of IgG, IgA, and IgE antibodies.
+* Impaired isotype switching was noted in this individual, affecting the normal generation of immunoglobulin classes beyond IgM.
+* B-lymphocyte dysfunction was observed, characterized by an inability to undergo efficient class-switch recombination.
+* The patient's antibody response was limited by a defect in the class-switching mechanism, resulting in a predominantly IgM-mediated response.
+* Immunoglobulin class-switching deficiency was diagnosed, leading to an impaired humoral immune response.
+* The patient's B cells failed to undergo normal class-switch recombination, resulting in a lack of diversity in the antibody repertoire.
+* Impaired CSR was identified as the underlying cause of the patient's recurrent infections, due to an inability to produce switched immunoglobulin isotypes.
+* A defect in the S regions upstream of the C regions was suspected to be the cause of the patient's impaired class-switch recombination.
+* The patient's immune system was unable to efficiently switch from producing IgM to other immunoglobulin classes, such as IgG or IgA.
+* Isotype switching defect was confirmed, characterized by an inability to replace the C-mu constant region with other constant regions.
+* Immunoglobulin class switching was found to be impaired, resulting in a reduced ability to produce antibodies against T-cell-dependent antigens.
+* The patient's B cells were unable to undergo somatic hypermutation and class-switch recombination, leading to a limited antibody repertoire.
+* Impaired B-lymphocyte maturation and class-switching were observed, resulting in a predominantly IgM-mediated immune response.
+* The patient's immunological profile revealed a deficiency in class-switch recombination, leading to an increased susceptibility to infections.
+* A genetic defect affecting the class-switch recombination process was identified, resulting in impaired immunoglobulin production.
+* The patient's antibody response was characterized by a lack of class switching, resulting in a failure to produce IgG, IgA, or IgE.
+* Impaired immunoglobulin class switching was noted, leading to a reduced ability to respond to T-cell-dependent antigens.
+* B-lymphocyte dysfunction was characterized by an inability to undergo class-switch recombination, resulting in a limited antibody repertoire.
+* The patient's immune system was unable to efficiently produce switched immunoglobulin isotypes, leading to recurrent infections.
+* A defect in the class-switch recombination process was identified, resulting in an impaired humoral immune response.
+* The patient's immunological workup revealed a deficiency in isotype switching, leading to a predominantly IgM-mediated response.
+* Impaired class-switch recombination was noted, resulting in a lack of diversity in the antibody repertoire.
+* The patient's B cells were unable to undergo efficient class switching, leading to a reduced ability to respond to infections.
+* Immunoglobulin class-switching deficiency was diagnosed, resulting in an increased susceptibility to infections.
+* The patient's immune system was characterized by an inability to produce switched immunoglobulin isotypes, leading to a limited antibody repertoire.
+* A defect in the S regions upstream of the C regions was suspected to be the cause of the patient's impaired immunoglobulin class switching.
+* The patient's antibody response was limited by a defect in the class-switching mechanism, resulting in a failure to produce IgG, IgA, or IgE.
+* Impaired B-lymphocyte isotype switching was noted, leading to a reduced ability to respond to T-cell-dependent antigens.
+* The patient's immunological profile revealed a deficiency in class-switch recombination, resulting in an impaired humoral immune response.
+* The patient's B cells were unable to undergo efficient class-switch recombination, leading to a limited antibody repertoire.
+* Immunoglobulin class switching was found to be impaired, resulting in a reduced ability to produce antibodies against T-cell-dependent antigens.
+* The patient's immune system was unable to efficiently produce switched immunoglobulin isotypes, leading to recurrent infections.
+* A genetic defect affecting the class-switch recombination process was identified, resulting in impaired immunoglobulin production.
+* The patient's antibody response was characterized by a lack of class switching, resulting in a failure to produce IgG, IgA, or IgE.
+* Impaired immunoglobulin class switching was noted, leading to a reduced ability to respond to T-cell-dependent antigens.
+* B-lymphocyte dysfunction was characterized by an inability to undergo class-switch recombination, resulting in a limited antibody repertoire.

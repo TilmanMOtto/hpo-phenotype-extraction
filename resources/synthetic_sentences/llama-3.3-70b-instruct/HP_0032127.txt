@@ -1,0 +1,33 @@
+* The patient's flow cytometry results showed an abnormal percentage of plasmablasts among the total B cell population, suggesting an immune response to a recent infection or vaccination.
+* An increased proportion of CD19+CD27+CD38+ cells, indicative of plasmablasts, was observed in the peripheral blood, which may indicate a heightened immune response.
+* The plasmablast frequency was elevated in the patient's blood sample, with a notable increase in CD138+ cells, a characteristic marker for these antibody-secreting cells.
+* Abnormal plasmablast proportions were detected in the circulating B cell pool, which may be related to the patient's recent vaccination history.
+* Flow cytometric analysis revealed a higher-than-expected percentage of Ki-67+ plasmablasts, suggesting active cell division and differentiation in response to an immune stimulus.
+* The patient exhibited an unusual distribution of B cell subsets, with an expansion of the plasmablast population, as identified by CD20-CD27+CD38+ surface markers.
+* An elevated plasmablast proportion was noted in the patient's blood, which may be indicative of an ongoing immune response, possibly related to an underlying infection.
+* The proportion of plasmablasts among total B cells was found to be outside the normal range, which may be associated with an abnormal immune response to a recent antigen exposure.
+* Plasmablasts, as identified by their characteristic CD19+CD27+CD38+ phenotype, were present in higher numbers than expected in the patient's peripheral blood sample.
+* The patient's immune response, as measured by plasmablast frequency, appeared to be dysregulated, with an abnormal proportion of these cells detected in the circulating B cell pool.
+* An abnormal plasmablast proportion was observed in the patient's blood sample, which may be related to a disruption in normal B cell differentiation and maturation processes.
+* The percentage of CD138+ plasmablasts was elevated in the patient's blood, indicating an active humoral immune response, possibly in response to a recent infection or vaccination.
+* Flow cytometric analysis detected an increased proportion of plasmablasts among total B cells, which may be indicative of an underlying inflammatory or infectious process.
+* The patient exhibited an abnormal plasmablast response, as measured by the proportion of CD19+CD27+CD38+ cells, which may be associated with an impaired immune response to infection or vaccination.
+* An elevated plasmablast proportion was noted in the patient's blood sample, which may be related to an underlying condition affecting B cell development and differentiation.
+* The proportion of plasmablasts among total B cells was found to be abnormal, which may be indicative of a dysregulated immune response to a recent antigen exposure.
+* Plasmablasts, as identified by their characteristic surface markers, were present in higher numbers than expected in the patient's peripheral blood sample, suggesting an ongoing immune response.
+* The patient's plasmablast frequency was elevated, with a notable increase in CD19+CD27+CD38+ cells, which may indicate a heightened immune response to a recent infection or vaccination.
+* An abnormal proportion of plasmablasts was detected in the patient's blood, which may be related to a disruption in normal B cell homeostasis and function.
+* Flow cytometric analysis revealed an increased proportion of Ki-67+ plasmablasts, indicating active cell division and differentiation in response to an immune stimulus.
+* The patient exhibited an abnormal distribution of B cell subsets, with an expansion of the plasmablast population, as identified by CD20-CD27+CD38+ surface markers.
+* The proportion of plasmablasts among total B cells was found to be outside the normal range, which may be indicative of an abnormal immune response to a recent antigen exposure.
+* Plasmablasts, as identified by their characteristic CD138+ phenotype, were present in higher numbers than expected in the patient's peripheral blood sample, suggesting an ongoing immune response.
+* The patient's immune response, as measured by plasmablast frequency, appeared to be dysregulated, with an abnormal proportion of these cells detected in the circulating B cell pool.
+* An abnormal plasmablast proportion was observed in the patient's blood sample, which may be related to a disruption in normal B cell differentiation and maturation processes.
+* The percentage of CD19+CD27+CD38+ cells was elevated in the patient's blood, indicating an active humoral immune response, possibly in response to a recent infection or vaccination.
+* Flow cytometric analysis detected an increased proportion of plasmablasts among total B cells, which may be indicative of an underlying inflammatory or infectious process.
+* The patient exhibited an abnormal plasmablast response, as measured by the proportion of CD19+CD27+CD38+ cells, which may be associated with an impaired immune response to infection or vaccination.
+* An elevated plasmablast proportion was noted in the patient's blood sample, which may be related to an underlying condition affecting B cell development and differentiation.
+* The proportion of plasmablasts among total B cells was found to be abnormal, which may be indicative of a dysregulated immune response to a recent antigen exposure.
+* Plasmablasts, as identified by their characteristic surface markers, were present in higher numbers than expected in the patient's peripheral blood sample, suggesting an ongoing immune response.
+* The patient's plasmablast frequency was elevated, with a notable increase in CD138+ cells, which may indicate a heightened immune response to a recent infection or vaccination.
+* An abnormal proportion of plasmablasts was detected in the patient's blood, which may be related to a disruption in normal B cell homeostasis and function.

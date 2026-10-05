@@ -1,0 +1,36 @@
+* Patient exhibits compulsive opioid-seeking behavior despite adverse consequences on physical and mental health.
+* History of opioid abuse leading to significant impairment in social and occupational functioning.
+* Long-term opioid use has resulted in tolerance, necessitating increased dosages to achieve the desired effect.
+* The patient's struggles with opioid addiction have led to multiple hospitalizations for overdose and withdrawal complications.
+* Opioid dependence is suspected due to the patient's inability to cut down or control opioid use despite a strong desire to do so.
+* Chronic opioid use has led to the development of physical dependence, as evidenced by withdrawal symptoms when attempting to taper or cease use.
+* The patient reports using opioids in larger amounts or over a longer period than initially intended, indicative of loss of control.
+* Continued opioid use despite knowledge of having a persistent or recurrent physical or psychological problem likely exacerbated by opioid use.
+* Opioid use disorder is characterized by a pattern of pathological opioid use, leading to significant distress or impairment.
+* The patient's addiction to opioids has resulted in a failure to fulfill major role obligations at work, school, or home.
+* Recurrent opioid use in situations in which it is physically hazardous, such as driving or operating machinery.
+* The patient has experienced multiple episodes of opioid-induced psychotic disorder, further complicating their addiction.
+* A need for markedly increased amounts of opioids to achieve intoxication or desired effect, indicating tolerance.
+* Characteristic withdrawal syndrome when opioids are not used, or use of opioids (or a closely related substance) to relieve or avoid withdrawal symptoms.
+* Evidence suggests the patient spends a great deal of time in activities necessary to obtain, use, or recover from the effects of opioids.
+* The patient's struggles with opioid addiction have led to significant social and interpersonal problems, including strained relationships and social isolation.
+* History of legal problems related to opioid use, including arrests for possession or distribution.
+* The patient has made repeated unsuccessful efforts to cut down or control opioid use, indicative of a loss of control.
+* Significant time spent in activities to obtain or use opioids, or to recover from their effects, interfering with daily life.
+* Tolerance to opioids, as defined by a need for increased amounts to achieve the desired effect, has developed over time.
+* Withdrawal symptoms when opioids are ceased or significantly reduced in dosage, indicating physical dependence.
+* The patient's opioid use has continued despite knowledge of persistent or recurrent physical or psychological problems exacerbated by opioids.
+* A persistent desire or unsuccessful efforts to cut down or control opioid use, despite a strong desire to do so, characterizes the patient's addiction.
+* Opioid addiction has resulted in the patient neglecting obligations at work, school, or home due to opioid use.
+* Recurrent opioid use resulting in failure to fulfill major role obligations at work, school, or home.
+* Physical and psychological problems have been exacerbated by opioid use, yet the patient continues opioid use despite this knowledge.
+* The patient continues to use opioids despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the substance.
+* Significant impairment in social, occupational, or other important areas of functioning due to opioid use.
+* The pattern of opioid use has led to clinically significant distress or impairment, as evidenced by the patient's inability to maintain relationships or employment.
+* Continued use of opioids despite physical or psychological problems likely caused or exacerbated by the substance, demonstrating a lack of control.
+* Withdrawal symptoms are managed by the use of opioids (or a closely related substance), indicating dependence.
+* Tolerance, as defined by the need for increased amounts of opioids to achieve the desired effect, has been a hallmark of the patient's addiction.
+* Repeatedly using opioids in hazardous situations, such as driving or operating heavy machinery, demonstrates a disregard for safety and well-being.
+* Opioid use disorder has resulted in significant financial problems due to spending large amounts of money to obtain opioids.
+* The patient's history of opioid dependence is marked by numerous attempts at cessation, followed by relapse, indicating a chronic condition.
+* Long-standing opioid use has led to the patient developing a psychological dependence, characterized by a persistent desire and inability to cut down or control use.

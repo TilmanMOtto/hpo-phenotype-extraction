@@ -1,0 +1,39 @@
+* The patient's complete blood count (CBC) revealed a platelet count outside the normal range, warranting further investigation.
+* An abnormal platelet count was noted on the lab results, with a value of 120,000/μL.
+* The platelet count was found to be elevated, exceeding 500,000/μL, which may indicate a potential thrombotic risk.
+* A low platelet count, or thrombocytopenia, was diagnosed with a count of 80,000/μL.
+* The blood work showed a platelet count of 300,000/μL, which is lower than the expected normal range for this patient's age group.
+* A platelet count of 600,000/μL was reported, suggesting a possible myeloproliferative disorder.
+* The CBC results indicated a mild thrombocytosis, with a platelet count of 420,000/μL.
+* An abnormally low platelet count was observed, consistent with a diagnosis of immune thrombocytopenia purpura (ITP).
+* The patient's platelet count has been steadily increasing, now at 520,000/μL, requiring close monitoring for signs of thrombosis.
+* A normal platelet count was not found, with results showing 200,000/μL, prompting a re-evaluation of the patient's hematological status.
+* The automated analyzer reported a platelet count of 100,000/μL, which was verified by manual count.
+* On admission, the patient had a significantly elevated platelet count of 700,000/μL, which was considered a risk factor for thrombotic events.
+* A platelet count below the normal range, 140,000/μL, was detected in the patient's blood work.
+* During the patient's hospital stay, a platelet count of 550,000/μL was recorded, indicating a potential need for anticoagulation therapy.
+* A manual platelet count was performed due to a disagreement with the automated analyzer's result, confirming a count of 90,000/μL.
+* An abnormal platelet count of 250,000/μL was found in the patient's initial lab results, requiring additional testing to rule out underlying causes.
+* Thrombocytopenia was diagnosed in the patient, characterized by a platelet count of 60,000/μL.
+* Repeated CBCs have shown a persistent abnormally high platelet count, ranging from 480,000 to 520,000/μL.
+* Post-treatment, the patient's platelet count increased to 380,000/μL, moving towards the normal range.
+* On follow-up, the patient's platelet count remained low, at 110,000/μL, necessitating ongoing monitoring and potential adjustment of treatment.
+* A severely low platelet count, less than 50,000/μL, was documented, posing a significant risk for bleeding complications.
+* Following splenectomy, the patient's platelet count normalized, reaching 220,000/μL.
+* The platelet count on presentation was significantly elevated at 650,000/μL, suggesting a possible myeloproliferative neoplasm.
+* Serial platelet counts have shown a downward trend, now at 130,000/μL, indicating a potential issue with platelet production or destruction.
+* An abnormally high platelet count was found incidentally during routine lab work, with a value of 580,000/μL.
+* Upon review of the patient's chart, an abnormal platelet count was noted on multiple occasions, ranging from 400,000 to 500,000/μL.
+* The patient's platelet count has fluctuated, recently measured at 280,000/μL, which is considered low for their age and health status.
+* Laboratory results indicated a mildly elevated platelet count of 460,000/μL, which may require monitoring but is not immediately concerning.
+* The platelet count was outside the expected range, measured at 180,000/μL, in the context of other normal hematological parameters.
+* An exceptionally high platelet count of 800,000/μL was reported, necessitating immediate evaluation for thrombotic risk and possible underlying myeloproliferative disorder.
+* Comparison of current and past lab values shows a significant increase in the patient's platelet count, now at 500,000/μL.
+* Platelet count abnormalities were identified, with results showing 150,000/μL, indicating a potential hematologic issue.
+* A marked decrease in the patient's platelet count to 40,000/μL was observed post-medication, suggesting a possible drug-induced thrombocytopenia.
+* On discharge, the patient's platelet count had improved to 240,000/μL, though still slightly below the normal range.
+* The CBC with differential showed an abnormally low platelet count of 90,000/μL, prompting further investigation into the cause of thrombocytopenia.
+* A pre-operative platelet count was found to be lower than expected, at 120,000/μL, which may impact surgical planning and management.
+* An unusual finding of an extremely high platelet count, exceeding 1,000,000/μL, was noted and requires urgent evaluation and management.
+* Repeat analysis of the patient's blood confirmed an abnormal platelet count of 200,000/μL, consistent with previous findings and suggestive of an underlying condition affecting platelet production or survival.
+* The platelet count has remained abnormally low, at 100,000/μL, despite treatment, indicating a need for alternative or adjunctive therapies.

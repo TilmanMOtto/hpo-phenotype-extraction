@@ -1,0 +1,36 @@
+* The patient's ECG demonstrated a characteristic saw-tooth pattern in the inferior leads, consistent with typical atrial flutter.
+* Atrial tachycardia with a regular, organized rhythm was observed, suggestive of typical atrial flutter.
+* The arrhythmia showed a macroreentrant pattern confined to the right atrium, consistent with typical atrial flutter.
+* A 2:1 atrioventricular conduction block was noted, characteristic of typical atrial flutter with a ventricular rate of approximately 150 bpm.
+* The ECG revealed a typical counter-clockwise atrial flutter pattern with negative deflections in leads II, III, and aVF.
+* Examination of the rhythm strip showed a regular, continuous undulation with a cycle length of approximately 240 ms, indicative of typical atrial flutter.
+* Typical atrial flutter was diagnosed based on the presence of a characteristic saw-tooth pattern in the inferior leads and flat atrial deflections in leads I and aVL.
+* Atrial flutter with a ventricular response of 3:1 was observed, consistent with impaired atrioventricular node conduction.
+* The patient's ECG demonstrated positive atrial deflections in lead V1, consistent with the typical presentation of atrial flutter.
+* Biphasic atrial deflections in lead V1 were noted, a common finding in patients with typical atrial flutter.
+* Typical atrial flutter was suspected based on the patient's symptoms and ECG findings, which showed a regular, organized atrial rhythm.
+* The arrhythmia was characterized by a cycle length of 220 ms, within the expected range for typical atrial flutter.
+* Atrial flutter with a characteristic saw-tooth pattern was observed in the inferior leads, with a ventricular rate of approximately 120 bpm.
+* The ECG showed a macroreentrant tachycardia pattern confined to the right atrium, consistent with typical atrial flutter.
+* Flat atrial deflections in leads I and aVL were noted, a characteristic finding in typical atrial flutter.
+* Typical atrial flutter was diagnosed based on the presence of a regular, continuous undulation in the ECG and a 2:1 atrioventricular conduction block.
+* The patient's rhythm strip revealed a typical counter-clockwise atrial flutter pattern with negative deflections in leads II, III, and aVF.
+* Atrial flutter with a ventricular response of 4:1 was observed, consistent with significant impairment of atrioventricular node conduction.
+* The ECG demonstrated a regular, organized atrial rhythm with a cycle length of approximately 260 ms, suggestive of typical atrial flutter.
+* Typical atrial flutter was suspected based on the patient's symptoms and ECG findings, which showed a characteristic saw-tooth pattern in the inferior leads.
+* The arrhythmia was characterized by a macroreentrant pattern confined to the right atrium, consistent with typical atrial flutter.
+* Atrial deflections in lead V1 were negative, a common finding in patients with typical atrial flutter.
+* Typical atrial flutter was diagnosed based on the presence of a regular, continuous undulation in the ECG and flat atrial deflections in leads I and aVL.
+* The ECG showed a typical counter-clockwise atrial flutter pattern with a ventricular rate of approximately 150 bpm.
+* Atrial flutter with a 3:1 atrioventricular conduction block was noted, consistent with typical atrial flutter.
+* The patient's ECG demonstrated a characteristic saw-tooth pattern in the inferior leads, with a cycle length of approximately 240 ms.
+* Typical atrial flutter was suspected based on the patient's symptoms and ECG findings, which showed a regular, organized atrial rhythm.
+* The arrhythmia was characterized by a cycle length of 200 ms, within the expected range for typical atrial flutter.
+* Atrial flutter with a ventricular response of 2:1 was observed, consistent with normal atrioventricular node conduction.
+* The ECG revealed a macroreentrant tachycardia pattern confined to the right atrium, consistent with typical atrial flutter.
+* Flat atrial deflections in leads I and aVL were noted, a characteristic finding in typical atrial flutter.
+* Typical atrial flutter was diagnosed based on the presence of a characteristic saw-tooth pattern in the inferior leads and a 2:1 atrioventricular conduction block.
+* The patient's rhythm strip showed a regular, continuous undulation with a cycle length of approximately 220 ms, indicative of typical atrial flutter.
+* Atrial flutter with a ventricular rate of approximately 120 bpm was observed, consistent with a 3:1 atrioventricular conduction block.
+* The ECG demonstrated a typical counter-clockwise atrial flutter pattern with negative deflections in leads II, III, and aVF.
+* Typical atrial flutter was suspected based on the patient's symptoms and ECG findings, which showed a regular, organized atrial rhythm with a cycle length of approximately 260 ms.

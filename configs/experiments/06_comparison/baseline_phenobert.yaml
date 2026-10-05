@@ -1,0 +1,47 @@
+# PhenoBERT baseline (thesis section 3.5, appendix A.5).
+#
+# Command:  METHOD=phenobert sbatch slurm/baseline.sbatch   (DATASET=gsc for GSC+)
+# Model: PhenoBERT CNN and BERT, published weights, thresholds p1 0.8, p2 0.6, p3 0.9 (CPU).
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: 0 where the tool takes one (greedy decoding).
+# Writes <output>/baseline_phenobert/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc
+dataset: hcy
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms.csv
+gsc_dir: resources/data/GSC_2024
+
+# [Required]
+output_dir: ${paths:output_dir}
+
+# [PhenoBERT]
+phenobert_dir: ${paths:phenobert.dir}
+# Interpreter of the PhenoBERT env. It needs stanza==1.4.1, which conflicts with this env's
+# 1.10.1, hence the subprocess. Leave empty only if the active env IS the PhenoBERT one.
+phenobert_python: ${paths:phenobert.python}
+# Separate Stanza resources dir for PhenoBERT (1.4.1, old flat schema). Must NOT point at the
+# PhenoRAG stanza_dir, the two schemas are incompatible.
+phenobert_stanza_dir: ${paths:stanza_dir_phenobert}
+phenobert_threads: 4
+# Published defaults (Feng et al., 2023): CNN layer-1, sub-model, and BERT semantic filter
+# thresholds. One configuration, no sweep.
+phenobert_p1: 0.8
+phenobert_p2: 0.6
+phenobert_p3: 0.9
+# Skip annotation when phenobert_output/ already covers every staged report. A partial cache is
+# never reused: it would score a prefix of the cohort as if it were the whole thing.
+reuse_phenobert: true
+
+# [Pilot]
+max_patients:
+
+mlflow_experiment_name: exp13_comparison

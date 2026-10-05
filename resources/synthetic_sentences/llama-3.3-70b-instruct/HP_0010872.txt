@@ -1,0 +1,36 @@
+* The electrocardiogram (ECG) revealed a notable inversion of the T-wave, suggesting potential myocardial ischemia.
+* T-wave inversion was observed in leads II, III, and aVF, prompting further investigation into possible cardiac pathology.
+* The patient's EKG demonstrated inverted T-waves in the anterior leads, consistent with anterior wall ischemia.
+* Inverted T-waves were seen in the lateral leads, raising suspicion for lateral wall myocardial infarction.
+* The ECG showed T-wave inversion in the inferior leads, concerning for inferior wall ischemia.
+* T-wave inversion was present in multiple leads, including the precordial leads, indicating possible myocardial injury.
+* The EKG tracing revealed deep T-wave inversion in lead V2, suggestive of myocardial ischemia in the anterior wall.
+* Inversion of the T-wave was noted in the right precordial leads, concerning for right ventricular ischemia.
+* The patient's ECG demonstrated T-wave inversion in leads I and aVL, consistent with lateral wall ischemia.
+* T-wave inversion was observed in the posterior leads, raising suspicion for posterior wall myocardial infarction.
+* The ECG showed T-wave inversion in leads II, III, and aVF, concerning for inferior wall ischemia.
+* Inverted T-waves were seen in the anterior leads, prompting further evaluation for possible cardiac pathology.
+* The EKG demonstrated T-wave inversion in multiple leads, including the limb leads, indicating potential cardiac disease.
+* T-wave inversion was present in the lateral leads, consistent with lateral wall ischemia.
+* The ECG revealed T-wave inversion in the inferior leads, suggesting possible myocardial infarction.
+* Inversion of the T-wave was noted in the precordial leads, concerning for myocardial injury.
+* The patient's EKG showed T-wave inversion in leads V3 and V4, indicative of anterior wall ischemia.
+* T-wave inversion was observed in the right lateral leads, raising suspicion for right ventricular ischemia.
+* The ECG demonstrated T-wave inversion in leads I, II, and III, consistent with inferior wall ischemia.
+* Inverted T-waves were seen in the posterior leads, prompting further investigation into possible cardiac pathology.
+* The EKG tracing revealed T-wave inversion in lead V5, suggestive of lateral wall ischemia.
+* T-wave inversion was present in multiple leads, including the augmented leads, indicating potential cardiac disease.
+* The ECG showed T-wave inversion in the anterior leads, concerning for anterior wall ischemia.
+* Inversion of the T-wave was noted in the lateral leads, consistent with lateral wall ischemia.
+* The patient's ECG demonstrated T-wave inversion in leads II, III, and aVF, suggesting possible inferior wall myocardial infarction.
+* T-wave inversion was observed in the inferior leads, raising suspicion for inferior wall ischemia.
+* The EKG demonstrated T-wave inversion in multiple leads, including the precordial leads, indicating myocardial injury.
+* Inverted T-waves were seen in the right precordial leads, concerning for right ventricular ischemia.
+* The ECG revealed T-wave inversion in leads V1 and V2, consistent with anterior wall ischemia.
+* T-wave inversion was present in the lateral leads, prompting further evaluation for possible cardiac pathology.
+* The patient's EKG showed T-wave inversion in leads I and aVL, suggestive of lateral wall ischemia.
+* Inversion of the T-wave was noted in the posterior leads, concerning for posterior wall myocardial infarction.
+* The ECG demonstrated T-wave inversion in leads II, III, and aVF, indicating possible inferior wall ischemia.
+* T-wave inversion was observed in multiple leads, including the limb leads, raising suspicion for cardiac disease.
+* The EKG tracing revealed deep T-wave inversion in lead V3, suggestive of anterior wall ischemia.
+* Inverted T-waves were seen in the anterior leads, consistent with anterior wall ischemia.

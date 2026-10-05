@@ -1,0 +1,36 @@
+# Retrieval of the evidence segment by term representation (thesis Figure 4.5).
+#
+# Command:  sbatch slurm/retrieval_curves.sbatch
+# Model: encoder all-mpnet-base-v2 (CPU).
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: bootstrap_seed 0, 10 000 resamples.
+# Reads the segmented HCY reports and the curated annotations, writes
+# <output>/treephenorag_retrieval_curves/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Required]
+sent_transformer_dir: ${paths:models.all_mpnet_base_v2}
+context_dir: resources/synthetic_sentences/llama-3.3-70b-instruct
+segmented_reports_path: ${paths:hcy.segmented_reports}
+annotations_path: ${paths:hcy.curated_annotations}
+output_dir: ${paths:output_dir}
+
+# [Optional]
+hpo_json_path:
+
+stages: [compute, report]
+
+gold_source: auto
+require_location: true
+exclude_location_how: []
+
+n_bootstrap: 10000
+bootstrap_seed: 0
+ci: 0.95
+x_max: 25.0

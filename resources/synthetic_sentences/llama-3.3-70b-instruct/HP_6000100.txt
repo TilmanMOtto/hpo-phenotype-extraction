@@ -1,0 +1,37 @@
+* The nasal potential difference (NPD) measurement revealed a hyperpolarized transepithelial potential, indicating an increased voltage across the nasal epithelium.
+* Basal potential difference (PD) values were found to be more negative than typical, ranging from -25 to -30 mV, suggesting abnormal ion transport across the epithelial surface.
+* Upon measurement, the patient's nasal epithelial surface exhibited a highly polarized potential difference, significantly more negative than the normal range.
+* Initial NPD measurements showed a pronounced negative potential difference, indicative of enhanced ion transport activity across the nasal epithelium.
+* The transepithelial potential difference was measured to be -28 mV, significantly more negative than the typical range, suggesting dysfunctional ion transport mechanisms.
+* Sequential perfusion with amiloride resulted in a depolarization of the nasal potential difference, approaching -5 mV, indicating a response to ENaC inhibition.
+* Following amiloride perfusion, the patient's nasal PD showed a significant reduction in polarization, consistent with a decrease in inwardly directed sodium transport.
+* NPD measurements demonstrated a hyperpolarized state, with a potential difference of -22 mV, which was more negative than expected, suggesting disrupted ion balance.
+* The nasal epithelial surface exhibited an increased negative potential difference, measuring -26 mV, which may be indicative of underlying ion transport abnormalities.
+* Measurements of the transepithelial potential difference revealed a highly polarized state, with values ranging from -20 to -25 mV, suggesting enhanced ion transport activity.
+* The basal potential difference was found to be -24 mV, which is more negative than the normal range, potentially indicating abnormal ion transport mechanisms.
+* Perfusion with amiloride led to a decrease in the nasal potential difference, resulting in a value of -8 mV, indicating a response to inhibition of ENaC-mediated sodium transport.
+* The patient's nasal epithelium exhibited a hyperpolarized potential difference, measuring -29 mV, which was significantly more negative than the normal range.
+* NPD measurements demonstrated an abnormal potential difference, with values ranging from -18 to -22 mV, suggesting disrupted ion transport across the nasal epithelium.
+* The transepithelial potential difference was found to be highly polarized, measuring -27 mV, which may be indicative of underlying abnormalities in ion transport mechanisms.
+* The nasal potential difference showed a significant increase in negativity, measuring -25 mV, which was more negative than the typical range.
+* Measurements of the basal potential difference revealed a highly polarized state, with values ranging from -20 to -24 mV, suggesting enhanced ion transport activity.
+* The patient's nasal epithelial surface exhibited an abnormal potential difference, measuring -23 mV, which was more negative than the normal range.
+* Perfusion with amiloride resulted in a significant decrease in the nasal potential difference, approaching -6 mV, indicating a response to inhibition of ENaC-mediated sodium transport.
+* The nasal epithelium exhibited a hyperpolarized potential difference, measuring -26 mV, which was significantly more negative than the typical range.
+* NPD measurements demonstrated a highly polarized transepithelial potential difference, with values ranging from -22 to -25 mV, suggesting disrupted ion transport mechanisms.
+* The basal potential difference was found to be -21 mV, which was more negative than the normal range, potentially indicating abnormal ion transport activity.
+* The transepithelial potential difference showed a significant increase in negativity, measuring -28 mV, which may be indicative of underlying abnormalities in ion transport.
+* Measurements of the nasal potential difference revealed a highly polarized state, with values ranging from -24 to -27 mV, suggesting enhanced ion transport activity.
+* The patient's nasal epithelial surface exhibited an abnormal potential difference, measuring -22 mV, which was more negative than the typical range.
+* Perfusion with amiloride led to a significant decrease in the nasal potential difference, resulting in a value of -4 mV, indicating a response to inhibition of ENaC-mediated sodium transport.
+* The nasal epithelium exhibited a hyperpolarized potential difference, measuring -25 mV, which was significantly more negative than the normal range.
+* NPD measurements demonstrated a highly polarized transepithelial potential difference, with values ranging from -20 to -23 mV, suggesting disrupted ion transport mechanisms.
+* The basal potential difference was found to be -19 mV, which was more negative than the normal range, potentially indicating abnormal ion transport activity.
+* The transepithelial potential difference showed a significant increase in negativity, measuring -27 mV, which may be indicative of underlying abnormalities in ion transport.
+* Measurements of the nasal potential difference revealed a highly polarized state, with values ranging from -23 to -26 mV, suggesting enhanced ion transport activity.
+* The patient's nasal epithelial surface exhibited an abnormal potential difference, measuring -24 mV, which was more negative than the typical range.
+* Perfusion with amiloride resulted in a significant decrease in the nasal potential difference, approaching -7 mV, indicating a response to inhibition of ENaC-mediated sodium transport.
+* The nasal epithelium exhibited a hyperpolarized potential difference, measuring -29 mV, which was significantly more negative than the normal range.
+* NPD measurements demonstrated a highly polarized transepithelial potential difference, with values ranging from -21 to -24 mV, suggesting disrupted ion transport mechanisms.
+* The basal potential difference was found to be -18 mV, which was more negative than the normal range, potentially indicating abnormal ion transport activity.
+* The transepithelial potential difference showed a significant increase in negativity, measuring -26 mV, which may be indicative of underlying abnormalities in ion transport.

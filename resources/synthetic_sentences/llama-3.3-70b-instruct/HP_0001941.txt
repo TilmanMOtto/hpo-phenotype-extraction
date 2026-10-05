@@ -1,0 +1,40 @@
+* The patient's lab results indicate a state of acidemia, suggesting an underlying acidosis that requires further investigation.
+* Marked acid accumulation was observed in the patient's blood work, consistent with a diagnosis of metabolic acidosis.
+* The arterial blood gas (ABG) results showed a decreased bicarbonate level, indicative of an acidotic process.
+* A mixed acid-base disorder was identified, characterized by both metabolic and respiratory components contributing to the acidosis.
+* The presence of aciduria and an increased anion gap suggests an underlying renal tubular acidosis.
+* Elevated serum lactate levels were noted, raising concern for lactic acidosis as a contributing factor to the patient's presentation.
+* Respiratory acidosis was diagnosed based on the patient's hypoventilation and subsequent retention of carbon dioxide.
+* A diagnosed case of diabetic ketoacidosis (DKA) was managed with insulin therapy and fluid resuscitation.
+* Laboratory findings revealed a state of normochloremic metabolic acidosis, which was treated with bicarbonate supplementation.
+* The patient's condition was complicated by the development of severe metabolic acidosis, likely due to sepsis and tissue hypoperfusion.
+* An electroencephalogram (EEG) was ordered to evaluate for potential CNS effects of untreated acidosis.
+* A routine chemistry panel revealed an acid-base imbalance, prompting further evaluation for acidosis.
+* Gastrointestinal losses and renal failure contributed to the patient's complex acid-base disturbance, featuring elements of both acidosis and alkalosis.
+* Hyperchloremic metabolic acidosis was identified as a complication of the patient's long-term total parenteral nutrition (TPN).
+* Treatment of the patient's acidosis included addressing the underlying cause, as well as administering sodium bicarbonate to help normalize the pH.
+* Upon initial presentation, the patient's ABG results indicated severe acidemia, with a pH of 7.1, consistent with significant acidosis.
+* Inadequate excretion of non-volatile acids led to a state of chronic metabolic acidosis in this patient with stage 4 chronic kidney disease (CKD).
+* Clinical correlation suggested a link between the patient's acidosis and their recent history of salicylate ingestion.
+* Ethylene glycol poisoning was considered as a potential cause of the high anion gap metabolic acidosis in this critically ill patient.
+* Base deficit was calculated to guide resuscitation efforts in a patient with severe metabolic acidosis due to hemorrhagic shock.
+* Initial agreement was reached on the necessity of treating the acidosis; however, debate ensued regarding the optimal method of correction.
+* Methanol toxicity was suspected as the cause of the patient's severe metabolic acidosis and visual disturbances.
+* On physical examination, Kussmaul breathing was noted, which is often seen in patients with severe acidosis.
+* Electrolyte disturbances, including a low bicarbonate level, contributed to the patient's acid-base imbalance, characterized by acidosis.
+* Pulse oximetry revealed a low saturation in the setting of respiratory acidosis, prompting adjustment of the patient's oxygen therapy.
+* Urine studies were sent to evaluate for potential renal causes of the patient's chronic acidosis, including renal tubular acidosis.
+* Correction of the acidosis required a multifaceted approach, addressing both the underlying cause and the patient's electrolyte imbalances.
+* End-tidal CO2 monitoring was utilized to assess the effectiveness of interventions aimed at correcting the patient's respiratory acidosis.
+* Compensatory mechanisms were evident in a patient with chronic acidosis, highlighting the body's attempt to normalize the pH.
+* Early recognition of acidosis is crucial to prevent long-term consequences, such as bone disease and muscle weakness, in patients with chronic kidney disease.
+* Fittingly, the parathyroid hormone (PTH) level was elevated in this patient with metabolic acidosis secondary to CKD.
+* A higher dialysate bicarbonate concentration was used to manage the acidosis in this patient undergoing hemodialysis.
+* Computerized tomography (CT) of the abdomen revealed findings consistent with diabetic ketoacidosis, including pancreatic inflammation.
+* Ischemia of the gut and subsequent lactic acid production were thought to contribute to the development of metabolic acidosis in this critically ill patient.
+* Potential consequences of untreated acidosis, including impaired oxygen delivery and increased morbidity, were discussed with the patient's family.
+* The significance of correcting acidosis in the critically ill patient cannot be overstated, given its impact on outcomes and organ function.
+* Serum osmolal gap calculation suggested the presence of an unmeasured anion, guiding further investigation into the cause of the patient's high anion gap acidosis.
+* Treatment of the patient's type 1 diabetes and associated diabetic ketoacidosis involved aggressive fluid resuscitation and insulin therapy.
+* Neurological symptoms, including lethargy and confusion, were observed in a patient with severe metabolic acidosis due to salicylate toxicity.
+* Criteria for diagnosing lactic acidosis were fulfilled in a critically ill patient with sepsis, including elevated lactate levels and metabolic acidosis.

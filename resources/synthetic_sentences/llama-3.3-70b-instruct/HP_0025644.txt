@@ -1,0 +1,38 @@
+* The patient's EEG demonstrated fixation-off epileptiform discharges, characterized by posterior spikes and waves that were consistently present when the eyes were closed.
+* Upon removal of visual fixation, the electroencephalogram revealed generalized discharges, indicative of fixation-off sensitivity.
+* FOS was noted in the EEG, with bilateral occipital spikes and waves emerging when the patient's gaze was diverted from a central point.
+* The presence of fixation-off epileptiform discharges in the EEG suggested a possible diagnosis of non-acquired focal epilepsy with occipital involvement.
+* During the EEG recording, fixation-off sensitivity was observed, with polyspikes and waves localized to the occipital regions, occurring only in the absence of central visual fixation.
+* In the context of generalized epilepsy with photosensitivity, the patient's EEG showed fixation-off epileptiform discharges, which were inhibited by intermittent photic stimulation.
+* Fixation-off sensitivity was evident on the EEG, with posterior discharges that were consistently induced by conditions eliminating central vision, such as complete darkness.
+* The patient's electroencephalogram exhibited fixation-off sensitivity, characterized by unilateral occipital spikes and waves that occurred when visual fixation was removed.
+* In a patient with a history of eyelid myoclonia with absences, the EEG demonstrated fixation-off epileptiform discharges, consistent with a diagnosis of generalized epilepsy with photosensitivity.
+* The EEG pattern of fixation-off sensitivity, consisting of bilateral occipital spikes and waves, was noted in a patient with a structural brain lesion and suspected epilepsy.
+* During EEG monitoring, fixation-off sensitivity was observed, with generalized discharges that were inhibited by fixation of gaze or observation of patterns.
+* In a child with non-acquired focal epilepsy, the EEG revealed fixation-off epileptiform discharges, characterized by posterior spikes and waves that were present when the eyes were closed.
+* The electroencephalogram demonstrated fixation-off sensitivity, with occipital polyspikes and waves that emerged when central visual fixation was eliminated.
+* Fixation-off sensitivity was noted in the EEG of a patient without epilepsy, who presented with posterior epileptiform discharges.
+* Upon modified Ganzfeld stimulation, the patient's EEG showed fixation-off epileptiform discharges, indicating a possible diagnosis of epilepsy with occipital involvement.
+* In the absence of central visual fixation, the EEG exhibited fixation-off sensitivity, characterized by generalized discharges that were inhibited by intermittent photic stimulation.
+* The patient's EEG revealed fixation-off sensitivity, with bilateral occipital spikes and waves that were consistently present when the eyes were closed or in complete darkness.
+* Fixation-off epileptiform discharges were observed in the EEG, with posterior polyspikes and waves that emerged when visual fixation was diverted from a central point.
+* The EEG pattern of fixation-off sensitivity, consisting of unilateral occipital spikes and waves, was noted in a patient with suspected epilepsy and occipital lobe involvement.
+* During the EEG recording, fixation-off sensitivity was evident, with generalized discharges that were inhibited by fixation of gaze or observation of patterns.
+* In a patient with a history of absences and eyelid myoclonia, the EEG demonstrated fixation-off epileptiform discharges, consistent with a diagnosis of generalized epilepsy with photosensitivity.
+* The electroencephalogram demonstrated fixation-off sensitivity, with occipital spikes and waves that emerged when central visual fixation was eliminated, using Frenzel lenses.
+* Fixation-off sensitivity was observed in the EEG of a patient with non-acquired focal epilepsy, characterized by posterior polyspikes and waves that were present when the eyes were closed.
+* Upon removal of visual fixation, the EEG revealed fixation-off epileptiform discharges, indicating a possible diagnosis of epilepsy with occipital involvement.
+* The patient's EEG showed fixation-off sensitivity, with generalized discharges that were inhibited by intermittent photic stimulation, such as flashing light or patterns.
+* In the context of generalized epilepsy with photosensitivity, the EEG demonstrated fixation-off epileptiform discharges, characterized by posterior spikes and waves that were consistently present when the eyes were closed.
+* Fixation-off sensitivity was noted in the EEG, with bilateral occipital spikes and waves that emerged when visual fixation was diverted from a central point.
+* The EEG pattern of fixation-off sensitivity, consisting of unilateral occipital polyspikes and waves, was observed in a patient with suspected epilepsy and occipital lobe involvement.
+* During EEG monitoring, fixation-off sensitivity was evident, with posterior discharges that were consistently induced by conditions eliminating central vision, such as complete darkness.
+* In a patient with a structural brain lesion, the EEG demonstrated fixation-off epileptiform discharges, consistent with a diagnosis of epilepsy with occipital involvement.
+* The electroencephalogram exhibited fixation-off sensitivity, with generalized discharges that were inhibited by fixation of gaze or observation of patterns.
+* Fixation-off sensitivity was observed in the EEG of a patient without epilepsy, who presented with posterior epileptiform discharges and suspected photosensitivity.
+* Upon modified Ganzfeld stimulation, the EEG showed fixation-off epileptiform discharges, indicating a possible diagnosis of epilepsy with occipital involvement.
+* The patient's EEG revealed fixation-off sensitivity, with occipital spikes and waves that emerged when central visual fixation was eliminated, using a large white surface without visual cues.
+* In a child with non-acquired focal epilepsy, the EEG demonstrated fixation-off epileptiform discharges, characterized by posterior polyspikes and waves that were present when the eyes were closed.
+* Fixation-off sensitivity was noted in the EEG, with generalized discharges that were inhibited by intermittent photic stimulation, such as flashing light or patterns.
+* The EEG pattern of fixation-off sensitivity, consisting of bilateral occipital spikes and waves, was observed in a patient with suspected epilepsy and occipital lobe involvement.
+* During the EEG recording, fixation-off sensitivity was evident, with posterior discharges that were consistently induced by conditions eliminating central vision, such as closed eyes or complete darkness.

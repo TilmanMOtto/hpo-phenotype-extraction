@@ -1,0 +1,34 @@
+* The patient's audiogram revealed a moderate conductive hearing impairment, with a pure-tone average of 30 dB HL in the affected ear.
+* Clinical evaluation demonstrated a 25 dB conductive loss, consistent with a moderate hearing impairment.
+* A moderate degree of conductive hearing loss was noted, with a speech reception threshold of 35 dB.
+* The patient presented with a moderate conductive hearing deficit, characterized by a 28 dB air-bone gap.
+* Audiological testing confirmed a moderate conductive impairment, with a threshold of 32 dB at 1 kHz.
+* The patient's hearing assessment showed a moderate conductive loss, with a three-frequency pure-tone average of 22 dB HL.
+* A moderate conductive hearing impairment was diagnosed, with a maximum conductive loss of 38 dB at 2 kHz.
+* The patient exhibited a moderate degree of conductive hearing loss, as evidenced by a 20 dB decrease in speech discrimination score.
+* Conductive hearing impairment was noted to be moderate, with a binaural pure-tone average of 30 dB HL.
+* The patient's hearing test results indicated a moderate conductive hearing impairment, with a low-frequency pure-tone average of 25 dB HL.
+* Clinical findings were consistent with a moderate conductive hearing loss, characterized by a 10-30 dB air-bone gap across frequencies.
+* A moderate degree of conductive hearing impairment was observed, with a significant impact on the patient's ability to understand speech in noise.
+* The patient's audiometric results demonstrated a moderate conductive hearing impairment, with a pure-tone average of 35 dB HL in the worse ear.
+* The presence of a moderate conductive hearing impairment was confirmed, with a speech threshold of 28 dB and a speech discrimination score of 80%.
+* The patient's hearing evaluation revealed a moderate conductive loss, with a three-frequency pure-tone average of 28 dB HL in the better ear.
+* A moderate conductive hearing impairment was diagnosed in the patient, with a maximum conductive loss of 32 dB at 4 kHz.
+* The patient exhibited a moderate degree of conductive hearing loss, as demonstrated by a 12 dB decrease in bone conduction threshold.
+* Conductive hearing impairment of moderate severity was noted, with a binaural speech reception threshold of 25 dB.
+* The patient's audiogram showed a moderate conductive hearing impairment, with a low-frequency pure-tone average of 22 dB HL and a high-frequency pure-tone average of 35 dB HL.
+* Clinical assessment revealed a moderate conductive hearing loss, characterized by a 25 dB conductive component at 1 kHz.
+* The patient presented with a moderate conductive hearing deficit, as evidenced by a 20 dB air-bone gap at 2 kHz.
+* Audiological evaluation confirmed a moderate conductive impairment, with a pure-tone average of 30 dB HL in the affected ear and a speech discrimination score of 85%.
+* The patient's hearing test results indicated a moderate conductive hearing impairment, with a three-frequency pure-tone average of 25 dB HL in the worse ear.
+* Moderate conductive hearing loss was diagnosed, with a maximum conductive loss of 38 dB at 500 Hz.
+* The patient exhibited a moderate degree of conductive hearing impairment, as demonstrated by a 15 dB decrease in word recognition score.
+* Conductive hearing impairment of moderate severity was noted, with a binaural pure-tone average of 28 dB HL.
+* The patient's hearing assessment revealed a moderate conductive loss, with a speech threshold of 32 dB and a speech discrimination score of 80%.
+* A moderate conductive hearing impairment was observed, with a significant impact on the patient's ability to understand speech in quiet environments.
+* The patient's audiometric results demonstrated a moderate conductive hearing impairment, with a pure-tone average of 32 dB HL in the better ear.
+* Clinical findings were consistent with a moderate conductive hearing loss, characterized by a 15-30 dB air-bone gap across frequencies.
+* The patient presented with a moderate conductive hearing deficit, as evidenced by a 25 dB decrease in speech recognition threshold.
+* The patient's hearing evaluation revealed a moderate conductive loss, with a three-frequency pure-tone average of 30 dB HL in the affected ear.
+* A moderate degree of conductive hearing impairment was noted, with a significant impact on the patient's daily communication abilities.
+* The patient exhibited a moderate degree of conductive hearing loss, as demonstrated by a 10 dB decrease in pure-tone average.

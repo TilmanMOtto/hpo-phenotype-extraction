@@ -1,0 +1,38 @@
+* The patient's immunophenotyping results showed a notable expansion of central memory CD8+ T cells, with a significant proportion expressing CCR7 and CD127, suggestive of a robust memory response.
+* Flow cytometry analysis revealed an elevated percentage of CD8+ alpha-beta T cells with a central memory phenotype, characterized by positivity for CCR7, CD127, and CD45RO, and negativity for CD25 and CD45RA.
+* Notably, the patient's peripheral blood exhibited an increased proportion of CD8+ T cells with a central memory profile, defined by expression of CCR7, CD127, and lack of CD45RA and CD25.
+* Immunological evaluation demonstrated a heightened proportion of central memory CD8-positive, alpha-beta T cells, with the majority displaying a CCR7-positive, CD127-positive, and CD45RO-positive phenotype.
+* The patient's T-cell subset analysis revealed an abnormal increase in the proportion of central memory CD8+ T cells, which were predominantly CCR7-positive, CD127-positive, and CD45RA-negative.
+* CD8+ T-cell immunophenotyping showed an expansion of the central memory compartment, characterized by co-expression of CCR7, CD127, and CD45RO, and absence of CD25.
+* A higher-than-expected proportion of CD8+ alpha-beta T cells in the patient's blood exhibited a central memory phenotype, marked by CCR7 and CD127 positivity, and negativity for CD45RA and CD25.
+* Flow cytometric analysis identified an increased proportion of central memory CD8+ T cells, characterized by their CCR7-positive, CD127-positive, and CD45RO-positive status, in the patient's peripheral blood.
+* The central memory CD8+ T-cell population was significantly expanded in the patient, with cells displaying a characteristic CCR7-positive, CD127-positive, and CD25-negative phenotype.
+* Immunological assessment revealed an elevated proportion of CD8+ alpha-beta T cells with a central memory profile, defined by expression of CCR7, CD127, and lack of CD45RA.
+* The patient's central memory CD8+ T-cell compartment was found to be proportionally increased, with cells predominantly expressing CCR7, CD127, and CD45RO, and lacking CD25 and CD45RA.
+* Expanded central memory CD8+ T cells were observed in the patient, exhibiting a characteristic phenotype marked by positivity for CCR7, CD127, and CD45RO, and negativity for CD25.
+* A notable increase in the proportion of central memory CD8+ T cells was detected, with the majority of these cells co-expressing CCR7, CD127, and CD45RO, and lacking CD45RA and CD25.
+* Central memory CD8+ T cells were proportionally increased in the patient's blood, with a phenotype characterized by CCR7 positivity, CD127 positivity, and absence of CD25 and CD45RA.
+* Immunophenotypic analysis revealed an elevated proportion of CD8+ alpha-beta T cells with a central memory phenotype, marked by expression of CCR7, CD127, and CD45RO, and lack of CD25.
+* The patient exhibited an increased proportion of central memory CD8+ T cells, which were distinguished by their CCR7-positive, CD127-positive, and CD45RO-positive status, and negativity for CD25 and CD45RA.
+* A higher proportion of CD8+ T cells in the patient's blood exhibited a central memory profile, defined by co-expression of CCR7, CD127, and CD45RO, and absence of CD25.
+* Flow cytometry results showed an expansion of central memory CD8+ T cells, characterized by their CCR7-positive, CD127-positive, and CD45RO-positive phenotype, in the patient's peripheral blood.
+* The central memory compartment of CD8+ T cells was proportionally expanded in the patient, with cells displaying a characteristic CCR7-positive, CD127-positive, and CD25-negative phenotype.
+* Notably, an increased proportion of CD8+ alpha-beta T cells in the patient's blood displayed a central memory phenotype, marked by positivity for CCR7, CD127, and CD45RO, and negativity for CD45RA and CD25.
+* The patient's central memory CD8+ T-cell population was found to be significantly increased, with cells predominantly expressing CCR7, CD127, and CD45RO, and lacking CD25 and CD45RA.
+* Immunological evaluation revealed a higher-than-expected proportion of central memory CD8+ T cells, characterized by their CCR7-positive, CD127-positive, and CD45RO-positive status, and negativity for CD25.
+* The patient exhibited a notable increase in the proportion of CD8+ T cells with a central memory phenotype, defined by co-expression of CCR7, CD127, and CD45RO, and absence of CD45RA and CD25.
+* An elevated proportion of central memory CD8+ T cells was detected in the patient, with cells displaying a characteristic phenotype marked by CCR7 positivity, CD127 positivity, and CD45RO positivity, and negativity for CD25.
+* Flow cytometric analysis identified an increased proportion of central memory CD8+ T cells, characterized by their CCR7-positive, CD127-positive, and CD45RO-positive phenotype, in the patient's blood.
+* The patient's central memory CD8+ T-cell compartment was proportionally expanded, with cells predominantly expressing CCR7, CD127, and CD45RO, and lacking CD25 and CD45RA.
+* A higher proportion of CD8+ alpha-beta T cells in the patient's peripheral blood exhibited a central memory profile, defined by expression of CCR7, CD127, and CD45RO, and negativity for CD25.
+* Notably, the patient's central memory CD8+ T-cell population was significantly increased, with cells predominantly displaying a CCR7-positive, CD127-positive, and CD45RO-positive phenotype, and negativity for CD25.
+* Immunophenotypic analysis revealed an increased proportion of CD8+ T cells with a central memory phenotype, characterized by co-expression of CCR7, CD127, and CD45RO, and absence of CD25 and CD45RA.
+* An increased proportion of central memory CD8+ T cells was observed in the patient, with cells exhibiting a characteristic phenotype marked by positivity for CCR7, CD127, and CD45RO, and negativity for CD45RA and CD25.
+* The patient's central memory CD8+ T-cell compartment was found to be proportionally expanded, with cells predominantly expressing CCR7, CD127, and CD45RO, and lacking CD25.
+* Flow cytometry results showed a notable increase in the proportion of central memory CD8+ T cells, characterized by their CCR7-positive, CD127-positive, and CD45RO-positive phenotype, in the patient's blood.
+* The patient exhibited a higher-than-expected proportion of central memory CD8+ T cells, defined by co-expression of CCR7, CD127, and CD45RO, and absence of CD45RA and CD25.
+* A notable expansion of central memory CD8+ T cells was detected in the patient, with cells displaying a characteristic CCR7-positive, CD127-positive, and CD45RO-positive phenotype, and negativity for CD25.
+* Immunological assessment revealed an increased proportion of CD8+ alpha-beta T cells with a central memory profile, marked by expression of CCR7, CD127, and CD45RO, and lack of CD25 and CD45RA.
+* The central memory CD8+ T-cell population was proportionally increased in the patient, with cells predominantly expressing CCR7, CD127, and CD45RO, and lacking CD25 and CD45RA.
+* Notably, the patient's peripheral blood exhibited an elevated proportion of central memory CD8+ T cells, characterized by their CCR7-positive, CD127-positive, and CD45RO-positive status, and negativity for CD25.
+* An elevated proportion of central memory CD8+ T cells was observed in the patient's blood, with cells exhibiting a characteristic phenotype marked by positivity for CCR7, CD127, and CD45RO, and negativity for CD45RA and CD25.

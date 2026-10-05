@@ -1,0 +1,40 @@
+* The patient presented with noticeable tremulousness of the hands, particularly evident when attempting fine motor tasks.
+* Clinical examination revealed a low-frequency, large-amplitude tremor affecting the patient's upper limbs.
+* A resting tremor was observed in the patient's left hand, which persisted even when the limb was at rest.
+* Action tremor was noted in the patient's right arm, worsening with voluntary movement.
+* The patient exhibited a postural tremor, which became more pronounced when maintaining a fixed position against gravity.
+* Electrophysiological studies confirmed the presence of a tremor, characterized by rhythmic bursts of muscle activity.
+* Physiological tremor was observed in the patient's fingers, likely exacerbated by anxiety and stress.
+* The patient's tremor was most notable when performing activities requiring precision, such as writing or using utensils.
+* On examination, a kinetic tremor was evident, primarily affecting the patient's lower limbs during voluntary movements.
+* A parkinsonian tremor was diagnosed, characterized by a pill-rolling motion of the fingers.
+* Intention tremor was observed, with the patient experiencing difficulty in coordinating movements, especially during goal-directed tasks.
+* Essential tremor was identified as the primary diagnosis, with a positive family history of similar symptoms.
+* The patient's tremor was deceptive, as it was only noticeable during specific actions and not at rest.
+* Orthostatic tremor was diagnosed, with symptoms worsening upon standing and improving with sitting or walking.
+* Dystonic tremor was considered, given the patient's unusual posturing and pattern of muscle contraction.
+* A psychogenic tremor was suspected, as the symptoms seemed to vary in severity and were influenced by emotional state.
+* The patient's medication regimen was adjusted to better manage the tremor, which was determined to be a side effect of treatment.
+* A cerebellar tremor was identified, characterized by a wide-based gait and ataxia.
+* The patient reported a longstanding history of tremors, which had been worsening over time.
+* Despite the patient's efforts to remain still, a resting tremor persisted, disrupting daily activities.
+* Action tremor was the predominant symptom, making everyday tasks a challenge for the patient.
+* When asked to hold a posture, the patient exhibited a noticeable postural tremor, affecting the upper limbs.
+* With movement, the patient's tremor became more pronounced, characteristic of a kinetic tremor.
+* Initial examination revealed a high-frequency, low-amplitude tremor, suggestive of an essential tremor.
+* Palatal tremor was observed, presenting as rhythmic movements of the soft palate.
+* The patient's tremor showed a notable response to treatment, with significant reduction in amplitude and frequency.
+* Clinical assessment revealed a mixed tremor, featuring both resting and action components.
+* Following a thorough evaluation, the patient was diagnosed with a benign essential tremor, with a favorable prognosis.
+* Jaw tremor was noted, manifesting as rhythmic movements of the mandible.
+* Tongue tremor was observed, making speech and swallowing difficult for the patient.
+* Axial tremor was diagnosed, affecting the patient's trunk and leading to balance difficulties.
+* Limb tremor was the primary complaint, with the patient experiencing involuntary movements in the arms and legs.
+* The patient's tremor was most evident during activities requiring fine motor control, such as buttoning a shirt.
+* Surface electromyography (sEMG) confirmed the presence of a tremor, with rhythmic bursts of muscle activity correlating with clinical observations.
+* The patient's tremor was exacerbated by stress and anxiety, with noticeable worsening of symptoms during periods of high emotional arousal.
+* A reflex tremor was suspected, given the patient's history of neurological injury and subsequent tremor onset.
+* On examination, a flapping tremor was observed, characterized by a slow, flapping motion of the limbs.
+* with rubber band-like movements, was noted in the patient's hands, suggestive of an underlying neurological disorder.
+* Cogwheeling was present, with a ratchety, catching sensation when moving the patient's limbs, indicative of a parkinsonian tremor.
+* The patient's tremor was indistinguishable from other involuntary movements at first glance but was ultimately diagnosed as a dystonic tremor after careful evaluation.

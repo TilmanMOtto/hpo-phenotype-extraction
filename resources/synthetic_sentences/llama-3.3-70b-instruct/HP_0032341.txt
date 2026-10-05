@@ -1,0 +1,33 @@
+* The patient's pulmonary function tests showed a notable decrease in forced vital capacity, indicative of a restrictive pattern.
+* Spirometry results revealed an FVC below the lower limit of normal, suggesting impaired lung function.
+* A reduction in vital capacity was observed, with the patient's FVC measuring less than 80% of the predicted value for their age.
+* Clinical evaluation indicated a decreased ability to expel air from the lungs following maximal inspiration, consistent with reduced FVC.
+* Pulmonary function tests demonstrated an abnormal reduction in lung volume, characterized by a low FVC.
+* The patient's FVC was significantly lower than expected, falling below the fifth percentile of normal spirometry data.
+* Decreased lung function was evident, with a forced vital capacity that was less than the lower limit of normal.
+* A restrictive lung disease pattern was suggested by the patient's reduced FVC, which was below 80% of the predicted value.
+* The spirometry report indicated a decreased FVC, consistent with a diagnosis of restrictive lung disease.
+* Low lung volumes were observed, with the patient's FVC measuring less than the lower limit of normal.
+* The patient's ability to exhale maximally was impaired, resulting in a reduced FVC.
+* Pulmonary function testing revealed a decrease in vital capacity, with an FVC below the expected range.
+* A reduction in lung function was noted, characterized by a decreased FVC and a restrictive pattern on pulmonary function tests.
+* The patient's FVC was found to be below the lower limit of normal, indicating impaired lung function.
+* Spirometry results showed a significant decrease in FVC, consistent with a diagnosis of restrictive lung disease.
+* A decrease in forced expiratory volume was observed, accompanied by a reduced FVC.
+* The patient's lung function was impaired, with a reduced FVC and a decrease in total lung capacity.
+* Pulmonary function tests indicated a restrictive pattern, with a reduced FVC and decreased lung volumes.
+* The patient's FVC was less than 80% of the predicted value, indicating a significant reduction in lung function.
+* A decrease in vital capacity was noted, with the patient's FVC falling below the lower limit of normal.
+* The spirometry report indicated a reduced FVC, consistent with a diagnosis of restrictive lung disease.
+* Low FVC values were observed, suggesting a restrictive pattern and impaired lung function.
+* The patient's ability to expire maximally was reduced, resulting in a low FVC.
+* Pulmonary function testing revealed a decrease in lung volume, characterized by a reduced FVC.
+* A restrictive lung disease pattern was suggested by the patient's reduced FVC and decreased lung function.
+* The patient's FVC was significantly lower than expected, indicating impaired lung function and a restrictive pattern.
+* Spirometry results showed a decrease in FVC, consistent with a diagnosis of restrictive lung disease.
+* The patient's lung function was impaired, with a reduced FVC and decreased total lung capacity.
+* A reduction in forced vital capacity was observed, with the patient's FVC measuring less than the lower limit of normal.
+* Pulmonary function tests indicated a restrictive pattern, with a reduced FVC and decreased lung volumes.
+* The patient's FVC was less than 80% of the predicted value, indicating a significant reduction in lung function and a restrictive pattern.
+* A decrease in vital capacity was noted, with the patient's FVC falling below the expected range.
+* The spirometry report indicated a reduced FVC, consistent with a diagnosis of restrictive lung disease and impaired lung function.

@@ -1,0 +1,25 @@
+# Synthetic sentences for every HPO term (thesis appendix B.8).
+#
+# Command:  bash slurm/synthetic_sentences.sh   (needs LLM_GATEWAY_URL and LITELLM_API_KEY, outbound internet)
+# Model: Llama-3.3-70B-Instruct behind an OpenAI-compatible gateway, provider default temperature,
+# max_tokens 2048.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: 42, forwarded to the provider (best effort).
+# Writes one HP_xxxxxxx.txt per term under resources/synthetic_sentences/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hpo_json: resources/util/hpo.json
+target_symptoms_csv: resources/data/hpo_code_lists/symptoms_all.csv
+output_dir: resources/synthetic_sentences
+n_sentences: 40
+model: openrouter/meta-llama/llama-3.3-70b-instruct
+base_url: ${oc.env:LLM_GATEWAY_URL,null}
+max_tokens: 2048
+seed: 42                # passed to the API for reproducibility
+n_workers: 1            # parallel API requests
+api_key: null
+
+hydra:
+  run:
+    dir: .

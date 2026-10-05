@@ -1,0 +1,33 @@
+* The patient experienced a seizure characterized by a clinical manifestation without overt motor signs, suggesting a non-motor seizure.
+* Clinical observation revealed a seizure with initial behavioral arrest, but no notable motor activity.
+* EEG findings indicated an electrographic onset consistent with a non-motor seizure, although the exact type could not be determined.
+* The seizure presentation lacked motor signs, making it challenging to classify as a specific type of non-motor seizure.
+* Non-motor seizure activity was suspected based on the patient's behavior and electrographic patterns.
+* Focal non-motor seizure was considered as a possible diagnosis, but further evaluation was needed to confirm.
+* The patient's seizure was described as a non-motor event with an unknown electrographic onset.
+* Clinical manifestation of the seizure included behavioral changes without accompanying motor signs.
+* Absence seizure was ruled out, but the patient was diagnosed with a non-motor seizure of uncertain type.
+* Non-motor seizure was coded as the patient could not confirm or exclude subjective seizure experiences.
+* Electrographic onset was generalized, suggesting a possible non-motor seizure, but clinical correlation was needed.
+* Seizure activity was characterized by behavioral arrest and minimal motor involvement, consistent with a non-motor seizure.
+* The patient's seizure did not exhibit typical motor signs, leading to consideration of a non-motor seizure diagnosis.
+* Focal or generalized non-motor seizure was suspected, but additional testing was required for definitive classification.
+* Clinical presentation suggested a non-motor seizure with possible focal onset, although further evaluation was needed.
+* Behavioral changes were noted during the seizure, but no motor activity was observed.
+* Non-motor seizure was diagnosed based on clinical and electrographic findings, although the exact type remained uncertain.
+* Generalized non-motor seizure was considered as a possible diagnosis, but the patient's subjective experience could not be confirmed.
+* Seizure onset was characterized by behavioral arrest without accompanying motor signs, consistent with a non-motor seizure.
+* The patient's electrographic patterns suggested a non-motor seizure, but clinical correlation was necessary to confirm.
+* Non-motor seizure activity was observed, but the patient could not provide subjective feedback to aid in classification.
+* Focal non-motor seizure was suspected based on the patient's clinical presentation and electrographic findings.
+* Clinical manifestation of the seizure included behavioral changes and minimal motor activity, consistent with a non-motor seizure.
+* The patient experienced a seizure without notable motor signs, leading to consideration of a non-motor seizure diagnosis.
+* Seizure activity was characterized by electrographic onset and behavioral changes without motor involvement.
+* Non-motor seizure was coded due to the patient's inability to confirm or exclude subjective seizure experiences.
+* The patient's seizure presentation was consistent with a non-motor seizure, although the exact type could not be determined.
+* Behavioral arrest was noted during the seizure, but no motor activity was observed, suggesting a non-motor seizure.
+* Electrographic onset was consistent with a non-motor seizure, although clinical correlation was needed to confirm.
+* Clinical findings suggested a non-motor seizure with possible focal onset, although further evaluation was required.
+* The patient's seizure did not exhibit typical motor signs, leading to consideration of a non-motor seizure diagnosis.
+* Non-motor seizure activity was suspected based on the patient's clinical presentation and electrographic patterns.
+* Seizure onset was characterized by behavioral changes without accompanying motor signs, consistent with a non-motor seizure.

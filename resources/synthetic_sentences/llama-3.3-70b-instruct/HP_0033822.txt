@@ -1,0 +1,36 @@
+* Chest radiograph revealed a significant opacity in the thoracic region, concerning for a mass lesion greater than 3 cm in diameter.
+* Thoracic imaging demonstrated a large, well-circumscribed mass in the pulmonary parenchyma.
+* Patient presented with a newly identified mass on chest CT, measuring 4 cm in diameter, with mixed attenuation.
+* A mediastinal mass was incidentally discovered on a chest X-ray, prompting further evaluation with CT.
+* The presence of a large, solid pulmonary mass was confirmed on follow-up imaging studies.
+* Radiographic findings included a mass in the thoracic cavity, characterized by a heterogeneous density.
+* A partly solid opacity, measuring 3.5 cm, was visualized on the chest radiograph, suggesting a thoracic mass.
+* The CT scan showed a mass in the pleural space, with associated pleural effusion.
+* Further imaging characterized the mass as having a soft tissue attenuation, consistent with a solid lesion.
+* A large, lobulated mass was identified in the thoracic region on imaging, with irregular borders.
+* Thoracic imaging revealed a mass with a maximum diameter of 4.2 cm, located in the upper lobe of the lung.
+* Radiological examination demonstrated a mass with a distinct border, situated in the mediastinum.
+* The mass, as seen on the chest X-ray, had a diameter of 3.2 cm and was situated in the lower lung zone.
+* Imaging studies confirmed the presence of a mass with a mixed solid and cystic component.
+* The patient's CT scan revealed a mass in the thoracic cavity, characterized by a low-density center.
+* A well-defined mass, measuring 3.8 cm in diameter, was visualized in the pulmonary parenchyma.
+* Chest imaging revealed a mass with calcifications, suggestive of a benign process.
+* The mass, identified on thoracic imaging, had a maximal diameter of 4.5 cm and was located in the posterior mediastinum.
+* The radiograph showed a large, solid mass in the thoracic region, with well-defined margins.
+* A significant mass, with a maximum diameter of 4 cm, was detected in the thoracic cavity on CT.
+* Imaging findings included a mass in the pleural space, characterized by a high-density attenuation.
+* The thoracic mass, as visualized on the chest X-ray, had a lobulated contour.
+* The patient's imaging studies revealed a mass with a heterogeneous density, suggesting a complex lesion.
+* A mass, measuring 3.5 cm in diameter, was identified in the upper lobe of the lung on thoracic imaging.
+* The mass, as seen on CT, had a soft tissue attenuation and was located in the anterior mediastinum.
+* Radiological findings included a mass in the thoracic region, characterized by a well-defined border.
+* A large mass, with a maximum diameter of 4.8 cm, was detected in the thoracic cavity on imaging studies.
+* The chest radiograph revealed a mass with a distinct margin, situated in the lower lung zone.
+* Thoracic imaging demonstrated a mass with a low-density center and a maximal diameter of 4 cm.
+* The patient's imaging studies confirmed the presence of a mass with a mixed attenuation, suggestive of a complex lesion.
+* A mass, measuring 3.2 cm in diameter, was visualized in the pulmonary parenchyma on CT.
+* The mass, identified on thoracic imaging, had a maximal diameter of 4.2 cm and was located in the middle mediastinum.
+* The radiograph showed a significant mass in the thoracic region, with an irregular contour.
+* Imaging findings included a mass in the thoracic cavity, characterized by a heterogeneous attenuation.
+* The thoracic mass, as visualized on the chest X-ray, had a diameter of 3.8 cm and was situated in the upper lobe of the lung.
+* The patient's CT scan revealed a mass with a soft tissue attenuation, consistent with a solid lesion, located in the posterior mediastinum.

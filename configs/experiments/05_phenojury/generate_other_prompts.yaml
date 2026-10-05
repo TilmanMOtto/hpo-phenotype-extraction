@@ -1,0 +1,96 @@
+# Juror generations with the HPO-Guided, Evidence Spans and Recall-First
+# prompts (thesis section 5.3).
+#
+# Command:  PROMPTS=other sbatch --array=0-23 slurm/phenojury_generate.sbatch
+# Models: the eight jurors at native half precision, greedy decoding, 512 new tokens (1536 for
+# the three reasoning models).
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seeds: none needed (greedy decoding).
+# Writes <output>/phenojury_generation_other_prompts/<dataset>/<prompt>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc. Both cohorts run. This is the full comparison, not a screen.
+dataset: hcy
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms_all.csv
+gsc_dir: resources/data/GSC_2024
+
+# [Stage], extract | aggregate
+stage: extract
+array_index:
+prompt_key:
+model_key:
+
+# [Prompts], the promoted winners, comma-separated. Passed by the select job or by
+# slurm/phenojury_generate.sbatch (PROMPTS=other). Left empty on purpose: a default here would be run by anyone who
+# forgot the flag, under a name that says nothing about which prompts produced the numbers.
+prompt_keys:
+
+# [Required paths]
+stanza_dir: ${paths:stanza_dir}
+output_dir: ${paths:output_dir}
+hpo_json_path:
+
+# [Model models], the same 8 members, same keys and order as the Free Listing generation run.
+slm_dirs:
+  apertus: ${paths:models.jurors.apertus}
+  deepseek: ${paths:models.jurors.deepseek}
+  intelligent_internet: ${paths:models.jurors.intelligent_internet}
+  openbiollm: ${paths:models.jurors.openbiollm}
+  llama: ${paths:models.jurors.llama}
+  medpsy: ${paths:models.jurors.medpsy}
+  medgemma: ${paths:models.jurors.medgemma}
+  phi4: ${paths:models.jurors.phi4}
+
+# [PhenoBERT]
+phenobert_dir: ${paths:phenobert.dir}
+phenobert_python: ${paths:phenobert.python}
+phenobert_stanza_dir: ${paths:stanza_dir_phenobert}
+phenobert_threads: 4
+phenobert_p1: 0.8
+phenobert_p2: 0.6
+phenobert_p3: 0.9
+phenobert_predictions_path:
+# Input files per PhenoBERT subprocess when the host-OOM retry fires, a RETRY setting, never used
+# on a first pass. An earlier exploratory run's D1: `q7_recall x apertus` was OOM-killed at 90.7 GB of 96 GB on 20
+# reports, because PhenoBERT holds a whole input directory's annotation in memory and that prompt
+# writes 8 lines per reply on 68 % of sentences. At 118 and 228 reports it would be worse. Each
+# input file is annotated independently into its own output file, so the chunks' combined output
+# is identical to one pass. It only costs one model load per chunk. Empty → 16. Set 0 to disable
+# and let an OOM kill raise, as it did before.
+phenobert_chunk_size:
+
+# [Generation], greedy, identical to the Free Listing generation run and an earlier exploratory run.
+max_new_tokens: 512
+max_new_tokens_overrides:
+  deepseek: 1536
+  intelligent_internet: 1536
+  medpsy: 1536
+
+# [Performance]
+gen_batch_size: 8
+reuse_extractions: true
+max_runtime_s:
+
+# [Aggregation]
+min_detection_count: 1
+
+# [Cohort], full run: no cap, and NO annotation filter.
+#
+# require_annotated is false here on purpose, and it is the one setting that differs in spirit from
+# An earlier exploratory run. The screen filters because it picks only 20 reports and an unannotated one wastes a
+# slot. This experiment's numbers go into the earlier comparison table next to the Free Listing generation run's, which
+# scores every report in the cohort, including HCY's 18 unannotated ones, where any prediction is
+# a false positive. Filtering them out here would raise precision for reasons that have nothing to
+# do with the prompt, and the two rows would no longer be comparable.
+max_patients:
+require_annotated: false
+
+mlflow_experiment_name: exp13_comparison

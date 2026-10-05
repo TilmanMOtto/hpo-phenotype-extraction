@@ -1,0 +1,76 @@
+# AutoPCR baseline with an 8B linker (thesis section 3.5, appendix A.5).
+#
+# Command:  METHOD=autopcr_8b sbatch slurm/baseline.sbatch   (DATASET=gsc for GSC+)
+# Model: Llama-3.1-8B-Instruct linker, 8-bit; SapBERT retrieval. Tau_1 0.95, tau_2 0.85, k 5.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: 0 where the tool takes one (greedy decoding).
+# Writes <output>/baseline_autopcr_8b/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc
+dataset: hcy
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms.csv
+gsc_dir: resources/data/GSC_2024
+
+# [Required]
+llama_dir: ${paths:models.llama_3_1_8b_instruct}
+output_dir: ${paths:output_dir}
+
+# [AutoPCR]
+autopcr_dir: third_party/AutoPCR
+# Built by build_dict_from_hpo_json.py + build_index.py. Gitignored: it is a build product.
+ontology_dict: third_party/AutoPCR/dict/HPO
+# Candidate-concept retrieval encoder. MUST be a local directory, the upstream default is the HF
+# hub id `cambridgeltl/SapBERT-from-PubMedBERT-fulltext`, which the offline compute nodes cannot
+# fetch (they retry until the job dies). It must also be the SAME model the index was built
+# with. A mismatch produces silently meaningless cosines.
+ccr_model:
+ccr_device:            # blank = cuda when available. Set `cpu` to leave the GPU to the linker.
+# FAISS on GPU. Off by default: the index is a 40k x 768 IndexFlatIP (milliseconds on CPU) and
+# faiss-gpu==1.7.2 against this env's torch/CUDA is an avoidable failure mode.
+use_gpu_index: false
+# AutoPCR's published configuration (README defaults). Retrieval accepts above tau_1 on its own;
+# The linker is consulted only in the [tau_2, tau_1) band.
+tau_1: 0.95
+tau_2: 0.85
+k: 5
+# Entity extraction, AutoPCR's PUBLISHED setting. "neural++" = Stanza i2b2/mimic clinical NER
+# + benepar constituency parsing (en_core_web_trf + benepar_en3_large) + coordination
+# decomposition: upstream's default, and what its GSC-2024 command runs. The parse happens in a
+# separate environment (autopcr_ee_venv, upstream's own transformers 4.49 / protobuf 6 pins), via
+# `sbatch cluster/run_<ds>_exp13_19_extract.sh`, which leaves phrases_benepar.json /
+# phrases_conjunct.json beside the staged corpus. This run loads them and refuses to start without
+# them. Until 2026-09-26 this was "neural" (Stanza only), a lower bound. Those outputs are archived
+# under output/_archive/*_ee-neural. See experiment.md.
+ee: neural++
+# Off, as in upstream's published GSC-2024 command (`--abbr_recog` is passed only for NCBI).
+abbr_recog: false
+only_longest: false    # upstream uses this for BIOC-GS / ID-68 / NCBI, not for the GSC corpus
+use_cache: true        # memoise phrase -> concepts. Deterministic, and the enumeration repeats a lot
+seed: 0
+# The entity linker's name, passed through to AutoPCR. Set `el: none` to disable the LLM stage
+# entirely, retrieval accepts above tau_1 and nothing else is linked. That is the pure-retrieval
+# control for this method: the difference against a normal run is what the linker adds.
+el: local
+# Stanza resources for the i2b2/mimic pipeline, the PhenoRAG 1.10.1 tree, NOT the PhenoBERT 1.4.1
+# one (the schemas are incompatible).
+stanza_dir: ${paths:stanza_dir}
+
+# [Model], the entity linker
+load_in_4bit: false
+max_new_tokens: 32     # upstream's cap: the answer is `answer: <id>` + `confidence: <LEVEL>`
+
+# [Pilot]
+max_patients:
+# Stage the corpus and stop (no dictionary, no linker): the first half of run_<ds>_exp13_19_extract.sh.
+stage_only: false
+
+mlflow_experiment_name: exp13_comparison

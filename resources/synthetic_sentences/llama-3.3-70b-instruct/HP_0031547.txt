@@ -1,0 +1,37 @@
+* The electrocardiogram revealed a prolonged QT interval, prompting further evaluation for potential cardiac arrhythmias.
+* QTc interval was noted to be significantly shortened on the patient's EKG, raising concerns for possible electrolyte imbalances.
+* An abnormal QT interval was observed on the patient's baseline EKG, warranting close monitoring and potential adjustment of medications.
+* The patient's EKG demonstrated a QT interval of 520ms, exceeding the normal range and necessitating further cardiac workup.
+* A striking finding on the patient's electrocardiogram was the presence of a markedly prolonged QT interval, suggestive of long QT syndrome.
+* The EKG showed a biphasic T wave with a prolonged QT interval, which may be indicative of myocardial ischemia or hypokalemia.
+* QT interval prolongation was observed in the setting of hypokalemia and hypomagnesemia, highlighting the importance of electrolyte replenishment.
+* On the 12-lead EKG, a shortened QT interval was seen, which could be a sign of digitalis effect or hypercalcemia.
+* The corrected QT interval (QTc) was calculated to be 480ms, slightly above the normal range, and will require ongoing surveillance.
+* An abnormality of the QT interval was detected on the patient's Holter monitor, consistent with a diagnosis of long QT syndrome.
+* The patient's QT interval was found to be at the upper limit of normal on multiple EKGs, suggesting the need for cardiac monitoring during initiation of new medications.
+* A notable EKG finding was the U wave, accompanying a prolonged QT interval, which may indicate hypokalemia or other electrolyte disturbances.
+* The QT interval was measured at 450ms, which is slightly below the normal range, and may be a normal variant or related to the patient's medication regimen.
+* EKG analysis revealed QT interval dispersion, which is a known risk factor for arrhythmic events and cardiac mortality.
+* The QT interval was normal on the initial EKG but became prolonged following the initiation of a new medication, highlighting the need for vigilant monitoring.
+* Prolongation of the QT interval was seen on the EKG in the setting of severe hypokalemia, emphasizing the importance of prompt electrolyte correction.
+* The electrocardiogram demonstrated T wave alternans with a prolonged QT interval, concerning for increased risk of torsades de pointes.
+* On cardiac monitoring, a transient abnormality of the QT interval was observed, which resolved with correction of the patient's potassium level.
+* Marked QT interval prolongation was detected in a patient with a history of congenital long QT syndrome, underscoring the importance of genetic screening and family evaluation.
+* The 12-lead EKG showed a prolonged QT interval, particularly in the lateral leads, which may be indicative of left ventricular hypertrophy.
+* A short QT interval was found on the patient's EKG, a rare condition associated with an increased risk of atrial fibrillation and sudden cardiac death.
+* QT interval abnormalities were identified on the patient's EKG in the setting of acute myocardial infarction, possibly reflecting reperfusion injury or electrolyte imbalance.
+* Electrolyte imbalances, including hypokalemia and hypomagnesemia, contributed to the development of a prolonged QT interval in this patient.
+* A striking feature on the patient's EKG was the prolonged QT interval, accompanied by a right bundle branch block, suggesting possible cardiac structural abnormalities.
+* Serial EKGs demonstrated a progressive prolongation of the QT interval, prompting consideration of a congenital or acquired long QT syndrome.
+* The patient's baseline EKG showed a QT interval at the upper limit of normal, necessitating careful monitoring and potential avoidance of QT-prolonging medications.
+* The presence of a bifid T wave and a prolonged QT interval on the EKG raised concerns for possible cardiomyopathy or myocardial ischemia.
+* The QT interval was significantly prolonged on the EKG, consistent with a diagnosis of long QT syndrome type 1, based on the patient's clinical presentation and family history.
+* The corrected QT interval was elevated at 500ms, with a notable U wave, which may indicate hypokalemia or the effect of certain medications.
+* An abnormal QT interval was observed in the setting of acute coronary syndrome, possibly related to reperfusion injury or electrolyte disturbances.
+* The patient's EKG revealed a short QT interval with a characteristically tall, peaked T wave, which has been associated with a heightened risk of cardiovascular events.
+* QT interval prolongation was noted on the patient's EKG in conjunction with a left anterior fascicular block, suggesting possible underlying cardiac disease.
+* On telemetry monitoring, intermittent QT interval prolongation was seen, particularly during episodes of bradycardia, highlighting the need for ongoing surveillance and potential pacing.
+* A gradual prolongation of the QT interval was observed over several EKGs, raising concerns for potential cardiotoxic effects of the patient's chemotherapy regimen.
+* The electrocardiogram demonstrated QT interval dispersion and marked QT interval prolongation, placing the patient at increased risk for ventricular arrhythmias and sudden cardiac death.
+* In the setting of cardiac arrest, a markedly prolonged QT interval was identified on the post-arrest EKG, suggesting torsades de pointes as a possible precipitating factor.
+* The patient's QT interval was found to be abnormal on the EKG, with a characteristic "long QT" pattern, which may be congenital or acquired in nature, and warrants further evaluation and family screening.

@@ -1,0 +1,37 @@
+* The patient's immune workup revealed a notable deviation in the proportion of naive T cells to total T cells, suggesting an underlying immunological imbalance.
+* Flow cytometry analysis showed an abnormal percentage of naive T cells, characterized by CCR7-positive, CD45RA-positive, and CD127-positive markers.
+* The CD4+ T cell subset analysis indicated a disproportionate number of naive cells, which may be indicative of an impaired immune response.
+* A decreased proportion of naive T cells was observed, potentially reflecting an increased state of immune activation or antigen exposure.
+* The lymphocyte panel revealed an elevated proportion of CD45RO-positive cells, suggesting a shift from naive to memory T cells.
+* Assessment of T cell development revealed an aberrant proportion of naive T cells, which may be related to thymic dysfunction.
+* The CD25-negative, CD62L-high, and CD44-low phenotype was observed in an abnormal proportion of T cells, indicative of naive T cell dysfunction.
+* A marked imbalance in the naive to memory T cell ratio was noted, which could be contributing to the patient's immunological symptoms.
+* The proportion of CD45RA-positive T cells was found to be outside the normal range, suggesting an abnormality in naive T cell homeostasis.
+* T cell phenotyping revealed an unusual proportion of naive cells, which may be associated with immunodeficiency or autoimmune disorders.
+* Naive T cell frequency was elevated, potentially indicating a state of immunological naivety or reduced antigen exposure.
+* A reduced proportion of naive T cells was observed, which could be related to chronic inflammation or immune activation.
+* The patient's T cell profile showed an abnormal proportion of CD127-positive cells, suggesting a disturbance in naive T cell regulation.
+* Flow cytometric analysis revealed an abnormal proportion of naive T cells, characterized by a CD45RA-positive, CCR7-positive, and CD25-negative phenotype.
+* Lymphocyte subset analysis indicated an aberrant proportion of naive T cells, which may be contributing to the patient's clinical presentation.
+* The CD4+ T cell compartment showed an imbalance in the proportion of naive and memory cells, potentially indicating an underlying immunological disorder.
+* Abnormalities in the proportion of naive T cells were noted, which may be related to impaired T cell development or function.
+* The proportion of naive T cells was found to be decreased, potentially reflecting an increased state of immune activation or inflammation.
+* An elevated proportion of naive T cells was observed, which could be indicative of a state of immunological inexperience or reduced antigen exposure.
+* Naive T cell proportion was abnormal, suggesting a disturbance in the balance between naive and memory T cell populations.
+* T cell panel results showed an unusual proportion of CD45RO-negative cells, potentially indicating a naive T cell predominance.
+* The proportion of naive T cells was outside the normal range, which may be contributing to the patient's immunological symptoms.
+* Flow cytometry revealed an aberrant proportion of naive T cells, characterized by a CCR7-positive, CD45RA-positive, and CD127-positive phenotype.
+* The patient's immune profile showed an imbalance in the proportion of naive and memory T cells, potentially indicating an underlying immunological disorder.
+* Lymphocyte subset analysis indicated an abnormal proportion of naive T cells, which may be related to impaired immune function or T cell development.
+* The CD4+ T cell subset showed an abnormal proportion of naive cells, potentially suggesting a state of immunological naivety or reduced antigen exposure.
+* A marked deviation in the proportion of naive T cells was noted, which could be contributing to the patient's clinical presentation.
+* The proportion of naive T cells was found to be abnormal, suggesting a disturbance in T cell homeostasis or immune regulation.
+* T cell phenotyping revealed an unusual proportion of naive cells, characterized by a CD25-negative, CD62L-high, and CD44-low phenotype.
+* Naive T cell frequency was decreased, potentially indicating an increased state of immune activation or inflammation.
+* The patient's T cell profile showed an abnormal proportion of CD45RA-positive cells, suggesting a naive T cell imbalance.
+* Flow cytometric analysis revealed an aberrant proportion of naive T cells, potentially indicating an underlying immunological disorder.
+* Lymphocyte subset analysis indicated an abnormal proportion of naive T cells, which may be related to impaired T cell function or immune regulation.
+* The proportion of naive T cells was outside the normal range, potentially contributing to the patient's immunological symptoms.
+* The CD4+ T cell compartment showed an imbalance in the proportion of naive and memory cells, suggesting an underlying immunological disorder.
+* Abnormalities in the proportion of naive T cells were noted, potentially indicating impaired T cell development or function.
+* The proportion of naive T cells was found to be elevated, potentially suggesting a state of immunological inexperience or reduced antigen exposure.

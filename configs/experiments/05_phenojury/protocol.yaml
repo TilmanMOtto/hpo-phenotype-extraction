@@ -1,0 +1,154 @@
+# PhenoJury analysis: nested cross-validation over prompt, normaliser, jury, rule,
+# unit and k (thesis chapter 5, appendix C). CPU only.
+#
+# Command:  sbatch slurm/phenojury_protocol.sbatch   (COHORT=gsc206 for GSC+ (206)). The thesis runs passed
+# +fixed_juries.core3=[medgemma,medpsy,phi4] and +fixed_juries.core3swap=[intelligent_internet,
+# medpsy,phi4], which the template sets.
+# No model: the analysis reads the normalised detections.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seeds: 0 for every bootstrap and permutation. Jury tolerance 0.01 (see below).
+# Writes <output>/phenojury_protocol/<cohort>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+output_dir: ${paths:output_dir}
+
+# [Inputs]
+# The normalisation run's output root, {grid_dir}/{source_cohort}/{prompt}/detections_{model}__{normaliser}.jsonl.
+grid_dir: ${paths:results_dir}/phenojury_normalisation
+
+# `cohort` names the OUTPUT directory and the run: it is the cohort being scored.
+cohort: hcy
+
+# `source_cohort` names the detections directory to read. It defaults to `cohort` and differs only
+# for a **derived** cohort, a narrower view of a corpus whose generations were produced once.
+# `gsc_raghpo_ann` (RAG-HPO's 114 documents) and `gsc_2024_eval_206` (AutoPCR's evaluation frame)
+# are both scored from the one `gsc` cache. The ground truth and the folds are what make them different
+# runs, and those are passed separately. Without this the two would have to share an output
+# directory with the 228-document run and silently overwrite it.
+source_cohort:
+
+# The curated ground truth, two-column patient_id,hpo_codes. NOT the raw ground truth: the ground-truth build measured that one at
+# 87 % omission, and the ensemble is among the methods whose "errors" it most misattributes.
+gold_path: ${paths:hcy.curated_ground_truth}
+
+# The shared nested-CV assignment from experiments/03_setup/make_folds.py. Chapter 4 reads the same file, which
+# is what makes the two architectures comparable rather than merely similarly evaluated. It is a
+# pure function of (ground truth file, seed) and is not committed, regenerate, never copy.
+folds_path: ${paths:hcy.folds}
+
+# The ground-truth build's annotation sidecar, carrying each annotated term's segment. Only S1's located generation
+# rate needs it. Leave empty and that one ceiling is skipped with a note rather than faked.
+annotations_path:
+
+# [Stages]
+# `budget` writes the generation-call budget (inline numbers); `restricted` is T5.6's second block;
+# `lomo` is T5.7 and `decomposition` T5.8 -- both run after `headline`, because both are measured
+# against the selected jury that stage resolves.
+stages: [audit, budget, ceilings, grid, restricted, curves, interaction, selection, diversity,
+         headline, lomo, decomposition, sensitivity, report]
+
+# [The pool]
+prompts: [p0_baseline, q2_sentence_last, q4_span_json, q7_recall]
+# The grid's three readers. phenobert_raw is loaded too (see reference_normaliser) but is not a
+# competitor in the grid: it reads the whole generation where these three read parsed candidates.
+normalisers: [phenobert_candidates, dictionary, sapbert]
+reference_normaliser: phenobert_raw
+
+# [The axes the procedure selects over]
+# `closure` unreduced is omitted by default, not forgotten: an earlier exploratory run measured it at micro-F1 0.234
+# because the accepted set is ancestor-closed by design and emits 99 predictions per report at
+# k=1. Add it back to reproduce that row. Leave it out to keep the selection space honest.
+rules: [exact, closure_reduced]
+units: [report, segment, window]
+
+# [Selection] Tolerance for the smallest-jury-within-epsilon rule. Without it the procedure chases a
+# 0.001 inner improvement bought with three extra jurors. With it, the jury has to earn its size.
+# It applies to jury SIZE within one (prompt, normaliser) pair. Pairs compete on the ceiling of
+# their elimination path (see protocol.evaluate_pair).
+epsilon: 0.01
+
+# [Compute] Every out-of-fold row now selects its (prompt, normaliser) pair inside each outer
+# training split, so the selection work is |prompts| x |normalisers| (12) times what it was with
+# The pair fixed on the dev split. The pairs are independent, so they run in forked processes. Set
+# this to the job's --cpus-per-task. Memory is one pair's packings per worker.
+n_workers: 1
+
+# [The descriptive split] S2, S3, S4 and S6 are descriptive, so they run on ONE fixed in advance
+# training split: the train half of this (repetition, outer_fold). That split holds the held-out
+# reports of the other outer folds of its repetition, so NOTHING an out-of-fold row is scored at is
+# chosen on it, S5/S7/S8 re-select the pair, jury, rule, unit and k inside every fold.
+dev_repetition: 0
+dev_outer_fold: 0
+# Set true to compute the descriptive grids on the whole cohort instead. That is a different claim
+# and every table says so. It exists for the sensitivity check, not for the main.
+dev_use_full_cohort: false
+
+# [Uncertainty] 10 000 is the thesis's setting. Lower both for a smoke run.
+n_bootstrap: 10000
+n_permutations: 10000
+alpha_holm: 0.05
+
+# [S7, the test family, PRE-SPECIFIED]
+#
+# Holm's adjustment is valid for the family declared BEFORE the results are seen. Adding a
+# comparator after reading a table invalidates every p-value in this file, so extending this list
+# means re-running the whole `headline` stage, not appending a row to its output. The stage writes
+# The family it used into significance.csv beside the p-values for that reason.
+#
+# Available labels: phenojury (the nested selection), full_pool (every juror at the selected
+# prompt+normaliser), best_single_juror (resolved after scoring, never chosen by hand), and
+# single:<model> for a named one. There is no `j0`: with the prompt fixed, "one model,
+# one prompt" and "best single juror" are the same comparison, and giving it two names would put
+# one test in the family twice. S6's cell A is where that floor is reported.
+test_family:
+  - [phenojury, best_single_juror]
+  - [phenojury, full_pool]
+
+# [S7, descriptive] Juries named by hand, scored out-of-fold with rule/unit/k still chosen inside
+# each training split. Written for the jury S5 selects in nearly every fold of BOTH cohorts, which
+# a reader will ask about once the frequencies are published. They appear in s7_headline.csv as
+# `fixed:<label>` and are tested ONLY in s7_exploratory_fixed_jury.csv.
+#
+# They are NOT in `test_family` and must not be moved there. This comparator was named after
+# reading S5, and adding it to the family would invalidate the Holm adjustment for every test in
+# it. If a fixed jury should ever carry an inferential claim, pre-specify it and re-run the family
+# whole against fresh selection output.
+#
+#   +fixed_juries.core3=[medgemma,medpsy,phi4]
+fixed_juries: {}
+
+# [T5.2] J0, PhenoBERT read straight off the report text, with no language model in the loop at
+# all. This is NOT the `single:<model>` floor and not `best_single_juror`: those are one SLM at the
+# selected prompt, read by a normaliser. J0 is the trained tagger on its own, and it answers the
+# question that decides whether this chapter bought anything, does a jury of small general models
+# beat a supervised tagger that needs no generation?
+#
+# It arrives as a two-column prediction-set CSV (the same contract the comparison consumes), because
+# The PhenoJury protocol loads cached generations and has no way to run PhenoBERT itself:
+#
+#   j0_predictions_path=$OUT/baseline_phenobert/hcy/predictions.csv
+#
+# It is scored and given an interval, and it is NOT in `test_family`: the family was
+# fixed before the run, and a p-value against a comparator added afterwards would be arithmetic
+# dressed as inference. The interval is the claim. Leave null to omit the row.
+j0_predictions_path:
+j0_label: "PhenoBERT (no LM)"
+
+# [T5.6] The ground truth sources whose pairs the restricted condition drops, for the pre-annotation bias check.
+# `new` is a curator's own suggestion, written while PhenoBERT's output was on screen, so it is
+# The recorded provenance the threat maps onto. `prior_annotation` and `daphne` are independent annotation
+# files that predate the curation pass, so they stay. PhenoBERT itself is NOT a ground truth source (the
+# curation UI draws it as reference only and never gives it a verdict), which is why this restricts
+# on what was actually recorded rather than on a PhenoBERT flag that does not exist.
+gold_exclude_sources: [new]
+
+# [S6] Jury size for the matched diversity contrast, and the pool the cells are drawn from.
+diversity_jury_size: 4
+
+mlflow_experiment_name: exp13_comparison

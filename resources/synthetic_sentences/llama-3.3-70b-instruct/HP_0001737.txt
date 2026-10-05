@@ -1,0 +1,35 @@
+* The patient's CT scan revealed multiple cystic lesions within the pancreas, concerning for a possible neoplastic process.
+* Imaging studies demonstrated a well-defined cystic structure in the pancreatic head, raising suspicion for a mucinous cystic neoplasm.
+* A complex cystic lesion was identified in the pancreas, prompting further evaluation to distinguish between a true cyst and a pseudocyst.
+* The MRI showed a cluster of cysts in the pancreatic body, suggestive of a congenital or developmental anomaly.
+* Pancreatic cysts were incidentally discovered during an abdominal ultrasound, with the largest cyst measuring 2 cm in diameter.
+* Endoscopic ultrasound revealed a unilocular cyst in the pancreatic tail, with a suspected diagnosis of a mucinous cystic tumor.
+* The patient underwent surgical resection of a large pancreatic cyst, which was found to have a thick wall and mucinous epithelial lining.
+* Multiple small cysts were seen in the pancreas on CT, possibly representing a forme fruste of a more extensive cystic disease process.
+* A pancreatic cyst was identified in the setting of a strong family history of cystic fibrosis, prompting genetic counseling.
+* The cystic lesion in the pancreas was found to have a high-risk feature on MRI, concerning for a potential malignancy.
+* Cyst fluid analysis revealed a high CEA level, supporting the diagnosis of a mucinous cystic neoplasm of the pancreas.
+* A large pancreatic cyst was drained percutaneously, with subsequent analysis of the cyst fluid revealing a low amylase level.
+* The patient presented with recurrent pancreatitis, and imaging revealed multiple pancreatic cysts, suggesting a possible underlying cystic disease process.
+* A cystic structure in the pancreatic head was incidentally discovered during a whistleblow cholecystectomy, and was found to be a simple pancreatic cyst.
+* The patient's pancreatic cyst was categorized as a type I mucinous cystic neoplasm, with a high risk of malignant transformation.
+* ERCP revealed a pancreatic cyst communicating with the main pancreatic duct, concerning for an intraductal papillary mucinous neoplasm.
+* A unilocular cyst was identified in the pancreatic tail, with a thin wall and no septations, consistent with a simple pancreatic cyst.
+* MRI demonstrated a multicystic lesion in the pancreas, concerning for a hamartomatous or neoplastic process.
+* A cystic lesion in the pancreas was characterized as a type II mucinous cystic neoplasm, with an intermediate risk of malignant transformation.
+* The patient underwent a Whipple procedure for a suspected malignant pancreatic cyst, which was found to be a mucinous cystic carcinoma.
+* A pancreatic cyst was identified in a patient with a history of von Hippel-Lindau disease, confirming the suspected diagnosis of a serous cystadenoma.
+* Endoscopic ultrasound-guided fine-needle aspiration of a pancreatic cyst revealed a low-risk cytology, consistent with a pseudocyst or simple cyst.
+* The patient's pancreatic cyst was found to have a solid component, concerning for a potential malignancy, and prompting further evaluation.
+* Imaging studies demonstrated a large cystic lesion in the pancreatic head, concerning for a neoplastic process or pseudocyst.
+* A cluster of small cysts was identified in the pancreatic body, possibly representing a congenital or developmental anomaly.
+* The patient presented with obstructive jaundice, and imaging revealed a large pancreatic cyst causing extrinsic compression of the common bile duct.
+* Cyst fluid analysis revealed an elevated CEA level, supporting the diagnosis of a mucinous cystic neoplasm.
+* MRI demonstrated a unilocular cyst in the pancreatic tail, with a suspected diagnosis of a simple pancreatic cyst or pseudocyst.
+* A pancreatic cyst was identified in the setting of a strong family history of pancreatitis, prompting further evaluation for cystic fibrosis or other underlying conditions.
+* The patient underwent surgical resection of a large pancreatic cyst, which was found to have a thick wall and mucinous epithelial lining, consistent with a mucinous cystic neoplasm.
+* A complex cystic lesion was identified in the pancreas, with a suspected diagnosis of an intraductal papillary mucinous neoplasm or mucinous cystic neoplasm.
+* Endoscopic ultrasound revealed a multicystic lesion in the pancreas, concerning for a hamartomatous or neoplastic process.
+* Imaging studies demonstrated a large cystic lesion in the pancreatic head, with a suspected diagnosis of a pseudocyst or mucinous cystic neoplasm.
+* A pancreatic cyst was identified in a patient with a history of polycystic kidney disease, confirming the suspected diagnosis of a simple pancreatic cyst or pseudocyst.
+* The patient presented with recurrent pancreatitis, and imaging revealed multiple pancreatic cysts, suggesting a possible underlying cystic disease process or pancreas divisum.

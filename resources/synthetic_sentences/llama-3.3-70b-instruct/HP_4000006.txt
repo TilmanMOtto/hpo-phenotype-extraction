@@ -1,0 +1,35 @@
+* The patient's cardiac MRI revealed an elevated native T1 time, suggestive of myocardial disease.
+* Native T1 mapping demonstrated a prolonged relaxation time, indicative of potential myocardial pathology.
+* Increased native T1 values were observed in the myocardium, consistent with edema or fibrosis.
+* The myocardial T1 time was significantly longer than expected, raising concerns for underlying cardiac disease.
+* Native T1 relaxation times were elevated, indicating possible myocardial involvement.
+* Prolonged T1 times were noted on cardiac MRI, suggestive of myocardial inflammation or fibrosis.
+* Elevated native T1 times were seen in multiple myocardial segments, consistent with a diffuse process.
+* The native T1 map showed a marked increase in relaxation times, concerning for myocardial disease.
+* Cardiac MRI demonstrated elevated native T1 values, which may be indicative of myocardial edema or fibrosis.
+* A prolonged native T1 time was observed in the myocardium, potentially reflecting underlying pathology.
+* The T1 relaxation time was significantly prolonged, suggestive of myocardial disease or injury.
+* Native T1 mapping revealed elevated relaxation times, consistent with myocardial inflammation or fibrosis.
+* The patient's native T1 times were elevated, indicating potential myocardial involvement or disease.
+* Cardiac MRI showed an increase in native T1 times, which may be indicative of myocardial pathology.
+* Elevated native T1 relaxation times were noted, concerning for underlying myocardial disease.
+* The myocardial native T1 time was prolonged, suggestive of potential cardiac disease or injury.
+* Native T1 mapping demonstrated elevated relaxation times, consistent with myocardial edema or fibrosis.
+* A significant increase in native T1 times was observed, indicating potential myocardial pathology.
+* The patient's cardiac MRI revealed prolonged native T1 relaxation times, suggestive of myocardial disease.
+* Elevated native T1 times were seen in the myocardium, consistent with inflammation or fibrosis.
+* Native T1 mapping showed a marked increase in relaxation times, concerning for myocardial disease.
+* The T1 relaxation time was prolonged, indicating potential myocardial involvement or disease.
+* Cardiac MRI demonstrated elevated native T1 values, which may be indicative of myocardial pathology.
+* A prolonged native T1 time was observed, suggestive of underlying myocardial disease or injury.
+* Native T1 mapping revealed elevated relaxation times, consistent with myocardial edema or fibrosis.
+* The patient's native T1 times were significantly elevated, indicating potential myocardial disease.
+* Elevated native T1 relaxation times were noted, concerning for underlying cardiac disease.
+* The myocardial native T1 time was significantly prolonged, suggestive of potential myocardial pathology.
+* Native T1 mapping demonstrated elevated relaxation times, consistent with myocardial inflammation or fibrosis.
+* The patient's cardiac MRI showed an increase in native T1 times, which may be indicative of myocardial disease.
+* A significant increase in native T1 relaxation times was observed, indicating potential myocardial pathology.
+* Elevated native T1 times were seen in multiple myocardial segments, consistent with a diffuse process.
+* The native T1 map showed a marked increase in relaxation times, concerning for myocardial disease or injury.
+* The T1 relaxation time was significantly prolonged, indicating potential myocardial involvement or disease.
+* Cardiac MRI revealed elevated native T1 values, which may be indicative of myocardial edema or fibrosis.

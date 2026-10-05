@@ -1,0 +1,36 @@
+* The electrocardiogram (ECG) revealed a ventricular escape rhythm, indicating a failure of the higher-level pacemakers to regulate ventricular activation.
+* Patient presented with a widened QRS complex duration of 140 ms, suggestive of an idioventricular escape rhythm.
+* The cardiac monitor showed a ventricular escape rhythm with a rate of 25 bpm, consistent with an escape rhythm originating from the ventricles.
+* ECG findings were consistent with a ventricular escape rhythm, characterized by broad QRS complexes and a rate of 30 bpm.
+* The Holter monitor recorded intermittent episodes of ventricular escape rhythm, often preceded by prolonged pauses in atrial activity.
+* Diagnosis of ventricular escape rhythm was made based on the presence of broad QRS complexes and a ventricular rate of 35 bpm.
+* Idioventricular escape rhythm was suspected in a patient with a history of complete heart block and a ventricular rate of 20 bpm.
+* Upon reviewing the ECG, we noted a ventricular escape rhythm with a QRS duration of 130 ms, indicative of a ventricular origin.
+* Patient's ECG demonstrated a ventricular escape rhythm, likely due to failure of the sinoatrial node to maintain an adequate heart rate.
+* Ventricular escape rhythm was observed in the ICU, with a rate of 28 bpm and QRS complexes measuring 140 ms in duration.
+* The presence of a ventricular escape rhythm with a rate of 22 bpm suggested underlying conduction system disease.
+* Broad QRS complexes and a rate of 38 bpm were consistent with a diagnosis of ventricular escape rhythm in this patient.
+* ECG showed evidence of an idioventricular escape rhythm, characterized by a ventricular rate of 32 bpm and QRS complexes ≥ 120 ms.
+* Cardiac monitoring revealed intermittent ventricular escape rhythms, often associated with periods of atrial fibrillation.
+* Patient's ventricular escape rhythm was likely caused by a failure of the atrioventricular node to conduct impulses to the ventricles.
+* The ECG demonstrated a ventricular escape rhythm with a rate of 24 bpm, consistent with a diagnosis of third-degree AV block.
+* Idioventricular escape rhythm was diagnosed in a patient with a history of myocardial infarction and a ventricular rate of 26 bpm.
+* Ventricular escape rhythm with a QRS duration of 125 ms was observed in a patient with a history of cardiac surgery.
+* A ventricular escape rhythm with a rate of 36 bpm was noted on the ECG, suggestive of an underlying conduction system abnormality.
+* The patient's ECG showed a ventricular escape rhythm, likely due to a failure of the sinus node to maintain an adequate heart rate.
+* Broad QRS complexes and a ventricular rate of 20 bpm were consistent with a diagnosis of ventricular escape rhythm in this patient.
+* ECG findings suggested an idioventricular escape rhythm, characterized by a ventricular rate of 30 bpm and QRS complexes ≥ 120 ms.
+* The presence of a ventricular escape rhythm with a rate of 22 bpm and QRS complexes ≥ 120 ms indicated underlying cardiac disease.
+* Ventricular escape rhythm was observed in the setting of complete heart block, with a ventricular rate of 25 bpm.
+* The patient's cardiac monitor showed intermittent episodes of ventricular escape rhythm, often associated with periods of bradycardia.
+* Idioventricular escape rhythm was suspected in a patient with a history of cardiac arrest and a ventricular rate of 28 bpm.
+* ECG demonstrated a ventricular escape rhythm with a QRS duration of 130 ms, consistent with a ventricular origin.
+* A ventricular escape rhythm with a rate of 32 bpm was noted on the ECG, suggestive of an underlying conduction system abnormality.
+* The patient's ECG showed evidence of a ventricular escape rhythm, likely due to a failure of the atrioventricular node to conduct impulses to the ventricles.
+* Broad QRS complexes and a ventricular rate of 24 bpm were consistent with a diagnosis of ventricular escape rhythm in this patient.
+* Ventricular escape rhythm with a rate of 38 bpm was observed in a patient with a history of myocardial infarction.
+* The ECG demonstrated a ventricular escape rhythm with a rate of 26 bpm, consistent with a diagnosis of third-degree AV block.
+* Idioventricular escape rhythm was diagnosed in a patient with a history of cardiac surgery and a ventricular rate of 30 bpm.
+* The patient's cardiac monitor showed intermittent episodes of ventricular escape rhythm, often associated with periods of atrial fibrillation.
+* The presence of a ventricular escape rhythm with a rate of 20 bpm and QRS complexes ≥ 120 ms indicated underlying conduction system disease.
+* ECG findings suggested a ventricular escape rhythm, characterized by broad QRS complexes and a ventricular rate of 22 bpm.

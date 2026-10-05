@@ -1,0 +1,36 @@
+* The patient's immunophenotyping results showed a reduced percentage of CD4+ memory T cells expressing alpha-beta T cell receptors.
+* Noted decrease in the proportion of CD45RO+ CD4+ T cells, indicating an alteration in the memory T cell compartment.
+* Flow cytometry analysis revealed a lower than expected percentage of CD4+ CD127+ T cells, suggesting an immune dysfunction.
+* The CD4+ T cell subset expressing alpha-beta TCRs was found to be decreased, which may impact the patient's immune response.
+* Immunological evaluation demonstrated a diminished proportion of CD25- CD44high CD122high CD4+ T cells, consistent with a memory T cell defect.
+* A reduction in the percentage of CD4+ memory T cells was observed, characterized by the expression of CD45RO and CD127 markers.
+* The patient's peripheral blood exhibited a decrease in the proportion of alpha-beta TCR+ CD4+ T cells, which are typically CD45RO-positive.
+* Analysis of T cell subsets showed a lower proportion of CD4+ CD127+ CD45RO+ T cells, indicating a potential immunological abnormality.
+* Flow cytometric analysis detected a decreased percentage of CD4+ memory T cells, identified by their CD25-negative, CD44-high, and CD122-high phenotype.
+* The proportion of CD4+ T cells expressing the alpha-beta T cell receptor and CD45RO was found to be lower than expected.
+* Immunophenotyping revealed a decrease in the CD4+ memory T cell population, characterized by the co-expression of CD127 and CD45RO.
+* A diminished proportion of CD4+ memory T cells was noted, with these cells typically displaying a CD25-negative, CD44-high, and CD122-high phenotype.
+* The patient's immune profile showed a reduction in the percentage of CD4+ T cells with the alpha-beta TCR+ CD45RO+ phenotype.
+* Evaluation of the patient's T cell subsets demonstrated a decrease in the proportion of CD4+ memory T cells, which are crucial for immune memory.
+* A lower than expected proportion of CD4+ T cells expressing CD127 and CD45RO was observed, suggesting a defect in the memory T cell compartment.
+* Flow cytometry results indicated a decrease in the percentage of CD25- CD44high CD122high CD4+ T cells, which are typically alpha-beta TCR-positive.
+* The patient's T cell profile showed a diminished proportion of CD4+ memory T cells, characterized by the expression of CD45RO and CD127 markers.
+* Immunological assessment revealed a reduction in the proportion of CD4+ T cells with the alpha-beta TCR+ CD45RO+ CD127+ phenotype.
+* A decrease in the proportion of CD4+ memory T cells was noted, with these cells typically being CD25-negative and CD44-high.
+* The patient's peripheral blood analysis showed a lower than expected proportion of CD4+ T cells expressing the alpha-beta TCR and CD45RO markers.
+* Evaluation of the patient's immune system demonstrated a diminished proportion of CD4+ memory T cells, which are essential for long-term immunity.
+* Flow cytometric analysis detected a decrease in the percentage of CD4+ memory T cells, identified by their CD25-negative, CD44-high, and CD122-high phenotype, as well as their expression of CD45RO and CD127.
+* The proportion of CD4+ T cells with the alpha-beta TCR+ CD45RO+ CD127+ phenotype was found to be lower than expected, indicating a potential immunological defect.
+* A lower proportion of CD4+ memory T cells was observed, characterized by the co-expression of CD44 and CD122 at high levels.
+* Immunophenotyping results showed a decrease in the proportion of CD4+ memory T cells, which are typically CD25-negative and CD44-high.
+* The patient's T cell subset analysis revealed a diminished proportion of CD4+ T cells expressing the alpha-beta TCR and CD45RO markers.
+* Evaluation of the patient's immune profile demonstrated a reduction in the proportion of CD4+ memory T cells, which are crucial for immune function.
+* Flow cytometry analysis indicated a decrease in the percentage of CD4+ T cells with the CD25- CD44high CD122high phenotype.
+* The patient's immunological evaluation showed a lower than expected proportion of CD4+ memory T cells, characterized by the expression of CD45RO and CD127.
+* A decrease in the proportion of CD4+ T cells with the alpha-beta TCR+ CD45RO+ phenotype was observed, suggesting a potential immunological abnormality.
+* The proportion of CD4+ memory T cells was found to be lower than expected, with these cells typically expressing CD44 and CD122 at high levels.
+* Immunological assessment revealed a diminution in the proportion of CD4+ T cells with the CD25-negative, CD44-high, and CD122-high phenotype.
+* Flow cytometric analysis detected a decrease in the percentage of CD4+ memory T cells, identified by their expression of CD45RO, CD127, and alpha-beta TCR.
+* The patient's immune system evaluation demonstrated a reduction in the proportion of CD4+ T cells with the alpha-beta TCR+ CD45RO+ CD127+ phenotype.
+* A lower proportion of CD4+ memory T cells was noted, characterized by the co-expression of CD45RO and CD127 markers.
+* The patient's T cell profile showed a diminution in the proportion of CD4+ T cells with the CD25-negative, CD44-high, and CD122-high phenotype.

@@ -1,0 +1,36 @@
+* Electron microscopy revealed a scarcity of peroxisomal structures within the cell cytoplasm.
+* Immunohistochemical staining of cultured fibroblasts showed a decreased number of peroxisomes compared to controls.
+* Peroxisomal deficiency was noted on microscopic examination, with few peroxisomes visible per cell.
+* The patient's cells exhibited a reduced peroxisomal density, as evidenced by ultrastructural analysis.
+* A marked decrease in peroxisome number was observed in cultured skin fibroblasts stained with anti-catalase antibodies.
+* Ultrastructural examination of liver tissue revealed a paucity of peroxisomes, suggestive of a peroxisomal biogenesis disorder.
+* Peroxisomal enumeration by electron microscopy indicated a significantly lower count than expected.
+* The cellular peroxisome content was evaluated using immunofluorescence, which demonstrated a notable reduction in peroxisome number.
+* Light microscopy of osmium-fixed cells showed sparse peroxisomal staining, consistent with peroxisome deficiency.
+* A significant decrease in the number of peroxisomes per cell was detected by quantitative electron microscopy.
+* The peroxisomal profile, as assessed by immunogold labeling, revealed a diminished peroxisome population.
+* Upon examination of thin-sectioned cells, peroxisomes were found to be remarkably scarce.
+* Peroxisomal projection images from 3D reconstructions of electron micrographs demonstrated an appreciable reduction in peroxisome abundance.
+* The observed reduction in peroxisomal content per cell was consistent with impaired peroxisome biogenesis.
+* Ultrastructural studies revealed a notable absence of peroxisomes in a significant proportion of cells.
+* The peroxisomal complement of cells was found to be severely depleted, as determined by high-resolution microscopy.
+* Fibroblast cultures exhibited a diminished peroxisome count upon examination by phase-contrast microscopy.
+* A decreased peroxisome-to-mitochondria ratio was observed, suggestive of peroxisomal deficiency.
+* Quantitative analysis of peroxisome density revealed a significant reduction in peroxisome number per unit area of cytoplasm.
+* Peroxisomal loss was confirmed by immunoelectron microscopy, demonstrating an absence of peroxisomal structures.
+* Electron micrographs revealed a notable lack of peroxisomal profiles, consistent with impaired peroxisome assembly.
+* Cell fractionation studies showed a marked decrease in the peroxisomal fraction, indicating peroxisome deficiency.
+* Fluorescence microscopy of cells stained with a peroxisome-targeted probe demonstrated a reduced peroxisome signal.
+* A decreased number of peroxisomes per cell was observed in every examined specimen, consistent with a peroxisomal biogenesis defect.
+* Ultrastructural studies of liver biopsy tissue revealed a scarcity of peroxisomes, supporting the diagnosis of a peroxisomal disorder.
+* Upon examination of cultured fibroblasts, peroxisomes were found to be fewer in number and irregularly distributed.
+* A marked reduction in peroxisome abundance was detected by quantitative immunoblot analysis of peroxisomal matrix proteins.
+* Electron microscopy of cultured cells demonstrated a reduced peroxisome density, as well as abnormalities in peroxisome morphology.
+* Immunofluorescence staining revealed a variable but consistently reduced peroxisome content across multiple cell types.
+* Quantitative morphometry of electron micrographs demonstrated a significant decrease in peroxisome cross-sectional area.
+* Peroxisomal structure and number were evaluated by confocal microscopy, which showed a marked decrease in peroxisome abundance.
+* Thin-section electron microscopy revealed an almost complete absence of peroxisomal structures in affected cells.
+* Electron microscopic examination of organelle fractions demonstrated a severe depletion of peroxisomes.
+* Fluorescence in situ hybridization (FISH) demonstrated a low signal corresponding to peroxisomal DNA, consistent with peroxisome paucity.
+* Microscopic evaluation of cultured cells demonstrated an apparent decrease in peroxisome number and an irregular peroxisomal distribution.
+* A diminished peroxisome-to-cell ratio was detected by flow cytometry, using a peroxisome-specific fluorescent probe.

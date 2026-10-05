@@ -1,0 +1,35 @@
+* The patient's immunological workup revealed an atypical distribution of memory B cells, with a disproportionate number of unswitched cells.
+* Circulating B cell subsets showed a notable deviation in the expected ratio of switched to unswitched memory B cells.
+* Flow cytometric analysis indicated an abnormal percentage of non-class-switched memory B cells among the total B cell population.
+* Immunophenotyping revealed a higher than expected proportion of IgM+IgD+ memory B cells, suggesting an imbalance in B cell maturation.
+* The proportion of unswitched memory B cells in the peripheral blood was significantly elevated, raising concerns about humoral immune function.
+* Further evaluation of B cell subsets demonstrated a disturbance in the normal balance between switched and unswitched memory B cells.
+* The patient's B cell compartment was characterized by an unusual predominance of non-class-switched memory cells.
+* Laboratory findings included an aberrant proportion of unswitched memory B cells, which may indicate a defect in class-switch recombination.
+* The analysis of B cell populations showed an abnormal ratio of memory B cells that had not undergone class switching.
+* A marked increase in the proportion of unswitched memory B cells was observed, potentially reflecting a dysregulation in B cell differentiation.
+* The distribution of B cell subsets in the patient's blood suggested a skewing towards unswitched memory B cells.
+* Immunological assessment revealed an elevated proportion of memory B cells lacking evidence of class switching.
+* The percentage of non-class-switched memory B cells was higher than expected, which could impact the patient's ability to mount an effective immune response.
+* Flow cytometry revealed an abnormal proportion of unswitched memory B cells, which may be related to impaired B cell function.
+* The patient exhibited an atypical pattern of B cell development, with a disproportionate number of unswitched memory cells.
+* An imbalance in the B cell compartment was noted, with an elevated proportion of unswitched memory B cells.
+* Laboratory results showed a disturbance in the normal proportion of switched and unswitched memory B cells.
+* The immunological profile was notable for an increased proportion of memory B cells that had not undergone class switching.
+* Evaluation of the B cell population revealed an abnormal proportion of non-class-switched memory cells, which may indicate an underlying immunodeficiency.
+* The proportion of unswitched memory B cells was significantly higher than expected, suggesting a possible defect in B cell maturation.
+* The analysis of B cell subsets demonstrated a skewing towards unswitched memory B cells, which could affect immune function.
+* Immunophenotyping showed an abnormal distribution of memory B cells, with a predominance of unswitched cells.
+* The patient's B cell population was characterized by an atypical proportion of non-class-switched memory cells.
+* Flow cytometric analysis revealed an elevated proportion of unswitched memory B cells, potentially indicating a humoral immune defect.
+* The proportion of memory B cells that had undergone class switching was lower than expected, suggesting a possible imbalance in B cell development.
+* Laboratory findings included an abnormal proportion of unswitched memory B cells, which may be related to impaired immune function.
+* The distribution of B cell subsets in the patient's blood was notable for an increased proportion of non-class-switched memory cells.
+* The patient exhibited an abnormal B cell phenotype, with a disproportionate number of unswitched memory cells.
+* Immunological evaluation revealed a disturbance in the normal balance between switched and unswitched memory B cells.
+* The proportion of unswitched memory B cells was higher than expected, potentially indicating a defect in B cell differentiation.
+* The analysis of B cell populations showed an abnormal proportion of non-class-switched memory cells, which could impact immune function.
+* Flow cytometry revealed an atypical distribution of memory B cells, with a predominance of unswitched cells.
+* The patient's immunological profile was notable for an elevated proportion of memory B cells that had not undergone class switching.
+* Laboratory results showed an abnormal proportion of unswitched memory B cells, suggesting a possible immunodeficiency.
+* The B cell compartment was characterized by an abnormal proportion of non-class-switched memory cells, potentially indicating a humoral immune defect.

@@ -1,0 +1,35 @@
+* The patient's electroretinogram showed significant deviations from the normal waveform, indicating retinal dysfunction.
+* Electroretinography revealed an abnormal response in the rod and cone cells, suggesting impaired photoreceptor function.
+* An abnormal ERG tracing was obtained, with decreased amplitude in the a-wave, pointing towards outer retinal layer pathology.
+* The ERG results demonstrated a reduced b-wave to a-wave ratio, indicative of inner retinal cell dysfunction.
+* A-notches were observed in the patient's ERG, consistent with a diagnosis of cone-rod dystrophy.
+* Abnormal flicker responses were noted on electroretinography, suggesting an abnormality in cone function.
+* The patient's dark-adapted ERG showed a significantly reduced response, indicating night blindness.
+* Multifocal ERG demonstrated localized retinal dysfunction, corresponding to areas of visual field loss.
+* An abnormal scotopic ERG response was observed, suggesting rod cell dysfunction.
+* Photopic ERG showed a reduced response, indicating cone cell dysfunction.
+* The patient's ERG demonstrated a prolonged implicit time, suggesting delayed retinal processing.
+* A diminished oscillatory potential was noted on the patient's ERG, indicating inner retinal cell dysfunction.
+* The ERG results showed a decreased signal amplitude in response to a-flash stimulus, consistent with retinal degeneration.
+* Electroretinography revealed an abnormal response to pattern stimulation, indicating ganglion cell dysfunction.
+* Abnormal 30 Hz flicker responses were observed on the patient's ERG, suggesting cone system dysfunction.
+* The patient's ERG showed a reduced response to red light stimulus, indicating long-wavelength cone dysfunction.
+* A significantly abnormal ERG was obtained in response to blue light stimulus, indicating short-wavelength cone dysfunction.
+* The patient's ERG demonstrated an abnormal response to the onset of light, suggesting an abnormality in the photoreceptor cells.
+* Dark-adapted ERG showed a significantly reduced a-wave amplitude, consistent with rod cell dysfunction.
+* The patient's ERG results indicated abnormal adaptation to changing light conditions.
+* An abnormal electroretinogram was observed, with features suggestive of a retinal dystrophy.
+* The ERG tracing showed a "negative" ERG pattern, indicative of inner retinal cell dysfunction.
+* Abnormalities in the patient's ERG were consistent with a diagnosis of retinitis pigmentosa.
+* Electroretinography demonstrated an abnormal response in the peripheral retina, corresponding to areas of visual field loss.
+* The patient's ERG results indicated abnormal retinal function, consistent with a history of retinal detachment.
+* An abnormal ERG response was observed in response to pattern reversal stimulation, suggesting ganglion cell dysfunction.
+* The patient's ERG showed a reduced response to a 10-degree visual field stimulus, indicating localized retinal dysfunction.
+* Abnormalities in the ERG were noted, consistent with a diagnosis of cone-rod dystrophy.
+* The patient's ERG demonstrated an abnormal response to a low-luminance stimulus, suggesting rod cell dysfunction.
+* Electroretinography revealed an abnormal response to a high-luminance stimulus, indicating cone cell dysfunction.
+* The ERG results showed a significantly abnormal response to a flashing light stimulus, consistent with retinal degeneration.
+* An abnormal electroretinogram was obtained, with features suggestive of a retinal dystrophy.
+* The patient's ERG demonstrated an abnormal response to a color stimulus, indicating dysfunction of the cone cells.
+* Abnormalities in the ERG were consistent with a diagnosis of Leber congenital amaurosis.
+* The patient's ERG results indicated abnormal retinal function, consistent with a history of retinal toxicity.

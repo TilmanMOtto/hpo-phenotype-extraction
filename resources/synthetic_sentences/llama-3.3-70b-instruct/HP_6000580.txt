@@ -1,0 +1,37 @@
+* The patient's oropharyngeal swab tested positive for poliovirus via PCR, indicating an active infection.
+* Reverse transcriptase PCR (RT-PCR) analysis of the oropharyngeal specimen revealed the presence of poliovirus nucleic acid.
+* Laboratory results confirmed the detection of poliovirus genetic material in the patient's throat swab using a molecular diagnostic technique.
+* Oropharyngeal swab PCR results were positive for poliovirus, suggesting a potential case of poliomyelitis.
+* The oropharyngeal specimen was found to contain poliovirus RNA, as determined by RT-PCR, indicating a current infection.
+* Molecular testing of the oropharyngeal sample detected poliovirus nucleic acid, consistent with an acute poliovirus infection.
+* A positive oropharyngeal poliovirus nucleic acid test was reported, with a cycle threshold (Ct) value of 25, indicating a moderate viral load.
+* The patient tested positive for poliovirus in the oropharynx by PCR, which may indicate a recent exposure or ongoing infection.
+* RT-PCR analysis of the throat swab specimen demonstrated the presence of poliovirus genetic material, confirming the diagnosis.
+* The laboratory confirmed the presence of poliovirus nucleic acid in the oropharyngeal swab using a real-time PCR assay.
+* A positive result was obtained from the oropharyngeal swab PCR test for poliovirus, necessitating further evaluation and potential isolation precautions.
+* Molecular diagnostic testing detected poliovirus RNA in the oropharyngeal specimen, indicating an active infection.
+* The patient's oropharyngeal swab was positive for poliovirus by RT-PCR, with a reported viral load of 10^4 copies/mL.
+* Oropharyngeal swab testing by PCR revealed the presence of poliovirus nucleic acid, consistent with a diagnosis of poliovirus infection.
+* The oropharyngeal specimen tested positive for poliovirus using a PCR-based diagnostic assay, indicating a recent or current infection.
+* A positive oropharyngeal poliovirus nucleic acid test result was obtained, with a reported sensitivity of 95% and specificity of 98%.
+* The patient's throat swab was found to contain poliovirus genetic material by RT-PCR, confirming the presence of an active infection.
+* Molecular testing of the oropharyngeal sample detected poliovirus nucleic acid, indicating a potential case of poliomyelitis.
+* The laboratory reported a positive oropharyngeal poliovirus nucleic acid test result, with a cycle threshold (Ct) value of 30, indicating a low viral load.
+* The patient tested positive for poliovirus in the oropharynx by PCR, which may indicate a recent exposure or ongoing shedding of the virus.
+* RT-PCR analysis of the oropharyngeal specimen detected poliovirus RNA, confirming the diagnosis of poliovirus infection.
+* A positive result was obtained from the oropharyngeal swab PCR test for poliovirus, necessitating further evaluation and potential public health reporting.
+* Molecular diagnostic testing detected poliovirus nucleic acid in the oropharyngeal specimen, indicating an active infection.
+* The patient's oropharyngeal swab was positive for poliovirus by PCR, with a reported viral load of 10^5 copies/mL.
+* Oropharyngeal swab testing by RT-PCR revealed the presence of poliovirus genetic material, consistent with a diagnosis of poliovirus infection.
+* The oropharyngeal specimen tested positive for poliovirus using a PCR-based diagnostic assay, indicating a recent or current infection.
+* A positive oropharyngeal poliovirus nucleic acid test result was obtained, with a reported sensitivity of 90% and specificity of 95%.
+* The patient's throat swab was found to contain poliovirus genetic material by PCR, confirming the presence of an active infection.
+* Molecular testing of the oropharyngeal sample detected poliovirus nucleic acid, indicating a potential case of poliomyelitis.
+* The laboratory reported a positive oropharyngeal poliovirus nucleic acid test result, with a cycle threshold (Ct) value of 20, indicating a high viral load.
+* The patient tested positive for poliovirus in the oropharynx by RT-PCR, which may indicate a recent exposure or ongoing shedding of the virus.
+* RT-PCR analysis of the oropharyngeal specimen detected poliovirus RNA, confirming the diagnosis of poliovirus infection.
+* A positive result was obtained from the oropharyngeal swab PCR test for poliovirus, necessitating further evaluation and potential isolation precautions.
+* Molecular diagnostic testing detected poliovirus nucleic acid in the oropharyngeal specimen, indicating an active infection.
+* The patient's oropharyngeal swab was positive for poliovirus by PCR, with a reported viral load of 10^6 copies/mL.
+* Oropharyngeal swab testing by RT-PCR revealed the presence of poliovirus genetic material, consistent with a diagnosis of poliovirus infection.
+* The oropharyngeal specimen tested positive for poliovirus using a PCR-based diagnostic assay, indicating a recent or current infection.

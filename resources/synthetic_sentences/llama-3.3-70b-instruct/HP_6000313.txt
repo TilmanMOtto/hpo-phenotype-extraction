@@ -1,0 +1,37 @@
+* The electrocardiogram (ECG) revealed an incomplete right bundle branch block (IRBBB) pattern, characterized by a QRS duration of 115 ms and an rsR' morphology in lead V1.
+* Upon reviewing the patient's ECG, we noted an incomplete right bundle branch block with a QRS duration of 110-120 ms and a widened R wave in lead V1.
+* The patient's cardiac conduction study showed evidence of incomplete right bundle branch block, with a prolonged QRS complex and altered vector orientation on the ECG.
+* An rsr' pattern was observed in lead V1, suggestive of incomplete right bundle branch block, with a corresponding QRS duration of 112 ms.
+* The ECG demonstrated an incomplete right bundle branch block with a widened R wave and a minor S wave in leads I and V6, consistent with IRBBB criteria.
+* Incomplete right bundle branch block was diagnosed based on ECG findings of a QRS duration between 110-120 ms, an rsR' pattern in lead V1, and a prolonged S wave in lead I.
+* A notched R wave pattern was seen in lead V1, consistent with incomplete right bundle branch block, with a QRS duration of 118 ms.
+* The patient's ECG showed an incomplete right bundle branch block pattern, meeting all three diagnostic criteria, including a QRS duration of 115 ms and an rsR' pattern in lead V1.
+* A widened R wave with a duration greater than 40 ms was observed in leads I and V6, supporting the diagnosis of incomplete right bundle branch block.
+* Normal R peak time in leads V5 and V6, but greater than 50 ms in lead V1, was consistent with incomplete right bundle branch block.
+* The ECG revealed an incomplete right bundle branch block with a QRS duration of 110 ms and an rSR' pattern in lead V2.
+* Incomplete right bundle branch block was identified on the ECG, characterized by a QRS complex duration between 110-120 ms and an altered R wave morphology.
+* The cardiac rhythm study demonstrated incomplete right bundle branch block, with ECG findings meeting all four diagnostic criteria.
+* An incomplete right bundle branch block pattern was observed on the ECG, with a QRS duration of 112 ms and an rsR' pattern in lead V1.
+* A pure dominant R wave with a notch was seen in lead V1, consistent with incomplete right bundle branch block, and the R peak time in lead V1 was greater than 50 ms.
+* The ECG showed an incomplete right bundle branch block with a widened R wave and a minor S wave in leads I and V6.
+* Incomplete right bundle branch block was diagnosed based on the presence of an rsR' pattern in lead V1, a QRS duration of 115 ms, and a prolonged S wave in lead I.
+* A wide and notched R wave pattern was observed in leads V1 and V2, consistent with incomplete right bundle branch block.
+* The patient's ECG revealed an incomplete right bundle branch block pattern, characterized by a QRS duration of 118 ms and an rSR' pattern in lead V2.
+* The ECG demonstrated an incomplete right bundle branch block with a QRS complex duration of 110-120 ms and an altered vector orientation.
+* An rSR' pattern was observed in lead V1, suggestive of incomplete right bundle branch block, with a corresponding QRS duration of 112 ms.
+* Incomplete right bundle branch block was identified on the ECG, characterized by a QRS duration of 115 ms and an rsR' pattern in lead V1.
+* The cardiac conduction study showed evidence of incomplete right bundle branch block, with ECG findings meeting all four diagnostic criteria.
+* A widened R wave with a duration greater than 40 ms was observed in leads I and V6, supporting the diagnosis of incomplete right bundle branch block.
+* The ECG revealed an incomplete right bundle branch block pattern, meeting all three diagnostic criteria, including a QRS duration of 110-120 ms and an rsR' pattern in lead V1.
+* Normal R peak time in leads V5 and V6, but greater than 50 ms in lead V1, was consistent with incomplete right bundle branch block.
+* The patient's ECG showed an incomplete right bundle branch block with a QRS duration of 115 ms and an rSR' pattern in lead V2.
+* Incomplete right bundle branch block was diagnosed based on the presence of an rsR' pattern in lead V1, a QRS duration of 112 ms, and a prolonged S wave in lead I.
+* A pure dominant R wave with a notch was seen in lead V1, consistent with incomplete right bundle branch block, and the R peak time in lead V1 was greater than 50 ms.
+* The ECG demonstrated an incomplete right bundle branch block with a QRS complex duration between 110-120 ms and an altered R wave morphology.
+* The cardiac rhythm study demonstrated incomplete right bundle branch block, with ECG findings meeting all four diagnostic criteria.
+* An incomplete right bundle branch block pattern was observed on the ECG, with a QRS duration of 118 ms and an rsR' pattern in lead V1.
+* Incomplete right bundle branch block was identified on the ECG, characterized by a QRS duration of 110-120 ms and an altered vector orientation.
+* A wide and notched R wave pattern was observed in leads V1 and V2, consistent with incomplete right bundle branch block.
+* The patient's ECG revealed an incomplete right bundle branch block pattern, characterized by a QRS duration of 115 ms and an rsR' pattern in lead V1.
+* The ECG showed an incomplete right bundle branch block with a widened R wave and a minor S wave in leads I and V6, consistent with IRBBB criteria.
+* Incomplete right bundle branch block was diagnosed based on ECG findings of a QRS duration between 110-120 ms, an rsR' pattern in lead V1, and a prolonged S wave in lead I.

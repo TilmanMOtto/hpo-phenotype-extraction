@@ -1,0 +1,34 @@
+* The patient experienced recurrent episodes of VT, characterized by a rapid heart rhythm originating from the ventricles, which would suddenly start and stop.
+* ECG monitoring revealed paroxysmal bursts of ventricular tachycardia, with the heart rate exceeding 100 bpm during these events.
+* A diagnosis of paroxysmal VT was made based on the presence of discrete episodes of tachyarrhythmia arising from the ventricular myocardium.
+* The ventricular tachycardia episodes were notable for their sudden onset and termination, often without any identifiable precipitating factors.
+* Holter monitoring captured multiple episodes of non-sustained VT, which were asymptomatic but concerning nonetheless.
+* During electrophysiology studies, we induced paroxysmal ventricular tachycardia, which was then successfully terminated with pacing maneuvers.
+* The clinical presentation was marked by intermittent palpitations, corresponding to episodes of paroxysmal ventricular tachycardia on telemetry.
+* Paroxysmal VT was suspected based on the patient's history of syncope and near-syncope, which were likely related to transient, self-terminating arrhythmias.
+* ICD interrogation revealed numerous episodes of paroxysmal ventricular tachycardia, which were appropriately detected and treated by the device.
+* Ambulatory monitoring demonstrated that the patient's episodes of VT were typically short-lived, lasting only a few seconds to minutes.
+* The patient's paroxysmal VT responded well to medical therapy, with a significant reduction in the frequency and duration of episodes.
+* Cardiac catheterization and angiography were performed to rule out underlying coronary artery disease, which could have contributed to the development of paroxysmal VT.
+* In this case, the paroxysmal ventricular tachycardia was likely related to a re-entrant mechanism, given the presence of a fixed anatomic substrate.
+* The episodes of VT were often precipitated by physical activity or emotional stress, suggesting a potential trigger for the arrhythmia.
+* On physical examination, the patient's jugular venous pressure was elevated during episodes of paroxysmal VT, consistent with a decrease in cardiac output.
+* The ECG showed a characteristic "salvo" of wide-complex tachycardia, consistent with paroxysmal ventricular tachycardia.
+* Treatment with anti-arrhythmic medication was effective in reducing the burden of paroxysmal VT, as evidenced by repeat Holter monitoring.
+* VT episodes were characterized by a rapid, monomorphic ventricular rhythm, with a consistent morphology on 12-lead ECG.
+* The diagnosis of paroxysmal VT was confirmed by the presence of a distinct P-wave absence during episodes of tachycardia.
+* The patient underwent successful radiofrequency ablation of the VT focus, with subsequent elimination of paroxysmal episodes.
+* There was a notable correlation between the patient's episodes of paroxysmal VT and the presence of electrolyte disturbances, particularly hypokalemia.
+* A comprehensive EP study was performed to elucidate the underlying mechanism of the patient's paroxysmal VT.
+* Telemetry monitoring revealed a high burden of paroxysmal VT, with numerous episodes occurring over a 24-hour period.
+* In the setting of structural heart disease, the patient's paroxysmal VT was likely related to areas of scar or fibrosis within the ventricular myocardium.
+* The patient's ICD was programmed to deliver anti-tachycardia pacing for episodes of paroxysmal VT, in addition to shock therapy for more sustained arrhythmias.
+* Clinical evaluation revealed that the patient's paroxysmal VT was likely related to a genetic predisposition, with a family history of similar arrhythmias.
+* A thorough review of the patient's medical history revealed a remote myocardial infarction, which may have contributed to the development of paroxysmal VT.
+* During episodes of paroxysmal VT, the patient experienced near-syncope and lightheadedness, likely related to a transient decrease in cerebral perfusion.
+* The patient underwent implantation of a wearable cardioverter-defibrillator, given the high risk of life-threatening arrhythmias, including paroxysmal VT.
+* Transthoracic echocardiography was performed to assess left ventricular function and rule out underlying cardiomyopathy, which could have contributed to the development of paroxysmal VT.
+* The patient's episodes of paroxysmal VT were often accompanied by a sensation of palpitations and chest discomfort, likely related to the rapid and irregular ventricular rhythm.
+* Loop recorder monitoring captured a prolonged episode of paroxysmal VT, which was then successfully terminated with medical therapy.
+* EP studies revealed the presence of multiple potential re-entrant circuits within the ventricular myocardium, which could have contributed to the development of paroxysmal VT.
+* The patient's paroxysmal VT was sensitive to adrenergic stimulation, with episodes often precipitated by physical activity or emotional stress.

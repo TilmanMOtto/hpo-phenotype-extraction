@@ -1,0 +1,36 @@
+* The patient's liver biopsy revealed a notable reduction in the expression of the bile salt export pump, suggesting an impaired ability to transport bile salts out of hepatocytes.
+* Hepatic tissue analysis showed a decreased level of BSEP, the protein responsible for bile salt efflux, which may contribute to the development of cholestasis.
+* ABCB11 gene expression was found to be lower than the normal range in liver tissue, indicating a possible defect in bile salt export.
+* The liver's ability to export bile salts was compromised due to reduced BSEP expression, leading to an accumulation of toxic bile acids.
+* Immunohistochemical staining of liver tissue demonstrated a marked decrease in BSEP protein levels, consistent with a diagnosis of BSEP deficiency.
+* The patient's liver function tests were abnormal, with a decreased expression of the bile salt export pump, which may be related to the underlying liver disease.
+* Quantitative RT-PCR analysis of liver tissue showed a significant decrease in ABCB11 mRNA levels, indicating reduced BSEP expression.
+* The bile salt export pump expression was found to be below the normal range in liver tissue, suggesting a possible genetic defect in the ABCB11 gene.
+* Hepatocellular transport of bile salts was impaired due to decreased BSEP expression, leading to the accumulation of bile acids and potentially causing liver injury.
+* The liver's bile salt export mechanism was disrupted due to reduced BSEP expression, resulting in elevated bile acid levels and cholestasis.
+* Western blot analysis of liver tissue revealed a decreased level of BSEP protein, consistent with a defect in bile salt export.
+* The patient's clinical presentation was consistent with a diagnosis of BSEP deficiency, characterized by decreased liver bile salt export pump expression.
+* Liver tissue analysis showed a significant reduction in BSEP expression, which may be related to the patient's symptoms of jaundice and pruritus.
+* The bile salt export pump plays a critical role in maintaining liver function, and its decreased expression in this patient may contribute to the development of liver disease.
+* Decreased liver bile salt export pump expression was noted on biopsy, suggesting an underlying genetic or acquired defect in the ABCB11 gene.
+* The patient's liver disease was characterized by decreased BSEP expression, leading to impaired bile salt transport and potentially causing liver damage.
+* BSEP expression was found to be decreased in liver tissue, consistent with a diagnosis of BSEP deficiency and suggesting a possible need for liver transplantation.
+* The liver's ability to export bile salts was impaired due to decreased BSEP expression, resulting in elevated liver enzymes and bilirubin levels.
+* Hepatic BSEP expression was decreased, leading to the accumulation of toxic bile acids and potentially causing liver damage.
+* The patient's symptoms of cholestasis and jaundice were consistent with a diagnosis of decreased liver bile salt export pump expression.
+* Liver tissue analysis revealed a marked decrease in BSEP protein levels, suggesting a possible defect in the ABCB11 gene.
+* The bile salt export pump plays a critical role in liver function, and its decreased expression may contribute to the development of liver disease.
+* Decreased BSEP expression was noted in liver tissue, suggesting an underlying defect in bile salt transport and potentially causing liver damage.
+* The patient's liver biopsy showed a significant decrease in BSEP expression, consistent with a diagnosis of BSEP deficiency.
+* Hepatic tissue analysis revealed a decrease in ABCB11 mRNA levels, indicating reduced BSEP expression and potentially causing liver disease.
+* The liver's bile salt export mechanism was disrupted due to decreased BSEP expression, resulting in elevated bile acid levels and liver damage.
+* Western blot analysis of liver tissue showed a decreased level of BSEP protein, consistent with a defect in bile salt export and potentially causing liver disease.
+* The patient's clinical presentation was consistent with a diagnosis of decreased liver bile salt export pump expression, characterized by jaundice and pruritus.
+* Liver tissue analysis revealed a significant decrease in BSEP expression, suggesting a possible genetic defect in the ABCB11 gene and potentially causing liver disease.
+* The bile salt export pump plays a critical role in maintaining liver function, and its decreased expression may contribute to the development of liver disease and cholestasis.
+* Decreased liver bile salt export pump expression was noted on biopsy, suggesting an underlying defect in bile salt transport and potentially causing liver damage.
+* The patient's liver disease was characterized by decreased BSEP expression, leading to impaired bile salt transport and potentially causing liver damage.
+* BSEP expression was found to be decreased in liver tissue, consistent with a diagnosis of BSEP deficiency and suggesting a possible need for medical intervention.
+* The liver's ability to export bile salts was impaired due to decreased BSEP expression, resulting in elevated liver enzymes and bilirubin levels, and potentially causing liver damage.
+* Hepatic BSEP expression was decreased, leading to the accumulation of toxic bile acids and potentially causing liver injury and disease.
+* The patient's symptoms of jaundice and pruritus were consistent with a diagnosis of decreased liver bile salt export pump expression, suggesting an underlying defect in bile salt transport.

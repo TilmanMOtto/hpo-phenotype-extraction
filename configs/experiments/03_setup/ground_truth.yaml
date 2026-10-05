@@ -1,0 +1,166 @@
+# Curated HCY ground truth (thesis section 3.2, appendix A.3).
+#
+# Command:  sbatch slurm/ground_truth.sbatch
+# No model.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seeds: none. Fold file: experiments/03_setup/make_folds.py, seed 0.
+# Reads the curation log and the source annotation files in ${paths:hcy.dir}. Writes the dated
+# directory curated_ground_truth_<date>/ beside them and tables under <output>/hcy_ground_truth/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Required] Where this analysis writes. Outputs land in output_dir/hcy_ground_truth/.
+output_dir: ${paths:output_dir}
+
+# [Required for the `score` stage] Root the earlier runs were written under, the `output_dir` their
+# cluster scripts passed, i.e. The directory holding an earlier exploratory run/, phenojury_generation_free_listing/,
+# ... Only the `hcy` subdirectory of each is read.
+results_dir: ${paths:results_dir}
+
+# [Stages] variants | dataset | score | hierarchy | report
+# The ground truth is always built, it is the experiment. `variants` adds the policy-sensitivity table,
+# `dataset` writes the dated, self-describing dataset back into hcy_dir (see `dataset_dir` below),
+# `score` re-scores every earlier method, `hierarchy` adds eqs. (3)-(4) (loads the 15.5 MB ontology,
+# ~15 s), `report` assembles results.md.
+stages: [variants, dataset, score, hierarchy, report]
+
+# ── The curated ground truth ─────────────────────────────────────────────────────────
+
+# [Required] The cohort directory app/hcy_curation_ui was pointed at. Everything below is derived
+# from it: segmented_reports.csv, hcy_holistic_ground_truth.csv, annotations_confirmed.csv, and
+# curation/.
+hcy_dir: ${paths:hcy.dir}
+
+# Overrides, if the four inputs are not in the standard layout. Leave empty otherwise.
+segments_path:                             # default: <hcy_dir>/segmented_reports.csv
+prior_annotation_path:
+confirmed_path:
+curation_dir:                              # default: <hcy_dir>/curation
+
+# Optional. PhenoBERT's staged run directory (output/baseline_phenobert/hcy). It affects ONE thing:
+# which verbatim copy of a report the segments are sliced out of, as in the curation app,# PhenoBERT's staged text where there is one, the prior_annotation file's own `report_text` column
+# otherwise. Set it to reproduce the app's reading surface byte for byte. Leave it empty and the
+# prior_annotation text is used throughout, which changes a trigger match only where the two copies of a
+# report differ by more than whitespace.
+phenobert_dir:
+
+# [Cohort] Which reports may be scored at all. A report is admitted when ANY listed signal fires;
+# one matching none is absent from BOTH ground-truth sets rather than scored with an empty one.
+#   prior_annotation    hcy_holistic_ground_truth.csv carries at least one annotation for it
+#   daphne      annotations_confirmed.csv carries at least one annotation for it
+#   suggestion  the curation log carries at least one `suggest` event for it
+#   approved    the report is marked confirmed, or carries an approved/kept annotation
+#   segmented   the report exists in segmented_reports.csv, INCLUDING those with no annotation
+#   original_gold  the report has a row in `hcy_gt_path`, INCLUDING a row with an empty code list
+# The manifest names the signal every survivor came in on, and lists what was left out.
+#
+# The default is every annotated report. The narrow filter this experiment shipped with
+# (`[daphne, suggestion]`) existed because curation was half-done. The pass is finished, so it now
+# only removes reports no annotator ever put anything on.
+#
+# `approved` adds nothing on its own, every approval is a verdict on something that already
+# exists. `segmented` is the real switch: it admits reports with NO annotation, scored against an
+# empty ground truth, which measures precision on reports that genuinely have no phenotypes. Defensible now
+# that every report has been read, but a different measurement, so it is opt-in.
+#
+# `original_gold` needs `hcy_gt_path` set, and it is the one in force. It admits the
+# reports the ORIGINAL ground truth enumerates, including the 18 it lists with an EMPTY code list, i.e.
+# reports that file asserts have no phenotype rather than omits. That report list is **the PhenoRAG
+# paper's cohort**: `hcy_ground_truth.csv`, `hcy_ground_truth_marc.csv`, `..._prior_annotation_2.csv`,
+# `..._marc_target.csv`, `hcy_holistic_ground_truth.csv` and `..._target_phenotypes.csv` all carry
+# The same 118 ids, so pinning the cohort to it makes every number here comparable to the paper's
+# one report at a time, and makes `curated` and `original` two ground truths over ONE identical report list
+# rather than two lists that merely happen to be the same size.
+#
+# It is used ALONE, and the omission of `prior_annotation, daphne, suggestion` is the essential part.
+# Their union would add five reports the paper never scored (SYN020, SYN033, SYN043, SYN048,
+# SYN087, curated via daphne or a suggestion, absent from every paper-era file), taking the cohort
+# to 123 and putting a denominator difference inside every comparison against published numbers.
+# It also keeps the three rerank methods whole: their candidate pool was built over the paper's 118,
+# so a cohort wider than that silently drops them to 113.
+#
+# Restore the union by writing `[prior_annotation, daphne, suggestion, original_gold]`, that is the right
+# setting for a question about the curated data rather than about the paper, and it costs the eight
+# annotated pairs those five reports carry. `segmented` is wider still: all 135, including the 12 reports
+# nobody has annotated OR asserted empty.
+criteria: [original_gold]
+
+# [Ground truth policy] `config` uses the five keys below, which spell out the default policy verbatim.
+# Any other value selects a named variant from curated_gold.VARIANTS and IGNORES those keys,# default | keep_unanchored | daphne_first | keep_family | keep_all_labels | approved_only.
+# `default` is `config` as shipped, so changing a key below is the way to try a policy the variant
+# list does not carry.
+gold_variant: config
+
+# adjudicated  | the curation app's own rule, and AT TERM-SET LEVEL THE UNION of the two files:
+#              | every daphne annotation and every prior_annotation annotation is in the ground truth. Where both
+#              | carry one code, adjudication only decides which of the two rows holds the
+#              | curator's verdict, the row the Approve screen showed them, so a verdict is
+#              | passed once and settles the term rather than having to be passed twice
+# daphne_first | for a patient the confirmed pass reached, its annotations are the whole ground truth, i.e.
+#              | a term it dropped is read as a decision. Patients it never reached keep prior_annotation
+prior_annotation_fallback: adjudicated
+
+# THE Main RULE. An annotation is in the ground truth only when it is Located: a segment index, and a
+# trigger word that actually occurs in that segment. Checked per phenotype across every row
+# carrying it, prior_annotation, daphne and the curator's own, so one file recording an annotation badly
+# does not discard the file that recorded it well.
+#
+# This is the same test `reader.needs_anchor` puts behind the curation app's Evidence location tab, run from
+# The same functions, so a term dropped here is a term the screen showed as still needing work.
+# Turn it off (the `keep_unanchored` variant) to score the code sets the files carry.
+require_evidence: true
+
+# An existing annotation nobody has ruled on is IN. The annotation files are already somebody's
+# judgement and the curation pass read every one of them. Scoring only against re-confirmed terms
+# would measure the adjudication backlog rather than the data.
+include_undecided: true
+
+# A suggestion made in the app is IN even before it is approved, the curator's answer to "what is
+# missing from this ground truth". Withholding it keeps measuring the recall gap curation exists to close.
+include_suggested: true
+
+# Qualifiers that take an annotation OUT, applied to suggestions and to existing annotations
+# alike, since the reason to exclude does not depend on which file the term came from.
+#   unsure_report      the text does not settle it
+#   unsure_annotation  the annotation itself is doubtful
+#     -> both mean a model that disagrees is not demonstrably wrong, which is the only defensible
+#        reason to drop a term from a denominator rather than count it as a miss
+#   family             the finding is real and belongs to a RELATIVE. A different kind of call: a
+#                      system that extracts it is doing something defensible, so counting it against
+#                      one measures the annotation convention. Priced alone by `keep_family`.
+# Set to [] to keep all three (the `keep_all_labels` variant).
+exclude_labels: [unsure_report, unsure_annotation, family]
+
+# The two-column patient_id,hpo_codes export, written into the run directory. It is a drop-in for
+# hcy_gt_path anywhere in the repo, and for the result-table library's hcy_curated_gt_path.
+gold_filename: hcy_ground_truth_curated_eval.csv
+
+# ── The shipped dataset (`dataset` stage) ────────────────────────────────────
+# Written into hcy_dir as <hcy_dir>/curated_ground_truth_<date>/, holding the annotation table (every
+# candidate, qualifiers FLAGGED not filtered), the two-column scoring ground truth, the per-report manifest
+# and a README.md explaining all three. That directory is what a second person picks up later, and
+# The reason it is dated is that the curation log keeps growing: a number in the thesis has to name
+# The version of the ground truth it came from.
+#
+# It contains report sentences. It is PATIENT DATA and stays on the cluster, the README says so on
+# its first screen (docs/cluster.md: HCY data stays on LeoMed).
+
+dataset_date:                              # default: today, YYYY-MM-DD
+dataset_dir:                               # default: <hcy_dir>/curated_ground_truth_<dataset_date>
+
+# ── The comparison ───────────────────────────────────────────────────────────
+
+# The ORIGINAL HCY ground truth, scored over the identical curated report list so that curated - original
+# is a gold-side difference and nothing else. Unset drops the `original` rows and the delta table,# and is a hard error while `original_gold` is in `criteria`, since that criterion reads this file's
+# report list to decide the cohort.
+hcy_gt_path:
+
+# [Ontology] null = HPOTree's default resources/util/hpo.json. Only read by the hierarchy stage.
+hpo_json_path:
+
+mlflow_experiment_name: exp13_comparison

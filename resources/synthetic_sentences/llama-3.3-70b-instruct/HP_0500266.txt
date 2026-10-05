@@ -1,0 +1,38 @@
+* The patient's immunophenotyping results showed a decreased proportion of CD8+ alphabeta TEMRA T cells, suggesting an abnormality in the terminally differentiated effector memory T cell compartment.
+* Upon analysis of the T cell subsets, a notable decrease in the proportion of CD8+ T cells expressing CD45RA and lacking CD45RO and CCR7 was observed.
+* The flow cytometry results indicated a reduced percentage of CD8-positive, alpha-beta T cells with an effector memory RA (TEMRA) phenotype, which may impact the patient's immune response.
+* A decrease in the proportion of CD8+ alphabeta T cells with a TEMRA phenotype was noted, characterized by the expression of CD45RA and the absence of CD45RO and CCR7.
+* The patient's blood work revealed a lower than expected proportion of CD8-positive T cells with an effector memory phenotype, specifically those expressing alpha-beta T cell receptors.
+* Immunophenotyping revealed an abnormal decrease in the proportion of CD8+ T cells that were CD45RA-positive, CD45RO-negative, and CCR7-negative, indicative of a TEMRA phenotype.
+* A reduced proportion of CD8-positive, alpha-beta T cells with terminally differentiated effector memory characteristics was observed, which may be relevant to the patient's clinical presentation.
+* Flow cytometric analysis demonstrated a decrease in the percentage of CD8+ alphabeta TEMRA T cells, which are typically CD45RA-positive and CD45RO-negative.
+* The patient's T cell subset analysis showed a decrease in the proportion of CD8-positive T cells with an effector memory RA phenotype, characterized by CD45RA expression and CD45RO and CCR7 negativity.
+* A notable finding was the decreased proportion of CD8+ alphabeta T cells with a TEMRA phenotype, which are essential for immune surveillance and response.
+* The immunophenotyping profile revealed a reduced proportion of CD8-positive, alpha-beta T cells with a terminally differentiated effector memory phenotype, which may have implications for the patient's immune function.
+* The proportion of CD8+ T cells expressing CD45RA and lacking CD45RO and CCR7 was decreased, suggesting an abnormality in the TEMRA T cell compartment.
+* The patient's immune profile showed a decrease in the proportion of CD8-positive, alpha-beta T cells with an effector memory RA phenotype, which may impact the patient's ability to respond to infections.
+* A decrease in the proportion of CD8+ alphabeta TEMRA T cells was observed, which are characterized by the expression of CD45RA and the absence of CD45RO and CCR7.
+* Flow cytometry results indicated a reduced proportion of CD8-positive T cells with a TEMRA phenotype, which may be related to the patient's clinical symptoms.
+* The T cell subset analysis revealed a decrease in the proportion of CD8-positive, alpha-beta T cells with a terminally differentiated effector memory phenotype.
+* A reduced proportion of CD8+ alphabeta T cells with an effector memory RA phenotype was noted, which may have implications for the patient's immune response.
+* The patient's blood work showed a decreased proportion of CD8-positive, alpha-beta T cells with a TEMRA phenotype, characterized by CD45RA positivity and CD45RO and CCR7 negativity.
+* The immunophenotyping results indicated a decrease in the proportion of CD8+ T cells with a TEMRA phenotype, which are essential for immune surveillance.
+* A decrease in the proportion of CD8-positive, alpha-beta T cells with an effector memory phenotype was observed, which may impact the patient's ability to respond to viral infections.
+* The flow cytometry results showed a reduced proportion of CD8+ alphabeta TEMRA T cells, which are typically CD45RA-positive and CD45RO-negative.
+* The patient's immune profile revealed a decrease in the proportion of CD8-positive, alpha-beta T cells with a terminally differentiated effector memory phenotype.
+* The T cell subset analysis showed a decrease in the proportion of CD8-positive T cells with an effector memory RA phenotype, characterized by CD45RA expression and CD45RO and CCR7 negativity.
+* A notable decrease in the proportion of CD8+ alphabeta T cells with a TEMRA phenotype was observed, which may be relevant to the patient's clinical presentation.
+* The immunophenotyping profile indicated a reduced proportion of CD8-positive, alpha-beta T cells with a TEMRA phenotype, which may impact the patient's immune function.
+* The patient's blood work revealed a decreased proportion of CD8-positive, alpha-beta T cells with an effector memory phenotype, specifically those expressing CD45RA and lacking CD45RO and CCR7.
+* A decrease in the proportion of CD8+ T cells with a TEMRA phenotype was noted, which are essential for immune surveillance and response.
+* The flow cytometry results indicated a reduced proportion of CD8-positive, alpha-beta T cells with a terminally differentiated effector memory phenotype.
+* The patient's immune profile showed a decrease in the proportion of CD8-positive, alpha-beta T cells with an effector memory RA phenotype, which may have implications for the patient's ability to respond to infections.
+* The T cell subset analysis revealed a decrease in the proportion of CD8-positive T cells with a TEMRA phenotype, characterized by CD45RA positivity and CD45RO and CCR7 negativity.
+* A notable finding was the decreased proportion of CD8+ alphabeta TEMRA T cells, which are typically CD45RA-positive and CD45RO-negative.
+* The immunophenotyping results showed a reduced proportion of CD8-positive, alpha-beta T cells with a TEMRA phenotype, which may be related to the patient's clinical symptoms.
+* The patient's blood work indicated a decreased proportion of CD8-positive, alpha-beta T cells with an effector memory phenotype, which may impact the patient's immune response.
+* A decrease in the proportion of CD8+ alphabeta T cells with an effector memory RA phenotype was observed, which may have implications for the patient's immune function.
+* The flow cytometry results revealed a reduced proportion of CD8-positive, alpha-beta T cells with a terminally differentiated effector memory phenotype.
+* The patient's immune profile revealed a decrease in the proportion of CD8-positive, alpha-beta T cells with a TEMRA phenotype, which may be relevant to the patient's clinical presentation.
+* The T cell subset analysis showed a decrease in the proportion of CD8-positive T cells with a TEMRA phenotype, which are essential for immune surveillance and response.
+* A notable decrease in the proportion of CD8+ alphabeta TEMRA T cells was noted, which may impact the patient's ability to respond to viral infections.

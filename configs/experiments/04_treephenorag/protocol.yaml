@@ -1,0 +1,152 @@
+# TreePhenoRAG analysis: nested cross-validation, ablations, calibration,
+# diagnostics and the GSC+ (114) transfer (thesis chapter 4, appendix B). CPU only.
+#
+# Command:  sbatch slurm/treephenorag_protocol.sbatch
+# No model: the analysis reads the stored verifier scores.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seeds: 0 for every bootstrap and permutation (set in run.py and stages.py). Grids and alpha below.
+# Reads the two score stores and the curated ground truth, writes <output>/treephenorag_protocol/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+output_dir: ${paths:output_dir}
+
+# ── The caches ───────────────────────────────────────────────────────────────
+# One entry per retrieval index. `calls_path` is the raw JSONL the cluster wrote; `npz` is the
+# columnar form the `ingest` stage produces and every other stage reads. The synthetic-sentence score store's cache is
+# ~21.7M rows / 6-7 GB of JSON, so re-parsing it per stage is not an option, ingest once.
+#
+# The two indices are NEVER mixed inside a traversal: a re-run whose margins came from two
+# retrievals is not a configuration the pipeline could be run at. But the *choice between* them is
+# a legitimate axis and is selected inside the inner folds like any other (see experiment.md).
+# Drop an entry to run one-armed.
+caches:
+  exemplar:
+    calls_path: ${paths:results_dir}/treephenorag_scores_synthetic/hcy/tree_score_cache_calls.jsonl
+    npz:            # default: <output_dir>/treephenorag_protocol/cache_exemplar.npz
+  ontology_r3:
+    calls_path: ${paths:results_dir}/treephenorag_scores_terminfo/hcy/tree_score_cache_r3u_calls.jsonl
+    npz:            # default: <output_dir>/treephenorag_protocol/cache_ontology_r3.npz
+
+ctx_type: union
+
+# [Pilot caches only] Mirror the producer's own `restrict_to_subtree`. A cache built over one
+# layer-1 subtree must be re-run over that same subtree, or the traversal reaches roots the cache
+# never scored and containment fires on what is really a configuration mismatch. Full-ontology
+# caches, which is every shipped one, leave this null.
+restrict_to_subtree:
+
+# The tau_prune the caches were built at. Containment is checked against it BEFORE anything is
+# scored. With the synthetic-sentence score store's exhaustive cache (all 18 354 nodes reached) containment holds by
+# CONSTRUCTION rather than by the g(tau) bound, the run asserts that rather than assuming it.
+tau_cache: 0.00015
+
+# ── Data ─────────────────────────────────────────────────────────────────────
+gold_path: ${paths:hcy.curated_ground_truth}
+folds_path: ${paths:hcy.folds}
+
+# [GSC+ transfer] Optional. The selection procedure is run once on all of HCY and the resulting
+# configuration is applied to these unchanged, GSC+ is test-only (04_TreePhenoRAG.tex:412-429),
+# so it gets no folds and no CRC of its own. Leave null to run HCY-only.
+gsc:
+  gold_path:                   # RAG-HPO's re-annotation of their 114 documents (gsc_raghpo_ann)
+  gold_path_corpus:            # The corpus ground truth on the same documents (gsc_raghpo), secondary
+  caches:
+    exemplar:
+      calls_path:
+      npz:
+    ontology_r3:
+      calls_path:
+      npz:
+
+# ── Stages ───────────────────────────────────────────────────────────────────
+# ingest       one-time JSONL -> columnar .npz conversion (skip once it has run)
+# containment  the hard gate: does the cache host the grid at all
+# select       nested CV, CRC for tau_prune, inner folds for pooling/index/tau_accept  [E4.3]
+# ablations    the V0-V3 ladder, every rung tuned by the same protocol                  [E4.4]
+# calibration  fit h, reliability, ECE/SmoothECE, and the GSC transfer                  [E4.6]
+# diagnostics  recall decomposition, FP taxonomy, blocking depth                        [E4.7]
+# retrieval     Hit@S and the path-wise rate per index -- the GATE on every recall below [T4.1]
+# poolings      both pooling axes, each expansion operator at its own lambda-hat           [T4.3]
+# instruments   the call distribution, the captured-mass floor, re-run fidelity     [inline numbers]
+# Each stage writes its own tables/*.csv; README.md is the guide to what every column means.
+#
+# `retrieval` and `poolings` come after `select` because both are reported AT the selected
+# configuration; `instruments` is last because it is the cheapest and nothing depends on it.
+stages: [containment, select, retrieval, poolings, ablations, calibration, distributions, ranking,
+         diagnostics, instruments]
+
+# ── The offline grid ─────────────────────────────────────────────────────────
+# Expansion poolings. The selection picks among these by FEWEST CALLS at each one's own lambda-hat,
+# never by F1, the terms on which discrimination could be measured are themselves selected by the
+# traversal. LRGate is absent: it reads depth and subtree size, so no margin cache can host it at
+# expansion. It is inside the cache's own max(noisy_or, LRGate) rule, which is why containment holds.
+poolings_prune: [P1, P2, P3_1, P3_2, P3_S, P4, lse_beta1]
+
+# Acceptance poolings and thresholds, chosen by inner-fold micro F1. This axis rides free on each
+# traversal, so extending it costs nothing. Note 0.99/0.995: earlier selected 0.95 on BOTH cohorts,
+# The top of the range it swept, so the range had never been shown to contain the optimum.
+poolings_accept: [P0, P1, P2, P3_1, P3_2, P3_S, P4, lse_beta1]
+tau_accept_grid: [0.3, 0.5, 0.7, 0.8, 0.9, 0.95, 0.97, 0.99, 0.995]
+
+# S for the main. 10 is the synthetic-sentence score store's S_max. The S ablation re-runs prefixes of the same cache.
+s_main: 10
+s_ablation: [1, 3, 5, 10]
+
+# The S values T4.1's retrieval gate is measured at. The same grid as `s_ablation` on purpose: the
+# gate is the ceiling the S ablation sits under, and the two tables are only readable together if
+# they share an axis.
+s_retrieval_gate: [1, 3, 5, 10]
+
+# ── Conformal risk control ───────────────────────────────────────────────────
+# alpha is the target expected per-report miss rate of annotated terms the traversal never scores.
+# The tau grid is NOT configured: it is the exact breakpoint set of the loss function (every ground truth
+# term's own bottleneck value), so Eq. (10) is inverted instead of over quantile points.
+# Where alpha is unreachable at every cached threshold the run reports the attained ceiling, which
+# is a statement about retrieval and the verifier rather than about the pruning rule.
+alpha: 0.10
+# 0.02 is in the sweep even though nothing will be feasible there: it is well below
+# The traversal's own attained ceiling, so it is the row that SHOWS the binding constraint is
+# retrieval and the verifier rather than the pruning rule. A sweep that starts at a feasible
+# tolerance cannot make that point. 0.15 is dropped to keep the table at four rows. It sat between
+# two neighbours and said nothing either of them did not.
+alpha_sweep: [0.02, 0.05, 0.10, 0.20]
+
+# ── Calibration ──────────────────────────────────────────────────────────────
+# h is monotone, so within one cohort it cannot change which terms are accepted at a threshold
+# tuned on the same data. Its purpose is that a threshold TRANSFERS. The GSC condition is the evidence.
+calibration_methods: [identity, platt, isotonic]
+n_calibration_bins: 15
+# Report-level bootstrap resamples for the SmoothECE interval in the reliability figure. Each one
+# re-runs relplot's bandwidth search over ~470k pairs, so this is kept well below n_bootstrap.
+n_smooth_ece_bootstrap: 200
+
+# Bins for the two score-distribution histograms (stage `distributions`). Equal-width over the
+# observed range and shared by both classes, so the two curves of a panel are comparable; 40 is
+# fine enough to show the mode of the negative class without the positive class -- a few thousand
+# nodes against half a million -- breaking into single-count spikes.
+n_distribution_bins: 40
+
+# ── Error analysis ───────────────────────────────────────────────────────────
+# delta_m splits a judgement miss from a pooling miss. 0.0 reads as "the verifier answered No on
+# every segment it saw", the only value needing no further justification. The draft leaves it
+# \todo, so the sweep is reported beside the main.
+delta_m: 0.0
+delta_m_sweep: [0.0, 1.0, 2.0, 4.0]
+
+# Evidence segments, for the retrieval-vs-judgement split. Without this the retrieval bucket is not
+# measurable and the run says so rather than guessing (see recall_decomposition's docstring).
+# The curated ground truth's annotation table names a segment per annotated term.
+evidence_path:
+
+# ── Uncertainty ──────────────────────────────────────────────────────────────
+n_bootstrap: 10000
+n_permutations: 10000
+alpha_holm: 0.05
+
+mlflow_experiment_name: exp13_treephenorag

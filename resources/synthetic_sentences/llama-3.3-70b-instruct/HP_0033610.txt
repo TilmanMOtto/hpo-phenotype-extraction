@@ -1,0 +1,35 @@
+* The patient's CT scan revealed a subsolid pulmonary nodule in the left upper lobe, characterized by a mix of ground-glass and solid components.
+* A part-solid ground-glass nodule was identified in the right lower lobe, measuring 1.2 cm in diameter.
+* The chest CT showed a pure ground-glass nodule in the lingula, which was not visible on the prior study.
+* A subsolid nodule with a solid component was detected in the right middle lobe, prompting further evaluation.
+* The lung CT demonstrated a ground-glass opacity with a small solid core, concerning for a potential malignancy.
+* A subsolid pulmonary lesion was found in the left lower lobe, featuring both ground-glass and soft tissue attenuation.
+* The patient's imaging study revealed a part-solid nodule with a ground-glass component, which was not present on the previous scan.
+* A ground-glass nodule with a diameter of 8 mm was identified in the right upper lobe, requiring follow-up.
+* The CT scan showed a subsolid lesion with a mix of ground-glass and solid attenuation, suspicious for adenocarcinoma.
+* A pure ground-glass nodule was detected in the anterior segment of the right upper lobe, measuring 1.5 cm.
+* The chest CT revealed a part-solid nodule with a ground-glass component, which had increased in size since the prior study.
+* A subsolid pulmonary nodule with a solid core was found in the left upper lobe, concerning for malignancy.
+* The patient's CT scan demonstrated a ground-glass opacity with a small solid nodule, requiring further characterization.
+* A subsolid lesion with ground-glass and solid attenuation was identified in the right lower lobe, prompting a PET scan.
+* The imaging study revealed a pure ground-glass nodule in the right middle lobe, which was stable in size.
+* A part-solid ground-glass nodule was detected in the lingula, measuring 1.8 cm in diameter.
+* The CT scan showed a subsolid nodule with a ground-glass component, which had decreased in size since the prior study.
+* A ground-glass nodule with a diameter of 1.2 cm was identified in the left lower lobe, requiring follow-up.
+* The patient's lung CT demonstrated a subsolid lesion with a mix of ground-glass and solid attenuation, concerning for a malignant lesion.
+* A pure ground-glass nodule was found in the right upper lobe, measuring 1.0 cm in diameter.
+* The chest CT revealed a part-solid nodule with a ground-glass component, which had increased in solidity.
+* A subsolid pulmonary nodule with a solid core was detected in the left lower lobe, requiring biopsy.
+* The CT scan showed a ground-glass opacity with a small solid nodule, concerning for adenocarcinoma in situ.
+* A subsolid lesion with ground-glass and solid attenuation was identified in the right middle lobe, prompting further evaluation.
+* The patient's imaging study demonstrated a pure ground-glass nodule in the lingula, which was stable in size and characteristics.
+* A part-solid ground-glass nodule was found in the right lower lobe, measuring 1.5 cm in diameter.
+* The CT scan revealed a subsolid nodule with a ground-glass component, which had changed in morphology since the prior study.
+* A ground-glass nodule with a diameter of 8 mm was detected in the left upper lobe, requiring follow-up.
+* The patient's lung CT showed a subsolid lesion with a mix of ground-glass and solid attenuation, concerning for a premalignant lesion.
+* A pure ground-glass nodule was identified in the right middle lobe, measuring 1.2 cm in diameter.
+* The chest CT demonstrated a part-solid nodule with a ground-glass component, which had increased in size and solidity.
+* A subsolid pulmonary nodule with a solid core was found in the left upper lobe, requiring surgical evaluation.
+* The CT scan showed a ground-glass opacity with a small solid nodule, concerning for minimally invasive adenocarcinoma.
+* A subsolid lesion with ground-glass and solid attenuation was detected in the right lower lobe, prompting a discussion about management options.
+* The patient's imaging study revealed a pure ground-glass nodule in the right upper lobe, which was stable in size and characteristics.

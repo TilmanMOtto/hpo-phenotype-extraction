@@ -1,0 +1,35 @@
+* The electrocardiogram (ECG) revealed a left bundle branch block (LBBB) pattern, characterized by a widened QRS complex with a distinctive notching in the R wave.
+* Patient's EKG showed evidence of LBBB, with a QRS duration of 140ms and a leftward deviation of the axis.
+* Clinical evaluation disclosed a left bundle branch block, manifested by a broadened QRS complex and altered ventricular depolarization.
+* The presence of a LBBB was confirmed on 12-lead ECG, exhibiting a Quentin puddle sign and a prolonged QRS interval.
+* ECG findings were consistent with LBBB, demonstrating a wide QRS complex with a slurred R wave upstroke in leads I, V5, and V6.
+* LBBB was diagnosed based on ECG criteria, including a QRS duration >120ms and a notched R wave in the lateral leads.
+* The patient's cardiac conduction study showed left bundle branch block, with a QRS complex measuring 160ms and a normal PR interval.
+* On cardiac monitoring, the patient developed a new-onset LBBB, with a QRS duration increasing to 140ms and a subsequent decrease in cardiac output.
+* The electrocardiographic hallmark of LBBB was observed, featuring a widened QRS complex with a distinctive M-shaped pattern in the precordial leads.
+* Left bundle branch block was identified as the cause of the patient's widened QRS complex, which measured 150ms on the ECG tracing.
+* ECG analysis revealed LBBB, with a characteristic broadening of the QRS complex and an increase in the QT interval.
+* The patient's LBBB was confirmed by ECG, demonstrating a QRS complex with a notched R wave and a prolonged QRS interval.
+* During exercise stress testing, the patient developed LBBB, with a subsequent increase in QRS duration and a decrease in exercise tolerance.
+* Cardiac evaluation revealed a new LBBB, characterized by a widened QRS complex and an altered T wave axis.
+* The patient's ECG was notable for LBBB, with a QRS duration of 130ms and a leftward deviation of the QRS axis.
+* The ECG demonstrated a classic LBBB pattern, with a broadened QRS complex and a prolonged QRS interval.
+* Left bundle branch block was observed on the patient's ECG, with a QRS duration of 140ms and a notched R wave in the lateral leads.
+* The patient's cardiac rhythm was characterized by LBBB, with a widened QRS complex and an increased QT interval.
+* On ECG, the patient exhibited LBBB, with a QRS complex measuring 160ms and a normal PR interval.
+* The presence of LBBB was confirmed on 12-lead ECG, demonstrating a characteristic broadening of the QRS complex and an altered T wave morphology.
+* The patient developed LBBB during a myocardial infarction, with a subsequent increase in QRS duration and a decrease in cardiac output.
+* ECG analysis revealed a new-onset LBBB, characterized by a widened QRS complex and an increase in the QT interval.
+* The patient's ECG was consistent with LBBB, demonstrating a QRS duration >120ms and a notched R wave in the precordial leads.
+* Left bundle branch block was diagnosed based on ECG criteria, including a QRS duration >120ms and a broadened QRS complex.
+* The patient's cardiac conduction study showed evidence of LBBB, with a QRS complex measuring 150ms and a normal PR interval.
+* On cardiac monitoring, the patient exhibited LBBB, with a QRS duration increasing to 140ms and a subsequent decrease in cardiac output.
+* The ECG demonstrated a classic LBBB pattern, with a widened QRS complex and a prolonged QRS interval.
+* The patient's LBBB was confirmed by ECG, showing a QRS complex with a notched R wave and a prolonged QRS interval.
+* During cardiac evaluation, the patient developed LBBB, with a subsequent increase in QRS duration and a decrease in exercise tolerance.
+* ECG findings were consistent with LBBB, demonstrating a broadened QRS complex and an altered T wave axis.
+* The patient's ECG revealed a left bundle branch block pattern, characterized by a widened QRS complex with a distinctive notching in the R wave.
+* Left bundle branch block was observed on the patient's ECG, with a QRS duration of 130ms and a leftward deviation of the QRS axis.
+* The patient's cardiac rhythm was characterized by LBBB, with a widened QRS complex and an increased QT interval.
+* On ECG, the patient exhibited LBBB, with a QRS complex measuring 140ms and a normal PR interval.
+* The presence of LBBB was confirmed on 12-lead ECG, demonstrating a characteristic broadening of the QRS complex and an altered T wave morphology.

@@ -1,0 +1,36 @@
+* The patient's pulmonary function tests revealed a decreased KCO, indicating impaired gas exchange at the alveolar-capillary interface.
+* A reduction in the diffusion capacity of the lung for carbon monoxide was noted, suggesting a problem with the efficiency of gas transfer.
+* The KCO value was found to be lower than expected, consistent with a diagnosis of interstitial lung disease.
+* Impaired carbon monoxide diffusion capacity was observed, which may be related to the patient's history of smoking.
+* Pulmonary function testing demonstrated a decreased rate constant for carbon monoxide diffusion, indicating abnormal lung function.
+* The patient's lung function test results showed a decreased KCO, which is a concern for underlying pulmonary pathology.
+* A decreased efficiency index for carbon monoxide diffusion was calculated, suggesting a problem with the lung's ability to facilitate gas exchange.
+* The diffusion capacity of the lung for carbon monoxide was reduced, indicating potential lung damage or disease.
+* Abnormal pulmonary function test results included a decreased KCO, which warrants further evaluation.
+* The patient's KCO value was decreased, indicating impaired lung function and potential respiratory symptoms.
+* A lower than expected KCO value was noted on pulmonary function testing, suggesting a possible diagnosis of pulmonary fibrosis.
+* The rate constant for carbon monoxide diffusion was decreased, indicating a problem with the lung's ability to exchange gases efficiently.
+* Pulmonary function tests revealed decreased carbon monoxide diffusion capacity, consistent with a diagnosis of chronic obstructive pulmonary disease.
+* The patient's lung function was impaired, as evidenced by a decreased KCO value on pulmonary function testing.
+* A decreased diffusion capacity for carbon monoxide was observed, which may be related to the patient's exposure to environmental toxins.
+* The KCO value was decreased, indicating abnormal lung function and potential respiratory complications.
+* Impaired gas exchange was noted on pulmonary function testing, as evidenced by a decreased KCO value.
+* The patient's pulmonary function test results showed a decreased efficiency index for carbon monoxide diffusion, suggesting lung disease.
+* A decreased rate constant for carbon monoxide diffusion was calculated, indicating a problem with the lung's ability to facilitate gas exchange.
+* The diffusion capacity of the lung for carbon monoxide was impaired, suggesting underlying pulmonary pathology.
+* The patient's KCO value was lower than expected, consistent with a diagnosis of respiratory disease.
+* Pulmonary function testing revealed a decreased KCO, indicating abnormal lung function and potential respiratory symptoms.
+* The patient's lung function was abnormal, as evidenced by a decreased diffusion capacity for carbon monoxide.
+* A decreased efficiency index for carbon monoxide diffusion was noted, suggesting impaired lung function.
+* The rate constant for carbon monoxide diffusion was decreased, indicating a problem with the lung's ability to exchange gases efficiently.
+* The patient's pulmonary function test results showed a decreased KCO value, consistent with a diagnosis of interstitial lung disease.
+* Impaired carbon monoxide diffusion capacity was observed, which may be related to the patient's history of respiratory disease.
+* A decreased KCO value was noted on pulmonary function testing, suggesting a possible diagnosis of pulmonary fibrosis.
+* The patient's lung function was impaired, as evidenced by a decreased diffusion capacity for carbon monoxide.
+* Pulmonary function tests revealed a decreased rate constant for carbon monoxide diffusion, indicating abnormal lung function.
+* The diffusion capacity of the lung for carbon monoxide was reduced, suggesting underlying lung disease.
+* The patient's KCO value was decreased, indicating impaired gas exchange and potential respiratory complications.
+* A decreased efficiency index for carbon monoxide diffusion was calculated, suggesting lung damage or disease.
+* The patient's pulmonary function test results showed a decreased KCO value, consistent with a diagnosis of chronic obstructive pulmonary disease.
+* Impaired gas exchange was noted on pulmonary function testing, as evidenced by a decreased diffusion capacity for carbon monoxide.
+* The patient's lung function was abnormal, as evidenced by a decreased rate constant for carbon monoxide diffusion.

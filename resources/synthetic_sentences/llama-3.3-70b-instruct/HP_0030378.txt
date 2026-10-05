@@ -1,0 +1,37 @@
+* The patient's flow cytometry results showed a decreased percentage of immature B cells, indicating a potential issue with B cell development.
+* Noted was a reduced proportion of CD19+/CD21low B cells in the peripheral blood, suggestive of a possible bone marrow maturation defect.
+* Upon examination of the lymphocyte subsets, a lower than expected proportion of immature B cells was observed, which may indicate a disruption in the normal B cell developmental process.
+* The immunophenotyping analysis revealed a decrease in the proportion of IgM+ B cells, which are typically immature and still in the final stages of development within the bone marrow.
+* A decrease in the proportion of naive B cells, characterized by IgM+/IgD+ expression, was detected in the patient's blood sample, potentially indicating a problem with B cell maturation.
+* Flow cytometric analysis demonstrated a reduced proportion of B cells expressing CD19 and low levels of CD21, consistent with an immature phenotype.
+* The patient presented with a decreased proportion of immature B cells in circulation, which may be related to an underlying issue with B cell development or bone marrow function.
+* The proportion of CD19+/CD21low B cells was found to be decreased in the patient's sample, suggesting a possible abnormality in B cell maturation.
+* Examination of the patient's blood sample revealed a lower than normal proportion of immature B cells, which could indicate a disruption in the normal process of B cell development.
+* A reduced proportion of IgM+ B cells was noted in the patient's sample, which may indicate a problem with B cell maturation or development.
+* The patient's immunophenotyping results showed a decrease in the proportion of naive B cells, which are characterized by IgM+/IgD+ expression and are typically found in the bone marrow or peripheral blood.
+* The flow cytometry results indicated a decreased proportion of immature B cells, which may be related to an underlying issue with bone marrow function or B cell development.
+* Noted was a decrease in the proportion of B cells expressing CD19 and low levels of CD21, consistent with an immature phenotype, in the patient's blood sample.
+* The patient presented with a decreased proportion of CD19+/CD21low B cells, which may indicate a disruption in the normal process of B cell maturation.
+* A decrease in the proportion of immature B cells was observed in the patient's sample, which could be related to an underlying issue with B cell development or bone marrow function.
+* The immunophenotyping analysis revealed a reduced proportion of naive B cells, which are characterized by IgM+/IgD+ expression and are typically found in the bone marrow or peripheral blood.
+* The patient's flow cytometry results showed a decreased proportion of IgM+ B cells, which may indicate a problem with B cell maturation or development.
+* Examination of the patient's blood sample revealed a lower than normal proportion of CD19+/CD21low B cells, suggesting a possible abnormality in B cell maturation.
+* A decrease in the proportion of immature B cells was noted in the patient's sample, which may be related to an underlying issue with bone marrow function or B cell development.
+* The patient presented with a decreased proportion of naive B cells, characterized by IgM+/IgD+ expression, in the peripheral blood.
+* The flow cytometric analysis demonstrated a reduced proportion of B cells expressing CD19 and low levels of CD21, consistent with an immature phenotype.
+* The patient's immunophenotyping results indicated a decrease in the proportion of immature B cells, which could indicate a disruption in the normal process of B cell development.
+* Noted was a decrease in the proportion of CD19+/CD21low B cells in the patient's blood sample, suggesting a possible issue with B cell maturation.
+* A reduced proportion of IgM+ B cells was observed in the patient's sample, which may indicate a problem with B cell development or bone marrow function.
+* The patient presented with a decreased proportion of immature B cells, which may be related to an underlying issue with B cell development or bone marrow function.
+* Examination of the patient's blood sample revealed a lower than normal proportion of naive B cells, characterized by IgM+/IgD+ expression.
+* The flow cytometry results showed a decreased proportion of CD19+/CD21low B cells, which may indicate a disruption in the normal process of B cell maturation.
+* The patient's immunophenotyping analysis revealed a reduced proportion of immature B cells, which could indicate a problem with B cell development or bone marrow function.
+* A decrease in the proportion of B cells expressing CD19 and low levels of CD21, consistent with an immature phenotype, was noted in the patient's sample.
+* The patient presented with a decreased proportion of IgM+ B cells, which may indicate a problem with B cell maturation or development.
+* Noted was a decrease in the proportion of naive B cells, characterized by IgM+/IgD+ expression, in the patient's peripheral blood.
+* The patient's flow cytometry results indicated a decreased proportion of immature B cells, which may be related to an underlying issue with B cell development or bone marrow function.
+* Examination of the patient's blood sample revealed a lower than normal proportion of CD19+/CD21low B cells, suggesting a possible abnormality in B cell maturation.
+* A reduced proportion of immature B cells was observed in the patient's sample, which could indicate a disruption in the normal process of B cell development.
+* The patient presented with a decreased proportion of naive B cells, which may indicate a problem with B cell development or bone marrow function.
+* The immunophenotyping analysis revealed a decrease in the proportion of IgM+ B cells, which may indicate a problem with B cell maturation or development.
+* The flow cytometric analysis demonstrated a reduced proportion of B cells expressing CD19 and low levels of CD21, consistent with an immature phenotype, in the patient's blood sample.

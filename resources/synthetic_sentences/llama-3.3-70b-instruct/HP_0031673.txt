@@ -1,0 +1,38 @@
+* The patient's ECG revealed a supraventricular tachycardia consistent with orthodromic atrioventricular reentrant tachycardia, characterized by a narrow QRS complex and a retrograde P wave.
+* Orthodromic AVRT was diagnosed based on the presence of a regular, narrow-complex tachycardia with a rate of 180 bpm and evidence of retrograde atrial activation.
+* The electrophysiology study confirmed the presence of an accessory pathway, which was used for retrograde conduction during an episode of orthodromic atrioventricular reentrant tachycardia.
+* The patient experienced recurrent episodes of orthodromic AVRT, each lasting several hours and requiring medical attention for termination.
+* A 12-lead ECG during an episode of tachycardia showed a heart rate of 200 bpm with a QRS duration of 120 ms, consistent with orthodromic atrioventricular reentrant tachycardia.
+* The patient underwent successful radiofrequency ablation of the accessory pathway, which eliminated the substrate for orthodromic AVRT.
+* Holter monitoring revealed multiple episodes of asymptomatic orthodromic AVRT, prompting consideration of prophylactic anti-arrhythmic therapy.
+* The patient's presentation with palpitations, dyspnea, and near-syncope was attributed to recurrent orthodromic atrioventricular reentrant tachycardia.
+* Intracardiac echocardiography and electroanatomic mapping were used to guide the ablation procedure for orthodromic AVRT.
+* A history of congenital heart disease and prior cardiac surgery increased the patient's risk for developing orthodromic AVRT due to the presence of accessory electrical pathways.
+* The anterograde conduction via the AV node and retrograde conduction via the accessory pathway resulted in a characteristic ECG pattern seen in orthodromic atrioventricular reentrant tachycardia.
+* Adenosine administration during an episode of orthodromic AVRT resulted in transient blockade of the AV node, confirming the involvement of the AV node in the reentrant circuit.
+* The patient developed orthodromic AVRT as a complication of cardiac resynchronization therapy, highlighting the need for close monitoring of device recipients.
+* Successful termination of orthodromic atrioventricular reentrant tachycardia was achieved using vagal maneuvers, suggesting a role for the autonomic nervous system in modulating the arrhythmia.
+* A family history of Wolff-Parkinson-White syndrome and orthodromic AVRT increased the likelihood of a genetic predisposition to accessory pathway formation.
+* In this patient with a history of orthodromic AVRT, the decision was made to proceed with accessory pathway ablation to prevent future episodes of tachycardia.
+* Comparison of 12-lead ECGs during sinus rhythm and orthodromic AVRT revealed subtle differences in P-wave morphology, suggesting retrograde atrial activation during the arrhythmia.
+* Beta-blocker therapy was initiated to reduce the frequency and severity of orthodromic AVRT episodes in this patient.
+* An implantable cardioverter-defibrillator was recommended for a patient with a history of orthodromic AVRT and concomitant coronary artery disease, given the increased risk of sudden cardiac death.
+* A comprehensive review of the patient's ECGs revealed a pattern consistent with orthodromic atrioventricular reentrant tachycardia, including a rapid, regular ventricular rate and inverted P waves in the inferior leads.
+* Monitoring of the patient's cardiac rhythm via telemetry revealed intermittent episodes of orthodromic AVRT, prompting closer evaluation of cardiac function.
+* Use of a event monitor allowed for the documentation of asymptomatic orthodromic AVRT episodes in this patient, guiding the decision to initiate anti-arrhythmic therapy.
+* This patient's recurrent episodes of orthodromic AVRT were found to be triggered by physical activity, leading to recommendations for lifestyle modification.
+* Orthodromic atrioventricular reentrant tachycardia was induced during an electrophysiology study, allowing for characterization of the arrhythmia mechanism and identification of the accessory pathway.
+* Genetic testing was offered to a patient with orthodromic AVRT to evaluate for mutations associated with an increased risk of accessory pathway formation.
+* The patient's experience with orthodromic AVRT led to a recommendations for regular cardiac monitoring and follow-up with a cardiologist to prevent future episodes of tachycardia.
+* Following radiofrequency ablation, the patient remained free of orthodromic AVRT episodes, suggesting successful elimination of the accessory pathway.
+* The presence of multiple accessory pathways increased the complexity of the patient's orthodromic AVRT, necessitating a multidisciplinary approach to management.
+* In the setting of orthodromic AVRT, the use of class Ic anti-arrhythmic agents was avoided due to the potential risk of unmasking a concealed accessory pathway.
+* Documentation of orthodromic AVRT in the patient's medical record facilitated the development of a personalized treatment plan, including prophylactic anti-arrhythmic therapy and lifestyle modification.
+* Given the patient's history of orthodromic AVRT, a strategy of watchful waiting was deemed inappropriate, and more aggressive management was pursued.
+* Consideration of the patient's age, medical history, and presence of orthodromic AVRT informed the decision to proceed with invasive electrophysiology testing.
+* A comprehensive analysis of the patient's cardiac structure and function was performed to identify potential substrates for orthodromic AVRT, including accessory pathways and areas of scar formation.
+* The patient's episodes of orthodromic AVRT were found to be more frequent and severe during periods of high stress, leading to recommendations for stress reduction techniques.
+* Following the diagnosis of orthodromic AVRT, the patient was educated on the importance of recognizing symptoms of tachycardia and the need for prompt medical attention in the event of an episode.
+* A multidisciplinary team approach was used to manage this patient's orthodromic AVRT, incorporating input from cardiologists, electrophysiologists, and primary care physicians.
+* The patient's experience with orthodromic AVRT highlighted the importance of regular cardiac monitoring and the potential benefits of prophylactic anti-arrhythmic therapy in preventing future episodes of tachycardia.
+* The identification of orthodromic AVRT as the cause of the patient's symptoms led to a change in the treatment plan, with a focus on managing the underlying arrhythmia rather than the symptoms alone.

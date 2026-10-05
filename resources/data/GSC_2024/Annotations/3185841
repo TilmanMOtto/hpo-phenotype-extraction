@@ -1,0 +1,27 @@
+48:67	HP:0009588	acoustic neurinomas
+57:67	HP:0009588	neurinomas
+125:130	HP:0002664	tumor
+169:175	HP:0002664	tumors
+194:213	HP:0009588	acoustic neurinomas
+203:213	HP:0009588	neurinomas
+243:249	HP:0002664	tumors
+321:340	HP:0009588	acoustic neurinomas
+330:340	HP:0009588	neurinomas
+363:382	HP:0001317	cerebellar symptoms
+409:426	HP:0009591	8th cranial nerve
+451:457	HP:0002664	tumors
+470:489	HP:0002363	brain stem symptoms
+521:540	HP:0001317	cerebellar symptoms
+542:575	HP:0001291	lesions of further cranial nerves
+580:612	HP:0002516	increasing intracranial pressure
+662:668	HP:0002664	tumors
+816:835	HP:0009588	acoustic neurinomas
+825:835	HP:0009588	neurinomas
+1192:1198	HP:0002664	tumors
+1303:1321	HP:0009588	acoustic neurinoma
+1393:1398	HP:0002664	tumor
+57:67	HP:0100008	neurinomas
+203:213	HP:0100008	neurinomas
+330:340	HP:0100008	neurinomas
+825:835	HP:0100008	neurinomas
+1312:1321	HP:0100008	neurinoma

@@ -1,0 +1,36 @@
+* The patient reports experiencing severe insomnia, yet polysomnography (PSG) results indicate near-normal sleep patterns, suggesting a disconnect between perceived and actual sleep quality.
+* Sleep diary entries consistently show a significant underestimation of sleep duration and quality, despite actigraphy data indicating adequate rest.
+* A discrepancy was noted between the patient's subjective complaint of insomnia and the objective findings of a normal sleep cycle on multiple sleep latency test (MSLT) results.
+* The patient's perception of sleep quality is not aligned with the observed sleep parameters, indicating a possible disturbance in sleep perception.
+* Overnight sleep study results revealed a normal sleep architecture, which contrasts with the patient's self-reported severe sleep disturbances.
+* Upon reviewing the patient's sleep log, it became apparent that there was a significant mismatch between the reported sleep duration and the actual time spent sleeping, as measured by wrist actigraphy.
+* Despite normal sleep stage distribution and duration on PSG, the patient subjectively reports poor sleep quality and reduced sleep time.
+* Further evaluation is needed to address the patient's sleep misperception, as their subjective experience of insomnia does not match the objective measures of sleep.
+* The MSLT results indicated normal sleep latency, contradicting the patient's complaint of difficulty initiating sleep, suggesting a potential sleep state misperception.
+* Actigraphy data showed a sleep efficiency of 85%, which is within the normal range, yet the patient reports feeling rested for only a few hours per night.
+* The patient's sleep perception appears to be skewed, as they report severe insomnia despite having a normal sleep-wake cycle, as evidenced by sleep diary and PSG data.
+* A comprehensive sleep evaluation revealed that the patient's subjective report of sleep quality is not supported by objective measures, indicating a possible disturbance in perception related to sleep.
+* Sleep study results showed that the patient's sleep patterns are within normal limits, despite their insistence that they are experiencing chronic insomnia.
+* There is a notable discrepancy between the patient's subjective sleep complaints and the objective sleep data, suggesting a sleep misperception disorder.
+* Review of the patient's medical history and sleep study results indicates that their perceived sleep disturbances are not consistent with the actual sleep patterns, suggesting a paradoxical insomnia diagnosis.
+* PSG results confirmed normal sleep continuity and architecture, contradicting the patient's self-reported sleep difficulties, which suggests a possible sleep state misperception.
+* The patient's perceived sleep quality and duration are not aligned with the observed sleep parameters, indicating a potential disturbance in sleep perception.
+* Actigraphy and PSG data both indicate normal sleep patterns, yet the patient subjectively reports severe sleep disturbances, suggesting a paradoxical insomnia condition.
+* The patient's sleep log reveals a consistent underestimation of sleep time and quality, which is not supported by objective sleep measures, indicating a sleep misperception.
+* Further investigation is needed to address the patient's perceived sleep difficulties, as the objective measures do not support their complaints of insomnia.
+* The MSLT results indicated normal sleep latency and efficiency, which contradicts the patient's subjective report of difficulty initiating and maintaining sleep, suggesting a potential sleep state misperception.
+* The patient's subjective experience of sleep does not match the objective measures, indicating a possible disturbance in perception related to sleep.
+* PSG and actigraphy data both confirm normal sleep patterns, yet the patient reports significant sleep disturbances, suggesting a paradoxical insomnia condition.
+* The patient's perceived sleep quality is not supported by the objective sleep data, indicating a potential sleep misperception disorder.
+* A comprehensive sleep evaluation revealed a discrepancy between the patient's subjective sleep complaints and the objective sleep measures, suggesting a disturbance in sleep perception.
+* The patient's sleep diary and actigraphy data reveal a consistent underestimation of sleep time and quality, which is not supported by PSG results, indicating a sleep state misperception.
+* Review of the patient's sleep study results indicates that their perceived sleep disturbances are not consistent with the actual sleep patterns, suggesting a paradoxical insomnia diagnosis.
+* The patient's subjective report of sleep quality and duration is not aligned with the observed sleep parameters, indicating a potential disturbance in sleep perception.
+* The MSLT results confirmed normal sleep latency and efficiency, which contradicts the patient's complaint of chronic insomnia, suggesting a possible sleep misperception.
+* The patient's sleep perception appears to be distorted, as they report severe insomnia despite having a normal sleep-wake cycle, as evidenced by sleep diary and PSG data.
+* Actigraphy data showed a normal sleep-wake cycle, yet the patient reports feeling tired and rested for only a few hours per night, suggesting a potential sleep state misperception.
+* The patient's subjective experience of sleep does not match the objective measures, indicating a possible disturbance in perception related to sleep, which may be contributing to their perceived insomnia.
+* PSG results indicated normal sleep continuity and architecture, contradicting the patient's self-reported sleep difficulties, which suggests a potential sleep misperception disorder.
+* The patient's sleep log and actigraphy data reveal a consistent underestimation of sleep time and quality, which is not supported by PSG results, indicating a paradoxical insomnia condition.
+* Further evaluation is needed to address the patient's perceived sleep disturbances, as the objective measures do not support their complaints of insomnia, suggesting a possible sleep state misperception.
+* The patient's perception of sleep quality and duration is not supported by the objective sleep data, indicating a potential disturbance in sleep perception, which may be contributing to their perceived sleep difficulties.

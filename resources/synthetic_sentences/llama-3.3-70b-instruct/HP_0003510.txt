@@ -1,0 +1,34 @@
+* The patient's height is significantly below the expected range for their age and sex, falling more than 4 standard deviations below the mean.
+* Clinical evaluation reveals a severe degree of growth restriction, resulting in an adult height of less than 147 cm.
+* The subject exhibits proportionate short stature, with all body proportions relatively maintained despite the overall severe reduction in height.
+* Height measurements indicate a severe shortfall from the expected norm, with a z-score of less than -4.
+* The individual's stature is notably diminished, consistent with a diagnosis of severe short stature or dwarfism, though the latter term is now generally avoided.
+* On physical examination, the patient's height is observed to be exceptionally low, more than 4 standard deviations below the mean for their age and sex.
+* Growth charts indicate a significant deviation from the normal growth curve, suggestive of severe short stature.
+* The patient's severe short stature is evident, with a height that is substantially below the 1st percentile for age and sex.
+* Evaluation of growth and development reveals a severe impairment in linear growth, resulting in short stature.
+* The diagnosis of severe short stature is supported by anthropometric measurements demonstrating a height more than 4 SD below the mean.
+* Clinical assessment confirms the presence of severe short stature, characterized by a significant reduction in adult height.
+* The patient presents with extreme short stature, with a height that falls far below the expected range for their age and sex.
+* Severe growth restriction is evident, resulting in a significant discrepancy between the patient's actual and expected height.
+* Proportionate dwarfism is observed, with the patient's body proportions maintained despite the severe reduction in overall height.
+* Height measurements confirm the diagnosis of severe short stature, with a z-score of less than -4 indicating a significant deviation from the norm.
+* The patient's height is severely impaired, falling more than 4 standard deviations below the mean for their age and sex.
+* Physical examination reveals a significant reduction in stature, consistent with a diagnosis of severe short stature.
+* The patient's growth and development are characterized by severe short stature, with a height that is substantially below the expected range.
+* The diagnosis of severe short stature is confirmed by clinical evaluation and anthropometric measurements.
+* Severe short stature is evident, with the patient's height falling far below the 1st percentile for age and sex.
+* The patient presents with a severe degree of growth restriction, resulting in an adult height of less than 147 cm.
+* Clinical findings are consistent with severe short stature, characterized by a significant reduction in height and a z-score of less than -4.
+* The patient's height is exceptionally low, with a significant deviation from the normal growth curve.
+* Evaluation of the patient's growth and development reveals severe short stature, with a height that is more than 4 SD below the mean.
+* Severe short stature is diagnosed, with the patient's height falling substantially below the expected range for their age and sex.
+* The patient's stature is severely impaired, with a significant reduction in height and a z-score of less than -4.
+* Clinical assessment confirms the presence of severe short stature, characterized by a significant reduction in adult height and a z-score of less than -4.
+* The patient presents with extreme short stature, with a height that is more than 4 standard deviations below the mean for their age and sex.
+* The diagnosis of severe short stature is supported by clinical evaluation, anthropometric measurements, and a significant deviation from the normal growth curve.
+* Severe growth restriction is evident, resulting in a significant reduction in the patient's adult height and a z-score of less than -4.
+* The patient's height is severely reduced, falling more than 4 standard deviations below the mean for their age and sex.
+* Clinical findings are consistent with severe short stature, characterized by a significant reduction in height and a z-score of less than -4.
+* Evaluation of the patient's growth and development reveals severe short stature, with a height that is substantially below the expected range for their age and sex.
+* The patient's stature is exceptionally low, with a significant deviation from the normal growth curve and a z-score of less than -4.

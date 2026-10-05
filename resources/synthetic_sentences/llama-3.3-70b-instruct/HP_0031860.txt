@@ -1,0 +1,37 @@
+* The patient's electrocardiogram showed an irregular pattern of RR intervals, suggestive of a disturbance in autonomic regulation of heart rate.
+* Noted for fluctuation in heart rate that deviates from the expected variation, indicating potential cardiovascular instability.
+* Holter monitor recording revealed an abnormal variation in the interval between consecutive heartbeats, necessitating further evaluation.
+* The standard deviation of NN intervals was elevated, indicating increased variability in the patient's heart rate, a potential marker for cardiac autonomic dysfunction.
+* Analysis of the patient's heart rhythm revealed an unusual degree of variation in the time intervals between successive beats, consistent with abnormal heart rate variability.
+* The variability in the patient's cardiac cycle length was outside the normal range, raising concerns about autonomic nervous system function.
+* Upon reviewing the telemetry data, it was observed that the patient's heart rate displayed an atypical pattern of oscillation, indicative of possible autonomic imbalance.
+* Abnormal fluctuations in the interval between heartbeats were detected on the patient's ECG, suggesting an abnormality in the regulation of heart rate.
+* there was an observed deviation from the normal variation in the RR interval, potentially reflecting an issue with the autonomic nervous system's control over heart rate.
+* RR interval variation was noted to be outside of expected parameters, indicating a potential issue with autonomic regulation of cardiac function.
+* The patient's heart rate tracing showed an unusually high degree of variability, suggesting potential autonomic nervous system dysfunction.
+* Variability in the time interval between heartbeats was found to be below the normal range, indicating possible decreased autonomic nervous system activity.
+* The SDNN (standard deviation of normal-to-normal intervals) was low, suggesting decreased variability in the patient's heart rate and possible abnormal autonomic function.
+* Holter monitoring revealed a pattern of abnormal variability in the interval between successive heartbeats, consistent with a diagnosis of abnormal heart rate variability.
+* Autonomic function testing showed an abnormal response in heart rate variability to postural changes, indicating possible sympathetic or parasympathetic dysfunction.
+* An abnormal pattern of heart rate variability was noted during sleep, suggesting possible autonomic nervous system dysfunction during this period.
+* The patient's heart rate variability was observed to be abnormally low during periods of rest, indicating possible decreased parasympathetic tone.
+* There was a noted abnormality in the patient's heart rate response to exercise, with an unusual pattern of variability in the interval between heartbeats.
+* Analysis of heart rate variability revealed a decreased high-frequency component, suggesting reduced parasympathetic activity.
+* Low-frequency component of heart rate variability was elevated, indicating possible increased sympathetic tone.
+* The patient's power spectral analysis of heart rate variability showed an abnormal distribution of power, suggesting autonomic nervous system imbalance.
+* Noted for an abnormal relationship between heart rate and blood pressure variability, indicating possible baroreflex dysfunction.
+* Heart rate variability was found to be abnormally correlated with respiratory rate, suggesting possible abnormal autonomic nervous system function.
+* Time-domain analysis of heart rate variability revealed an abnormality in the PNN50 (percentage of normal-to-normal intervals > 50 ms), indicating possible decreased parasympathetic activity.
+* There was an observed abnormality in the patient's heart rate variability response to stress, suggesting possible autonomic nervous system dysfunction.
+* Frequency-domain analysis of heart rate variability showed an abnormal power spectrum, indicating possible autonomic imbalance.
+* The patient's heart rate tracing exhibited an unusual pattern of variability, suggesting possible infiltration of the cardiac conduction system.
+* Abnormal heart rate variability was noted during periods of mental stress, indicating possible abnormal autonomic nervous system response to stress.
+* The patient's heart rate variability was found to be abnormally high during periods of physical inactivity, suggesting possible increased sympathetic tone.
+* There was an observed abnormality in the relationship between heart rate variability and body position, indicating possible orthostatic dysfunction.
+* Heart rate variability was noted to be abnormally low during periods of increased physical activity, suggesting possible decreased parasympathetic tone.
+* Noted for an abnormal pattern of circadian variation in heart rate, suggesting possible autonomic nervous system dysfunction.
+* Time-series analysis of heart rate variability revealed an abnormality in the patterns of variation, indicating possible non-linear dynamics in the autonomic nervous system.
+* Abnormal heart rate variability was observed in response to postural changes, indicating possible autonomic nervous system dysfunction.
+* There was an observed abnormality in the patient's heart rate variability in response to cognitive tasks, suggesting possible abnormal autonomic nervous system response to mental stress.
+* The patient's heart rate tracing showed an unusual degree of short-term variability, suggesting possible abnormal autonomic regulation of heart rate.
+* The SDSD (standard deviation of differences between consecutive normal-to-normal intervals) was elevated, indicating increased short-term variability in the patient's heart rate.

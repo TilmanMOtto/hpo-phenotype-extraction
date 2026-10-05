@@ -1,0 +1,22 @@
+# TreePhenoRAG application (hpo-treephenorag, hpo_extraction.treephenorag.TreePhenoRAG).
+# Settings default to the configuration the thesis selected on the HCY cohort. Model folders come
+# from the path file (configs/cluster_leomed.yaml, or the file HPO_PATHS names).
+#
+#   hpo-treephenorag --config configs/apps/treephenorag.yaml --input reports/ --output terms.jsonl
+
+hpo_json: resources/util/hpo.json
+encoder_dir: ${paths:models.all_mpnet_base_v2}
+verifier_dir: ${paths:models.llama_3_1_8b_instruct}
+load_in_4bit: false            # false: 8-bit, as in the thesis
+stanza_dir: ${paths:stanza_dir}   # null uses the rule-based sentence splitter
+
+settings:
+  segments_per_term: 10        # S; 3 keeps 97 % of the F1 score at 35 % of the verifier calls
+  expansion_pooling: P4
+  expansion_threshold: 5.581644480753024e-05
+  acceptance_pooling: lse_beta1
+  acceptance_threshold: 0.99
+  retrieval_index: ontology_r3   # term information (label, definition, synonyms)
+  synthetic_sentences_dir: null  # only for retrieval_index: synthetic-sentence
+  subtree_root: null             # e.g. HP:0000707 to search one organ system
+  max_terms: null

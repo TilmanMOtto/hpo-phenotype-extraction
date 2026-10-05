@@ -1,0 +1,34 @@
+* The patient's condition is characterized by the presence of genetically distinct cell populations, indicative of somatic mosaicism.
+* Genetic analysis revealed a mosaic pattern, suggesting that the mutation occurred post-zygotically and is present in a subset of somatic cells.
+* Somatic cell mosaicism was identified, with a mixture of normal and mutant cells present in the affected tissues.
+* The disorder is typified by the coexistence of normal and abnormal cell populations, resulting from a somatic mutation.
+* Mosaic expression of the mutation was observed, with variable levels of mutant cells present in different tissues.
+* The condition is thought to arise from a post-zygotic mutation, leading to a mixture of wild-type and mutant cells.
+* A significant proportion of somatic cells exhibited the mutation, consistent with a diagnosis of somatic mosaicism.
+* The presence of somatic mosaicism was confirmed by genetic testing, which revealed a mixture of normal and mutant alleles.
+* The patient's symptoms are attributed to the presence of a somatic mutation, which is present in a subset of cells.
+* Genetic analysis revealed a low-level mosaic mutation, which is consistent with somatic mosaicism.
+* The condition is characterized by the presence of genetically distinct cell populations, with a variable proportion of mutant cells.
+* Somatic mosaicism was suspected based on the patient's clinical presentation and confirmed by genetic testing.
+* The mutation was found to be present in a mosaic pattern, with both normal and mutant cells detected.
+* The disorder is associated with a high degree of somatic mosaicism, resulting in a variable expression of the mutation.
+* Genetic testing revealed a somatic mutation, which is present in a subset of cells and is thought to be responsible for the patient's symptoms.
+* The patient's condition is complex, with a mixture of normal and mutant cell populations present in the affected tissues.
+* Somatic cell mosaicism was identified as the underlying cause of the patient's symptoms, with a significant proportion of mutant cells detected.
+* The presence of somatic mosaicism was confirmed by genetic analysis, which revealed a mixture of normal and mutant alleles.
+* The condition is thought to arise from a somatic mutation, which occurred post-zygotically and is present in a subset of cells.
+* A diagnosis of somatic mosaicism was made based on the presence of genetically distinct cell populations.
+* The patient's symptoms are attributed to the presence of a somatic mutation, which is present in a variable proportion of cells.
+* Genetic testing revealed a low-level mosaic mutation, consistent with somatic mosaicism.
+* The condition is characterized by a mixture of normal and mutant cell populations, resulting from a somatic mutation.
+* Somatic mosaicism was suspected based on the patient's clinical presentation and confirmed by genetic analysis.
+* The mutation was found to be present in a mosaic pattern, with both normal and mutant cells detected in the affected tissues.
+* The disorder is associated with a high degree of somatic mosaicism, resulting in a variable expression of the mutation.
+* The patient's condition is complex, with a mixture of normal and mutant cell populations present in the affected tissues, consistent with somatic mosaicism.
+* Genetic analysis revealed a somatic mutation, which is present in a subset of cells and is thought to be responsible for the patient's symptoms.
+* Somatic cell mosaicism was identified as the underlying cause of the patient's symptoms, with a significant proportion of mutant cells detected.
+* The presence of somatic mosaicism was confirmed by genetic testing, which revealed a mixture of normal and mutant alleles.
+* The condition is thought to arise from a somatic mutation, which occurred post-zygotically and is present in a subset of cells, resulting in somatic mosaicism.
+* A diagnosis of somatic mosaicism was made based on the presence of genetically distinct cell populations, with a variable proportion of mutant cells.
+* The patient's symptoms are attributed to the presence of a somatic mutation, which is present in a variable proportion of cells, consistent with somatic mosaicism.
+* Genetic testing revealed a low-level mosaic mutation, consistent with somatic mosaicism, and a lower variant allele fraction cutoff was applied to detect the mutation.

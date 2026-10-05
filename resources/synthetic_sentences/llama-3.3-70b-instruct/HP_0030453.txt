@@ -1,0 +1,36 @@
+* The patient's electroretinogram (ERG) showed abnormal waveform morphology, suggesting underlying retinal dysfunction.
+* Visual evoked potentials (VEP) were significantly delayed, indicating a possible issue with the optic nerve or visual pathway.
+* Abnormalities in the electrooculogram (EOG) hinted at a problem with the retinal pigment epithelium.
+* The multifocal ERG revealed localized defects in retinal function, which may be contributing to the patient's visual symptoms.
+* An abnormal pattern ERG was observed, suggesting ganglion cell layer dysfunction.
+* Flash VEP testing demonstrated reduced amplitude, pointing to a possible problem with the visual cortex or its connections.
+* The patient's visual electrophysiology study showed evidence of macular dysfunction, characterized by an abnormal focal ERG response.
+* A prolongation of the implicit time was noted on the patient's VEP, which may indicate a conduction delay in the visual pathway.
+* On electroretinography, the patient exhibited subnormal rod and cone responses, suggesting widespread retinal dysfunction.
+* Abnormal oscillatory potentials were observed in the patient's ERG, which can be indicative of inner retinal layer dysfunction.
+* The patient's ERG demonstrated a reduced b-wave to a-wave ratio, suggesting bipolar cell dysfunction.
+* Visual electrophysiology testing revealed a non-recordable response to pattern stimulation, suggesting severe visual pathway impairment.
+* An abnormal photopic negative response (PhNR) was observed, which may indicate retinal ganglion cell dysfunction.
+* The patient's full-field ERG showed a diminished response to flicker stimulation, suggesting cone system dysfunction.
+* Abnormalities in the patient's VEP were noted, characterized by an asymmetric response to pattern stimulation.
+* The patient exhibited an abnormal scotopic ERG response, suggesting rod system dysfunction under dark-adapted conditions.
+* On multifocal VEP testing, the patient demonstrated abnormal responses in the central visual field, suggesting foveal or parafoveal dysfunction.
+* Electrooculography revealed an abnormal Arden ratio, indicating a possible problem with the retinal pigment epithelium or choroid.
+* A significant reduction in the patient's pattern ERG amplitude was observed, suggesting macular dysfunction.
+* The patient's visual electrophysiology study revealed delayed and reduced VEP responses to flash stimulation, indicating possible visual pathway dysfunction.
+* Abnormalities in the patient's ERG were observed under both photopic and scotopic conditions, suggesting widespread retinal dysfunction.
+* On VEP testing, the patient exhibited an abnormal interocular difference, suggesting a possible problem with the visual pathways or cortex.
+* The patient's electroretinogram demonstrated supernormal rod responses, which can be indicative of certain retinal disorders.
+* An abnormal response to Sachs flash stimulation was noted, suggesting possible visual pathway or retinal dysfunction.
+* Multifocal ERG testing revealed localized retinal dysfunction, characterized by an abnormal response to focal stimulation.
+* The patient's visual electrophysiology study showed evidence of optic nerve dysfunction, characterized by an abnormal VEP response to pattern stimulation.
+* An abnormal response to 30 Hz flicker stimulation was observed, suggesting possible cone system dysfunction.
+* Electroretinography revealed an abnormal a-wave response, indicating possible photoreceptor dysfunction.
+* The patient exhibited an abnormal b-wave response on ERG testing, suggesting bipolar cell or inner retinal layer dysfunction.
+* On VEP testing, the patient demonstrated an abnormal response to motion stimulation, suggesting possible visual pathway or cortical dysfunction.
+* The patient's ERG showed a reduced response to blue light stimulation, suggesting possible S-cone system dysfunction.
+* An abnormal dark-adapted ERG response was observed, suggesting possible rod system or retinal dysfunction under scotopic conditions.
+* Multifocal VEP testing revealed abnormal responses in the peripheral visual field, suggesting possible dysfunction in the visual pathways or retina.
+* The patient's electrooculogram demonstrated an abnormal standing potential, indicating a possible problem with the retinal pigment epithelium or choroid.
+* Visual electrophysiology testing revealed an abnormal response to color stimulation, suggesting possible cone system or visual pathway dysfunction.
+* The patient's ERG demonstrated a delayed and reduced response to flash stimulation, indicating possible retinal or visual pathway dysfunction.

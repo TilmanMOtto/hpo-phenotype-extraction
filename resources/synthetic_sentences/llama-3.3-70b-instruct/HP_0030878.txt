@@ -1,0 +1,35 @@
+* Pulmonary function tests revealed significant abnormalities, suggesting underlying respiratory disease.
+* The patient's spirometry results were notable for an obstructive pattern, consistent with chronic obstructive pulmonary disease (COPD).
+* Abnormalities on PFTs were detected, including a decreased forced expiratory volume in one second (FEV1) to forced vital capacity (FVC) ratio.
+* A reduction in diffusing capacity of the lungs for carbon monoxide (DLCO) was observed, indicating a possible issue with gas exchange.
+* Plethysmography showed an increased residual volume, suggesting air trapping.
+* The patient underwent pulmonary function testing, which demonstrated a restrictive pattern with decreased total lung capacity (TLC).
+* Abnormal spirometry results were obtained, with a forced expiratory volume in one second (FEV1) of 60% predicted.
+* Pulmonary function tests indicated an abnormality in lung volumes, with a decreased inspiratory capacity (IC).
+* The diffusing capacity of the lungs for carbon monoxide (DLCO) was found to be below the normal range, prompting further investigation.
+* A significant abnormality was detected on pulmonary function testing, with a decreased peak expiratory flow rate (PEFR).
+* The patient's PFT results showed a mixed obstructive and restrictive pattern, indicating complex lung disease.
+* Spirometry testing revealed an abnormal flow-volume loop, suggestive of upper airway obstruction.
+* The patient underwent comprehensive pulmonary function testing, which demonstrated multiple abnormalities, including decreased FEV1 and FVC.
+* An abnormality in gas exchange was detected, with a decreased partial pressure of oxygen (PaO2) on arterial blood gas analysis.
+* Pulmonary function tests were abnormal, with a decreased maximum voluntary ventilation (MVV).
+* The patient had an abnormal pulmonary function test, with a decreased slow vital capacity (SVC).
+* A significant reduction in lung function was observed on PFTs, with a decreased forced vital capacity (FVC) of 50% predicted.
+* The patient's plethysmography results showed an abnormal body plethysmograph, indicating airway obstruction.
+* Abnormalities on pulmonary function testing were consistent with a diagnosis of asthma, with reversible airway obstruction.
+* The patient underwent pulmonary function testing, which revealed an abnormality in lung elastic recoil, with a decreased static compliance.
+* Spirometry results were abnormal, with a decreased mid-expiratory flow rate (MMEF).
+* The diffusing capacity of the lungs for carbon monoxide (DLCO) was abnormal, with a value of 30% predicted.
+* Pulmonary function tests demonstrated a significant abnormality, with a decreased vital capacity (VC).
+* The patient had an abnormal pulmonary function test, with a decreased total lung capacity (TLC) of 60% predicted.
+* A significant abnormality was detected on PFTs, with a decreased inspiratory reserve volume (IRV).
+* The patient's PFT results showed an abnormality in airway resistance, with an increased specific airway resistance (SRaw).
+* Pulmonary function testing revealed an abnormality in gas exchange, with a decreased partial pressure of carbon dioxide (PaCO2) on arterial blood gas analysis.
+* The patient underwent comprehensive pulmonary function testing, which demonstrated an abnormality in lung volumes, with a decreased expiratory reserve volume (ERV).
+* Spirometry testing was abnormal, with a decreased forced expiratory flow rate (FEF25-75).
+* The patient had an abnormal pulmonary function test, with a decreased maximum expiratory pressure (MEP).
+* Pulmonary function tests were abnormal, with a decreased lung compliance and increased airway resistance.
+* The patient's plethysmography results showed an abnormal intrathoracic gas volume, indicating air trapping.
+* Abnormalities on PFTs were detected, including a decreased functional residual capacity (FRC).
+* The patient underwent pulmonary function testing, which revealed an abnormality in lung function, with a decreased vital capacity (VC) of 40% predicted.
+* The patient's PFT results were abnormal, with a decreased airway conductance, indicating airway obstruction.

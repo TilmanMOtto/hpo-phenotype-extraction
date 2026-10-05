@@ -1,0 +1,36 @@
+* The patient's angiogram revealed an anomalous configuration of the great vessels, suggesting a congenital cardiovascular defect.
+* Notable for abnormal pulmonary venous return, with the pulmonary veins connecting to the right atrium instead of the left.
+* Aortic arch anomaly was identified on CT angiography, characterized by an aberrant right subclavian artery.
+* The echocardiogram demonstrated an unusual orientation of the great arteries, consistent with a diagnosis of transposition of the great arteries.
+* Superior vena cava duplication was observed on MRI, a rare congenital anomaly that may be associated with other cardiac defects.
+* Anomalous pulmonary artery origin was detected on cardiac catheterization, with the left pulmonary artery arising from the right pulmonary artery.
+* The patient's aortic root was found to be dilated, with an abnormal morphology suggestive of a connective tissue disorder.
+* Inferior vena cava interruption was identified on ultrasound, with azygos continuation to the superior vena cava.
+* Abnormal great vessel morphology was suspected on chest X-ray, with a "figure-of-8" configuration of the aorta and pulmonary arteries.
+* Aortic coarctation was diagnosed, characterized by narrowing of the aortic isthmus and resultant hypertension.
+* The cardiac MRI revealed an anomalous coronary artery originating from the pulmonary artery, a rare congenital defect.
+* Pulmonary vein stenosis was identified on CT angiography, with narrowing of the pulmonary veins at their connection to the left atrium.
+* Anomalous systemic venous return was observed, with the hepatic veins connecting to the right atrium instead of the inferior vena cava.
+* The patient's great vessels demonstrated an abnormal branching pattern, with the left common carotid artery arising from the brachiocephalic trunk.
+* Aortic dissection was diagnosed, characterized by a tear in the aortic wall and resultant false lumen formation.
+* The echocardiogram revealed a patent ductus arteriosus, with continuous flow between the aorta and pulmonary artery.
+* Abnormal great vessel morphology was identified on fetal ultrasound, with a suspected diagnosis of congenital heart disease.
+* Anomalous aortic arch anatomy was observed on CT angiography, with a right-sided aortic arch and aberrant left subclavian artery.
+* Pulmonary artery sling was diagnosed, characterized by an anomalous origin of the left pulmonary artery from the right pulmonary artery.
+* The patient's superior vena cava was found to be dilated, with an abnormal morphology suggestive of a thrombotic or inflammatory process.
+* Aortic valve anomalies were identified on cardiac MRI, with a bicuspid aortic valve and resultant aortic stenosis.
+* The cardiac catheterization revealed an anomalous coronary artery fistula, with connection between the coronary artery and the pulmonary artery.
+* Inferior vena cava filters were placed to prevent pulmonary embolism in a patient with an anomalous inferior vena cava.
+* Abnormal great vessel morphology was suspected on physical examination, with a continuous murmur suggestive of a patent ductus arteriosus.
+* The patient's aortic arch was found to be interrupted, with a diagnosis of aortic arch interruption and resultant severe hypertension.
+* Anomalous pulmonary venous return was diagnosed, with the pulmonary veins connecting to the coronary sinus instead of the left atrium.
+* The echocardiogram revealed a sinus of Valsalva aneurysm, with an abnormal dilation of the aortic root.
+* Aortic thrombosis was diagnosed, characterized by a clot in the aortic lumen and resultant acute limb ischemia.
+* The patient's great vessels demonstrated an abnormal caliber, with a dilated aorta and narrowed pulmonary arteries.
+* Pulmonary artery aneurysm was identified on CT angiography, with a focal dilation of the pulmonary artery.
+* Anomalous aortic arch branching was observed on MRI, with a common origin of the left common carotid and left subclavian arteries.
+* The cardiac MRI revealed an anomalous origin of the coronary artery from the pulmonary artery, a rare congenital defect.
+* Aortic pseudocoarctation was diagnosed, characterized by a kink in the aortic isthmus and resultant hypertension.
+* Abnormal great vessel morphology was identified on angiography, with a complex network of collateral vessels in a patient with aortic coarctation.
+* The patient's superior vena cava was found to be occluded, with an anomalous venous return via the azygos system.
+* Pulmonary vein varix was diagnosed, characterized by an abnormal dilation of the pulmonary vein.

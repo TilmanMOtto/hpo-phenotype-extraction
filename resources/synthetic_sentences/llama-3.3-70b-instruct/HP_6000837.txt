@@ -1,0 +1,34 @@
+* The patient tested positive for COVID-19 via PCR on a nasopharyngeal swab, indicating the presence of SARS-CoV-2 viral RNA.
+* SARS-CoV-2 nucleic acid was detected in the respiratory specimen, confirming the diagnosis of COVID-19.
+* Respiratory tract sample analysis by RT-PCR revealed the presence of SARS-CoV-2 genetic material.
+* The pharyngeal swab specimen was positive for SARS-CoV-2 by molecular testing, consistent with COVID-19 infection.
+* COVID-19 was diagnosed based on a positive nucleic acid test result from a sputum sample.
+* The patient's nasopharyngeal swab was positive for SARS-CoV-2 by PCR, indicating active infection.
+* Molecular diagnostic testing detected SARS-CoV-2 RNA in the patient's respiratory tract sample.
+* A positive result was obtained on the SARS-CoV-2 nucleic acid test from a throat swab, confirming COVID-19.
+* The patient's respiratory specimen tested positive for SARS-CoV-2 by nucleic acid amplification testing.
+* SARS-CoV-2 was detected in the patient's sputum by reverse transcription polymerase chain reaction (RT-PCR).
+* The COVID-19 nucleic acid test was positive on a sample collected from the patient's lower respiratory tract.
+* The patient had a positive SARS-CoV-2 PCR result from a nasopharyngeal swab, indicating COVID-19 infection.
+* Nucleic acid testing of the respiratory tract sample revealed the presence of SARS-CoV-2, confirming the diagnosis.
+* A positive SARS-CoV-2 test result was obtained from a pharyngeal sample using molecular diagnostics.
+* The patient's respiratory sample was positive for SARS-CoV-2 by real-time PCR, consistent with COVID-19.
+* The SARS-CoV-2 nucleic acid test result was positive on a specimen collected from the upper respiratory tract.
+* COVID-19 was confirmed by a positive nucleic acid test result from a sputum sample analyzed by PCR.
+* The patient tested positive for SARS-CoV-2 by nucleic acid amplification testing on a nasopharyngeal swab.
+* Molecular testing detected SARS-CoV-2 RNA in the patient's respiratory tract, consistent with COVID-19 infection.
+* The patient's throat swab tested positive for SARS-CoV-2 by RT-PCR, indicating active infection.
+* A positive result was obtained on the SARS-CoV-2 nucleic acid test from a lower respiratory tract sample.
+* The patient had a positive COVID-19 test result from a sample collected from the upper respiratory tract.
+* Nucleic acid testing of the patient's respiratory specimen revealed the presence of SARS-CoV-2.
+* The patient's sputum sample was positive for SARS-CoV-2 by PCR, confirming COVID-19 infection.
+* The SARS-CoV-2 nucleic acid test was positive on a nasopharyngeal swab, indicating COVID-19.
+* The patient tested positive for COVID-19 by molecular testing on a respiratory tract sample.
+* A positive SARS-CoV-2 test result was obtained from a specimen collected from the patient's respiratory tract.
+* The patient's respiratory sample was positive for SARS-CoV-2 by nucleic acid amplification testing, consistent with COVID-19.
+* COVID-19 was diagnosed based on a positive nucleic acid test result from a nasopharyngeal swab.
+* The patient had a positive SARS-CoV-2 PCR result from a throat swab, indicating active infection.
+* The patient's respiratory tract sample tested positive for SARS-CoV-2 by RT-PCR.
+* The SARS-CoV-2 nucleic acid test result was positive on a specimen collected from the patient's lower respiratory tract.
+* The patient tested positive for COVID-19 by nucleic acid testing on a sputum sample.
+* A positive result was obtained on the COVID-19 nucleic acid test from a sample collected from the upper respiratory tract.

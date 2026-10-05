@@ -1,0 +1,40 @@
+* Here are 40 unique sentences that describe the HPO label "Episodes of ventricular tachycardia" from different clinical perspectives:
+* The patient experienced recurrent episodes of VT, requiring multiple cardioversions to restore a stable rhythm.
+* Ventricular tachycardia was noted on telemetry, prompting immediate medical attention and intervention.
+* ECG revealed runs of VT, which were successfully treated with anti-arrhythmic medications.
+* The patient's Holter monitor showed frequent episodes of VT, consistent with a diagnosis of malignant arrhythmia.
+* Cardiac monitoring detected paroxysmal VT, necessitating urgent consultation with a cardiologist.
+* Episodes of monomorphic VT were observed on ECG, suggesting a possible re-entrant mechanism.
+* Polymorphic VT was diagnosed based on ECG findings, prompting the initiation of anti-arrhythmic therapy.
+* Torsades de pointes, a form of VT, was identified on the patient's ECG tracing, requiring prompt treatment.
+* VT was induced during an electrophysiology study, confirming the diagnosis and guiding further management.
+* The patient's past medical history was notable for recurrent episodes of VT, which had been managed with an implantable cardioverter-defibrillator (ICD).
+* The patient presented to the ED with symptoms consistent with VT, including palpitations and near-syncope.
+* Telemetry data revealed multiple episodes of non-sustained VT, which were asymptomatic but concerning for potential progression to sustained VT.
+* The patient's risk factors for VT included a history of myocardial infarction and reduced left ventricular function.
+* VT was a significant concern in this patient, given their diagnosis of arrhythmogenic right ventricular cardiomyopathy (ARVC).
+* The patient underwent VT ablation, with subsequent reduction in episode frequency and severity.
+* Medication non-adherence was thought to have contributed to the recurrence of VT episodes in this patient.
+* Genetic testing revealed a mutation associated with an increased risk of VT, prompting family screening and counseling.
+* The patient's ICD firing records showed multiple episodes of VT, which were effectively terminated by the device.
+* Cardiac MRI demonstrated scar tissue in the left ventricle, a potential substrate for VT.
+* VT episodes were often triggered by physical exertion or emotional stress in this patient.
+* The patient's ECG showed evidence of VT, including a wide QRS complex and a rate of 170 bpm.
+* The patient required hospitalization for management of recurrent VT episodes, which were refractory to medical therapy.
+* VT was suspected based on symptoms of palpitations, shortness of breath, and chest discomfort.
+* The patient's episode of VT was preceded by a prolonged QT interval, which may have contributed to the arrhythmia.
+* During a stress test, the patient developed VT, which resolved with cessation of exercise.
+* VT was a common finding in this patient, who had a history of chronic Chagas disease.
+* The patient's pacemaker interrogation revealed episodes of VT, which were not detected by surface ECG.
+* A VT storm was diagnosed in this patient, characterized by multiple episodes of VT over a short period.
+* The patient's VT episodes were often self-limiting, but required close monitoring due to the risk of sudden cardiac death.
+* ECG monitoring during sleep revealed nocturnal episodes of VT, which were not apparent during wakefulness.
+* The patient's VT episodes were consistent with a diagnosis of long QT syndrome, type 3.
+* VT was diagnosed in a patient with a history of mitral valve prolapse, who presented with symptoms of palpitations and syncope.
+* VT ablation was complicated by the development of atrioventricular block, requiring pacemaker implantation.
+* VT episodes were associated with a significant increase in blood pressure and heart rate in this patient.
+* The patient's diagnosis of VT was confirmed by the presence of a delta wave and a short PR interval on ECG.
+* VT was suspected in a patient with a history of substance abuse, who presented with symptoms of chest pain and shortness of breath.
+* The patient underwent epicardial VT ablation, with subsequent resolution of symptoms.
+* VT episodes were precipitated by hypokalemia in this patient, highlighting the importance of electrolyte monitoring.
+* The patient's VT episodes were managed with catheter ablation and implantation of a cardioverter-defibrillator.

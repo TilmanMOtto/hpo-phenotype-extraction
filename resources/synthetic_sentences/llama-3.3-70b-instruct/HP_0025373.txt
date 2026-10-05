@@ -1,0 +1,36 @@
+* The patient's EEG tracing demonstrated abnormal interictal activity, suggestive of an underlying seizure disorder.
+* Between seizures, the EEG showed persistent theta wave abnormalities, indicative of potential epileptogenicity.
+* Abnormal spike discharges were observed on the interictal EEG, supporting a diagnosis of epilepsy.
+* The interictal EEG revealed focal slowing and sharp waves, consistent with a structural lesion in the brain.
+* Despite being seizure-free for several months, the patient's interictal EEG continued to show generalized slowing and disorganization.
+* Repeated interictal EEGs were necessary to capture the abnormal waveforms, which were eventually seen in the left temporal lobe.
+* The EEG during the interictal period displayed a pattern of bilaterally synchronous spike-and-wave discharges.
+* Focal interictal epileptiform discharges were observed in the right frontal lobe, correlating with the patient's seizure semiology.
+* In the absence of overt seizures, the interictal EEG showed occasional sharp waves and polyspikes, raising concern for an underlying epileptic process.
+* Comparison of ictal and interictal EEGs revealed distinct differences in electrographic patterns, aiding in the diagnosis of epilepsy syndrome.
+* Interictal EEG findings included diffuse background slowing, indicative of encephalopathy or diffuse brain dysfunction.
+* Repeat interictal EEG after a seizure demonstrated resolution of prior abnormalities, suggesting a post-ictal state.
+* The presence of interictal EEG abnormalities increased the likelihood of seizure recurrence in this patient.
+* Sleep-deprived EEG revealed more pronounced interictal discharges compared to the awake study, highlighting the importance of activation procedures.
+* Multifocal interictal spikes were seen on EEG, corresponding to the patient's history of seizures originating from multiple foci.
+* In the interictal period, the EEG disclosed subtle, intermittent rhythmic delta activity in the left hemisphere.
+* Quantitative EEG analysis detected abnormal interictal coherence between brain regions, suggesting altered functional connectivity.
+* Focal cortical dysplasia was suspected based on interictal EEG findings of persistent focal slowing and sharp waves.
+* Interictal EEG patterns were highly variable, sometimes showing burst suppression and other times revealing a relatively normal background.
+* Prolonged EEG monitoring captured interictal discharges not apparent on shorter recordings, allowing for more accurate diagnosis.
+* Interictal EEG helped differentiate between seizure types and epilepsy syndromes, guiding treatment decisions.
+* The distribution and frequency of interictal spikes provided valuable clues for localizing the seizure onset zone.
+* In the context of seizure freedom, persistent interictal EEG abnormalities suggested the need for ongoing antiepileptic medication.
+* Interictal EEG was instrumental in diagnosing and managing epilepsy, especially in patients with infrequent or subtle seizures.
+* The relationship between interictal EEG abnormalities and seizure frequency was complex, necessitating longitudinal monitoring.
+* Independent review of the interictal EEG by a second epileptologist confirmed the initial interpretation of abnormal findings.
+* Age-related changes in interictal EEG patterns were noted, with more pronounced slowing and disorganization in older patients.
+* Semiology of seizures correlated well with the distribution of interictal EEG abnormalities, supporting a focal epilepsy diagnosis.
+* Continuous EEG monitoring in the ICU revealed interictal status epilepticus, requiring prompt adjustment of antiepileptic therapy.
+* Comparison of awake and sleep interictal EEGs showed increased epileptiform activity during drowsiness and sleep.
+* Identical interictal EEG patterns were observed in multiple family members with a history of epilepsy, suggesting a genetic predisposition.
+* Serial interictal EEGs demonstrated progressive improvement in background activity and decrease in spike frequency following successful epilepsy surgery.
+* High-density EEG and source localization techniques were employed to better characterize the interictal spike distribution and origin.
+* The presence of both focal and generalized interictal EEG abnormalities complicated the diagnosis and treatment of this patient's epilepsy.
+* Frequent interictal discharges on EEG, despite optimal medication, indicated the need for alternative therapeutic approaches, such as vagus nerve stimulation.
+* Advanced EEG analysis techniques, including time-frequency analysis, enhanced the detection of subtle interictal abnormalities not apparent on routine inspection.

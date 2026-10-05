@@ -1,0 +1,66 @@
+# Locations for a machine outside the cluster. Copy this file, fill in your folders, and set
+#   export HPO_PATHS=/path/to/your/copy.yaml
+# before running an experiment or an application. Keys are the same as in cluster_leomed.yaml.
+# Only GSC+ runs, the figure scripts and the applications work without the HCY data.
+
+group_dir: /data/hpo
+models_dir: /data/models
+
+repo_dir: /path/to/hpo-phenotype-extraction
+results_dir: ${repo_dir}/output
+output_dir: ${results_dir}
+logs_dir: ${repo_dir}/logs
+
+# The thesis LaTeX source (an Overleaf checkout). The figure scripts write into it.
+thesis_dir: ${repo_dir}/../thesis
+
+hcy:
+  dir: /not/available/outside/the/cluster
+  input_dir: ${hcy.dir}/input
+  raw_ground_truth: ${hcy.dir}/hcy_ground_truth_raw.csv
+  segmented_reports: ${hcy.dir}/segmented_reports.csv
+  curation_dir: ${hcy.dir}/curation
+  curated_dir: ${hcy.dir}/curated_ground_truth
+  curated_ground_truth: ${hcy.curated_dir}/hcy_ground_truth_curated.csv
+  curated_annotations: ${hcy.curated_dir}/hcy_curated_annotations.csv
+  folds: ${hcy.curated_dir}/folds_hcy.csv
+  qualitative_examples: ${hcy.dir}/qualitative_examples.csv
+
+models:
+  llama_3_1_8b_instruct: ${models_dir}/Llama-3.1-8B-Instruct
+  llama_3_3_70b_instruct: ${models_dir}/Llama-3.3-70B-Instruct
+  meta_llama_3_70b_instruct: ${models_dir}/Meta-Llama-3-70B-Instruct
+  llama_3_groq_70b_tool_use: ${models_dir}/Llama-3-Groq-70B-Tool-Use
+  all_mpnet_base_v2: ${models_dir}/all-mpnet-base-v2
+  sapbert: ${models_dir}/SapBERT-from-PubMedBERT-fulltext
+  # Sentence encoder of the RAG-HPO baseline.
+  sapbert_mnli: ${models_dir}/SapBERT-mnli-snli-scinli-scitail-mednli-stsb
+  bge_small_cache: ${models_dir}/models--BAAI--bge-small-en-v1.5
+  jurors:
+    apertus: ${models_dir}/Apertus-8B-Instruct-2509
+    deepseek: ${models_dir}/DeepSeek-R1-Distill-Qwen-7B
+    intelligent_internet: ${models_dir}/II-Medical-8B-1706
+    openbiollm: ${models_dir}/Llama3-OpenBioLLM-8B
+    llama: ${models.llama_3_1_8b_instruct}
+    medpsy: ${models_dir}/MedPsy-4B
+    medgemma: ${models_dir}/medgemma-1.5-4b-it
+    phi4: ${models_dir}/phi-4
+
+stanza_dir: ${group_dir}/stanza_resources
+stanza_dir_phenobert: ${group_dir}/stanza_resources_phenobert
+
+phenobert:
+  dir: ${repo_dir}/third_party/PhenoBERT/phenobert/utils
+  weights_dir: ${group_dir}/phenobert_weights   # holds models/ and embeddings/
+  python: ${group_dir}/phenobert_env/bin/python
+
+raghpo:
+  vector_db_dir: ${repo_dir}/third_party/RAG-HPO
+
+autopcr:
+  parser_venv: ${group_dir}/autopcr_parser_env
+  parser_assets: ${group_dir}/autopcr_parser_assets
+
+conda:
+  base: ${group_dir}/conda
+  env: hpo-extraction

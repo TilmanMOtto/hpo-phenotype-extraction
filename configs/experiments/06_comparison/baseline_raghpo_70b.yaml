@@ -1,0 +1,39 @@
+# RAG-HPO baseline with a 70B backend (thesis section 3.5, appendix A.5).
+#
+# Command:  METHOD=raghpo_70b sbatch slurm/baseline.sbatch   (DATASET=gsc for GSC+)
+# Model: Llama-3.3-70B-Instruct, 8-bit, greedy, four GPUs.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: 0 where the tool takes one (greedy decoding).
+# Writes <output>/baseline_raghpo_70b/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc
+dataset: hcy
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms.csv
+gsc_dir: resources/data/GSC_2024
+
+# [Required]
+llama_dir: ${paths:models.llama_3_3_70b_instruct}
+output_dir: ${paths:output_dir}
+
+# [RAG-HPO]
+rag_hpo_dir: third_party/RAG-HPO
+sbert_model: pritamdeka/SapBERT-mnli-snli-scinli-scitail-mednli-stsb
+keep_top: 15
+
+# [Model]
+load_in_4bit: false   # 70B: 8-bit on ~2x A100-80G. Set true for tighter VRAM
+max_new_tokens: 1024
+
+# [Pilot]
+max_patients:
+
+mlflow_experiment_name: exp13_comparison

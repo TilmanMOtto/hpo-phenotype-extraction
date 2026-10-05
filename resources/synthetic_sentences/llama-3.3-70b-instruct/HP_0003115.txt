@@ -1,0 +1,35 @@
+* The electrocardiogram (ECG) revealed a sinus rhythm with intermittent premature ventricular contractions, indicating an abnormal heart rhythm.
+* EKG abnormalities were noted on the patient's cardiac workup, prompting further investigation into potential cardiomyopathy.
+* An abnormal electrocardiogram was obtained, showing nonspecific ST-T wave changes suggestive of ischemia.
+* The patient's ECG tracing demonstrated a left bundle branch block, consistent with a prior myocardial infarction.
+* During the physical examination, an irregular heartbeat was auscultated, which was later confirmed by an abnormal EKG reading.
+* A 12-lead ECG performed in the emergency department showed a normal sinus rhythm with occasional premature atrial contractions, but otherwise abnormal findings.
+* Cardiac monitoring revealed an abnormal heart rhythm, characterized by a prolonged QT interval.
+* The abnormal EKG results suggested underlying cardiac disease, which warranted additional testing, including echocardiography and cardiac catheterization.
+* A routine ECG was performed, and the results were abnormal, indicating the presence of a ventricular arrhythmia.
+* The patient's abnormal ECG tracing showed evidence of an old inferior wall myocardial infarction.
+* On admission, the patient had an abnormal EKG, which showed a new onset of atrial fibrillation.
+* The ECG demonstrated a normal sinus rhythm, but with abnormal U waves, suggestive of hypokalemia.
+* The abnormal EKG was characterized by a right bundle branch block, which may indicate a conduction abnormality.
+* An abnormal electrocardiogram was found in the patient, with changes consistent with left ventricular hypertrophy.
+* A 24-hour Holter monitor revealed an abnormal heart rhythm, with episodes of supraventricular tachycardia.
+* Upon reviewing the patient's medical records, a previous abnormal EKG was noted, which had been attributed to a viral pericarditis.
+* An ECG was obtained, which demonstrated an abnormal rhythm, consistent with a paroxysmal supraventricular tachycardia.
+* The patient underwent cardiac monitoring, and an abnormal EKG was detected, with a diagnosis of multifocal atrial tachycardia.
+* The abnormal ECG results led to a referral to a cardiologist for further evaluation and management of the underlying condition.
+* The patient's abnormal EKG showed ST segment elevation in the anterior leads, consistent with an acute myocardial infarction.
+* The ECG revealed an abnormal rhythm, characterized by a third-degree atrioventricular block.
+* A stress test was performed, and the ECG showed abnormal findings, indicating myocardial ischemia.
+* The abnormal EKG was detected during a routine preoperative evaluation, and the patient was subsequently referred for cardiac clearance.
+* An abnormal electrocardiogram was found, with a prolonged PR interval, suggestive of first-degree atrioventricular block.
+* The patient had an abnormal EKG, which demonstrated a low voltage QRS complex, consistent with pericardial effusion.
+* A routine ECG was performed, and the results were abnormal, showing a sinus rhythm with frequent premature ventricular contractions.
+* The abnormal EKG tracing revealed evidence of an old anterior wall myocardial infarction.
+* The patient underwent an ECG, which showed abnormal findings, consistent with a cardiomyopathy.
+* The abnormal EKG results led to a diagnosis of Wolff-Parkinson-White syndrome, a condition characterized by an accessory electrical pathway in the heart.
+* An ECG was obtained, and the results were abnormal, indicating the presence of a left ventricular aneurysm.
+* The patient had an abnormal EKG, which showed a normal sinus rhythm, but with abnormal T wave inversion, suggestive of ischemia.
+* The abnormal ECG results were consistent with a diagnosis of long QT syndrome, a condition that can increase the risk of sudden cardiac death.
+* The patient's abnormal EKG showed evidence of right ventricular hypertrophy, which may indicate pulmonary hypertension.
+* An abnormal electrocardiogram was detected, with a diagnosis of Brugada syndrome, a condition characterized by abnormal ECG findings and increased risk of sudden cardiac death.
+* The ECG revealed an abnormal rhythm, consistent with a Sick Sinus Syndrome, a condition characterized by malfunction of the sinoatrial node.

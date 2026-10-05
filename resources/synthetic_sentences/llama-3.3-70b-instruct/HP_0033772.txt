@@ -1,0 +1,36 @@
+* The patient's pulmonary function tests revealed an abnormal ratio of residual volume to total lung capacity, suggesting an obstructive or restrictive lung disease.
+* Upon review of the PFTs, a notable abnormality was found in the RV/TLC ratio, warranting further evaluation.
+* An elevated RV/TLC ratio was observed, consistent with air trapping and potential small airway obstruction.
+* The RV/TLC ratio was decreased, indicating possible restrictive lung disease or pulmonary fibrosis.
+* PFT results showed an abnormal RV/TLC ratio, which may be indicative of an underlying lung condition affecting lung volumes.
+* A abnormal RV/TLC ratio was detected on pulmonary function testing, necessitating a more detailed assessment of lung function.
+* Inert gas dilution studies revealed an abnormal RV/TLC ratio, suggesting an imbalance in lung volumes.
+* The nitrogen washout test demonstrated an abnormal RV/TLC ratio, consistent with obstructive lung disease.
+* Body plethysmography measurements indicated an abnormal RV/TLC ratio, which may be related to airway obstruction or parenchymal disease.
+* The patient's RV/TLC ratio was found to be abnormal, with an increased residual volume suggestive of air trapping.
+* A decreased TLC in conjunction with an abnormal RV/TLC ratio may indicate a restrictive pattern.
+* Pulmonary function testing disclosed an abnormal RV/TLC ratio, which could be indicative of small airway disease.
+* An abnormal RV/TLC ratio was observed in conjunction with other PFT abnormalities, suggesting a complex lung disorder.
+* The RV/TLC ratio was abnormal, with a disproportionately high residual volume, raising concerns for obstructive lung disease.
+* PFTs demonstrated an abnormal RV/TLC ratio, which may be associated with pulmonary dysfunction.
+* Inert gas dilution techniques revealed an abnormal RV/TLC ratio, consistent with an imbalance in lung function.
+* Nitrogen washout studies showed an abnormal RV/TLC ratio, potentially indicative of airway obstruction.
+* An abnormal RV/TLC ratio was detected by body plethysmography, suggesting pulmonary disease.
+* The patient's PFT results revealed an abnormal RV/TLC ratio, warranting further investigation into lung function.
+* An elevated RV/TLC ratio was noted, suggesting possible obstructive lung disease or air trapping.
+* The RV/TLC ratio was decreased, indicating potential restrictive lung disease or pulmonary restriction.
+* Pulmonary function tests indicated an abnormal RV/TLC ratio, which may be related to underlying lung pathology.
+* An abnormal RV/TLC ratio was observed on PFTs, potentially indicative of lung dysfunction.
+* Inert gas dilution studies demonstrated an abnormal RV/TLC ratio, consistent with obstructive or restrictive lung disease.
+* Nitrogen washout tests revealed an abnormal RV/TLC ratio, suggesting airway obstruction or pulmonary disease.
+* Body plethysmography measurements showed an abnormal RV/TLC ratio, potentially indicative of lung dysfunction.
+* The patient's RV/TLC ratio was abnormal, with an increased residual volume suggestive of airway obstruction.
+* A decreased TLC accompanied by an abnormal RV/TLC ratio may indicate restrictive lung disease.
+* PFT results disclosed an abnormal RV/TLC ratio, which could be indicative of pulmonary dysfunction.
+* An abnormal RV/TLC ratio was detected on pulmonary function testing, necessitating further evaluation of lung function.
+* Inert gas dilution techniques revealed an abnormal RV/TLC ratio, consistent with lung disease.
+* Nitrogen washout studies demonstrated an abnormal RV/TLC ratio, potentially indicative of obstructive lung disease.
+* Body plethysmography showed an abnormal RV/TLC ratio, suggesting pulmonary pathology.
+* The RV/TLC ratio was abnormal, with a disproportionately high residual volume, raising concerns for air trapping and obstructive lung disease.
+* PFTs demonstrated an abnormal RV/TLC ratio, which may be associated with lung dysfunction and pulmonary disease.
+* The patient's PFT results indicated an abnormal RV/TLC ratio, warranting further investigation into underlying lung conditions.

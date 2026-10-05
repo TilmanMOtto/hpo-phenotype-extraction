@@ -1,0 +1,37 @@
+* The electrocardiogram (ECG) revealed a coved-type ST elevation in leads V1-V3, concerning for Brugada syndrome.
+* ST segment elevation in the right precordial leads, with a distinctive coved appearance, was noted on the patient's ECG.
+* The ECG showed an ST segment elevation of 2.5 mm in lead V2, with a characteristic r'-wave and concave ST segment, suggestive of Brugada pattern.
+* A coved-type ST elevation was observed in leads V1 and V2, followed by a negative T-wave, raising suspicion for Brugada syndrome.
+* The patient's ECG demonstrated a coved ST segment elevation in the right precordial leads, consistent with Brugada syndrome.
+* On ECG, a 2 mm ST elevation was seen in lead V3, with a concave ST segment and negative T-wave, concerning for Brugada pattern.
+* The ECG tracing showed a coved-type ST elevation in lead V1, with an r'-wave and straight ST segment, suggestive of Brugada syndrome.
+* ST segment elevation with a coved configuration was noted in leads V1-V3, with a negative and symmetric T-wave, concerning for Brugada syndrome.
+* A characteristic coved-type ST elevation was seen in the right precordial leads, with a descending ST segment crossing the isoelectric line, suggestive of Brugada pattern.
+* The ECG revealed a coved ST elevation in lead V2, with an r'-wave and concave ST segment, consistent with Brugada syndrome.
+* On ECG, a 2.2 mm ST elevation was observed in lead V1, with a coved configuration and negative T-wave, concerning for Brugada syndrome.
+* The patient's ECG showed a coved-type ST elevation in leads V1 and V3, with a characteristic r'-wave and straight ST segment, suggestive of Brugada syndrome.
+* A distinctive coved-type ST elevation was noted in the right precordial leads, with a descending ST segment crossing the isoelectric line, concerning for Brugada pattern.
+* The ECG demonstrated a coved ST segment elevation in lead V2, with a concave ST segment and negative T-wave, consistent with Brugada syndrome.
+* ST segment elevation with a coved appearance was seen in leads V1-V3, with a negative and symmetric T-wave, suggestive of Brugada syndrome.
+* On ECG, a coved-type ST elevation was observed in lead V1, with an r'-wave and straight ST segment, concerning for Brugada syndrome.
+* The patient's ECG revealed a coved ST elevation in the right precordial leads, with a characteristic descending ST segment crossing the isoelectric line, suggestive of Brugada pattern.
+* A coved-type ST elevation was noted in leads V1 and V2, with a concave ST segment and negative T-wave, consistent with Brugada syndrome.
+* The ECG showed a coved ST segment elevation in lead V3, with an r'-wave and concave ST segment, concerning for Brugada syndrome.
+* On ECG, a 2.5 mm ST elevation was seen in lead V2, with a coved configuration and negative T-wave, suggestive of Brugada pattern.
+* The patient's ECG demonstrated a coved-type ST elevation in the right precordial leads, with a characteristic r'-wave and straight ST segment, consistent with Brugada syndrome.
+* A distinctive coved-type ST elevation was observed in leads V1-V3, with a descending ST segment crossing the isoelectric line, concerning for Brugada syndrome.
+* The ECG revealed a coved ST segment elevation in lead V1, with a concave ST segment and negative T-wave, suggestive of Brugada pattern.
+* ST segment elevation with a coved appearance was noted in the right precordial leads, with a negative and symmetric T-wave, concerning for Brugada syndrome.
+* On ECG, a coved-type ST elevation was seen in lead V3, with an r'-wave and straight ST segment, consistent with Brugada syndrome.
+* The patient's ECG showed a coved ST elevation in leads V1 and V2, with a characteristic descending ST segment crossing the isoelectric line, suggestive of Brugada pattern.
+* A coved-type ST elevation was observed in lead V2, with a concave ST segment and negative T-wave, concerning for Brugada syndrome.
+* The ECG demonstrated a coved ST segment elevation in the right precordial leads, with a characteristic r'-wave and concave ST segment, consistent with Brugada syndrome.
+* On ECG, a 2 mm ST elevation was noted in lead V1, with a coved configuration and negative T-wave, suggestive of Brugada pattern.
+* The patient's ECG revealed a coved-type ST elevation in lead V3, with an r'-wave and straight ST segment, concerning for Brugada syndrome.
+* A distinctive coved-type ST elevation was seen in leads V1-V3, with a descending ST segment crossing the isoelectric line, consistent with Brugada syndrome.
+* The ECG showed a coved ST segment elevation in lead V2, with a concave ST segment and negative T-wave, suggestive of Brugada pattern.
+* ST segment elevation with a coved appearance was observed in the right precordial leads, with a negative and symmetric T-wave, concerning for Brugada syndrome.
+* On ECG, a coved-type ST elevation was noted in lead V1, with an r'-wave and concave ST segment, consistent with Brugada syndrome.
+* The patient's ECG demonstrated a coved ST elevation in leads V1 and V3, with a characteristic descending ST segment crossing the isoelectric line, suggestive of Brugada pattern.
+* A coved-type ST elevation was seen in lead V3, with a straight ST segment and negative T-wave, concerning for Brugada syndrome.
+* The ECG revealed a coved ST segment elevation in the right precordial leads, with a characteristic r'-wave and concave ST segment, consistent with Brugada syndrome.

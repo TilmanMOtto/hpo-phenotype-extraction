@@ -1,0 +1,35 @@
+* The patient's immunophenotyping results showed a decreased percentage of class-switched memory B cells, suggesting an abnormality in humoral immunity.
+* Flow cytometry analysis revealed a reduced proportion of CD19+CD27+IgD- cells, which may indicate impaired immune function.
+* A notable reduction in the proportion of memory B cells that have undergone class switching was observed, which could be related to the patient's recurrent infections.
+* The proportion of IgM+/IgD+ B cells was elevated, while the proportion of class-switched memory B cells was decreased, indicating a potential defect in B cell differentiation.
+* Immunological evaluation demonstrated a decreased proportion of CD19+/CD27+/IgM+/IgD+ cells, consistent with a diagnosis of primary immunodeficiency.
+* The patient's B cell subset analysis showed a decrease in the percentage of class-switched memory B cells, which may be contributing to their impaired immune response.
+* A decrease in the proportion of class-switched memory B cells was detected by flow cytometry, suggesting an abnormality in the patient's B cell development.
+* The ratio of class-switched memory B cells to total B cells was significantly reduced, indicating a possible impairment in humoral immune function.
+* Further analysis of the patient's B cell subsets revealed a decreased proportion of CD19+CD27+IgD- cells, which may be associated with increased susceptibility to infections.
+* The patient's immunological profile showed a reduced proportion of class-switched memory B cells, which could be related to their history of autoimmune disorders.
+* Flow cytometric analysis demonstrated a decreased proportion of class-switched memory B cells, which may indicate a defect in B cell maturation.
+* A decreased proportion of memory B cells that have undergone class switching was observed, which could be contributing to the patient's immunological dysfunction.
+* The proportion of IgG-producing B cells was decreased, while the proportion of IgM-producing B cells was elevated, indicating a potential defect in class switching.
+* Immunophenotyping results showed a reduced proportion of CD19+/CD27+/IgM+/IgD+ cells, consistent with a diagnosis of immunodeficiency.
+* The patient's B cell analysis revealed a decreased proportion of class-switched memory B cells, which may be related to their impaired response to vaccination.
+* A decrease in the proportion of class-switched memory B cells was detected, which could be associated with an increased risk of infections.
+* The proportion of CD19+CD27+IgD- cells was decreased, suggesting an abnormality in B cell differentiation and immune function.
+* Flow cytometry results demonstrated a reduced proportion of class-switched memory B cells, which may indicate a defect in the patient's humoral immune response.
+* The patient's immunological evaluation revealed a decreased proportion of memory B cells that have undergone class switching, consistent with a diagnosis of primary immunodeficiency.
+* A notable decrease in the proportion of class-switched memory B cells was observed, which could be contributing to the patient's recurrent infections and autoimmune disorders.
+* The proportion of IgA-producing B cells was decreased, while the proportion of IgM-producing B cells was elevated, indicating a potential defect in class switching.
+* Immunophenotyping results showed a reduced proportion of CD19+/CD27+/IgM+/IgD+ cells, which may be associated with impaired immune function.
+* The patient's B cell subset analysis revealed a decreased proportion of class-switched memory B cells, which could be related to their history of immunological disorders.
+* A decrease in the proportion of class-switched memory B cells was detected by flow cytometry, suggesting an abnormality in B cell development and maturation.
+* The patient's immunological profile showed a reduced proportion of CD19+CD27+IgD- cells, consistent with a diagnosis of immunodeficiency.
+* Further analysis of the patient's B cell subsets revealed a decreased proportion of class-switched memory B cells, which may be contributing to their impaired immune response.
+* Flow cytometric analysis demonstrated a decreased proportion of class-switched memory B cells, which could be associated with an increased risk of infections and autoimmune disorders.
+* The proportion of memory B cells that have undergone class switching was decreased, suggesting an abnormality in humoral immune function.
+* Immunophenotyping results showed a reduced proportion of CD19+/CD27+/IgM+/IgD+ cells, which may indicate a defect in B cell differentiation and immune function.
+* The patient's B cell analysis revealed a decreased proportion of class-switched memory B cells, which could be related to their impaired response to vaccination and increased susceptibility to infections.
+* A decrease in the proportion of class-switched memory B cells was detected, which may be contributing to the patient's immunological dysfunction and history of autoimmune disorders.
+* The proportion of CD19+CD27+IgD- cells was decreased, indicating a potential defect in B cell maturation and immune function.
+* Flow cytometry results demonstrated a reduced proportion of class-switched memory B cells, which could be associated with impaired immune function and increased risk of infections.
+* The patient's immunological evaluation revealed a decreased proportion of memory B cells that have undergone class switching, consistent with a diagnosis of primary immunodeficiency and impaired humoral immune function.
+* A notable decrease in the proportion of class-switched memory B cells was observed, which could be contributing to the patient's recurrent infections, autoimmune disorders, and impaired immune response.

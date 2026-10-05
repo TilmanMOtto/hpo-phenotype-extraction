@@ -1,0 +1,48 @@
+# RAG-HPO reproduction: the code revision behind the published tables (thesis section 3.5, appendix A.5).
+#
+# Command:  METHOD=raghpo_published_code sbatch slurm/baseline.sbatch   (DATASET=gsc for GSC+)
+# Model: Llama-3-Groq-70B-Tool-Use, 8-bit.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: 0 where the tool takes one (greedy decoding).
+# Writes <output>/raghpo_reproduction_published_code/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc
+dataset: hcy
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms.csv
+gsc_dir: resources/data/GSC_2024
+
+# [Required]
+llama_dir: ${paths:models.llama_3_groq_70b_tool_use}
+output_dir: ${paths:output_dir}
+
+# [RAG-HPO, paper-era pipeline]
+rag_hpo_dir: third_party/RAG-HPO
+prompts_file: system_prompts_paper.json   # upstream 6b00779 (2024-12-19), not system_prompts.json
+meta_file: hpo_meta_paper.json            # written by build_vector_db_paper.py
+vec_file: hpo_embedded_paper.npz
+embed_model: BAAI/bge-small-en-v1.5       # local dir on the offline compute nodes
+keep_top: 20                              # their `if len(unique_metadata) == 20: break`
+faiss_depth: 800                          # their `index.search(query_vector, 800)`
+
+# [Model], LLaMA-3-70B either way: upstream's default model name is Groq's tool-use finetune,
+# their workbook's GSC columns say plainly "LLaMa 3-70B" (= meta-llama/Meta-Llama-3-70B-Instruct).
+# LLaMa-3.1 70B is their CSC row, not the GSC one; 3.3 is what the RAG-HPO 70B baseline ran.
+load_in_4bit: false        # 8-bit, as baseline_raghpo_8b/04, so the size comparison holds
+max_new_tokens: 4096       # they send no cap; LLaMA-3's 8k window is the real bound
+temperature: 0.2           # undisclosed in the paper. Their interactive default is 0.2, the
+                           # LLMClient class default 0.7, run both; 0 gives greedy decoding.
+seed: 0                    # sampling is seeded so the run reproduces itself
+
+# [Pilot]
+max_patients:
+
+mlflow_experiment_name: exp13_comparison

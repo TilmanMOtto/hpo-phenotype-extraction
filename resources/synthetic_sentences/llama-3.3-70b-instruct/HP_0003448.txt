@@ -1,0 +1,36 @@
+* The patient's electromyography (EMG) results showed slowing of sensory nerve conduction, indicating possible nerve damage or dysfunction.
+* Decreased sensory nerve conduction velocities were noted on nerve conduction studies (NCS), suggesting an underlying neuropathic process.
+* Slowed sensory nerve conduction velocity (SCV) was observed in the patient's lower extremities, consistent with a distal sensory polyneuropathy.
+* Nerve conduction studies revealed reduced sensory nerve action potential (SNAP) amplitudes and slowed conduction velocities, indicating axonal loss and demyelination.
+* Abnormal sensory nerve conduction velocity (SNCV) was detected, with values falling below the normal range, prompting further evaluation for underlying causes.
+* The patient's sensory nerve conduction velocity was decreased, with a velocity of 35 m/s, which is significantly lower than the normal range of 50-70 m/s.
+* Electrophysiological testing demonstrated decreased sensory nerve conduction velocity in the upper limbs, suggesting a focal neuropathy or radiculopathy.
+* Slowing of sensory nerve conduction was noted in multiple nerves, indicating a more widespread neuropathic process, such as Charcot-Marie-Tooth disease.
+* Decreased sensory nerve conduction velocities were observed in the patient's hands and feet, consistent with a Length-Dependent Sensory Neuropathy.
+* The SNAP response was significantly delayed, with a latency of 6.5 ms, indicating slowed sensory nerve conduction velocity.
+* Nerve conduction studies showed decreased sensory nerve conduction velocity, with a velocity of 40 m/s in the peroneal nerve, suggesting nerve damage or dysfunction.
+* The patient's sensory nerve conduction velocity was decreased, with evidence of temporal dispersion and conduction block, indicating demyelination and axonal loss.
+* Electrophysiological evaluation revealed decreased sensory nerve conduction velocity in multiple nerves, suggesting a systemic neuropathic process, such as diabetic neuropathy.
+* Decreased sensory nerve conduction velocity was detected in the patient's sural nerve, with a velocity of 30 m/s, indicating possible nerve damage or dysfunction.
+* The patient's nerve conduction studies showed decreased sensory nerve conduction velocity, with reduced SNAP amplitudes and prolonged distal latencies.
+* Slowed sensory nerve conduction velocity was observed in the patient's median and ulnar nerves, consistent with a focal neuropathy or compression injury.
+* Abnormal sensory nerve conduction velocity was noted, with values indicating significant slowing of nerve conduction, prompting further evaluation and management.
+* Decreased sensory nerve conduction velocity was detected in the patient's lower extremities, with evidence of denervation and reinnervation, suggesting chronic nerve damage.
+* Electrophysiological testing demonstrated decreased sensory nerve conduction velocity, with a velocity of 45 m/s in the radial nerve, indicating possible nerve damage or dysfunction.
+* The patient's sensory nerve conduction velocity was decreased, with a velocity of 20 m/s in the saphenous nerve, indicating significant nerve damage or dysfunction.
+* Nerve conduction studies revealed decreased sensory nerve conduction velocity, with reduced SNAP amplitudes and prolonged distal latencies, indicating axonal loss and demyelination.
+* Decreased sensory nerve conduction velocities were observed in multiple nerves, indicating a widespread neuropathic process, such as amyloidosis or paraproteinemia.
+* The patient's sensory nerve conduction velocity was decreased, with evidence of conduction block and temporal dispersion, indicating demyelination and axonal loss.
+* Electrophysiological evaluation revealed decreased sensory nerve conduction velocity, with a velocity of 50 m/s in the posterior tibial nerve, indicating possible nerve damage or dysfunction.
+* Decreased sensory nerve conduction velocity was detected in the patient's upper limbs, with evidence of denervation and reinnervation, suggesting chronic nerve damage.
+* The patient's nerve conduction studies showed decreased sensory nerve conduction velocity, with reduced SNAP amplitudes and prolonged distal latencies, indicating nerve damage or dysfunction.
+* Slowed sensory nerve conduction velocity was observed in the patient's lower extremities, consistent with a distal sensory polyneuropathy, such as diabetic neuropathy.
+* Abnormal sensory nerve conduction velocity was noted, with values indicating significant slowing of nerve conduction, prompting further evaluation and management.
+* Decreased sensory nerve conduction velocity was detected in the patient's sural nerve, with a velocity of 25 m/s, indicating possible nerve damage or dysfunction.
+* The patient's sensory nerve conduction velocity was decreased, with a velocity of 40 m/s in the peroneal nerve, indicating nerve damage or dysfunction.
+* Electrophysiological testing demonstrated decreased sensory nerve conduction velocity, with a velocity of 30 m/s in the median nerve, indicating possible nerve damage or dysfunction.
+* Decreased sensory nerve conduction velocity was observed in the patient's hands and feet, consistent with a Length-Dependent Sensory Neuropathy, such as Charcot-Marie-Tooth disease.
+* The patient's sensory nerve conduction velocity was decreased, with evidence of temporal dispersion and conduction block, indicating demyelination and axonal loss.
+* Nerve conduction studies revealed decreased sensory nerve conduction velocity, with reduced SNAP amplitudes and prolonged distal latencies, indicating axonal loss and demyelination.
+* Decreased sensory nerve conduction velocities were detected in multiple nerves, indicating a systemic neuropathic process, such as amyloidosis or paraproteinemia.
+* The patient's sensory nerve conduction velocity was decreased, with a velocity of 45 m/s in the radial nerve, indicating possible nerve damage or dysfunction.

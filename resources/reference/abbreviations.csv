@@ -1,0 +1,40 @@
+# Stage C expansion table (specification §4.3). Two kinds of row:
+#   abbreviation - the ontology label contains no form of the surface string at all
+#   variant      - a spelling, orthography or register variant of a term the ontology does carry
+# `expansion` must be a string the synonym index can resolve; a row whose expansion resolves to no
+# term is loaded, counted, and contributes nothing (see OntologyIndex._build_abbreviations).
+kind,surface,expansion,note
+abbreviation,C3,propionylcarnitine,acylcarnitine profile
+abbreviation,5MTHF,5-methyltetrahydrofolate,
+abbreviation,MMA,methylmalonic acid,
+abbreviation,tHcy,total homocysteine,
+abbreviation,Hcy,homocysteine,
+abbreviation,MCV,mean corpuscular volume,
+abbreviation,NBS,newborn screening,
+abbreviation,B12,cobalamin,
+abbreviation,CBS,cystathionine beta-synthase,
+abbreviation,MTHFR,methylenetetrahydrofolate reductase,
+abbreviation,TC,transcobalamin,
+abbreviation,CSF,cerebrospinal fluid,specimen word rather than an analyte
+variant,homocystine,homocysteine,disulphide form; written interchangeably in this corpus
+variant,homocystin,homocysteine,
+variant,homocysteinaemia,hyperhomocysteinemia,British orthography
+variant,homocystinaemia,hyperhomocystinemia,British orthography
+variant,methyl-malonic,methylmalonic,
+variant,methylmallonyl,methylmalonic,observed misspelling
+variant,methylmalonate,methylmalonic acid,
+variant,methylcitrate,methylcitric acid,
+variant,vitamin B12,cobalamin,
+variant,hydroxocobalamin,cobalamin,treatment form
+variant,fits,seizures,lay register
+variant,convulsions,seizures,
+variant,mental retardation,intellectual disability,obsolete-era wording
+variant,mentally retarded,intellectual disability,
+variant,big erythrocytes,increased mean corpuscular volume,lay description; HPO has no "macrocytosis" term
+variant,large erythrocytes,increased mean corpuscular volume,
+variant,plasmatic,plasma,Gallicism observed in the corpus
+variant,important,large,"Gallicism: French ""important"" means large, not significant"
+variant,axial flexor movements,epileptic spasm,description matching the term definition rather than its label
+variant,anaemia,anemia,British orthography
+variant,oedema,edema,British orthography
+variant,haemoglobin,hemoglobin,British orthography

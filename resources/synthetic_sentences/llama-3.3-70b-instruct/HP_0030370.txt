@@ -1,0 +1,35 @@
+* The patient's flow cytometry results showed a disproportionate percentage of naive B cells, suggesting an alteration in B cell development or function.
+* Noted was an abnormal proportion of CD19+/CD27-/IgD+/IgM+ B cells, indicating a potential issue with humoral immunity.
+* Immunophenotyping revealed an atypical distribution of naive versus memory B cells, with a higher-than-expected proportion of naive B cells.
+* Flow cytometric analysis demonstrated a deviation from the normal naive B cell percentage, which may be indicative of an underlying immunological disorder.
+* The proportion of naive B cells to total B cells was found to be outside the normal range, warranting further investigation into the patient's immune status.
+* A decrease in the proportion of naive B cells was observed, which could be related to chronic antigen exposure or an intrinsic B cell defect.
+* An increased proportion of naive B cells was detected, potentially reflecting a defect in B cell maturation or activation.
+* The patient's B cell subset analysis showed an abnormal proportion of naive B cells, which may be associated with impaired vaccine responses or increased susceptibility to infections.
+* Naive B cell proportions were found to be abnormal, suggesting a possible imbalance in the B cell compartment.
+* Immunological evaluation revealed an altered distribution of B cell subsets, with a prominent proportion of naive B cells.
+* The flow cytometry profile showed an unusual proportion of CD19+/CD27- B cells, indicating a potential deviation from normal B cell development.
+* Abnormalities in the proportion of naive B cells were identified, which may impact the patient's ability to mount an effective immune response.
+* The B cell subset distribution was atypical, with an increased proportion of naive B cells, which could be related to autoimmune or immunodeficiency conditions.
+* A decrease in the proportion of naive B cells was noted, which may be indicative of chronic infection or inflammation.
+* The proportion of naive B cells was outside the normal range, suggesting a possible defect in B cell differentiation or selection.
+* Flow cytometric analysis demonstrated an abnormal proportion of naive B cells, which may be associated with alterations in immune function.
+* The patient's immune profile showed an abnormal proportion of naive B cells, which could be related to immunodeficiency or autoimmunity.
+* An abnormal proportion of CD19+/IgD+/IgM+ B cells was detected, indicating a potential issue with B cell development or function.
+* The proportion of naive B cells was found to be abnormal, suggesting a possible imbalance in the immune system.
+* Immunophenotyping revealed an atypical proportion of naive B cells, which may be indicative of an underlying immunological disorder.
+* The B cell subset analysis showed an abnormal proportion of naive B cells, which could be related to impaired immune function.
+* A deviation from the normal proportion of naive B cells was observed, which may be associated with autoimmune or immunodeficiency conditions.
+* The flow cytometry results showed an abnormal proportion of naive B cells, indicating a potential defect in B cell maturation or activation.
+* The patient's immune status was evaluated, and an abnormal proportion of naive B cells was detected, suggesting a possible issue with humoral immunity.
+* An abnormal proportion of naive B cells was identified, which may impact the patient's ability to respond to infections or vaccines.
+* The proportion of naive B cells was outside the normal range, suggesting a possible defect in B cell differentiation or selection.
+* Flow cytometric analysis demonstrated an abnormal proportion of naive B cells, which may be associated with alterations in immune function.
+* The B cell subset distribution was atypical, with an abnormal proportion of naive B cells, which could be related to immunodeficiency or autoimmunity.
+* The patient's B cell subset analysis showed an abnormal proportion of naive B cells, which may be indicative of an underlying immunological disorder.
+* An abnormal proportion of CD19+/CD27-/IgD+/IgM+ B cells was detected, indicating a potential issue with B cell development or function.
+* The proportion of naive B cells was found to be abnormal, suggesting a possible imbalance in the immune system.
+* Immunophenotyping revealed an atypical proportion of naive B cells, which may be associated with autoimmune or immunodeficiency conditions.
+* The flow cytometry profile showed an unusual proportion of naive B cells, indicating a potential deviation from normal B cell development.
+* The patient's immune profile showed an abnormal proportion of naive B cells, which could be related to immunodeficiency or autoimmunity.
+* A deviation from the normal proportion of naive B cells was observed, which may be indicative of an underlying immunological disorder.

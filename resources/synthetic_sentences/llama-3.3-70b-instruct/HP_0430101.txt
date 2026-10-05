@@ -1,0 +1,36 @@
+* The patient's bone marrow biopsy revealed strong CD19 positivity, confirming the diagnosis of B-cell acute lymphoblastic leukemia (B-ALL).
+* Flow cytometric analysis demonstrated CD19 expression on the surface of malignant cells, supporting a diagnosis of B-cell non-Hodgkin lymphoma.
+* Immunohistochemical staining of the lymph node biopsy showed uniform CD19 staining, consistent with a B-cell lymphoproliferative disorder.
+* The presence of CD19 on the leukemic cells was detected using anti-CD19 antibodies, indicating a B-cell origin.
+* CD19 immunophenotyping by flow cytometry helped distinguish between B-cell and T-cell lymphoblastic leukemia/lymphoma.
+* The expression of CD19 was evaluated using fluorescence-activated cell sorting (FACS), revealing a distinct B-cell population.
+* CD19 positivity was observed in the majority of cells in the peripheral blood smear, suggestive of B-cell leukemia.
+* A diagnosis of follicular lymphoma was made based on the presence of CD19-positive neoplastic cells in the lymph node biopsy.
+* The patient's condition was monitored through regular flow cytometric analysis of CD19 expression on B cells.
+* CD19 staining was intense and uniform in the tumor cells, supporting a diagnosis of diffuse large B-cell lymphoma.
+* The proportion of CD19-positive cells in the bone marrow aspirate was significantly increased, indicating B-cell lymphoproliferation.
+* CD19 expression was assessed using immunohistochemistry, revealing a characteristic pattern of staining in the germinal centers.
+* Flow cytometric analysis of the patient's peripheral blood revealed a population of CD19-positive cells with aberrant light scatter properties.
+* A CD19-positive B-cell population was identified in the cerebrospinal fluid, indicating central nervous system involvement.
+* The intensity of CD19 staining varied among different cell populations in the lymph node biopsy.
+* The diagnosis of mantle cell lymphoma was supported by the presence of CD19-positive cells with characteristic cyclin D1 overexpression.
+* CD19 expression was maintained in the neoplastic B cells, making it a useful target for therapeutic monoclonal antibodies.
+* The patient's response to therapy was monitored through regular assessment of CD19-positive cell counts.
+* A significant decrease in CD19-positive cells was observed following treatment, indicating a positive response.
+* The presence of CD19 on the surface of leukemic cells was confirmed using multiple anti-CD19 antibodies.
+* CD19 staining was used to identify B cells in the tissues, allowing for the diagnosis of B-cell lymphoma.
+* Flow cytometric analysis of CD19 expression helped distinguish between benign and malignant B-cell populations.
+* The expression of CD19 was evaluated in the context of other B-cell markers, including CD20 and CD22.
+* CD19 positivity was observed in a subset of cells in the bone marrow biopsy, suggesting a clonal B-cell population.
+* The patient's condition was characterized by the presence of CD19-positive B cells with abnormal morphology.
+* A diagnosis of chronic lymphocytic leukemia (CLL) was made based on the presence of CD19-positive cells with characteristic immunophenotypic features.
+* CD19 staining was used to identify residual B cells in the bone marrow following therapy.
+* The intensity of CD19 expression varied among different B-cell subsets, including naive and memory B cells.
+* Flow cytometric analysis of CD19-positive cells revealed a distinct population with low forward scatter.
+* The patient's B cells were characterized by strong CD19 positivity and variable CD20 expression.
+* The expression of CD19 was used to monitor the patient's response to B-cell directed therapy.
+* A CD19-positive B-cell population was identified in the peripheral blood, indicating systemic involvement.
+* The diagnosis of Burkitt lymphoma was supported by the presence of CD19-positive cells with characteristic morphology and immunophenotype.
+* CD19 staining was used to identify B cells in the tissues, allowing for the diagnosis of B-cell lymphoma/leukemia.
+* Flow cytometric analysis of CD19 expression helped distinguish between different B-cell lymphoproliferative disorders.
+* The presence of CD19 on the surface of malignant cells was confirmed using flow cytometry and immunohistochemistry.

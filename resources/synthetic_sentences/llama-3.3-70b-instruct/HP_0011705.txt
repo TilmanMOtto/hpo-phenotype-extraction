@@ -1,0 +1,37 @@
+* The electrocardiogram (EKG) revealed a prolonged PR interval, indicative of a first-degree atrioventricular (AV) block, with all atrial impulses successfully conducting to the ventricles.
+* Upon reviewing the patient's EKG, a delay in conduction through the AV node was noted, resulting in a PR interval exceeding 200 milliseconds.
+* Clinical evaluation revealed a first-degree AV block, characterized by a prolonged PR interval, yet all atrial impulses were able to reach the ventricles.
+* The patient's EKG demonstrated a PR interval of 220 milliseconds, consistent with a diagnosis of first-degree AV block.
+* A delay in AV nodal conduction was observed, manifesting as a prolonged PR interval on the EKG, with normal ventricular activation.
+* The PR interval on the patient's EKG was measured at 210 milliseconds, indicating a first-degree AV block.
+* EKG findings were consistent with first-degree AV block, with a prolonged PR interval and normal conduction to the ventricles.
+* A first-degree AV block was diagnosed based on EKG findings of a prolonged PR interval, with all atrial impulses conducting to the ventricles.
+* The patient presented with a PR interval of 240 milliseconds on EKG, suggestive of a first-degree AV block.
+* Clinical findings indicated a delay in conduction through the AV node, resulting in a first-degree AV block.
+* EKG analysis revealed a PR interval exceeding normal limits, consistent with a diagnosis of first-degree AV block.
+* A prolonged PR interval was observed on the patient's EKG, consistent with first-degree AV block, with normal ventricular conduction.
+* The patient's clinical presentation was consistent with a first-degree AV block, characterized by a prolonged PR interval on EKG.
+* AV nodal conduction delay was noted on EKG, resulting in a PR interval of 230 milliseconds.
+* First-degree AV block was diagnosed based on EKG findings of a prolonged PR interval, with all atrial impulses conducting normally to the ventricles.
+* The patient's EKG revealed a PR interval of 260 milliseconds, indicative of a first-degree AV block.
+* Clinical evaluation revealed a delay in AV nodal conduction, resulting in a first-degree AV block.
+* EKG findings indicated a first-degree AV block, characterized by a PR interval exceeding 200 milliseconds.
+* A prolonged PR interval was noted on the patient's EKG, consistent with a diagnosis of first-degree AV block.
+* The patient presented with a first-degree AV block, characterized by a delayed conduction through the AV node.
+* EKG analysis revealed a PR interval of 250 milliseconds, suggestive of a first-degree AV block.
+* Clinical findings were consistent with a first-degree AV block, with a prolonged PR interval and normal conduction to the ventricles.
+* A first-degree AV block was diagnosed based on EKG findings of a prolonged PR interval, with normal ventricular activation.
+* The patient's clinical presentation was consistent with a first-degree AV block, characterized by a PR interval exceeding normal limits.
+* AV nodal conduction delay was observed on EKG, resulting in a first-degree AV block.
+* EKG findings indicated a delay in conduction through the AV node, consistent with a diagnosis of first-degree AV block.
+* The patient's EKG revealed a PR interval of 280 milliseconds, indicative of a first-degree AV block.
+* Clinical evaluation revealed a first-degree AV block, characterized by a prolonged PR interval and normal ventricular conduction.
+* A delay in AV nodal conduction was noted, resulting in a first-degree AV block.
+* EKG analysis revealed a PR interval exceeding 200 milliseconds, consistent with a diagnosis of first-degree AV block.
+* The patient presented with a first-degree AV block, characterized by a prolonged PR interval on EKG.
+* Clinical findings were consistent with a first-degree AV block, with a delayed conduction through the AV node and normal ventricular activation.
+* A first-degree AV block was diagnosed based on EKG findings of a prolonged PR interval, with all atrial impulses conducting to the ventricles.
+* The patient's clinical presentation was consistent with a first-degree AV block, characterized by a PR interval exceeding normal limits and normal conduction to the ventricles.
+* EKG findings indicated a first-degree AV block, with a prolonged PR interval and normal ventricular conduction.
+* AV nodal conduction delay was observed, resulting in a first-degree AV block with a PR interval of 240 milliseconds.
+* The patient's EKG demonstrated a PR interval of 270 milliseconds, suggestive of a first-degree AV block.

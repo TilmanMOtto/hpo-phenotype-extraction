@@ -1,0 +1,86 @@
+# Normalisation of every juror's candidates by four readers (thesis section 5.3,
+# appendix C.2).
+#
+# Command:  sbatch --array=0-<n-1> slurm/phenojury_normalise.sbatch   (n from: run.py stage=plan)
+# Models: PhenoBERT (thresholds p1 0.8, p2 0.6, p3 0.9) and SapBERT (cutoff sapbert_tau 0.8).
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seeds: none.
+# Reads the generations, writes <output>/phenojury_normalisation/<dataset>/<prompt>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc. Both cohorts run. The patient-data boundary is unchanged, because this
+# experiment reads text that already exists on the cluster and writes only identifiers.
+dataset: hcy
+
+# [Stage], plan | surface_matrix | link | all
+stage: link
+array_index:
+prompt_key:
+model_key:
+normaliser:
+
+# [Inputs] Where the Free Listing generation run's and the generation run of the other prompts's run directories live. One path: `source_cell_dir`
+# resolves p0_baseline to the Free Listing generation run and the q-prompts to the generation run of the other prompts beneath it.
+results_dir: ${paths:results_dir}
+
+# [Prompts] The four conditions. p0_baseline is the Free Listing generation run's own prompt and is the control. The other three
+# are the generation run of the other prompts's promoted roster. Changing this list changes what the PhenoJury protocol can select over, so it is
+# written here rather than defaulted from the library, `PROMPT_KEYS` would silently mean 14.
+prompt_keys: [p0_baseline, q2_sentence_last, q4_span_json, q7_recall]
+
+# [Normalisers] phenobert_raw is a re-read of what is already on disk (no PhenoBERT call) and is
+# always included: it is the provenance column every published ensemble number in this repository
+# was measured under. The other three are the grid.
+normalisers: [phenobert_raw, phenobert_candidates, dictionary, sapbert]
+
+# [Required paths]
+output_dir: ${paths:output_dir}
+hpo_json_path: resources/util/hpo.json
+
+# [PhenoBERT] Only `phenobert_candidates` needs these, it is the one normaliser that calls the
+# subprocess. Leave them empty to run the other three on a login node.
+phenobert_dir: ${paths:phenobert.dir}
+phenobert_python: ${paths:phenobert.python}
+stanza_dir: ${paths:stanza_dir_phenobert}
+p1: 0.8
+p2: 0.6
+p3: 0.9
+# An earlier exploratory run D1: q7_recall x apertus was OOM-killed at 90.7 GB of 96 GB feeding PhenoBERT whole
+# generations. Candidate strings are shorter, so this should not recur, but the retry ladder is
+# only reached after a kill, and setting the chunk up front costs nothing.
+phenobert_chunk_size: 16
+
+# [Dictionary] agent_link's tiers, named as an earlier exploratory run names them.
+#
+# `lexical` rather than `exact_plus_search`, and the difference is four orders of magnitude: search
+# costs ~1 s PER UNRESOLVED LINE (SequenceMatcher over trigram-blocked keys), so one cell of this
+# grid is ~15 min and the whole grid is ~16 GPU-free hours -- against ~7 s per cell at `lexical`.
+# `lexical` is also the tier an earlier exploratory run measured as buying the most: on the Free Listing generation run's own GSC+ cache the
+# largest class of `exact` failure is plurals and trailing glosses, not semantics.
+#
+# `accept_sources` stays at the two lossless lookups. Widening it to partial/fuzzy is a swept axis
+# and never a default -- agent_link's docstring has the macrocytosis/microcytosis pair that scores
+# 0.917 against its own antonym and 0.867 against the intended match, which no threshold separates.
+dictionary_mode: lexical
+dictionary_accept_sources: [exact, synonym]
+
+# [SapBERT] The model AutoPCR already stages on the cluster. `sapbert_tau` is FIXED (0.8, set
+# before any run -- NOT AutoPCR's published value, which is tau_1 = 0.95 / tau_2 = 0.85. See
+# hpo_extraction.phenojury.normalisers.SAPBERT_TAU) and must not be swept: a normaliser carrying a selected parameter the
+# other three do not have would win the grid on its tuning rather than on its reading.
+sapbert_dir: ${paths:models.sapbert}
+sapbert_tau: 0.8
+sapbert_batch_size: 256
+surface_matrix_path: ${paths:results_dir}/phenojury_normalisation/surface_matrix_sapbert.npz
+
+# [Resume] Skip a cell whose outputs already exist. The array is long and PhenoBERT cells are the
+# slow ones. A resubmission should not redo the dictionary.
+reuse: true
+
+mlflow_experiment_name: exp14_prompt_screen

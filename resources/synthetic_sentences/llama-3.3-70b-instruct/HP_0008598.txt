@@ -1,0 +1,38 @@
+* The patient presented with a mild form of conductive hearing impairment, characterized by a 25 dB deficit in the right ear and a 30 dB deficit in the left ear.
+* Audiometric testing revealed a mild conductive hearing loss with an average bone conduction threshold of 28 dB HL.
+* Clinical evaluation demonstrated a mild degree of conductive hearing impairment, consistent with a 21-40 dB deficit.
+* The patient's hearing loss was classified as mild conductive, with a maximum conductive loss of 35 dB at 2000 Hz.
+* Pure-tone audiometry confirmed a mild conductive hearing impairment, with an air-bone gap of 25 dB at 500 Hz.
+* Upon examination, the patient exhibited a mild conductive hearing loss, with a speech reception threshold of 40 dB HL.
+* A mild form of conductive hearing impairment was diagnosed, with athree-frequency pure-tone average of 32 dB HL.
+* The patient's audiogram showed a mild conductive hearing loss, with a conductive component of 28 dB at 1000 Hz.
+* Middle ear dysfunction was suspected, resulting in a mild conductive hearing impairment with a 22 dB deficit.
+* The patient's hearing impairment was characterized as mild conductive, with a tympanogram indicating a Type A (As) curve.
+* Audiological evaluation revealed a mild conductive hearing loss, with acoustic immittance testing indicating a slight increase in middle ear compliance.
+* Otoscopy and tympanometry suggested a mild conductive hearing impairment due to middle ear pathology.
+* The patient's hearing was affected by a mild conductive impairment, with a Word Recognition Score of 80% at 30 dB HL.
+* The degree of hearing loss was mild, with a conductive component of 38 dB at 4000 Hz, indicating a possible middle ear disorder.
+* A mild conductive hearing impairment was identified, with a Carhart's notch present at 2000 Hz.
+* Clinical findings supported a diagnosis of mild conductive hearing loss, with a three-frequency pure-tone average of 25 dB HL.
+* The audiogram demonstrated a mild conductive hearing impairment, with an average air-bone gap of 20 dB.
+* Middle ear problems resulted in a mild conductive hearing impairment, with a maximum conductive loss of 32 dB at 1000 Hz.
+* A 30 dB conductive hearing loss was measured at 500 Hz, indicating a mild impairment.
+* Pure-tone thresholds indicated a mild conductive hearing loss, with a slight deterioration in hearing sensitivity.
+* Tympanocentesis and audiometry confirmed a mild conductive hearing impairment, with an average bone conduction threshold of 22 dB HL.
+* Speech audiometry revealed a mild conductive hearing loss, with a speech reception threshold of 35 dB HL.
+* The patient exhibited a mild degree of conductive hearing impairment, with an air-bone gap of 28 dB at 2000 Hz.
+* A mild conductive hearing loss was diagnosed, with a three-frequency pure-tone average of 28 dB HL and a Type C tympanogram.
+* The patient's audiogram indicated a mild conductive hearing impairment, with a conductive component of 25 dB at 1000 Hz and a sensorineural component of 10 dB.
+* Mild conductive hearing impairment was observed, with a maximum conductive loss of 35 dB at 4000 Hz.
+* Clinical assessment revealed a mild conductive hearing loss, with acoustic reflex thresholds elevated at 90 dB HL.
+* Audiological testing demonstrated a mild conductive hearing impairment, with middle ear muscle reflexes present at 80 dB HL.
+* Otoscopy revealed a mild conductive hearing impairment due to middle ear effusion, with a three-frequency pure-tone average of 30 dB HL.
+* The patient's hearing was impaired by a mild conductive loss, with acoustic immittance testing indicating a slight decrease in middle ear stiffness.
+* A mild form of conductive hearing impairment was identified, with tympanocentesis and audiometry revealing a 25 dB deficit.
+* The degree of conductive hearing loss was mild, with an average air-bone gap of 22 dB and a speech reception threshold of 40 dB HL.
+* Audiometric examination confirmed a mild conductive hearing impairment, with a conductive component of 30 dB at 2000 Hz.
+* The patient's hearing impairment was characterized as mild conductive, with an air-bone gap of 25 dB at 500 Hz and a Carhart's notch present.
+* Clinical findings indicated a mild conductive hearing loss, with a three-frequency pure-tone average of 32 dB HL and an average bone conduction threshold of 20 dB HL.
+* A mild conductive hearing impairment was suspected, with otoscopy and tympanometry revealing a possible middle ear disorder.
+* Pure-tone audiometry demonstrated a mild conductive hearing loss, with a maximum conductive loss of 35 dB at 4000 Hz and a sensorineural component of 10 dB.
+* The patient's audiogram showed a mild conductive hearing impairment, with a conductive component of 28 dB at 1000 Hz and an acoustic reflex threshold of 85 dB HL.

@@ -1,0 +1,35 @@
+* The patient's immune profile showed a notable decrease in the percentage of MAIT cells, a subtype of T cells that play a crucial role in mucosal immunity.
+* Flow cytometric analysis revealed a reduced proportion of CD3+Valpha7+CD161hi cells, indicative of a lower MAIT cell count.
+* Compared to the total T cell population, the proportion of MAIT cells was found to be diminished in this individual.
+* A decrease in the percentage of Tet-MR1+CD161hi cells was observed, suggesting an impaired MAIT cell response.
+* The MAIT cell subset, typically characterized by CD3 and Valpha7 expression, was underrepresented in the patient's peripheral blood.
+* Our findings indicate a reduced frequency of MAIT cells among total T cells, which may contribute to increased susceptibility to certain infections.
+* Immunophenotyping by flow cytometry identified a lower than expected proportion of CD161hi MAIT cells in the patient's sample.
+* This patient's T cell profile is notable for a decrease in the proportion of MAIT cells, which are important for maintaining mucosal homeostasis.
+* A decreased proportion of MAIT cells, as identified by their characteristic CD3+Valpha7+CD161hi phenotype, was detected in the patient's blood sample.
+* The relative proportion of MAIT cells to total T cells was decreased, suggesting a potential deficiency in mucosal immune function.
+* Further analysis of the patient's immune cells revealed a reduced percentage of MAIT cells, which are known to recognize and respond to metabolite antigens.
+* Flow cytometric analysis confirmed a lower than expected proportion of Tet-MR1+CD161hi MAIT cells in the patient's sample.
+* The patient's immune cell profile showed a diminished proportion of MAIT cells, which may impact their ability to mount effective immune responses at mucosal surfaces.
+* A reduced proportion of CD3+Valpha7+CD161hi cells was observed in the patient's peripheral blood, consistent with a decrease in MAIT cells.
+* This individual's MAIT cell proportion was found to be lower than expected, which may contribute to their increased risk of infections.
+* Immunological evaluation revealed a decrease in the proportion of MAIT cells, a T cell subset that plays a key role in recognizing bacterial and fungal antigens.
+* The proportion of MAIT cells among total T cells was decreased in this patient, suggesting a potential impairment in mucosal immune function.
+* Our results indicate a reduced frequency of MAIT cells in the patient's blood sample, as determined by flow cytometric analysis of CD161hi cells.
+* The patient's T cell subset analysis revealed a lower than expected proportion of MAIT cells, which are involved in the recognition and response to microbial antigens.
+* A decrease in the proportion of MAIT cells was observed in the patient's sample, which may be associated with an increased susceptibility to infections.
+* Flow cytometry identified a reduced proportion of CD3+Valpha7+CD161hi cells in the patient's peripheral blood, consistent with a decrease in MAIT cells.
+* This patient's immune profile is characterized by a decreased proportion of MAIT cells, which are important for maintaining immune homeostasis at mucosal surfaces.
+* The proportion of Tet-MR1+CD161hi cells was found to be lower than expected in the patient's sample, indicating a decrease in MAIT cells.
+* Immunophenotypic analysis revealed a reduced proportion of MAIT cells in the patient's blood sample, which may impact their immune function.
+* A diminished proportion of MAIT cells was observed in the patient's T cell subset analysis, suggesting a potential deficiency in mucosal immunity.
+* The patient's immune cell profile showed a decrease in the proportion of MAIT cells, which recognize and respond to microbial antigens presented by the MR1 molecule.
+* Flow cytometric analysis confirmed a reduced proportion of MAIT cells in the patient's sample, as identified by their characteristic CD3+Valpha7+CD161hi phenotype.
+* This individual's immune system is notable for a decrease in the proportion of MAIT cells, which are involved in the defense against bacterial and fungal infections.
+* The proportion of MAIT cells among total T cells was decreased in this patient, which may be associated with an increased risk of infections and immune-related disorders.
+* A reduced proportion of CD161hi MAIT cells was observed in the patient's peripheral blood, suggesting a potential impairment in mucosal immune function.
+* The patient's T cell subset analysis revealed a lower than expected proportion of MAIT cells, which are known to play a key role in maintaining immune homeostasis at mucosal surfaces.
+* Our findings indicate a decrease in the proportion of MAIT cells in the patient's blood sample, which may contribute to their increased susceptibility to certain infections.
+* Immunological evaluation confirmed a reduced proportion of MAIT cells in the patient's sample, as identified by their characteristic Tet-MR1+CD161hi phenotype.
+* The patient's immune profile is notable for a diminished proportion of MAIT cells, which may impact their ability to respond to microbial antigens and maintain mucosal immunity.
+* A decreased proportion of MAIT cells was observed in the patient's sample, which may be associated with an increased risk of immune-related disorders and infections.

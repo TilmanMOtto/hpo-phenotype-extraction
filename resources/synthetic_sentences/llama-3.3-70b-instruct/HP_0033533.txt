@@ -1,0 +1,37 @@
+* The patient's cardiac output was noted to be elevated, with a significant increase in the volume of blood being pumped by the left and right ventricles.
+* Increased stroke volume and heart rate were observed, resulting in a higher than normal cardiac output.
+* Elevated CO was documented, likely due to an increase in both heart rate and the volume of blood pumped per beat.
+* The patient exhibited an elevated cardiac index, suggesting an increase in cardiac output that is not solely due to changes in body size.
+* Cardiac catheterization revealed an increased cardiac output, which may be contributing to the patient's symptoms.
+* The echocardiogram showed an elevated left ventricular output, consistent with increased cardiac output.
+* Increased cardiac output was suspected based on clinical presentation and later confirmed by cardiac MRI.
+* The patient's heart rate and stroke volume were both increased, leading to a higher cardiac output.
+* An increase in cardiac output was observed in response to exercise or stress, which is a normal physiological response.
+* However, in this patient, the increased cardiac output persisted even at rest.
+* LVOT Doppler measurements indicated an increased volume of blood being pumped from the left ventricle, contributing to elevated cardiac output.
+* Right heart catheterization demonstrated an increased cardiac output, which may indicate underlying pathology.
+* Elevated cardiac output was associated with a significant increase in the patient's oxygen delivery.
+* Increased cardiac output was noted in conjunction with decreases in systemic vascular resistance.
+* Cardiac output measured by thermodilution technique revealed an elevated value, suggesting increased volume of blood being pumped.
+* An elevated stroke volume and heart rate contributed to the increased cardiac output observed in this patient.
+* High-output heart failure was suspected due to the significantly elevated cardiac output.
+* Radionuclide ventriculography showed an increased left ventricular ejection fraction, consistent with elevated cardiac output.
+* Fick principle measurements confirmed the presence of an increased cardiac output.
+* Exercise stress testing revealed an elevated cardiac output at peak exercise, which was not unexpected.
+* However, the abnormal increase in cardiac output persisted during recovery.
+* Persistence of elevated cardiac output even after beta-blockade suggested an intrinsic cause.
+* Holter monitoring showed increased cardiac output throughout the day, without significant nocturnal dipping.
+* Increased cardiac output was observed in the setting of severe anemia, likely as a compensatory mechanism.
+* The elevated cardiac output was thought to contribute to the patient's elevated pulmonary artery pressures.
+* An increase in cardiac output was noted following volume expansion, consistent with the Frank-Starling mechanism.
+* Elevated cardiac output was observed post-operatively, likely due to the effects of anesthesia and fluid resuscitation.
+* Transthoracic echocardiogram revealed an elevated cardiac output due to increased left ventricular stroke volume.
+* A significant increase in cardiac index suggested a notable elevation in cardiac output.
+* Echocardiographic assessment of diastolic function suggested that the increased cardiac output may be related to enhanced diastolic performance.
+* Increased cardiac output was documented in a patient with thyrotoxicosis, consistent with expected clinical findings.
+* An elevated cardiac output was observed in the context of pregnancy, where increased blood volume and cardiac output are expected.
+* Evaluation of cardiac output using the Fick principle indicated an elevated value, supporting the diagnosis of high-output cardiac dysfunction.
+* Non-invasive estimation of cardiac output via bioimpedance spectroscopy confirmed the presence of an elevated cardiac output.
+* Clinical correlation suggested that the increased cardiac output was a compensatory response to decreased systemic vascular resistance.
+* Hemodynamic monitoring revealed a significant increase in cardiac output following the administration of inotropic agents.
+* Cardiac output monitoring using a pulmonary artery catheter showed an elevated value, which was used to guide further management.

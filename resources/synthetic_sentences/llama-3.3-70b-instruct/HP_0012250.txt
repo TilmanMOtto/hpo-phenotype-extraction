@@ -1,0 +1,37 @@
+* The patient's ECG revealed evidence of ST segment depression, suggestive of ischemic changes in the myocardium.
+* Ischemic ST changes were noted on the electrocardiogram, characterized by a downward displacement of the ST segment.
+* ST segment lowering was observed in leads II, III, and aVF, indicative of inferior ischemia.
+* Electrocardiographic analysis demonstrated a noticeable depression of the ST segment, raising concerns for cardiac ischemia.
+* The ECG showed ST segment sagging, a finding often associated with myocardial ischemia or infarction.
+* There was a pronounced downward shift of the ST segment in the anterior leads, concerning for anterior wall ischemia.
+* The patient's cardiac monitor revealed intermittent ST segment depression, prompting further evaluation for ischemic heart disease.
+* ST segment depression was noted in the lateral leads, suggesting possible lateral wall ischemia.
+* The electrocardiogram displayed a mild depression of the ST segment, which may indicate early signs of ischemic heart disease.
+* In the context of chest pain, the ECG finding of ST segment depression supports the diagnosis of acute coronary syndrome.
+* The Holter monitor captured episodes of transient ST segment depression, consistent with ischemic changes.
+* The ST segment was found to be below the baseline in multiple leads, concerning for widespread ischemia.
+* ECG findings included ST segment depression in the inferior leads, concerning for right coronary artery disease.
+* ST segment lowering was observed in the context of tachycardia, suggesting demand ischemia.
+* Ischemic ECG changes, including ST segment depression, were noted during exercise stress testing.
+* The resting ECG showed subtle ST segment depression, which may indicate chronic ischemic changes.
+* Serial ECGs demonstrated progressive ST segment depression, concerning for worsening ischemia.
+* The ST segment was depressed below the isoelectric line in leads I and aVL, suggestive of lateral ischemia.
+* In the setting of acute chest pain, the ECG finding of ST segment depression is highly suggestive of myocardial infarction.
+* ST segment depression was observed in the anterior leads during dobutamine stress echocardiography, concerning for inducible ischemia.
+* The ECG tracing revealed diffuse ST segment depression, concerning for widespread cardiac ischemia.
+* Focal ST segment depression was noted in lead V4, suggestive of localized ischemia.
+* ST segment depression was seen in the context of left bundle branch block, making interpretation challenging.
+* The electrocardiogram demonstrated ST segment depression in the inferior leads, consistent with right ventricular ischemia.
+* The patient's ECG showed marked ST segment depression during episodes of chest pain, concerning for vasospastic angina.
+* The ST segment was found to be depressed in multiple leads, concerning for multi-vessel coronary artery disease.
+* ST segment depression was observed during non-sustained ventricular tachycardia, suggesting ischemic substrate.
+* The ECG revealed evidence of ST segment depression in the context of hypokalemia, which may have contributed to the ischemic changes.
+* The resting ECG demonstrated subtle ST segment depression, which may indicate early signs of cardiac ischemia.
+* ST segment lowering was noted in the lateral leads, concerning for left circumflex coronary artery disease.
+* In the setting of cardiac risk factors, the ECG finding of ST segment depression raises concern for underlying coronary artery disease.
+* Serial troponins and ECGs revealed ST segment depression with troponin elevation, concerning for non-ST elevation myocardial infarction.
+* ST segment depression was observed in the anterior leads, suggestive of left anterior descending coronary artery disease.
+* The ECG demonstrated diffuse ST segment depression, which may indicate cardiac ischemia secondary to another underlying condition, such as hypotension or anemia.
+* The electrocardiogram showed ST segment depression in the inferior leads, concerning for right coronary artery occlusion.
+* Focal ST segment depression was noted in lead V5, suggestive of localized lateral wall ischemia.
+* The patient's ECG revealed ST segment depression during atrial fibrillation with rapid ventricular response, concerning for ischemia secondary to tachycardia.

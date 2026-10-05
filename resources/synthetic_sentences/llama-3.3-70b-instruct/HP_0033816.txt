@@ -1,0 +1,40 @@
+* Here are 40 unique sentences that describe the HPO label "Centrilobular" as they would appear in a clinical narrative or interpretive report:
+* The patient's lung injury is notable for its centrilobular distribution, consistent with a toxic inhalation exposure.
+* CT scan reveals a pattern of centrilobular ground-glass opacities, suggestive of an acute respiratory condition.
+* Centrilobular emphysema is evident on pulmonary function tests, with a significant decrease in DLCO.
+* The centrilobular region of the lung appears to be most affected by the infectious process, as seen on MRI.
+* Histopathological examination shows centrilobular necrosis, indicative of a severe inflammatory response.
+* The patient's symptoms are consistent with centrilobular lung disease, characterized by shortness of breath and cough.
+* A centrilobular pattern of fibrosis is observed on high-resolution CT, concerning for a chronic lung condition.
+* Centrilobular congestion is noted on chest X-ray, suggestive of pulmonary venous hypertension.
+* The centrilobular area of the lung is most severely affected by the tumor, as seen on PET scan.
+* Pulmonary function tests demonstrate a centrilobular defect, consistent with a diagnosis of chronic obstructive pulmonary disease (COPD).
+* The patient's lung biopsy shows centrilobular scarring, likely secondary to a previous infectious process.
+* Centrilobular nodules are present on CT scan, worrisome for a malignant process.
+* A centrilobular distribution of disease is seen on MRI, consistent with a diagnosis of pulmonary alveolar proteinosis.
+* The centrilobular region of the lung is most affected by the inflammatory process, as evidenced by bronchoalveolar lavage (BAL) fluid analysis.
+* Centrilobular hemorrhage is noted on CT scan, concerning for a vascular malformation or trauma.
+* The patient's symptoms and imaging findings are consistent with centrilobular lung injury, likely secondary to a toxic exposure.
+* A centrilobular pattern of lung damage is observed on autopsy, consistent with a diagnosis of acute respiratory distress syndrome (ARDS).
+* Centrilobular emphysema is present on pulmonary function tests, with a significant decrease in FEV1/FVC ratio.
+* The centrilobular area of the lung is most severely affected by the congenital anomaly, as seen on CT scan.
+* Centrilobular fibrosis is noted on high-resolution CT, concerning for a chronic lung condition.
+* The patient's lung disease is characterized by a centrilobular pattern of inflammation, as seen on biopsy.
+* A centrilobular distribution of disease is observed on PET scan, consistent with a diagnosis of lung cancer.
+* Centrilobular scarring is present on chest X-ray, likely secondary to a previous infectious process.
+* The centrilobular region of the lung is most affected by the autoimmune process, as evidenced by laboratory tests.
+* Centrilobular nodules are worrisome for a malignant process, as seen on CT scan.
+* A centrilobular pattern of lung injury is consistent with a diagnosis of toxic inhalation exposure.
+* The patient's symptoms and imaging findings are consistent with centrilobular lung disease, characterized by shortness of breath and cough.
+* Centrilobular emphysema is evident on pulmonary function tests, with a significant decrease in DLCO/VA ratio.
+* The centrilobular area of the lung is most severely affected by the infectious process, as seen on MRI.
+* A centrilobular distribution of disease is observed on CT scan, consistent with a diagnosis of pulmonary Langerhans cell histiocytosis.
+* Centrilobular fibrosis is noted on high-resolution CT, concerning for a chronic lung condition.
+* The patient's lung biopsy shows centrilobular necrosis, indicative of a severe inflammatory response.
+* Centrilobular congestion is noted on chest X-ray, suggestive of pulmonary venous hypertension.
+* The centrilobular region of the lung is most affected by the tumor, as seen on PET scan.
+* A centrilobular pattern of lung damage is observed on autopsy, consistent with a diagnosis of acute respiratory distress syndrome (ARDS).
+* Centrilobular scarring is present on chest X-ray, likely secondary to a previous infectious process.
+* The patient's symptoms and imaging findings are consistent with centrilobular lung injury, likely secondary to a toxic exposure.
+* Centrilobular nodules are present on CT scan, worrisome for a malignant process.
+* A centrilobular distribution of disease is seen on MRI, consistent with a diagnosis of pulmonary alveolar proteinosis.

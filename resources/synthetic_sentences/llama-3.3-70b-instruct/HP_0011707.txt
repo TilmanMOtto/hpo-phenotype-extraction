@@ -1,0 +1,36 @@
+* The ECG shows evidence of Mobitz I atrioventricular block, characterized by progressive lengthening of the PR interval before a dropped beat.
+* Patient's rhythm strip demonstrates Wenckebach block, indicating a potential conduction issue in the atrioventricular node.
+* On cardiac monitoring, we observed a Mobitz type 1 block, where the PR interval increased incrementally until a P wave was not conducted to the ventricles.
+* The Holter monitor revealed episodes of Mobitz I atrioventricular block, consistent with a diagnosis of Wenckebach block.
+* ECG findings are consistent with Mobitz I block, featuring a progressive prolongation of the PR interval preceding a nonconducted P wave.
+* The patient's telemetry shows a classic pattern of Mobitz type 1 atrioventricular block, with a gradual increase in PR interval duration.
+* A review of the patient's ECG demonstrated Mobitz I atrioventricular block, with a pause following the nonconducted P wave that was less than fully compensatory.
+* The ECG tracing exhibits a Wenckebach phenomenon, characterized by progressive PR interval prolongation and intermittent nonconducted P waves.
+* Cardiac conduction studies revealed Mobitz I atrioventricular block, consistent with a defect in the atrioventricular node.
+* On physical examination, the patient's pulse was irregular, consistent with a diagnosis of Mobitz type 1 atrioventricular block.
+* ECG analysis showed a Mobitz I block pattern, with the PR interval increasing progressively until a P wave was blocked.
+* The patient's ECG demonstrated a Wenckebach block, with a nonconducted P wave followed by a pause that was less than twice the normal sinus interval.
+* The telemetry strip shows a clear example of Mobitz I atrioventricular block, with progressive PR interval prolongation and a dropped beat.
+* A diagnosis of Mobitz type 1 atrioventricular block was made based on ECG findings of progressive PR interval lengthening and intermittent P wave blocking.
+* The ECG revealed a Mobitz I block, characterized by a gradual increase in PR interval duration before a nonconducted P wave.
+* On cardiac evaluation, the patient was found to have Mobitz I atrioventricular block, with a normal QRS duration and a nonconducted P wave.
+* ECG interpretation demonstrated a Wenckebach block, consistent with a Mobitz type 1 atrioventricular block.
+* The patient's cardiac rhythm was consistent with Mobitz I atrioventricular block, featuring a progressive prolongation of the PR interval.
+* Telemetry monitoring showed episodes of Mobitz type 1 atrioventricular block, with a characteristic pattern of progressive PR interval lengthening.
+* ECG findings confirmed a diagnosis of Mobitz I atrioventricular block, with a pause following the nonconducted P wave that was less than fully compensatory.
+* The patient's ECG tracing exhibited a Mobitz I block pattern, with a gradual increase in PR interval duration preceding a nonconducted P wave.
+* On ECG review, we observed a Mobitz type 1 atrioventricular block, characterized by progressive PR interval prolongation and a nonconducted P wave.
+* The cardiac conduction study revealed a Mobitz I block, consistent with a defect in the atrioventricular node and a normal QRS duration.
+* The telemetry strip demonstrated a classic Wenckebach block, with a progressive prolongation of the PR interval and a dropped beat.
+* ECG analysis confirmed a diagnosis of Mobitz I atrioventricular block, featuring a gradual increase in PR interval duration before a nonconducted P wave.
+* The patient's cardiac evaluation revealed Mobitz type 1 atrioventricular block, with a normal QRS duration and intermittent P wave blocking.
+* The ECG showed evidence of Mobitz I atrioventricular block, characterized by a progressive prolongation of the PR interval and a nonconducted P wave.
+* On cardiac monitoring, we detected episodes of Mobitz I atrioventricular block, consistent with a Wenckebach phenomenon.
+* The patient's ECG tracing exhibited a Mobitz I block, with a gradual increase in PR interval duration preceding a nonconducted P wave and a pause that was less than fully compensatory.
+* A diagnosis of Mobitz type 1 atrioventricular block was confirmed based on ECG findings of progressive PR interval lengthening and intermittent P wave blocking.
+* The telemetry strip showed a clear example of Mobitz I atrioventricular block, with progressive PR interval prolongation and a dropped beat.
+* ECG interpretation revealed a Wenckebach block, consistent with a Mobitz type 1 atrioventricular block and a normal QRS duration.
+* The patient's cardiac rhythm was consistent with Mobitz I atrioventricular block, featuring a progressive prolongation of the PR interval and a nonconducted P wave.
+* On ECG review, we observed a Mobitz type 1 atrioventricular block, characterized by progressive PR interval prolongation and intermittent P wave blocking.
+* The cardiac conduction study revealed a Mobitz I block, consistent with a defect in the atrioventricular node and a normal QRS duration, with a pause following the nonconducted P wave that was less than fully compensatory.
+* The ECG tracing exhibited a classic Mobitz I block pattern, with a gradual increase in PR interval duration preceding a nonconducted P wave and a pause that was less than twice the normal sinus interval.

@@ -1,0 +1,37 @@
+* The patient's visual acuity was measured at less than 3/60 on the 6m scale, indicating a profound visual impairment consistent with blindness.
+* Clinical examination revealed a visual field of limited radius, no greater than 10 degrees around central fixation, suggestive of severe visual loss.
+* The subject's visual perception was significantly reduced, with a decimal visual acuity of less than 0.05, meeting the criteria for blindness.
+* On ophthalmological assessment, the patient was found to have a visual acuity of less than 20/400 on the 20ft scale, indicating legal blindness.
+* The individual's ability to perceive visual stimuli was severely compromised, with only light perception noted, and an inability to discern forms or shapes.
+* No light perception (NLP) was recorded in both eyes, indicating total blindness.
+* The patient's residual vision was limited to detecting the presence and general direction of light sources, with no discernible form perception.
+* Severe visual impairment, characterized by a significant reduction in visual acuity and field, was diagnosed in the patient, consistent with blindness.
+* Visual acuity testing revealed a score of less than 3/60, confirming the diagnosis of profound visual loss.
+* The subject's visual function was severely impaired, with a best-corrected visual acuity of less than 20/400, meeting the definition of legal blindness.
+* Ophthalmic examination confirmed the presence of significant visual loss, with a visual field radius of no more than 10 degrees, indicative of blindness.
+* The patient was noted to have only light perception, with an inability to detect shapes, forms, or colors, consistent with severe visual impairment.
+* The individual's vision was profoundly impaired, with a decimal visual acuity of less than 0.05, indicating significant visual loss.
+* Clinical evaluation revealed total vision loss, with no detectable visual perception in either eye.
+* The subject's residual visual function was limited, with a visual acuity of less than 3/60, and a severely restricted visual field.
+* Severe visual impairment, meeting the criteria for blindness, was diagnosed in the patient, with a visual acuity of less than 20/400.
+* The patient's visual perception was severely reduced, with only the ability to detect light and dark, and not forms or shapes.
+* No light perception was noted in either eye, indicating total blindness, and a complete lack of visual function.
+* The individual's visual function was significantly impaired, with a best-corrected visual acuity of less than 0.05, and a restricted visual field.
+* Ophthalmological assessment confirmed the diagnosis of profound visual loss, with a visual acuity of less than 3/60, and a severely restricted visual field.
+* The patient was noted to have severe visual impairment, consistent with blindness, with a visual acuity of less than 20/400, and limited residual vision.
+* Visual acuity testing revealed a score of less than 0.05, indicating significant visual loss, and meeting the criteria for blindness.
+* The subject's visual perception was severely compromised, with only light perception noted, and an inability to detect shapes, forms, or colors.
+* Clinical examination revealed total blindness, with no detectable visual perception in either eye, and a complete lack of visual function.
+* The patient's visual function was profoundly impaired, with a decimal visual acuity of less than 0.05, and a severely restricted visual field.
+* Severe visual impairment, consistent with blindness, was diagnosed in the patient, with a visual acuity of less than 3/60, and limited residual vision.
+* The individual's residual visual function was limited to detecting the presence and general direction of light sources, with no discernible form perception.
+* Ophthalmic examination confirmed the presence of significant visual loss, with a visual field radius of no more than 10 degrees, indicative of blindness.
+* The patient was noted to have only light perception, with an inability to detect shapes, forms, or colors, consistent with severe visual impairment.
+* The subject's visual perception was severely reduced, with a visual acuity of less than 20/400, and a restricted visual field, meeting the criteria for legal blindness.
+* Clinical evaluation revealed total vision loss, with no detectable visual perception in either eye, and a complete lack of visual function.
+* The patient's visual function was significantly impaired, with a best-corrected visual acuity of less than 0.05, and a restricted visual field, consistent with blindness.
+* The individual's visual function was profoundly impaired, with a decimal visual acuity of less than 0.05, indicating significant visual loss.
+* Severe visual impairment, meeting the criteria for blindness, was diagnosed in the patient, with a visual acuity of less than 3/60, and limited residual vision.
+* Ophthalmological assessment confirmed the diagnosis of profound visual loss, with a visual acuity of less than 20/400, and a severely restricted visual field.
+* The patient was noted to have severe visual impairment, consistent with blindness, with a visual acuity of less than 0.05, and limited residual vision.
+* Visual acuity testing revealed a score of less than 3/60, indicating significant visual loss, and meeting the criteria for blindness.

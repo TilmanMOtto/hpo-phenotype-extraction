@@ -1,0 +1,36 @@
+* The patient presented with recurrent episodes of cessation of airflow during nocturnal sleep, consistent with a diagnosis of sleep apnea.
+* Notable pauses in breathing were observed during sleep, with some episodes lasting up to 30 seconds.
+* Clinical evaluation revealed intermittent interruptions in respiratory airflow during sleep, meeting the criteria for sleep apnea.
+* The overnight sleep study demonstrated repeated episodes of apnea, with a frequency of 10 events per hour.
+* Patient reported excessive daytime sleepiness, likely related to fragmented sleep due to recurrent apneas.
+* Physical examination and medical history suggested obstructive sleep apnea, characterized by intermittent cessation of airflow.
+* Polysomnography (PSG) results confirmed the presence of sleep apnea, with an apnea-hypopnea index (AHI) of 20.
+* The patient's sleep diary indicated frequent awakenings and poor sleep quality, consistent with sleep apnea.
+* A diagnosis of sleep apnea was made based on the patient's symptoms and laboratory findings, including recurrent apneas during sleep.
+* The patient underwent a home sleep test, which revealed significant pauses in breathing during sleep, indicative of sleep apnea.
+* Clinical suspicion for sleep apnea was high due to the patient's history of snoring, witnessed apneas, and daytime fatigue.
+* The patient's sleep apnea was characterized by episodes of complete cessation of airflow, lasting up to 1 minute.
+* Overnight oximetry revealed recurrent episodes of desaturation, consistent with sleep apnea.
+* The patient's medical history and physical examination suggested a diagnosis of obstructive sleep apnea, with recurrent pauses in breathing during sleep.
+* Sleep apnea was diagnosed based on the presence of recurrent apneas, with an average duration of 20 seconds.
+* The patient reported difficulty staying asleep, with frequent awakenings and poor sleep quality, suggestive of sleep apnea.
+* The PSG study demonstrated an AHI of 15, meeting the diagnostic criteria for sleep apnea.
+* Physical examination and laboratory findings were consistent with a diagnosis of sleep apnea, characterized by intermittent cessation of airflow.
+* The patient's sleep apnea was associated with significant oxygen desaturation, with a nadir of 85% during sleep.
+* The patient underwent a sleep study, which revealed recurrent episodes of apnea, with a frequency of 5 events per hour.
+* Clinical evaluation suggested a diagnosis of central sleep apnea, characterized by recurrent episodes of apnea during sleep.
+* The patient's medical history and physical examination were consistent with a diagnosis of sleep apnea, with recurrent pauses in breathing during sleep.
+* The patient reported excessive daytime sleepiness and fatigue, likely related to sleep apnea.
+* The sleep study demonstrated an AHI of 30, indicating severe sleep apnea.
+* Physical examination and laboratory findings suggested a diagnosis of sleep apnea, with recurrent episodes of apnea during sleep.
+* The patient's sleep diary revealed poor sleep quality and frequent awakenings, consistent with sleep apnea.
+* The PSG study confirmed the presence of sleep apnea, with an AHI of 10.
+* The patient's sleep apnea was associated with significant sleep fragmentation, with an average of 10 awakenings per night.
+* Clinical suspicion for sleep apnea was high due to the patient's history of loud snoring and witnessed apneas.
+* The patient underwent a sleep study, which revealed recurrent episodes of apnea, with a duration of up to 2 minutes.
+* The patient's medical history and physical examination were consistent with a diagnosis of obstructive sleep apnea, with recurrent pauses in breathing during sleep.
+* The patient reported difficulty initiating sleep, with frequent awakenings and poor sleep quality, suggestive of sleep apnea.
+* The PSG study demonstrated an AHI of 25, meeting the diagnostic criteria for moderate sleep apnea.
+* The patient's sleep apnea was characterized by episodes of complete cessation of airflow, lasting up to 30 seconds.
+* The patient's sleep diary indicated poor sleep quality and excessive daytime sleepiness, consistent with sleep apnea.
+* Clinical evaluation suggested a diagnosis of sleep apnea, with recurrent episodes of apnea during sleep, and an AHI of 12.

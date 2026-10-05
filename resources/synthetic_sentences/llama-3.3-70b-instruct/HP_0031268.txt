@@ -1,0 +1,36 @@
+* The patient's T cells demonstrated a blunted response to TCR stimulation, with decreased expression of CD69.
+* Upon T cell activation, a notable reduction in CD69 upregulation was observed, suggesting impaired T cell function.
+* TCR-mediated activation of T cells was accompanied by a diminished increase in CD69 expression.
+* Flow cytometric analysis revealed reduced CD69 expression on T cells following TCR stimulation.
+* Impaired T cell activation was evident, with decreased upregulation of CD69 after TCR engagement.
+* CD69 expression on T cells was found to be lower than expected after TCR activation, indicating a possible defect in T cell function.
+* The T cell response to TCR stimulation was characterized by a reduced CD69 upregulation, suggesting an underlying immunological issue.
+* Evaluation of T cell activation revealed decreased CD69 expression, which may be indicative of an impaired immune response.
+* T cells from the patient showed a decreased ability to upregulate CD69 in response to TCR activation.
+* A diminished CD69 response was observed in T cells after TCR stimulation, which could be related to an underlying immunodeficiency.
+* The patient's immune cells demonstrated a reduced capacity for CD69 upregulation upon TCR activation.
+* TCR-activated T cells exhibited a lower level of CD69 expression compared to healthy controls.
+* Flow cytometric analysis of T cells revealed an impaired upregulation of CD69 after TCR stimulation.
+* Decreased CD69 expression on T cells was noted after TCR activation, suggesting a possible immunological dysfunction.
+* T cell activation was found to be impaired, as evidenced by reduced CD69 upregulation after TCR engagement.
+* The patient's T cells showed a blunted CD69 response to TCR stimulation, which may be indicative of an underlying immune defect.
+* Reduced CD69 upregulation on T cells was observed after TCR activation, suggesting an impaired T cell response.
+* Impaired T cell function was evident, as demonstrated by decreased CD69 expression after TCR stimulation.
+* CD69 expression on T cells was reduced after TCR activation, which could be related to an underlying immunological issue.
+* Evaluation of T cell activation revealed a decreased ability to upregulate CD69 in response to TCR stimulation.
+* The patient's immune cells exhibited a diminished capacity for CD69 upregulation upon TCR activation.
+* TCR-activated T cells demonstrated a lower level of CD69 expression compared to expected values.
+* A decrease in CD69 upregulation on T cells was observed after TCR stimulation, suggesting an impaired immune response.
+* Flow cytometric analysis of T cells revealed a reduced CD69 response to TCR activation.
+* T cell activation was characterized by a diminished upregulation of CD69 after TCR engagement.
+* Decreased CD69 expression on T cells was noted after TCR stimulation, which may be indicative of an underlying immunological defect.
+* The patient's T cells showed an impaired ability to upregulate CD69 in response to TCR activation.
+* Impaired T cell function was evident, as demonstrated by reduced CD69 expression after TCR stimulation.
+* Reduced CD69 upregulation on T cells was observed after TCR activation, suggesting an underlying immunological issue.
+* Evaluation of T cell activation revealed a blunted CD69 response to TCR stimulation.
+* The patient's immune cells demonstrated a decreased capacity for CD69 upregulation upon TCR activation.
+* TCR-activated T cells exhibited a lower level of CD69 expression compared to healthy controls.
+* A diminished CD69 response was observed in T cells after TCR stimulation, which could be related to an underlying immunodeficiency.
+* The patient's T cells showed a decreased ability to upregulate CD69 after TCR activation, suggesting an impaired immune response.
+* Flow cytometric analysis revealed a reduced CD69 upregulation on T cells after TCR stimulation.
+* Impaired T cell activation was evident, as demonstrated by decreased CD69 expression after TCR engagement.

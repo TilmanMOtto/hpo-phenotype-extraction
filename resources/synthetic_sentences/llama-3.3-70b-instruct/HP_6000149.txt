@@ -1,0 +1,37 @@
+* The patient's muscle specimen demonstrated a decreased threshold for contracture in response to caffeine, suggesting susceptibility to malignant hyperthermia.
+* In vitro testing revealed a lower-than-expected contracture threshold with halothane, indicating potential risk for MH.
+* Caffeine contracture testing was positive, with a reduced threshold indicative of increased sensitivity.
+* The halothane contracture test yielded abnormal results, characterized by a decreased threshold for muscle contraction.
+* Freshly obtained skeletal muscle showed an exaggerated response to caffeine, with a contracture threshold significantly lower than normal.
+* Our laboratory findings indicate a reduced contracture threshold in response to halothane, consistent with a diagnosis of malignant hyperthermia susceptibility.
+* In vitro contracture testing with caffeine demonstrated a threshold of <0.5mM, significantly below the normal range.
+* Muscle biopsy specimens exhibited abnormal contracture responses to halothane, with a mean threshold of 0.25mM.
+* The patient's skeletal muscle specimen was found to have a low contracture threshold in response to caffeine, measuring 0.2mM.
+* Abnormal caffeine contracture test results were obtained, with a threshold of 0.3mM, indicating an increased risk for malignant hyperthermia.
+* The halothane contracture test was performed on a freshly obtained muscle specimen, revealing a reduced threshold consistent with MH susceptibility.
+* In vitro testing with caffeine demonstrated a contracture threshold of 0.15mM, significantly lower than the normal range.
+* Our results indicate that the patient's muscle is more sensitive to halothane than normal muscle, with a contracture threshold of 0.1mM.
+* Caffeine contracture testing was abnormal, with a threshold below the 0.5mM cutoff, suggesting malignant hyperthermia susceptibility.
+* A muscle biopsy was performed, and the specimen was found to exhibit an exaggerated response to caffeine, with a contracture threshold <0.2mM.
+* The patient's muscle specimen demonstrated increased sensitivity to halothane, with a contracture threshold measuring 0.4mM.
+* In vitro contracture testing with halothane yielded a threshold of 0.3mM, indicating potential susceptibility to malignant hyperthermia.
+* Our laboratory findings are consistent with a diagnosis of malignant hyperthermia susceptibility, based on a reduced contracture threshold in response to caffeine.
+* Caffeine contracture test results showed a threshold of 0.25mM, below the normal range and indicative of increased sensitivity.
+* The patient's skeletal muscle specimen was found to have an abnormal response to halothane, with a contracture threshold of 0.15mM.
+* In vitro testing revealed a low contracture threshold in response to caffeine, measuring 0.1mM and suggesting malignant hyperthermia susceptibility.
+* The halothane contracture test was abnormal, with a threshold below the normal range and consistent with a diagnosis of MH susceptibility.
+* Muscle biopsy results indicated an exaggerated response to caffeine, with a contracture threshold <0.3mM.
+* Our results indicate that the patient's muscle is more sensitive to caffeine than normal muscle, with a contracture threshold measuring 0.2mM.
+* Caffeine contracture testing was performed, and the results showed a threshold of 0.4mM, below the normal range and suggestive of MH susceptibility.
+* In vitro contracture testing with halothane demonstrated a threshold of 0.2mM, indicating potential risk for malignant hyperthermia.
+* The patient's muscle specimen exhibited an abnormal response to caffeine, with a contracture threshold measuring 0.25mM.
+* Our laboratory findings are consistent with malignant hyperthermia susceptibility, based on a reduced contracture threshold in response to halothane.
+* The caffeine contracture test was positive, with a threshold below the normal range and indicative of increased sensitivity.
+* In vitro testing revealed a low contracture threshold in response to halothane, measuring 0.1mM and suggesting MH susceptibility.
+* Muscle biopsy specimens showed an exaggerated response to caffeine, with a mean contracture threshold of 0.2mM.
+* The patient's skeletal muscle specimen demonstrated increased sensitivity to halothane, with a contracture threshold of 0.3mM.
+* Caffeine contracture test results indicated a threshold below the normal range, consistent with a diagnosis of malignant hyperthermia susceptibility.
+* In vitro contracture testing with caffeine yielded a threshold of 0.15mM, significantly lower than the normal range.
+* The halothane contracture test was performed, and the results showed a threshold of 0.25mM, below the normal range and suggestive of MH susceptibility.
+* Our results indicate that the patient's muscle is more sensitive to halothane than normal muscle, with a contracture threshold measuring 0.2mM.
+* The patient's muscle specimen exhibited an abnormal response to caffeine, with a contracture threshold <0.3mM, indicating potential susceptibility to malignant hyperthermia.

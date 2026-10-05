@@ -1,0 +1,36 @@
+* The patient's electroencephalogram (EEG) revealed periodic lateralized epileptiform discharges (PLEDs), indicating a potential focal lesion.
+* EEG findings were notable for PLEDs, with a consistent interval of approximately 1 second between discharges.
+* The presence of PLEDs on the EEG suggested an acute destructive focal lesion, which was later confirmed by imaging studies.
+* PLEDs were observed in the left hemisphere on EEG, with a periodicity of 2 seconds, prompting further investigation for a possible focal lesion.
+* The EEG demonstrated periodic, lateralized, and epileptiform discharges, consistent with PLEDs, in the right frontal region.
+* A repeat EEG showed resolution of PLEDs, which had been present on the initial study, suggesting improvement in the underlying condition.
+* EEG findings included PLEDs with a morphology closer to slow waves than sharp waves, consistent with the expected epileptiform pattern.
+* PLEDs were seen on the EEG, with an interval of 0.5 seconds between discharges, in a patient with a history of recent head trauma.
+* The patient's EEG revealed a pattern of PLEDs, which were more prominent in the left posterior region.
+* PLEDs were noted on the EEG, with a periodicity of 1.5 seconds, in a patient with a suspected acute ischemic stroke.
+* The EEG showed PLEDs, which were most prominent in the right temporal lobe, with an interval of 2.5 seconds between discharges.
+* A focal lesion was suspected based on the presence of PLEDs on the EEG, which were later confirmed by MRI.
+* The patient's EEG demonstrated PLEDs, with a consistent interval of 1.2 seconds, in the left frontal region.
+* PLEDs were observed on the EEG, with a morphology that was more slow-wave like than sharp-wave like, in a patient with a suspected encephalitis.
+* The EEG revealed PLEDs, with a periodicity of 0.8 seconds, in the right hemisphere, prompting further evaluation for a possible focal lesion.
+* A pattern of PLEDs was seen on the EEG, with an interval of 2 seconds between discharges, in a patient with a history of seizures.
+* The EEG showed resolution of PLEDs, which had been present on the initial study, suggesting improvement in the patient's condition.
+* PLEDs were noted on the EEG, with a morphology that was consistent with an acute destructive focal lesion.
+* The patient's EEG revealed PLEDs, with a periodicity of 1.8 seconds, in the left posterior region.
+* EEG findings included PLEDs, with an interval of 1.5 seconds between discharges, in a patient with a suspected focal infection.
+* A focal lesion was suspected based on the presence of PLEDs on the EEG, which were later confirmed by CT scan.
+* The EEG demonstrated PLEDs, with a consistent interval of 2.2 seconds, in the right temporal lobe.
+* PLEDs were observed on the EEG, with a morphology that was more epileptiform than slow-wave like, in a patient with a history of epilepsy.
+* The EEG revealed PLEDs, with a periodicity of 1.2 seconds, in the left frontal region, prompting further evaluation for a possible focal lesion.
+* A pattern of PLEDs was seen on the EEG, with an interval of 1.8 seconds between discharges, in a patient with a suspected acute stroke.
+* The patient's EEG showed PLEDs, with a morphology that was consistent with an acute destructive focal lesion, which was later confirmed by imaging studies.
+* PLEDs were noted on the EEG, with a periodicity of 2.5 seconds, in the right hemisphere.
+* EEG findings included PLEDs, with an interval of 0.5 seconds between discharges, in a patient with a history of head trauma.
+* The EEG demonstrated PLEDs, with a consistent interval of 1.5 seconds, in the left posterior region.
+* A focal lesion was suspected based on the presence of PLEDs on the EEG, which were later confirmed by MRI.
+* The patient's EEG revealed PLEDs, with a periodicity of 2 seconds, in the right temporal lobe.
+* PLEDs were observed on the EEG, with a morphology that was more slow-wave like than sharp-wave like, in a patient with a suspected encephalitis.
+* The EEG showed resolution of PLEDs, which had been present on the initial study, suggesting improvement in the patient's condition.
+* PLEDs were noted on the EEG, with a morphology that was consistent with an acute destructive focal lesion, which was later confirmed by CT scan.
+* The EEG demonstrated PLEDs, with a consistent interval of 1.2 seconds, in the left frontal region.
+* A pattern of PLEDs was seen on the EEG, with an interval of 1.8 seconds between discharges, in a patient with a suspected focal infection.

@@ -1,0 +1,37 @@
+* The electrocardiogram (ECG) revealed abnormal findings, suggesting underlying cardiac dysfunction.
+* Cardiac enzyme tests indicated elevated levels, consistent with myocardial injury.
+* The patient's stress test results were concerning for inducible ischemia.
+* Holter monitor recording showed intermittent atrial fibrillation.
+* Echocardiogram demonstrated reduced left ventricular function.
+* The cardiac catheterization revealed significant coronary artery stenosis.
+* Abnormal cardiac conduction was noted on the patient's telemetry readings.
+* Troponin levels were elevated, indicating cardiac damage.
+* The patient's cardiac MRI showed evidence of myocardial scarring.
+* An abnormal response to exercise was observed during the cardiac stress test.
+* The 24-hour blood pressure monitor revealed poorly controlled hypertension.
+* Cardiac biomarkers were elevated, suggesting cardiac strain.
+* The patient's event monitor captured episodes of ventricular tachycardia.
+* The echocardiogram reported an abnormal ejection fraction.
+* Signal-averaged ECG showed late potentials, indicative of arrhythmogenic substrate.
+* Cardiac PET scan demonstrated areas of reduced perfusion.
+* The patient's MUGA scan revealed left ventricular dysfunction.
+* Abnormalities in cardiac rhythm were noted on the patient's inpatient telemetry.
+* Cardiac CT angiogram revealed significant coronary artery calcification.
+* The patient's treadmill test was stopped due to abnormal ECG changes.
+* Elevated BNP levels suggested cardiac volume overload.
+* The cardiac ultrasound revealed a pericardial effusion.
+* An abnormal cardiac axis was noted on the patient's ECG.
+* The patient's cardiac function was impaired, as evidenced by abnormal hemodynamics.
+* The stress echocardiogram showed new wall motion abnormalities.
+* Cardiac magnetic resonance imaging (MRI) revealed cardiac fibrosis.
+* The patient's tilt table test was positive for orthostatic intolerance.
+* The Holter monitor detected frequent premature ventricular contractions (PVCs).
+* The patient's cardiac enzyme tests indicated reperfusion injury.
+* The echocardiogram reported abnormal diastolic function.
+* Abnormalities in cardiac structure were noted on the patient's cardiac MRI.
+* The cardiac catheterization revealed anomalous coronary artery anatomy.
+* The patient's event monitor captured episodes of atrial flutter.
+* The patient's ECG showed signs of left ventricular hypertrophy.
+* The cardiac CT scan revealed a cardiac mass.
+* The patient's MUGA scan demonstrated right ventricular dysfunction.
+* Abnormal cardiac conduction was noted on the patient's electrophysiology study.

@@ -1,0 +1,35 @@
+* MRI findings reveal multiple areas of decreased signal intensity within the cerebral white matter, suggestive of underlying pathology.
+* Cerebral white matter appears heterogeneous on T2-weighted images, with scattered foci of hypointensity.
+* Multifocal areas of low signal are noted in the white matter of both cerebral hemispheres on susceptibility-weighted imaging.
+* The cerebral white matter demonstrates a "salt and pepper" appearance due to the presence of multiple hypointense lesions.
+* On FLAIR sequences, multiple foci of hypointensity are seen within the supratentorial white matter, indicating potential involvement of small vessels or demyelination.
+* Scattered, multifocal hypointense lesions are identified in the periventricular and deep white matter on T1-weighted MRI.
+* MRI scans show multiple punctate areas of decreased signal intensity in the cerebral white matter, likely representing chronic small vessel ischemic changes.
+* Diffuse and multifocal hypointensities are observed in the cerebral white matter, with a predilection for the frontal and parietal lobes.
+* On GRE sequences, numerous foci of hypointensity are seen in the cerebral white matter, possibly indicative of prior microhemorrhages.
+* T2-weighted images reveal a multifocal pattern of white matter hypointensity, suggestive of an underlying microvascular or demyelinating process.
+* The cerebral white matter exhibits multifocal, punctate hypointensities on SWI sequences, which may correspond to areas of calcification or hemosiderin deposition.
+* MRI evaluation reveals a "speckled" appearance of the cerebral white matter on T1-weighted images, due to the presence of multiple small hypointense lesions.
+* Multifocal hypointensities in the cerebral white matter are seen on proton density-weighted images, potentially representing areas of gliosis or demyelination.
+* On MRI, the cerebral white matter shows multiple, small foci of decreased signal intensity, which may be indicative of an ischemic or inflammatory process.
+* Scattered, multifocal hypointense lesions are identified in the cerebral white matter on T2*-weighted images, suggestive of potential microvascular disease.
+* A multifocal pattern of hypointensity is observed in the cerebral white matter on DWI sequences, which may represent restricted diffusion in areas of ischemia or inflammation.
+* MRI findings demonstrate multifocal hypointensities in the cerebral white matter, with a tendency to cluster in the periventricular regions.
+* Multiple small foci of hypointensity are seen in the cerebral white matter on T1-weighted MRI, potentially corresponding to areas of chronic demyelination.
+* The cerebral white matter exhibits a multifocal, "stippled" appearance on FLAIR sequences, due to the presence of numerous small hypointense lesions.
+* On MRI, multifocal areas of decreased signal intensity are noted in the cerebral white matter, which may be indicative of an underlying vascular or degenerative process.
+* Scattered, multifocal hypointensities are observed in the cerebral white matter on T2-weighted images, suggestive of potential involvement of the small vessels or white matter tracts.
+* Cerebral white matter appears mottled on T1-weighted images, with multiple small foci of hypointensity scattered throughout both hemispheres.
+* Multifocal hypointensities in the cerebral white matter are identified on GRE sequences, which may represent areas of hemosiderin deposition or calcification.
+* On MRI, the cerebral white matter demonstrates a multifocal pattern of hypointensity, potentially indicative of an ischemic, inflammatory, or demyelinating process.
+* Multiple foci of decreased signal intensity are seen in the cerebral white matter on SWI sequences, suggestive of potential microvascular disease or prior hemorrhage.
+* A "speckled" or "salt and pepper" appearance is noted in the cerebral white matter on FLAIR sequences, due to the presence of numerous small hypointense lesions.
+* Scattered, multifocal hypointense lesions are observed in the cerebral white matter on proton density-weighted images, potentially representing areas of gliosis or demyelination.
+* Multifocal hypointensities are identified in the cerebral white matter on T2-weighted images, which may be indicative of an underlying vascular or degenerative process.
+* On MRI, the cerebral white matter appears heterogeneous on T2-weighted images, with multiple small foci of hypointensity scattered throughout both hemispheres.
+* A multifocal pattern of hypointensity is seen in the cerebral white matter on DWI sequences, potentially representing areas of restricted diffusion in ischemia or inflammation.
+* Scattered, multifocal hypointensities are noted in the cerebral white matter on T1-weighted MRI, suggestive of potential involvement of the small vessels or white matter tracts.
+* The cerebral white matter demonstrates multiple, small foci of decreased signal intensity on GRE sequences, which may correspond to areas of hemosiderin deposition or calcification.
+* Multifocal hypointensities in the cerebral white matter are observed on FLAIR sequences, potentially indicative of an ischemic, inflammatory, or demyelinating process.
+* On MRI, the cerebral white matter exhibits a multifocal, "stippled" appearance on T2-weighted images, due to the presence of numerous small hypointense lesions.
+* Cerebral white matter appears mottled on T2-weighted images, with multiple small foci of hypointensity scattered throughout both hemispheres, suggestive of potential microvascular disease.

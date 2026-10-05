@@ -1,0 +1,717 @@
+/* Tree UI — one stylesheet, themed by [data-theme] on <body>.
+   The main dashboard styles inline dicts in Python; this app keeps CSS in CSS so light
+   and dark are one swap of custom properties rather than a second set of Python literals. */
+
+:root,
+body[data-theme="light"] {
+  --surface: #fcfcfb;
+  --surface-2: #f4f4f2;
+  --surface-3: #ebebe7;
+  --border: #dededa;
+  --text: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #82817c;
+  --accent: #2a78d6;
+  --good: #0ca30c;
+  --warning: #fab219;
+  --serious: #ec835a;
+  --critical: #d03b3b;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .05), 0 4px 12px rgba(0, 0, 0, .04);
+}
+
+body[data-theme="dark"] {
+  --surface: #1a1a19;
+  --surface-2: #242423;
+  --surface-3: #2e2e2c;
+  --border: #3a3a37;
+  --text: #ffffff;
+  --text-secondary: #c3c2b7;
+  --text-muted: #8e8d85;
+  --accent: #3987e5;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 4px 12px rgba(0, 0, 0, .25);
+}
+
+/* The one place a size is absolute. Everything else in this file is `rem`, so a curator moving
+   the sidebar's Display slider scales the whole app — the report, the chips, the Overview grid —
+   from one custom property. `rem` and not `em` on purpose: `em` compounds through
+   `.card > .row-card > .stat-sub` and the small text would collapse into itself. */
+html { font-size: var(--fs, 14px); }
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--surface-2);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* ── shell ───────────────────────────────────────────────────────────────── */
+
+.shell { display: flex; min-height: 100vh; }
+
+.sidebar {
+  width: 300px;
+  flex: 0 0 300px;
+  padding: 20px;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.main { flex: 1; padding: 24px 28px; min-width: 0; }
+
+.brand { font-size: 1.143rem; font-weight: 650; letter-spacing: -.01em; margin: 0 0 2px; }
+.brand-sub { color: var(--text-muted); font-size: 0.857rem; margin-bottom: 22px; }
+
+.field { margin-bottom: 16px; }
+.field-label {
+  display: block;
+  font-size: 0.786rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.sidebar-section {
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.path-input {
+  width: 100%;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.786rem;
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface-2);
+  color: var(--text);
+}
+.path-input:focus { outline: none; border-color: var(--accent); }
+
+.details-summary {
+  cursor: pointer;
+  list-style: revert;
+  margin-bottom: 0;
+}
+.details-summary:hover { color: var(--text); }
+
+/* ── panels ──────────────────────────────────────────────────────────────── */
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px 18px 14px;
+  margin-bottom: 18px;
+  box-shadow: var(--shadow);
+}
+
+.panel-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.panel-title { margin: 0; font-size: 1rem; font-weight: 650; letter-spacing: -.01em; }
+.panel-subtitle { color: var(--text-muted); font-size: 0.857rem; margin-top: 2px; max-width: 68ch; }
+.panel-tools { display: flex; gap: 6px; flex: 0 0 auto; }
+.panel-body { min-width: 0; }
+
+.copy-btn {
+  font: inherit;
+  font-size: 0.786rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 3px 9px;
+  cursor: pointer;
+  transition: color .12s, border-color .12s;
+}
+.copy-btn:hover { color: var(--accent); border-color: var(--accent); }
+.copy-clip { display: inline-flex; align-items: center; }
+
+/* ── stat tiles ──────────────────────────────────────────────────────────── */
+
+.stat-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.stat {
+  flex: 1 1 140px;
+  min-width: 140px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 12px 14px;
+  box-shadow: var(--shadow);
+}
+
+.stat-label {
+  font-size: 0.786rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-muted);
+}
+.stat-value {
+  font-size: 1.714rem;
+  font-weight: 660;
+  letter-spacing: -.02em;
+  margin-top: 3px;
+  font-variant-numeric: tabular-nums;
+}
+.stat-value[data-tone="good"] { color: var(--good); }
+.stat-value[data-tone="warning"] { color: var(--warning); }
+.stat-value[data-tone="critical"] { color: var(--critical); }
+.stat-value[data-tone="accent"] { color: var(--accent); }
+.stat-sub { font-size: 0.857rem; color: var(--text-muted); margin-top: 1px; }
+
+/* ── notes ───────────────────────────────────────────────────────────────── */
+
+.note {
+  border-radius: 8px;
+  padding: 9px 12px;
+  font-size: 0.893rem;
+  margin-bottom: 14px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text-secondary);
+}
+.note-warn { border-color: var(--warning); background: color-mix(in srgb, var(--warning) 8%, var(--surface)); }
+.note-danger { border-color: var(--critical); background: color-mix(in srgb, var(--critical) 8%, var(--surface)); }
+
+.empty { color: var(--text-muted); padding: 28px; text-align: center; font-size: 0.929rem; }
+
+/* ── tables ──────────────────────────────────────────────────────────────── */
+
+.tbl { width: 100%; border-collapse: collapse; font-size: 0.929rem; }
+.tbl th {
+  text-align: left;
+  font-size: 0.786rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text-muted);
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+}
+.tbl td { padding: 6px 10px; border-bottom: 1px solid var(--surface-3); }
+.tbl td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.tbl tr:hover td { background: var(--surface-2); }
+.tbl-scroll { max-height: 420px; overflow: auto; }
+
+.delta-pos { color: var(--good); font-weight: 600; }
+.delta-neg { color: var(--critical); font-weight: 600; }
+
+.pill {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 20px;
+  font-size: 0.786rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+/* ── patient view ────────────────────────────────────────────────────────── */
+
+.split { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 18px; }
+@media (max-width: 1200px) { .split { grid-template-columns: 1fr; } }
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.857rem;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  max-height: 300px;
+  overflow: auto;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.714rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  padding: 2px 7px;
+  border-radius: 5px;
+  background: var(--surface-3);
+  color: var(--text-secondary);
+  margin-left: 6px;
+}
+.badge-reconstructed { background: color-mix(in srgb, var(--warning) 22%, var(--surface)); color: var(--text); }
+
+.kv { display: grid; grid-template-columns: auto 1fr; gap: 3px 14px; font-size: 0.929rem; margin-bottom: 12px; }
+.kv dt { color: var(--text-muted); }
+.kv dd { margin: 0; font-variant-numeric: tabular-nums; }
+
+.report-text { line-height: 1.75; font-size: 0.964rem; }
+.report-text mark {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  color: inherit;
+  border-radius: 3px;
+  padding: 1px 2px;
+}
+
+/* ── presentation mode: hide the chrome, enlarge the evidence ────────────── */
+
+body[data-present="1"] .sidebar { display: none; }
+body[data-present="1"] .main { padding: 30px 44px; }
+body[data-present="1"] { font-size: 16px; }
+body[data-present="1"] .panel { padding: 22px 26px; }
+body[data-present="1"] .stat-value { font-size: 34px; }
+body[data-present="1"] .panel-title { font-size: 17px; }
+body[data-present="1"] .present-hide { display: none; }
+
+/* Dash tab chrome, restyled to match the panels. Dash ships light-mode defaults inline, so the
+   unselected tabs are unreadable on a dark surface without overriding them. */
+.tabs-bar { margin-bottom: 18px; }
+
+.tabs-bar .tab {
+  background: var(--surface-2) !important;
+  border-color: var(--border) !important;
+  color: var(--text-muted) !important;
+  font-weight: 550;
+  transition: color .12s;
+}
+.tabs-bar .tab:hover { color: var(--text) !important; }
+.tabs-bar .tab--selected {
+  background: var(--surface) !important;
+  color: var(--text) !important;
+  border-top: 2px solid var(--accent) !important;
+  border-bottom-color: var(--surface) !important;
+}
+
+/* Dropdowns and the data table are react-select / dash-table internals; they too default to a
+   white surface. */
+body[data-theme="dark"] .Select-control,
+body[data-theme="dark"] .Select-menu-outer,
+body[data-theme="dark"] .Select--multi .Select-value {
+  background: var(--surface-2) !important;
+  border-color: var(--border) !important;
+  color: var(--text) !important;
+}
+body[data-theme="dark"] .Select-value-label,
+body[data-theme="dark"] .Select-placeholder,
+body[data-theme="dark"] .Select-option {
+  color: var(--text-secondary) !important;
+  background: var(--surface-2) !important;
+}
+body[data-theme="dark"] .Select-option.is-focused { background: var(--surface-3) !important; }
+body[data-theme="dark"] .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner td,
+body[data-theme="dark"] .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner th {
+  background: var(--surface) !important;
+  color: var(--text-secondary) !important;
+  border-color: var(--border) !important;
+}
+
+/* ── Curation UI ───────────────────────────────────────────────────────────────
+   Everything below is this app's own. The base above is shared with the three
+   analysis apps, so a reader who knows one knows the chrome of all four; what is
+   new here is the reading surface and the row cards it is adjudicated from. */
+
+.curate {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  height: calc(100vh - 96px);
+}
+.curate-reader { flex: 1; overflow-y: auto; height: 100%; padding-right: 4px; }
+.curate-panel  { width: 400px; min-width: 400px; overflow-y: auto; height: 100%; }
+
+@media (max-width: 1200px) {
+  .curate { flex-direction: column; height: auto; }
+  .curate-reader, .curate-panel { width: 100%; min-width: 0; height: auto; }
+}
+
+/* ── card ───────────────────────────────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  box-shadow: var(--shadow);
+  padding: 10px 12px;
+  margin-bottom: 12px;
+}
+.card-head  { margin-bottom: 8px; }
+.card-title { font-size: 0.929rem; font-weight: 600; }
+.card-sub   { font-size: 0.821rem; color: var(--text-muted); margin-top: 2px; line-height: 1.4; }
+
+/* ── the report ─────────────────────────────────────────────────────────────
+   Continuous prose, not a list of rows. `pre-wrap` is what puts the report's own
+   line breaks and blank lines back — the segmentation drops them, and a clinical
+   report without its paragraphs is markedly harder to read. */
+.prose {
+  font-size: 0.964rem;
+  line-height: 1.7;
+  color: var(--text);
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  max-width: 74ch;
+}
+
+/* A segment is inline: it must not create a box, a line break, or a baseline shift.
+   Hover shows its extent; selection keeps it shown. Padding is horizontal only —
+   vertical padding on an inline element overlaps the lines above and below. */
+.seg {
+  display: inline;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background-color .08s ease;
+}
+.seg:hover { background: var(--surface-3); }
+.seg-selected {
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+/* ── marks in the report ────────────────────────────────────────────────────── */
+.mark {
+  display: inline;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  border-radius: 2px;
+}
+/* An annotation somebody made: a thicker solid rule, so it reads as heavier than a detection.
+   Its colour is the source's, set inline, which is what ties the mark to the chip beside it. */
+.mark-ann         { border-bottom-style: solid; border-bottom-width: 3px; }
+.mark-pb          { border-bottom-style: solid; }
+.mark-pb-negated  { border-bottom-style: solid; }
+.mark-pb-negated .mark-text { text-decoration: line-through; opacity: .75; }
+.mark-curated     { border-bottom-width: 0; box-shadow: inset 0 0 0 1.5px currentColor; padding: 0 2px; }
+.mark-cand        { border-bottom-style: dotted; opacity: .85; }
+.mark:hover       { background: var(--surface-3); }
+.mark-tag {
+  font-size: 0.679rem;
+  font-weight: 700;
+  color: #fff;
+  border-radius: 2px;
+  padding: 0 3px;
+  margin-left: 3px;
+  vertical-align: super;
+  letter-spacing: .02em;
+  user-select: none;
+}
+
+/* Several phenotypes asserted about one stretch of words. The underlined text is then not a click
+   target — it could only mean one of them — so each tag is, and says so on hover. */
+.mark-multi .mark-tag { cursor: pointer; }
+.mark-multi .mark-tag:hover { outline: 1px solid currentColor; }
+.mark-multi { cursor: default; }
+
+/* ── row cards (suggestions, existing annotations) ──────────────────────────── */
+.row-card {
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 7px 9px;
+  margin-bottom: 7px;
+  background: var(--surface-2);
+}
+.row-head    { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; margin-bottom: 4px; }
+
+/* One annotation inside a term's card. A card with a single annotation draws no divider — the
+   card border already is one — so the rule only appears where there is genuinely a second block
+   to separate. */
+.row-member-split {
+  border-top: 1px solid var(--border);
+  padding-top: 6px;
+  margin-top: 6px;
+}
+.row-qualifiers { display: flex; gap: 3px; flex-wrap: wrap; margin-top: 4px; align-items: center; }
+.row-actions { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; align-items: center; }
+
+/* ── the per-annotation editor ──────────────────────────────────────────────── */
+/* Collapsed by default: adjudicating is the job and repairing is the exception, so the form must
+   not push the verdict buttons off the screen on every row that never needs it. */
+.ann-editor-wrap { margin-top: 6px; }
+.ann-editor {
+  border-left: 2px solid var(--border);
+  padding: 6px 0 2px 9px;
+  margin-top: 4px;
+}
+.ann-editor .field-label { margin-top: 6px; }
+.ann-editor .path-input  { flex: 1 1 140px; min-width: 0; }
+.seg-input { flex: 0 0 74px !important; }
+
+.primary-btn {
+  padding: 4px 11px;
+  font-size: 0.857rem;
+  cursor: pointer;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.primary-btn:hover { filter: brightness(1.08); }
+
+/* ── edit form ──────────────────────────────────────────────────────────────── */
+.edit-seg      { margin-bottom: 8px; }
+.edit-seg-body {
+  font-size: 0.893rem;
+  line-height: 1.5;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 6px 8px;
+  max-height: 130px;
+  overflow-y: auto;
+}
+.hpo-pick { font-size: 0.893rem; }
+
+/* ── patient list ───────────────────────────────────────────────────────────── */
+/* The filter box sits between the "Patients" label and the list, and reads as part of the list's
+   header rather than as another sidebar control — hence the tighter size and no top margin. */
+.pat-filter { font-size: 0.857rem; margin-bottom: 6px; }
+.pat-filter label { cursor: pointer; }
+.pat-filter-count { padding: 4px 6px; border-bottom: 1px solid var(--border); }
+.patient-list { max-height: 46vh; overflow-y: auto; border-top: 1px solid var(--border); }
+.pat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 6px;
+  cursor: pointer;
+  font-size: 0.857rem;
+  border-bottom: 1px solid var(--border);
+}
+.pat:hover      { background: var(--surface-3); }
+.pat-current    { background: var(--surface-3); font-weight: 700; }
+.pat-id         { font-variant-numeric: tabular-nums; }
+.pat-flags      { display: flex; gap: 3px; }
+
+/* ── document annotations (raw / marc2) ─────────────────────────────────────── */
+.gold-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 6px;
+}
+.gold-row {
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 5px 8px;
+  background: var(--surface-2);
+}
+
+/* Anything carrying a definition on hover says so, rather than leaving the reader to discover it
+   by accident. Dotted underline is the long-standing convention for exactly this. */
+.code-chip {
+  cursor: help;
+  border-bottom: 1px dotted currentColor;
+}
+
+/* These two used to be inline `fontSize` in `views/common.py`. An inline px value does not follow
+   `--fs`, so a curator raising the type size got a larger report and the same tiny chips. */
+.chip {
+  font-size: 0.786rem;
+  font-weight: 600;
+  white-space: nowrap;
+  display: inline-block;
+  border-radius: 3px;
+  padding: 1px 6px;
+  color: #fff;
+}
+.code-chip-text { font-size: 0.893rem; }
+
+/* An annotation whose file named words this report does not contain, or names a sentence the
+   trigger did not survive into. Both need anchoring by hand, and both used to read as ordinary
+   text — so the queue of work was invisible in the one panel that lists it. */
+.gold-line-unplaced {
+  background: color-mix(in srgb, var(--critical) 10%, transparent);
+  border-left: 2px solid var(--critical);
+  padding-left: 6px;
+  border-radius: 2px;
+}
+.gold-row-unplaced { border-color: var(--critical); }
+
+/* ── the anchor tab ─────────────────────────────────────────────────────────── */
+/* The right column on the Anchor tab. It reuses ``.curate-panel`` for its geometry — same 400px,
+   same independent scroll — because it is the same column, holding a different question. */
+.anchor-list { display: flex; flex-direction: column; gap: 8px; }
+
+/* A queue row is not a verdict row: nothing here is decided, so it takes the critical accent the
+   Document-annotations panel uses for the same annotations rather than a status colour. */
+.anchor-row {
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--critical);
+  border-radius: 4px;
+  padding: 8px;
+  background: var(--surface-2);
+}
+/* The editor is open on every row here, so its wrapper needs a rule of its own — collapsed, its
+   summary line supplied the separation. */
+.anchor-row .ann-editor-wrap { border-top: 1px solid var(--border); padding-top: 6px; }
+
+/* The cohort worklist: buttons rather than rows, because it is a place to jump from, not a table
+   to read. Wrapping keeps forty of them inside the 400px column. */
+.anchor-worklist { gap: 4px; }
+
+/* ── difficulty labels ──────────────────────────────────────────────────────── */
+.label-controls    { margin-top: 4px; }
+.label-group       { margin-bottom: 8px; }
+.label-group-title {
+  font-size: 0.786rem;
+  font-weight: 700;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  margin-bottom: 2px;
+}
+.label-check label {
+  display: block;
+  font-size: 0.857rem;
+  line-height: 1.5;
+  cursor: help;
+}
+.label-check input { margin-right: 5px; cursor: pointer; }
+
+/* ── the annotation qualifiers ──────────────────────────────────────────────── */
+/* Inline pills that wrap, not a stack. There is one picker on the suggestion form and one inside
+   every row's editor, in a 400px column — seven stacked lines per row pushed the next row's
+   verdict buttons off the screen. Wrapped, the same seven fit in three lines.
+
+   The checked state is carried by the pill itself, not only by the tick: at this size a 13px
+   checkbox in a wrapped row is genuinely hard to read at a glance, and "which of these did I
+   tick" is the question the control exists to answer. */
+.qualifier-controls { margin-bottom: 4px; }
+.qualifier-check {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+.qualifier-check label {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 0.786rem;
+  line-height: 1.35;
+  padding: 1px 6px 1px 4px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+  cursor: help;
+  white-space: nowrap;
+  user-select: none;
+}
+.qualifier-check label:hover { border-color: var(--accent); }
+.qualifier-check input {
+  margin: 0;
+  cursor: pointer;
+  /* The native box at this size is most of the pill's height; scaling it down keeps the pill the
+     thing being read and the box the thing being clicked. */
+  transform: scale(.85);
+}
+/* `:has` is baseline in every browser this is tunnelled to. Where it is not, the pills simply stay
+   unfilled and the checkbox is still the state — degraded, not broken. */
+.qualifier-check label:has(input:checked) {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, var(--surface));
+  font-weight: 600;
+}
+
+.row-labels { margin-top: 6px; border-top: 1px dashed var(--border); padding-top: 5px; }
+.row-label-summary { font-size: 0.821rem; }
+.row-label-summary > span { display: inline-flex; gap: 4px; flex-wrap: wrap; align-items: center; }
+
+.dist-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+.dist-row  { display: flex; align-items: center; gap: 5px; padding: 1px 0; }
+
+/* The report-label panel heads the right column and stays put across the mode switch, so it is
+   set apart from the mode-specific panel below it rather than reading as part of either. */
+.report-labels > details {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  box-shadow: var(--shadow);
+  padding: 8px 12px;
+  margin-bottom: 12px;
+}
+
+/* ── comments and deletion proposals ────────────────────────────────────────── */
+.comment-box {
+  width: 100%;
+  min-height: 64px;
+  resize: vertical;
+  font: inherit;
+  font-size: 0.893rem;
+  line-height: 1.5;
+  padding: 6px 8px;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+.comment-box:focus { outline: none; border-color: var(--accent); }
+.comment-text { font-size: 0.893rem; line-height: 1.5; white-space: pre-wrap; }
+
+/* A proposed deletion is somebody waiting on an answer, so it is the loudest thing on its row. */
+.delete-banner {
+  border-left: 3px solid var(--critical);
+  background: color-mix(in srgb, var(--critical) 8%, transparent);
+  border-radius: 3px;
+  padding: 5px 8px;
+  margin: 5px 0;
+}
+.banner-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--critical);
+}
+.banner-text { font-size: 0.893rem; line-height: 1.45; margin-top: 2px; }
+
+/* What Tab would put in the trigger field. Fixed to the viewport and parented on <body> because
+ * these panels re-render constantly and a hint inside one would be a node React did not create
+ * sitting in a tree React owns. Positioned by assets/trigger_complete.js. */
+.trigger-hint {
+  position: fixed;
+  z-index: 60;
+  display: none;
+  pointer-events: none;
+  font-size: 0.786rem;
+  line-height: 1.35;
+  padding: 3px 7px;
+  border-radius: 4px;
+  color: var(--text-secondary);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* The two exits, on the line under the completion. Quieter than what Tab would insert, because
+ * they are reference rather than the thing being decided. */
+.trigger-hint-keys {
+  display: block;
+  margin-top: 1px;
+  font-size: 0.714rem;
+  color: var(--text-muted);
+}

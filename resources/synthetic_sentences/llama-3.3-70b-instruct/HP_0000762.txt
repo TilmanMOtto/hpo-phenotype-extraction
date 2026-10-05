@@ -1,0 +1,37 @@
+* The patient's electromyography (EMG) results showed a significant reduction in nerve conduction velocity, suggestive of underlying nerve damage.
+* Nerve conduction studies (NCS) revealed slowed conduction velocities in the peripheral nerves, consistent with a demyelinating process.
+* Decreased nerve conduction velocity was noted in the upper extremities, with a mean velocity of 40 m/s, indicating possible axonal dysfunction.
+* The nerve conduction velocity was significantly delayed in the lower limbs, with a velocity of 30 m/s, raising suspicion for a conduction block.
+* Electrophysiological testing demonstrated reduced nerve conduction velocities in the facial nerve, consistent with a diagnosis of Guillain-Barré syndrome.
+* The patient's nerve conduction velocity was decreased in the median nerve, with a velocity of 45 m/s, indicating possible carpal tunnel syndrome.
+* Abnormal nerve conduction velocities were observed in the patient's motor nerves, with a mean velocity of 35 m/s, suggesting axonopathy.
+* The patient's nerve conduction velocity was slowed in the sensory nerves, with a velocity of 40 m/s, consistent with a diagnosis of diabetic neuropathy.
+* Nerve conduction studies showed decreased conduction velocities in the radial nerve, with a velocity of 30 m/s, indicating possible nerve compression.
+* The patient's EMG results showed delayed nerve conduction velocity in the peroneal nerve, with a velocity of 25 m/s, suggestive of nerve damage.
+* The nerve conduction velocity was reduced in the patient's ulnar nerve, with a velocity of 35 m/s, consistent with a diagnosis of cubital tunnel syndrome.
+* Electrophysiological testing revealed slowed nerve conduction velocities in the patient's lower extremities, with a mean velocity of 40 m/s, indicating possible peripheral neuropathy.
+* Decreased nerve conduction velocity was noted in the patient's cranial nerves, with a velocity of 30 m/s, raising suspicion for a central nervous system disorder.
+* The patient's nerve conduction velocity was decreased in the tibial nerve, with a velocity of 25 m/s, suggesting possible nerve compression.
+* Abnormal nerve conduction velocities were observed in the patient's upper extremities, with a mean velocity of 45 m/s, indicating possible nerve damage.
+* Nerve conduction studies showed reduced nerve conduction velocities in the patient's motor and sensory nerves, consistent with a diagnosis of peripheral neuropathy.
+* The patient's EMG results showed delayed nerve conduction velocity in the femoral nerve, with a velocity of 30 m/s, suggestive of nerve damage.
+* Decreased nerve conduction velocity was noted in the patient's ilioinguinal nerve, with a velocity of 20 m/s, indicating possible nerve compression.
+* The patient's nerve conduction velocity was slowed in the obturator nerve, with a velocity of 25 m/s, consistent with a diagnosis of meralgia paresthetica.
+* Electrophysiological testing revealed decreased nerve conduction velocities in the patient's lower extremities, with a mean velocity of 35 m/s, indicating possible axonopathy.
+* The patient's nerve conduction velocity was reduced in the superficial peroneal nerve, with a velocity of 30 m/s, suggesting possible nerve damage.
+* Abnormal nerve conduction velocities were observed in the patient's upper extremities, with a mean velocity of 40 m/s, consistent with a diagnosis of radial neuropathy.
+* The patient's nerve conduction velocity was decreased in the musculocutaneous nerve, with a velocity of 25 m/s, indicating possible nerve compression.
+* Nerve conduction studies showed delayed nerve conduction velocity in the patient's lower limbs, with a velocity of 20 m/s, raising suspicion for a conduction block.
+* Decreased nerve conduction velocity was noted in the patient's median nerve, with a velocity of 40 m/s, suggesting possible carpal tunnel syndrome.
+* The patient's EMG results showed reduced nerve conduction velocities in the patient's facial nerve, consistent with a diagnosis of Bell's palsy.
+* Electrophysiological testing revealed slowed nerve conduction velocities in the patient's upper extremities, with a mean velocity of 45 m/s, indicating possible peripheral neuropathy.
+* The patient's nerve conduction velocity was decreased in the patient's sciatic nerve, with a velocity of 30 m/s, indicating possible nerve damage.
+* Abnormal nerve conduction velocities were observed in the patient's lower extremities, with a mean velocity of 35 m/s, consistent with a diagnosis of peripheral neuropathy.
+* The patient's nerve conduction velocity was slowed in the patient's peroneal nerve, with a velocity of 25 m/s, suggesting possible nerve compression.
+* Nerve conduction studies showed decreased nerve conduction velocity in the patient's tibial nerve, with a velocity of 20 m/s, raising suspicion for a conduction block.
+* Decreased nerve conduction velocity was noted in the patient's ulnar nerve, with a velocity of 35 m/s, consistent with a diagnosis of cubital tunnel syndrome.
+* The patient's EMG results showed delayed nerve conduction velocity in the patient's radial nerve, with a velocity of 30 m/s, suggestive of nerve damage.
+* Electrophysiological testing revealed reduced nerve conduction velocities in the patient's motor nerves, with a mean velocity of 40 m/s, indicating possible axonopathy.
+* The patient's nerve conduction velocity was decreased in the patient's sensory nerves, with a velocity of 30 m/s, consistent with a diagnosis of peripheral neuropathy.
+* Abnormal nerve conduction velocities were observed in the patient's upper extremities, with a mean velocity of 45 m/s, suggesting possible nerve damage.
+* Nerve conduction studies showed slowed nerve conduction velocities in the patient's lower limbs, with a velocity of 35 m/s, indicating possible demyelination.

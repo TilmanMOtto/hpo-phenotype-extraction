@@ -1,0 +1,37 @@
+* The patient's immune workup revealed a notable decrease in the proportion of central memory CD4-positive T cells, which are typically CCR7 and CD127 positive.
+* Flow cytometry analysis demonstrated an abnormally low percentage of CD4+ central memory cells, defined by their CD45RA-negative and CD45RO-positive phenotype.
+* Notably, the proportion of central memory CD4-positive, alpha-beta T cells was reduced compared to the total T cell count in the peripheral blood.
+* Immunophenotyping showed a decreased proportion of CD4+ T cells with a central memory phenotype, characterized by the expression of CD62L and lack of CD45RA.
+* Further evaluation of the patient's T cell subsets revealed a diminished proportion of CD4-positive central memory cells, which are crucial for long-term immune memory.
+* The patient's immune profile was notable for a decreased proportion of CD4+ central memory T cells, which are typically CD25 negative and CD45RO positive.
+* Analysis of the patient's lymphocyte subsets demonstrated a reduced proportion of central memory CD4-positive T cells, which may indicate an impaired immune response.
+* A decreased proportion of CD4+ central memory cells was observed in the patient's blood work, which may be related to an underlying immunodeficiency.
+* The patient's flow cytometry results showed a lower than expected proportion of central memory CD4-positive, alpha-beta T cells, which are important for immune homeostasis.
+* The immune workup revealed a decreased proportion of CD4+ T cells with a central memory phenotype, defined by the co-expression of CD3, CD4, and CD62L.
+* Notably, the patient's central memory CD4-positive T cell proportion was decreased, which may affect their ability to mount an effective immune response.
+* Further testing demonstrated a reduced proportion of CD4-positive central memory cells, which are characterized by the expression of CD127 and CCR7.
+* The patient's lymphocyte profile was notable for a decreased proportion of central memory CD4+ T cells, which are typically found in secondary lymphoid organs.
+* A decreased proportion of CD4+ central memory cells was observed in the patient's peripheral blood, which may indicate an underlying immune disorder.
+* Immunophenotyping results showed a decreased proportion of CD4-positive central memory T cells, defined by their CD45RA-negative and CD45RO-positive phenotype.
+* The patient's immune evaluation revealed a decreased proportion of central memory CD4-positive, alpha-beta T cells, which are important for long-term immune function.
+* Flow cytometry analysis demonstrated a lower than expected proportion of CD4+ central memory cells, which may affect the patient's immune response to infections.
+* The patient's T cell subset analysis revealed a decreased proportion of central memory CD4-positive T cells, characterized by the expression of CD62L and CD45RO.
+* Notably, the patient's central memory CD4-positive T cell proportion was reduced, which may impact their ability to respond to vaccines.
+* The immune workup revealed a decreased proportion of CD4+ central memory cells, which are defined by the co-expression of CD3, CD4, and CD62L.
+* Further evaluation of the patient's immune profile demonstrated a decreased proportion of CD4-positive central memory T cells, which are important for immune homeostasis.
+* A decreased proportion of CD4+ central memory cells was observed in the patient's blood work, which may be related to an underlying condition affecting the immune system.
+* The patient's lymphocyte subset analysis demonstrated a reduced proportion of central memory CD4-positive T cells, characterized by the expression of CD127 and CCR7.
+* Immunophenotyping results showed a decreased proportion of CD4-positive central memory cells, defined by their CD45RA-negative and CD45RO-positive phenotype.
+* The patient's immune evaluation revealed a decreased proportion of central memory CD4-positive, alpha-beta T cells, which are crucial for long-term immune memory.
+* Flow cytometry analysis demonstrated a lower than expected proportion of CD4+ central memory cells, which may indicate an impaired immune response.
+* The patient's T cell subset analysis revealed a decreased proportion of central memory CD4-positive T cells, defined by the co-expression of CD3, CD4, and CD62L.
+* Notably, the patient's central memory CD4-positive T cell proportion was decreased, which may affect their ability to respond to infections.
+* The immune workup revealed a decreased proportion of CD4+ central memory cells, which are typically CD25 negative and CD45RO positive.
+* Further testing demonstrated a reduced proportion of CD4-positive central memory cells, characterized by the expression of CD62L and CD45RO.
+* The patient's lymphocyte profile was notable for a decreased proportion of central memory CD4+ T cells, which are important for immune homeostasis.
+* A decreased proportion of CD4+ central memory cells was observed in the patient's peripheral blood, which may be related to an underlying immunodeficiency.
+* Immunophenotyping results showed a decreased proportion of CD4-positive central memory T cells, defined by their CD45RA-negative and CD45RO-positive phenotype.
+* The patient's immune evaluation revealed a decreased proportion of central memory CD4-positive, alpha-beta T cells, which are crucial for long-term immune function.
+* Flow cytometry analysis demonstrated a lower than expected proportion of CD4+ central memory cells, which may impact the patient's ability to respond to vaccines.
+* The patient's T cell subset analysis revealed a decreased proportion of central memory CD4-positive T cells, characterized by the expression of CD127 and CCR7.
+* Notably, the patient's central memory CD4-positive T cell proportion was reduced, which may affect their immune response to infections.

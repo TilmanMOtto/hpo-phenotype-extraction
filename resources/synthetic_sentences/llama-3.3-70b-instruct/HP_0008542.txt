@@ -1,0 +1,34 @@
+* The patient's audiogram revealed a significant drop in hearing sensitivity at frequencies below 1000 Hz, consistent with low-frequency hearing loss.
+* On otoscopy, the patient's tympanic membranes appeared normal, but pure tone testing showed a noticeable decline in low-frequency sound perception.
+* A hearing assessment revealed impaired hearing in the low-frequency range, with thresholds elevated at 125 Hz and 250 Hz.
+* The patient complained of difficulty hearing low-pitched sounds, such as deep voices or the sound of a cello, suggestive of low-frequency hearing loss.
+* Low-frequency sound perception was significantly impaired, with the patient unable to detect sounds below 500 Hz at a comfortable listening level.
+* Pure tone audiometry confirmed low-frequency hearing loss, with a significant decrease in hearing sensitivity at 500 Hz and 750 Hz.
+* The patient's hearing loss was characterized by a prominent low-frequency component, with a stoiacoustic reflex absent at 1000 Hz.
+* A comprehensive audiological evaluation revealed a type of hearing impairment primarily affecting the low frequencies, ranging from 125 Hz to 1000 Hz.
+* The patient's ability to detect low-frequency sounds was severely impaired, with a threshold shift of 40 dB or more at 250 Hz and 500 Hz.
+* Low-frequency hearing loss was diagnosed based on the patient's audiometric results, which showed a significant decline in hearing sensitivity at frequencies below 1000 Hz.
+* The patient reported difficulty hearing in noisy environments, particularly when trying to discern low-pitched sounds, consistent with low-frequency hearing loss.
+* The patient's hearing thresholds were elevated at low frequencies, with a significant increase in the threshold for 125 Hz and 250 Hz sounds.
+* The audiologist noted a significant drop in the patient's hearing sensitivity at low frequencies, with a corresponding decrease in speech recognition scores.
+* Low-frequency hearing impairment was identified through a combination of pure tone and speech audiometry, with results indicating a significant decline in low-frequency sound perception.
+* The patient's low-frequency hearing loss was characterized by a gradual decline in hearing sensitivity, with the most significant impairment observed at 500 Hz.
+* The patient's tympanogram was normal, but acoustic reflex testing revealed abnormal reflex thresholds at low frequencies, consistent with low-frequency hearing loss.
+* A hearing conservation evaluation revealed significant low-frequency hearing loss, with the patient's hearing thresholds exceeding 25 dB HL at 250 Hz and 500 Hz.
+* The patient reported difficulty hearing low-frequency sounds, such as the sound of a bass guitar or the rumble of thunder, suggestive of low-frequency hearing loss.
+* Low-frequency sound perception was impaired, with the patient unable to detect sounds below 750 Hz at a soft listening level.
+* The patient's hearing loss was characterized by a prominent low-frequency component, with a significant decline in hearing sensitivity at 1000 Hz.
+* Pure tone audiometry revealed low-frequency hearing loss, with the patient's hearing thresholds exceeding 30 dB HL at 125 Hz and 250 Hz.
+* The patient's ability to detect low-frequency sounds was severely impaired, with a threshold shift of 50 dB or more at 500 Hz.
+* The patient's low-frequency hearing loss was diagnosed based on the results of a comprehensive audiological evaluation, including pure tone and speech audiometry.
+* The patient reported difficulty hearing in situations where low-frequency sounds were predominant, such as in a noisy restaurant or at a music concert.
+* Low-frequency hearing impairment was identified through a combination of audiometric and otoscopic evaluations, with results indicating a significant decline in low-frequency sound perception.
+* The patient's hearing thresholds were elevated at low frequencies, with a significant increase in the threshold for 500 Hz and 750 Hz sounds.
+* The audiologist noted a significant drop in the patient's hearing sensitivity at low frequencies, with a corresponding decrease in speech recognition scores in noisy environments.
+* The patient's low-frequency hearing loss was characterized by a gradual decline in hearing sensitivity, with the most significant impairment observed at 250 Hz.
+* The patient's tympanogram was normal, but acoustic reflex testing revealed abnormal reflex thresholds at low frequencies, consistent with low-frequency hearing loss.
+* A hearing conservation evaluation revealed significant low-frequency hearing loss, with the patient's hearing thresholds exceeding 40 dB HL at 125 Hz and 250 Hz.
+* The patient reported difficulty hearing low-frequency sounds, such as the sound of a tuba or the rumble of a diesel engine, suggestive of low-frequency hearing loss.
+* Low-frequency sound perception was impaired, with the patient unable to detect sounds below 1000 Hz at a comfortable listening level.
+* The patient's hearing loss was characterized by a prominent low-frequency component, with a significant decline in hearing sensitivity at 500 Hz and 750 Hz.
+* Pure tone audiometry confirmed low-frequency hearing loss, with the patient's hearing thresholds exceeding 35 dB HL at 250 Hz and 500 Hz.

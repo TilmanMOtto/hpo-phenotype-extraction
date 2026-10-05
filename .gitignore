@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Environments and editors
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+*.iml
+.claude/
+
+# Results, data and logs. HCY data and every per-report output stay on LeoMed.
+/output/
+/outputs/
+/results/
+/data/
+/logs/
+mlruns/
+.hydra/
+*.log
+
+# Model files and large build products
+*.pkl
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.npz
+*.jsonl
+resources/PhenoBERT_data/
+third_party/RAG-HPO/hpo_meta*.json
+third_party/RAG-HPO/hpo_embedded*.npz
+third_party/RAG-HPO/hpo_terms_full.csv
+third_party/RAG-HPO/hp.json*
+# PhenoBERT's model weights and embeddings (third_party/README.md), not its code
+third_party/PhenoBERT/phenobert/models/*
+!third_party/PhenoBERT/phenobert/models/.gitkeep
+third_party/PhenoBERT/phenobert/embeddings/*
+!third_party/PhenoBERT/phenobert/embeddings/.gitkeep
+resources/synthetic_sentences/**/.cache/
+
+# Generated thesis floats (written into the thesis source, not into this repository)
+thesis_figures/
+thesis_figures_latex/
+
+# OS
+.DS_Store
+Thumbs.db
+._*
+*:Zone.Identifier
+
+# Example outputs produced from synthetic sentences
+!examples/*.jsonl
+thesis_figures/
+thesis_figures_latex/
+/thesis/
+tools/redactions_private.py

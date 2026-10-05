@@ -1,0 +1,38 @@
+* Here are 40 unique sentences that describe the HPO label "Alpha-EEG" as they would appear in a clinical narrative or interpretive report:
+* The electroencephalogram (EEG) showed a predominance of alpha-wave activity, with frequencies ranging from 8-13Hz.
+* Diffuse alpha-waves were noted throughout the EEG tracing, with no evidence of focal abnormalities.
+* The patient's EEG was characterized by a dominant alpha-rhythm, suggestive of a normal awake background.
+* Alpha-wave activity was observed in all regions of the brain, with no significant asymmetry or lateralization.
+* The EEG demonstrated a high-amplitude alpha-pattern, consistent with a relaxed, awake state.
+* Background activity on the EEG was dominated by alpha-frequencies, with no epileptiform discharges noted.
+* The alpha-rhythm was well-developed and symmetric, with a frequency of approximately 10Hz.
+* No abnormal EEG findings were observed, with alpha-waves present throughout the recording.
+* The patient's EEG showed a normal alpha-background, with no evidence of encephalopathy or other acute processes.
+* Alpha-wave activity was prominent in both hemispheres, with no significant interhemispheric asymmetry.
+* The EEG tracing was notable for a diffuse alpha-pattern, with no focal or lateralized abnormalities.
+* The alpha-rhythm was of moderate amplitude and symmetric, with a frequency range of 9-12Hz.
+* No significant EEG abnormalities were detected, with alpha-waves present in all regions of the brain.
+* The patient's EEG demonstrated a normal alpha-rhythm, consistent with a healthy, awake individual.
+* Alpha-wave activity was observed in all areas of the brain, with no evidence of regional asymmetry.
+* The EEG showed a high-amplitude, symmetric alpha-pattern, suggestive of a normal brain function.
+* Background alpha-activity was noted in all channels, with no epileptiform activity or other abnormalities.
+* The alpha-rhythm was well-developed and symmetric, with a frequency of approximately 11Hz.
+* The patient's EEG was characterized by a dominant alpha-pattern, with no evidence of acute or chronic pathology.
+* Alpha-waves were present throughout the EEG tracing, with no significant abnormalities or asymmetries.
+* The EEG demonstrated a normal alpha-background, with no evidence of encephalopathy or other toxic-metabolic encephalopathies.
+* No significant EEG findings were observed, with alpha-wave activity present in all regions of the brain.
+* The alpha-rhythm was of moderate amplitude and symmetric, with a frequency range of 8-13Hz.
+* The patient's EEG showed a normal alpha-rhythm, consistent with a relaxed, awake state.
+* Alpha-wave activity was prominent in both hemispheres, with no significant interhemispheric differences.
+* The EEG tracing was notable for a diffuse alpha-pattern, with no focal or lateralized abnormalities.
+* The alpha-rhythm was well-developed and symmetric, with a frequency of approximately 12Hz.
+* No abnormal EEG findings were detected, with alpha-waves present throughout the recording.
+* The patient's EEG demonstrated a normal alpha-background, with no evidence of acute or chronic processes.
+* Alpha-wave activity was observed in all areas of the brain, with no evidence of regional asymmetry or abnormality.
+* The EEG showed a high-amplitude, symmetric alpha-pattern, suggestive of normal brain function.
+* Background alpha-activity was noted in all channels, with no significant abnormalities or epileptiform discharges.
+* The alpha-rhythm was of moderate amplitude and symmetric, with a frequency range of 9-12Hz.
+* The patient's EEG was characterized by a dominant alpha-pattern, with no evidence of pathology or abnormality.
+* Alpha-waves were present throughout the EEG tracing, with no significant abnormalities or asymmetries noted.
+* The EEG demonstrated a normal alpha-background, with no evidence of encephalopathy or other toxic-metabolic encephalopathies.
+* No significant EEG findings were observed, with alpha-wave activity present in all regions of the brain, consistent with a normal awake state.

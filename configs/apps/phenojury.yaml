@@ -1,0 +1,35 @@
+# PhenoJury application (hpo-phenojury, hpo_extraction.phenojury.PhenoJury).
+# Settings default to the configuration the full pool of eight jurors selected most often on the
+# HCY cohort. Model folders come from the path file.
+#
+#   hpo-phenojury --config configs/apps/phenojury.yaml --input reports/ --output terms.jsonl
+
+hpo_json: resources/util/hpo.json
+stanza_dir: ${paths:stanza_dir}   # null uses the rule-based sentence splitter
+
+juror_dirs:
+  apertus: ${paths:models.jurors.apertus}
+  deepseek: ${paths:models.jurors.deepseek}
+  intelligent_internet: ${paths:models.jurors.intelligent_internet}
+  openbiollm: ${paths:models.jurors.openbiollm}
+  llama: ${paths:models.jurors.llama}
+  medpsy: ${paths:models.jurors.medpsy}
+  medgemma: ${paths:models.jurors.medgemma}
+  phi4: ${paths:models.jurors.phi4}
+
+normaliser:
+  name: phenobert_candidates     # or: dictionary (no model needed, lower recall)
+  phenobert_dir: ${paths:phenobert.dir}
+  phenobert_python: ${paths:phenobert.python}
+  stanza_dir: ${paths:stanza_dir_phenobert}
+  work_dir: null                 # scratch folder for PhenoBERT input and output
+
+settings:
+  prompt: q2_sentence_last       # HPO-Guided
+  jurors: [apertus, deepseek, intelligent_internet, openbiollm, llama, medpsy, medgemma, phi4]
+  rule: exact
+  unit: segment
+  k: 3
+  max_new_tokens: 512
+  max_new_tokens_overrides: {deepseek: 1536, intelligent_internet: 1536, medpsy: 1536}
+  batch_size: 8

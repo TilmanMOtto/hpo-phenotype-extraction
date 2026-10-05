@@ -1,0 +1,35 @@
+* The patient's ECG revealed a 2:1 atrioventricular block, characterized by the absence of conduction for every other P wave.
+* A 2:1 AV block was diagnosed, indicating a second-degree block where only half of the P waves are followed by a QRS complex.
+* Every other P wave failed to conduct through the AV node, resulting in a 2:1 atrioventricular block pattern on the electrocardiogram.
+* The ECG tracing demonstrated a consistent 2:1 ratio of P waves to QRS complexes, suggestive of a Mobitz type II block.
+* A second-degree atrioventricular block with a 2:1 conduction ratio was observed, where each pair of P waves was associated with only one QRS complex.
+* The presence of a 2:1 AV block was noted on the patient's cardiac monitor, with alternating P waves being non-conducted.
+* On cardiac examination, a 2:1 atrioventricular block was identified, where every other atrial impulse was blocked at the AV node.
+* There was evidence of a 2:1 block in the AV node, leading to a reduction in ventricular rate due to non-conducted P waves.
+* A pattern of 2:1 atrioventricular block was evident on the patient's Holter monitor, with QRS complexes occurring after every other P wave.
+* The electrocardiogram showed a second-degree AV block with 2:1 conduction, resulting in a lower than expected ventricular response.
+* Every other P wave was not followed by a QRS complex due to a 2:1 atrioventricular block, suggesting impaired AV nodal conduction.
+* The patient's cardiac rhythm was characterized by a 2:1 AV block, with half of the P waves failing to conduct to the ventricles.
+* On ECG analysis, a 2:1 atrioventricular block pattern emerged, indicating a potential risk for progression to complete heart block.
+* Alternating P waves were not conducted through the AV node, consistent with a diagnosis of 2:1 atrioventricular block.
+* A 2:1 conduction ratio was observed across the AV node, resulting in a ventricular rate that was half of the atrial rate.
+* Each pair of P waves was associated with only one corresponding QRS complex, diagnostic of a 2:1 atrioventricular block.
+* The cardiac monitor revealed a 2:1 AV block, where every other P wave was blocked at the level of the AV node.
+* Second-degree atrioventricular block with a 2:1 conduction pattern was diagnosed, indicating partial blockage of atrial impulses.
+* A 2:1 atrioventricular block was present, characterized by the failure of every other P wave to initiate a QRS complex.
+* Every other atrial impulse was not conducted to the ventricles, resulting in a 2:1 atrioventricular block pattern on the ECG.
+* The electrocardiogram demonstrated a second-degree AV block with a consistent 2:1 ratio, indicating impaired conduction through the AV node.
+* A pattern of alternating conducted and non-conducted P waves was observed, consistent with a 2:1 atrioventricular block.
+* There was a 2:1 relationship between P waves and QRS complexes, suggestive of a second-degree AV block with partial conduction.
+* The patient's Holter monitor revealed evidence of 2:1 atrioventricular block, with half of the P waves being non-conducted.
+* A diagnosis of 2:1 atrioventricular block was made based on the ECG finding of alternating conducted and non-conducted P waves.
+* The presence of a 2:1 AV block indicated a risk for potential progression to higher degrees of AV block or other conduction disturbances.
+* On cardiac evaluation, a 2:1 atrioventricular block was identified, where every other P wave was not associated with a QRS complex.
+* The ECG showed a 2:1 conduction pattern across the AV node, consistent with a second-degree atrioventricular block.
+* Every other P wave failed to initiate ventricular depolarization due to a 2:1 atrioventricular block, as seen on the ECG tracing.
+* The cardiac rhythm strip demonstrated a 2:1 AV block, where each pair of P waves was followed by only one QRS complex.
+* A 2:1 atrioventricular block was characterized by the absence of conduction for every other P wave, resulting in a reduced ventricular rate.
+* Alternating non-conducted P waves were observed in the patient with a 2:1 atrioventricular block, indicating partial AV nodal blockage.
+* A second-degree AV block with 2:1 conduction was diagnosed, where the ventricular rate was half the atrial rate due to non-conducted P waves.
+* The electrocardiogram revealed evidence of 2:1 atrioventricular block, with a consistent pattern of alternating conducted and non-conducted P waves.
+* A 2:1 atrioventricular block was present on the patient's ECG, indicating impaired conduction through the AV node and resulting in a lower ventricular rate.

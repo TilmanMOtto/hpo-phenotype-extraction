@@ -1,0 +1,91 @@
+# Stored verifier scores, term-information index (thesis appendix B.2). This
+# index is the one selected for TreePhenoRAG.
+#
+# Command:  INDEX=term_information sbatch slurm/treephenorag_score_store.sbatch   (40 shards; DATASET=gsc: 38)
+# Models: verifier Llama-3.1-8B-Instruct, 8-bit (load_in_4bit: false). Encoder all-mpnet-base-v2.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Thresholds: tau_prune_sweep [0.00015] makes the traversal reach every term; S = top_n = 10.
+# Reads the HCY reports, writes <output>/treephenorag_scores_terminfo/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc. HCY only (2026-09-13 decision). No GSC+ script ships for this experiment.
+dataset: hcy
+# hcy paths:
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms_all.csv
+# gsc path:
+gsc_dir: resources/data/GSC_2024
+
+# [Required paths]
+llama_dir_base: ${paths:models.llama_3_1_8b_instruct}
+llama_dir_ft:
+sent_transformer_dir: ${paths:models.all_mpnet_base_v2}
+context_dir:                   # unused at retrieval_index=ontology_r3, see the header
+stanza_dir: ${paths:stanza_dir}
+output_dir: ${paths:output_dir}
+
+# ── The expansion rule ───────────────────────────────────────────────────────
+# Unchanged from the synthetic-sentence score store: max(noisy_or, LRGate.p_expand), the maximum over the two rule FAMILIES
+# The chapter reports, which is what makes the cached node set a superset of every re-run's.
+# See configs/experiments/04_treephenorag/score_store_synthetic.yaml for the containment argument in full.
+gate_json_path:                # null = resources/util/minimal_gate.json
+gate_calibrated: true
+
+# ── Traversal ────────────────────────────────────────────────────────────────
+retrieval_ctx: union_only      # as the synthetic-sentence score store
+
+# [Retrieval index], THE ATOMIC CHANGE. The retrieval-curve analysis's R3: one vector per term from
+# "label definition synonyms" as a single string (hpo_extraction.retrieval.term_information_index.r3_text), max-pooled over the
+# descendant closure by the unchanged union reduction, i.e. that experiment's R3u condition.
+#
+# Do not confuse this with the synthetic-sentence condition's fallback for terms that have no .txt. That fallback
+# reads the same ontology fields but embeds them as a LIST of strings, so a term gets several
+# vectors and the max pools over them. R3 is one string, one vector, by design.
+retrieval_index: ontology_r3
+
+top_n: 10                      # S_max, as the synthetic-sentence score store, the prefix is what the TreePhenoRAG protocol re-runs
+
+# [Configuration], ONE point, the cache floor, identical to the synthetic-sentence score store so the two caches are
+# directly comparable node for node. Note that the threshold acts on SLM margins, not on retrieval
+# similarity, so changing the index does not move the containment argument.
+tau_prune_sweep: [0.00015]
+tau_accept_sweep: [0.5]
+
+# ── Instrumentation ──────────────────────────────────────────────────────────
+# Per-call wall-clock and token counts, as the synthetic-sentence score store. Here they also measure the thing the index
+# swap is expected to move most: the synthetic-sentence score store's pilot spent only 46 % of a report's wall time inside
+# The SLM, the rest being UnionScorer over 667 153 synthetic-sentence sentences plus prompt construction.
+# R3 has 18 354 context vectors instead, so the non-SLM half should largely disappear, and this
+# run is the measurement of that, not an assumption about it.
+record_timing: true
+
+# [Performance]
+batch_calls: true
+load_in_4bit: false
+
+# [Report sharding], SLURM array (n_report_shards>1 splits reports round-robin).
+# --array=0-(N_SHARDS-1) and export N_SHARDS= in the cluster script MUST agree.
+# [Cohort], the curated ground truth's own report list (first CSV column), so the run and the scorer
+# cannot disagree about what the cohort is. Applied before max_patients and before sharding.
+report_ids_path:
+
+report_shard: 0
+n_report_shards: 1
+
+# [Pilot], restrict_to_subtree runs one layer-1 subtree. Max_patients caps the report count.
+restrict_to_subtree:
+max_patients:
+max_nodes:
+
+# [Model / resume], flushed after every report. A wall-clock kill costs the report in flight.
+resume: true
+max_runtime_s:
+
+mlflow_experiment_name: exp13_treephenorag

@@ -1,0 +1,37 @@
+* The patient's light-adapted electroretinogram (ERG) showed no discernible response, suggesting a significant cone system dysfunction.
+* Electrophysiological testing revealed an undetectable light-adapted ERG, indicative of impaired cone photoreceptor function.
+* On electroretinography, the light-adapted response was absent, pointing towards a defect in the cone system.
+* The cone-mediated single-flash response was not detectable on ERG, consistent with a diagnosis of cone dysfunction.
+* Photopic ERG responses were non-detectable, implying a profound abnormality in cone photoreceptor or bipolar cell function.
+* Light-adapted ERG testing yielded no measurable response, suggesting severe cone system impairment.
+* Cone system function, as assessed by light-adapted ERG, was found to be severely deficient.
+* The patient exhibited an absent photopic response on ERG, consistent with a disorder affecting the cone system.
+* No response was elicited on light-adapted ERG, implying a possible cone photoreceptor or bipolar cell defect.
+* Electrophysiological evaluation disclosed an undetectable cone-mediated response, indicating significant visual pathway dysfunction.
+* Light-adapted ERG failed to demonstrate a detectable response, suggestive of cone system pathology.
+* Non-detectable photopic ERG responses were observed, indicating a likely defect in cone photoreceptor or Off-cone bipolar cell function.
+* The light-adapted ERG tracing showed no discernible a-wave or b-wave, consistent with profound cone system dysfunction.
+* On cone-mediated ERG testing, no response was detectable, implying severe impairment of the cone system.
+* The patient's electroretinogram, under light-adapted conditions, showed no response, indicative of cone photoreceptor or bipolar cell dysfunction.
+* Photopic (cone) responses were absent on ERG, suggesting a disorder affecting the cone system.
+* The single-flash cone response was undetectable on ERG, consistent with a defect in cone photoreceptor function.
+* Light-adapted electroretinography revealed an absent response, pointing towards a significant abnormality in cone system function.
+* The cone system, as evaluated by light-adapted ERG, exhibited no detectable response, implying severe dysfunction.
+* No cone-mediated response was elicited on ERG, suggesting a possible defect in cone photoreceptor or On-cone bipolar cell function.
+* The patient's light-adapted ERG was non-detectable, consistent with a diagnosis of cone system impairment.
+* Electroretinographic testing, under light-adapted conditions, disclosed an undetectable response, indicative of cone system pathology.
+* The photopic ERG response was absent, implying a disorder affecting the cone system.
+* On light-adapted ERG testing, no a-wave or b-wave was detectable, suggestive of severe cone system dysfunction.
+* Cone system function, as assessed by electroretinography, was found to be severely impaired, with no detectable light-adapted response.
+* The patient exhibited an undetectable cone-mediated response on ERG, consistent with a defect in cone photoreceptor or bipolar cell function.
+* Light-adapted ERG testing revealed no measurable response, implying significant cone system impairment.
+* The patient's electroretinogram, under photopic conditions, showed no response, indicative of cone system dysfunction.
+* Non-detectable cone-mediated ERG responses were observed, suggesting a possible defect in cone photoreceptor or Off-cone bipolar cell function.
+* The light-adapted ERG tracing was flat, with no discernible response, consistent with profound cone system dysfunction.
+* On photopic ERG testing, no response was detectable, implying severe impairment of the cone system.
+* The patient's cone system, as evaluated by electroretinography, exhibited no detectable response, suggesting significant visual pathway dysfunction.
+* The single-flash cone response was non-detectable on ERG, consistent with a disorder affecting the cone system.
+* Electroretinographic evaluation, under light-adapted conditions, disclosed an undetectable response, indicative of cone system pathology.
+* The patient exhibited an absent light-adapted ERG response, implying a defect in cone photoreceptor or bipolar cell function.
+* No cone-mediated response was detectable on ERG, suggesting a possible disorder affecting the cone system.
+* The patient's light-adapted ERG was absent, consistent with a diagnosis of cone system impairment.

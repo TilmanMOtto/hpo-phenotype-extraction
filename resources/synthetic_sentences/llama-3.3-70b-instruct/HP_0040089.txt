@@ -1,0 +1,37 @@
+* The patient's peripheral blood workup revealed an abnormal count of circulating natural killer cells, suggesting an immune system dysregulation.
+* Laboratory results indicated a deviation from the normal range for natural killer cell subtypes, particularly in the CD56bright CD16- subset.
+* Flow cytometry analysis demonstrated an unexpected distribution of NK cell subpopulations, with an overrepresentation of the CD56dim CD16- subtype.
+* The patient was found to have an abnormally low overall count of natural killer cells, which may contribute to their increased susceptibility to infections.
+* Immunophenotyping revealed an abnormality in the CD56bright CD16dim NK cell subset, accounting for approximately 40% of the total CD56bright population.
+* The absolute count of natural killer cells was elevated, potentially indicating a chronic inflammatory or immune-mediated condition.
+* Further evaluation of the patient's immune system revealed an imbalance in the distribution of NK cell subtypes, with a relative deficiency of the CD56bright CD16- subset.
+* Analysis of the patient's peripheral blood mononuclear cells showed an aberrant expression of CD16 and CD56 markers on natural killer cells.
+* An abnormal natural killer cell count was detected, characterized by a reduced percentage of CD56dim CD16bright cells.
+* The patient's natural killer cell profile was notable for an increased proportion of CD56- CD16bright cells, which are typically a minor subset in healthy individuals.
+* The flow cytometry report highlighted an abnormal distribution of NK cell subpopulations, with a marked expansion of the CD56dim CD16- subset.
+* Investigation into the patient's immune function revealed an abnormality in the number and distribution of natural killer cells, which may impact their ability to mount an effective immune response.
+* The laboratory results showed an aberrant count of natural killer cells, with a particular decrease in the CD56bright CD16dim subset.
+* A comprehensive immunological workup revealed an abnormality in the circulating natural killer cell count, which may be related to the patient's clinical presentation.
+* The patient's immune system evaluation revealed a distortion in the normal distribution of NK cell subtypes, with an overrepresentation of the CD56dim CD16bright subset.
+* An abnormal natural killer cell count was identified, characterized by an elevated absolute count and an altered distribution of NK cell subtypes.
+* The patient's peripheral blood analysis revealed an unexpected finding of an abnormal natural killer cell count, prompting further investigation into their immune system.
+* The immunological profile revealed an abnormal number of natural killer cells, which may contribute to the patient's susceptibility to certain infections or diseases.
+* Flow cytometry analysis of the patient's peripheral blood demonstrated an abnormal distribution of natural killer cell subtypes, with a relative deficiency of the CD56bright CD16- subset.
+* The patient's natural killer cell count was abnormal, with a marked increase in the proportion of CD56- CD16bright cells.
+* Investigation into the patient's immune system revealed an abnormality in the count and distribution of natural killer cells, which may impact their clinical outcome.
+* The laboratory results showed an abnormal natural killer cell count, characterized by a reduced absolute count and an altered distribution of NK cell subtypes.
+* A comprehensive evaluation of the patient's immune system revealed an abnormality in the circulating natural killer cell count, which may be related to their underlying condition.
+* The patient's immune function was notable for an abnormal natural killer cell count, with a particular decrease in the CD56dim CD16bright subset.
+* The flow cytometry report revealed an abnormal distribution of NK cell subpopulations, with a marked expansion of the CD56bright CD16dim subset.
+* The patient's peripheral blood workup revealed an abnormality in the count and distribution of natural killer cells, which may contribute to their clinical presentation.
+* An abnormal natural killer cell count was detected, characterized by an elevated proportion of CD56dim CD16- cells.
+* The immunological profile revealed an abnormal number of natural killer cells, which may impact the patient's ability to respond to certain infections or diseases.
+* The patient's natural killer cell count was notable for an abnormal distribution of NK cell subtypes, with a relative deficiency of the CD56bright CD16dim subset.
+* Investigation into the patient's immune system revealed an abnormality in the count and distribution of natural killer cells, which may be related to their clinical outcome.
+* The laboratory results showed an abnormal natural killer cell count, characterized by an elevated absolute count and an altered distribution of NK cell subtypes.
+* A comprehensive evaluation of the patient's immune system revealed an abnormality in the circulating natural killer cell count, which may contribute to their susceptibility to certain infections or diseases.
+* The patient's immune function was notable for an abnormal natural killer cell count, with a particular increase in the CD56- CD16bright subset.
+* The flow cytometry analysis revealed an abnormal distribution of NK cell subpopulations, with a marked expansion of the CD56dim CD16bright subset.
+* The patient's peripheral blood analysis revealed an unexpected finding of an abnormal natural killer cell count, prompting further investigation into their immune system.
+* An abnormal natural killer cell count was identified, characterized by a reduced proportion of CD56bright CD16- cells.
+* The immunological workup revealed an abnormality in the number and distribution of natural killer cells, which may impact the patient's clinical presentation.

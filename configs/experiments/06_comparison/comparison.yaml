@@ -1,0 +1,437 @@
+# Cross-system comparison (thesis chapter 6, appendix D). CPU only.
+#
+# Command:  sbatch slurm/comparison_inputs.sbatch, then sbatch slurm/comparison.sbatch
+# No model: reads every method's stored predictions.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: 0 for the report bootstrap (10 000 resamples).
+# Writes <output>/comparison/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+output_dir: ${paths:output_dir}
+
+# [Inputs]
+# The directory holding the earlier runs/exp14 run directories, the same `output_dir` those wrote into.
+results_dir: ${paths:results_dir}
+
+# [Cohorts] `hcy` is the curated ground truth; `gsc_raghpo_ann` is RAG-HPO's 114 documents under RAG-HPO's
+# own re-annotation. That is the ONLY GSC+ view the published Table 5 may be read against, which is
+# why it is the one here rather than `gsc` or `gsc_raghpo`.
+#
+# `gsc_2024_eval_206` is the third GSC+ view and it exists for ONE published row: AutoPCR is
+# evaluated on 206 of the 228 abstracts (22 are development, following PhenoTagger's split), so
+# their document-level F1 is not readable against a number computed over all 228. Corpus ground truth,
+# 206 documents, from `resources/data/GSC_2024/eval_206_ids.txt`, see that directory's
+# PROVENANCE.md. It is a NARROWER frame than the full corpus and not a different ground truth standard.
+cohorts: [hcy, gsc_raghpo_ann, gsc_2024_eval_206]
+
+# The curated HCY ground truth, two-column patient_id,hpo_codes. NOT hcy_ground_truth_raw.csv: the ground-truth build
+# measured that one at 87 % omission. Fix the DATED directory, a same-day rebuild overwrites in
+# place, so the date alone does not identify the contents. Manifest.json records what was used.
+hcy_curated_gt_path: ${paths:hcy.curated_ground_truth}
+
+# The annotation sidecar beside it. Carries the q_* qualifier columns, which exist nowhere else,# leave it empty and table 3 is skipped with a note rather than approximated.
+hcy_annotations_path:
+
+# [T6.3] the TreePhenoRAG protocol's per-pair recall attribution, one row per missed annotated pair, naming the stage
+# that lost it. Written by its `diagnostics` stage as `recall_attribution.csv`.
+#
+#   tree_attribution_path=$OUT/treephenorag_protocol/tables/recall_attribution.csv
+#
+# The bucket TOTALS in recall_decomposition.csv are not a substitute: attributing recovery needs to
+# know which pairs were lost, and inferring it from totals would assume the two architectures'
+# misses are independent, which is what T6.3 measures. Leave null to skip the table with a
+# stated reason rather than an approximation.
+tree_attribution_path:
+
+# GSC+ corpus and the RAG-HPO subset resource. Both are tracked in the repo.
+gsc_dir: resources/data/GSC_2024
+raghpo_dir: resources/data/GSC_RAGHPO
+
+# The fixed ontology. Empty uses HPOTree's own default, which is the same file.
+hpo_json_path: resources/util/hpo.json
+
+# [Where the protocol rows' predictions are]
+#
+# {method_key: {cohort: path}}, with {results_dir} and {cohort} substituted. Only the two
+# nested-CV methods need it, and it is explicit rather than derived for one concrete reason: a
+# protocol driver names its output directory after **the cohort it was run on**, which is not
+# always the cohort this table reports.
+#
+# Both PhenoJury conditions come from `slurm/comparison_inputs.sbatch`, which re-runs the PhenoJury protocol with
+# The reader fixed to phenobert_candidates and, on GSC+, with the ground truth and folds rebuilt on
+# RAG-HPO's 114 documents. Two reasons the committed the PhenoJury protocol runs cannot be read directly:
+#   * its GSC+ condition is over the FULL 228-document corpus ground truth, and restricting those predictions
+#     afterwards would leave every fold's configuration chosen with the other 114 in its training
+#     split, an out-of-fold estimate for a cohort the procedure never ran on;
+#   * left to choose, its grid picks `phenobert_candidates` on HCY and `sapbert` on the 114-document
+#     GSC+ cohort, so an unpinned reader would make that row a different system from chapter 5's.
+# Everything lands under `comparison_inputs/` so it can never be confused with the committed runs.
+#
+# An empty string means "declared, and not available on this cohort", reported
+# differently from a missing file, because they are different facts.
+protocol_predictions:
+  # The full pool with the prompt selected inside each outer training split, as in chapter 5
+  # (the PhenoJury protocol's in-fold pair selection). Written by the prep script's `headline` stage. The forced-
+  # prompt pools beside it (`prompt_<p>.csv`, from `sensitivity`) are what t1_sensitivity.csv reads;
+  # quoting one of them here would put a prompt chosen outside the folds back into the main.
+  # The directory above `predictions/` is also where run.py reads that cohort's pair frequencies.
+  phenojury:
+    hcy: "{results_dir}/comparison_inputs/phenojury_protocol/hcy/predictions/full_pool.csv"
+    gsc_raghpo_ann: "{results_dir}/comparison_inputs/phenojury_protocol/gsc/predictions/full_pool.csv"
+    gsc_2024_eval_206: "{results_dir}/comparison_inputs/phenojury_protocol/gsc206/predictions/full_pool.csv"
+  # The cost-constrained jury, from the same `headline` stage, with its prompt selected in-fold
+  # independently of the full pool's (the PhenoJury protocol's S7 does the same).
+  phenojury_core3:
+    hcy: "{results_dir}/comparison_inputs/phenojury_protocol/hcy/predictions/fixed_core3.csv"
+    gsc_raghpo_ann: "{results_dir}/comparison_inputs/phenojury_protocol/gsc/predictions/fixed_core3.csv"
+    gsc_2024_eval_206: "{results_dir}/comparison_inputs/phenojury_protocol/gsc206/predictions/fixed_core3.csv"
+  # TreePhenoRAG's two conditions are produced under DIFFERENT protocols, by the TreePhenoRAG protocol's design:
+  #   hcy             the configuration chosen inside nested CV (tau_prune by conformal risk
+  #                   control on the training folds), pooled out-of-fold, like PhenoJury.
+  #   gsc_raghpo_ann  the configuration selected on ALL of HCY, applied to the abstracts unchanged.
+  #                   No folds, no CRC, nothing fitted on GSC+ (treephenorag_protocol/README.md §2.1). The
+  #                   `estimator` column says so on the row. It is the strictest of the three
+  #                   estimators in this table, not a weaker variant of the other two.
+  #
+  # The GSC+ file appears when the queued `treephenorag_protocol` job runs. It is gated on the
+  # `treephenorag_scores_terminfo` cache array. Until then the cell reports `missing` with this path, and fills in
+  # with no code change. Nothing else in this experiment has to be touched.
+  treephenorag:
+    hcy: "{results_dir}/treephenorag_protocol/predictions/nested_cv_pooled.csv"
+    gsc_raghpo_ann: "{results_dir}/treephenorag_protocol/predictions/gsc_raghpo_ann_transferred.csv"
+    # Declared and absent: the full-GSC+ table is a PhenoJury-vs-AutoPCR comparison
+    # (that is the scope the published row makes possible), and adding a transfer condition there would
+    # be a third estimator in a table whose whole point is that two rows are like for like.
+    gsc_2024_eval_206: ""
+
+# [Cost, runtime, calls, memory and setup]
+#
+# WHICH EXPERIMENT PAYS. A method's cost is incurred in a different run from the one that scores
+# it, so each row names its own cost experiment. PhenoJury is scored from the PhenoJury protocol (a CPU re-run of
+# minutes) but costs the Free Listing generation run (eight SLMs generating over every sentence); TreePhenoRAG is scored
+# from the TreePhenoRAG protocol (also a CPU re-run) but costs the term-information score store (a GPU building the score cache for days).
+# Pointing this at the scoring experiment would report the cost of the analysis, and would make the
+# two most expensive systems look like the two cheapest.
+#
+# `scope` is REQUIRED on every row and is not decoration. The PhenoBERT baseline's timing file says 0.026 s per
+# report for PhenoBERT, but its run.log says "Reusing complete PhenoBERT output", the CNN had
+# already run and the file times only the linking pass. Quoting it unqualified would understate
+# PhenoBERT by roughly three orders of magnitude in the one table that exists to compare cost.
+#
+# `accelerator` and `checkpoint` are properties of the job that no artifact records, so they are
+# declared here rather than inferred. The accelerators were read off `sacct` NodeList/AllocTRES and
+# `scontrol show node` Gres on 2026-09-24 -- every earlier "A100" here was a placeholder. The
+# cluster has none. Untyped `--gres=gpu:1` jobs land on any card, so a runtime in t4_cost.csv is a
+# property of that card as much as of the method. Everything else is read from artifacts, and every cell in
+# t4_cost.csv carries the source it came from. Nothing is estimated.
+# Per-subset GSC+ seconds, written by experiments/06_comparison/recover_gsc_subset_timing.py (run on the cluster). Every
+# GSC+ system ran once over all 228 abstracts. Without this file both subsets get the run's mean.
+subset_timing_csv: "{results_dir}/gsc_subset_timing/gsc/subset_seconds.csv"
+cost:
+  raghpo_8b:
+    exp_id: baseline_raghpo_8b
+    variant: rag_hpo
+    checkpoint: "Llama-3.1-8B-Instruct (8-bit)"
+    accelerator: "1x RTX 4090 24 GB"
+    scope: "full pipeline: retrieval + LLM linking, excl. model and vector-index load"
+  raghpo_70b:
+    exp_id: baseline_raghpo_70b
+    variant: rag_hpo
+    checkpoint: "Llama-3.3-70B-Instruct (8-bit)"
+    accelerator: "4x RTX 4090 24 GB, one node (the 70B model is sharded across them)"
+    scope: "full pipeline: retrieval + LLM linking, excl. model and vector-index load"
+  autopcr_8b:
+    exp_id: baseline_autopcr_8b
+    variant: autopcr
+    checkpoint: "Llama-3.1-8B-Instruct linker (8-bit)"
+    accelerator: "1x GPU: RTX 3090 24 GB (HCY), RTX 4090 24 GB (GSC+)"
+    scope: "full pipeline: entity extraction + SapBERT retrieval + LLM linking, excl. model and index load"
+  autopcr_70b:
+    exp_id: baseline_autopcr_70b
+    variant: autopcr
+    checkpoint: "Llama-3.3-70B-Instruct linker (8-bit)"
+    accelerator: "4x RTX 4090 24 GB, one node (the 70B linker is sharded across them)"
+    scope: "full pipeline: entity extraction + SapBERT retrieval + LLM linking, excl. model and index load"
+  phenobert:
+    exp_id: baseline_phenobert
+    variant: phenobert
+    checkpoint: "PhenoBERT CNN + BERT"
+    accelerator: "CPU only (compute partition) -- no GPU"
+    scope: "full pipeline: CNN inference + linking, incl. model load (one annotate.py process per run)"
+    # The scored HCY run (baseline_phenobert/hcy) reused a cached CNN output, so its clock timed the
+    # linking pass only. HCY's cost is read from a dedicated uncached rerun of the same driver and
+    # config instead (METHOD=phenobert slurm/baseline.sbatch with
+    # reuse_phenobert=false output_dir=$REPO/output/baseline_phenobert/timing_rerun, 2026-09-27).
+    # Its predictions are not what t1 scores. Only its timing is used.
+    cohort_dir:
+      hcy: timing_rerun/baseline_phenobert/hcy
+    # Whether the CNN actually ran differs BY COHORT, the HCY run reused a completed output and
+    # The GSC+ run did not, so the scope is detected from the log rather than declared, and the
+    # two rows can disagree. Without this, HCY's 0.03 s/report reads as PhenoBERT's end-to-end
+    # time when it is the linking pass alone.
+    scope_if_log_contains:
+      pattern: "Reusing complete PhenoBERT output"
+      scope: "LINKING AND ANNOTATION ONLY — the CNN output was reused from an earlier run, so its
+        inference is NOT included. This is not PhenoBERT's end-to-end runtime."
+  phenojury:
+    exp_id: phenojury_generation_free_listing
+    variant: slm_ensemble
+    generation_glob: "llm_extractions_*.jsonl"
+    # The `slm_ensemble_timing.jsonl` this points at covers the ~1 s vote aggregation, not the
+    # generation, so its duration is dropped.
+    use_timing_seconds: false
+    # Where the jury's real wall clock lives: one file per juror, each timing that model's own
+    # model load, generation over every sentence and PhenoBERT grounding. They are SUMMED,
+    # because the jury is a set of models and one accelerator running them one after another pays
+    # The sum, the 8-way array that actually ran them measured no such clock. The sum is withheld
+    # if any juror resumed from cached generations (its file then times only the reports left to
+    # do) or if a juror has no file at all: see cost.from_per_model_timing.
+    per_model_timing_glob: "slm_ensemble_timing_*.jsonl"
+    checkpoint: "8 models, 4B-14B, native 16-bit"
+    accelerator: "8 single-GPU array tasks on whatever card the scheduler assigned (V100, RTX 4090, RTX 3090, Titan RTX, H200); costed as one device running the 8 sequentially"
+    scope: "generation by all 8 jurors over every sentence, plus PhenoBERT grounding. The exp14_04
+      voting replay it is scored from is CPU-only and adds minutes."
+  # The cost-constrained jury. Same generations, three of the eight dumps, so its call count is
+  # COUNTED from the three files, not taken as 3/8 of the pool's. The condition's whole claim is what it
+  # costs, and a condition whose cost is an estimate cannot support a claim about cost.
+  phenojury_core3:
+    exp_id: phenojury_generation_free_listing
+    variant: slm_ensemble
+    generation_glob:
+      - "llm_extractions_medgemma.jsonl"
+      - "llm_extractions_medpsy.jsonl"
+      - "llm_extractions_phi4.jsonl"
+    use_timing_seconds: false
+    # The same three jurors, named again rather than globbed: this condition's cost must be the sum of
+    # ITS members' clocks, never a fraction of the pool's.
+    per_model_timing_glob:
+      - "slm_ensemble_timing_medgemma.jsonl"
+      - "slm_ensemble_timing_medpsy.jsonl"
+      - "slm_ensemble_timing_phi4.jsonl"
+    checkpoint: "3 models (MedGemma, MedPsy, Phi-4), native 16-bit"
+    accelerator: "3 single-GPU array tasks (RTX 4090 / RTX 3090); costed as one device running the 3 sequentially"
+    scope: "generation by three of the eight jurors over every sentence, plus PhenoBERT grounding.
+      The jury was named after reading exp14_04's selection frequencies, so the arm is exploratory
+      — see the note on Table 5.2."
+  treephenorag:
+    exp_id: treephenorag_scores_terminfo
+    variant: ""
+    # Calls come from the SAME run as the seconds: the cache build, whose every row is one verifier
+    # call (the TreePhenoRAG protocol counts them into tables/cache_calls.csv, per cohort). The re-run operating
+    # point's calls -- the TreePhenoRAG protocol's V3 row, HCY only -- are carried separately for the footnote.
+    cache_calls_from: treephenorag_protocol
+    cache_index: ontology_r3
+    calls_from: treephenorag_protocol
+    calls_from_cohort: hcy
+    checkpoint: "Llama-3.1-8B-Instruct verifier (8-bit)"
+    accelerator: "1 GPU per shard, 40 shards, on mixed cards (RTX 4090, RTX 3090, Titan RTX, V100)"
+    scope: "building the exhaustive score cache — the traversal's verifier calls. The exp13_22
+      replay it is scored from is CPU-only. Shard seconds are summed; peak GPU is the MAXIMUM over
+      shards, which ran on separate devices."
+
+# [Uncertainty] 10 000 is the thesis's setting. Lower it for a smoke run.
+n_bootstrap: 10000
+
+# [Published figures]
+#
+# Transcribed by hand from the papers; NOT harness output, and every row says so in `source`.
+# `compare_against` names the column of t1_overall.csv the figure is defined the same way as,# printing a per-case average beside a micro average would be a category error.
+# `comparable: true` means the row shares this table's documents AND its ground truth. When it is false,
+# `why_not` must say why, and the row is context rather than a competitor.
+literature:
+
+  # ── Garcia et al., Genome Medicine 2025;17:91, Table 5 ────────────────────
+  # Their 114 documents under their own re-annotation = our `gsc_raghpo_ann`. Their
+  # precision, recall AND F1 are each the mean of the per-case value (Methods. Their workbook gives
+  # 0.708 = mean per-case F1 for LLaMA-3 70B, against 0.726 for the harmonic mean of the means), so
+  # no column of ours is defined as they are. The TP/FP/FN they print are pooled, and the thesis
+  # tables recompute micro P/R/F1 from them -- hence `compare_against: micro_f1`. See
+  # resources/data/GSC_RAGHPO/PROVENANCE.md for how the subset was recovered.
+  - label: "RAG-HPO + LLaMA-3 70B"
+    system_of: raghpo_70b
+    source: "Garcia et al. 2025, Genome Medicine 17:91, Table 5"
+    cohort: gsc_raghpo_ann
+    n_documents: 114
+    n_gold_terms: 1011
+    unit: document
+    averaging: "per-case mean of P, R and F1; pooled TP/FP/FN printed"
+    compare_against: micro_f1
+    comparable: true
+    why_not: ""
+    precision: 0.69
+    recall: 0.77
+    f1: 0.71
+    tp: 766
+    fp: 358
+    fn: 245
+    note: "the row our exp13_04 / exp13_11 / exp13_15 replications are measured against"
+  - label: "RAG-HPO + LLaMA-4 Scout"
+    system_of: raghpo_70b
+    source: "Garcia et al. 2025, Genome Medicine 17:91, Table 5"
+    cohort: gsc_raghpo_ann
+    n_documents: 114
+    n_gold_terms: 1011
+    unit: document
+    averaging: "per-case mean of P, R and F1; pooled TP/FP/FN printed"
+    compare_against: micro_f1
+    comparable: true
+    why_not: ""
+    precision: 0.62
+    recall: 0.79
+    f1: 0.68
+    tp: 783
+    fp: 490
+    fn: 228
+    note: ""
+  - label: "FastHPOCR"
+    system_of: ""
+    source: "Garcia et al. 2025, Genome Medicine 17:91, Table 5"
+    cohort: gsc_raghpo_ann
+    n_documents: 114
+    n_gold_terms: 1011
+    unit: document
+    averaging: "per-case mean of P, R and F1; pooled TP/FP/FN printed"
+    compare_against: micro_f1
+    comparable: true
+    why_not: ""
+    precision: 0.74
+    recall: 0.70
+    f1: 0.70
+    tp: 696
+    fp: 241
+    fn: 315
+    note: ""
+  - label: "Doc2HPO"
+    system_of: ""
+    source: "Garcia et al. 2025, Genome Medicine 17:91, Table 5"
+    cohort: gsc_raghpo_ann
+    n_documents: 114
+    n_gold_terms: 1011
+    unit: document
+    averaging: "per-case mean of P, R and F1; pooled TP/FP/FN printed"
+    compare_against: micro_f1
+    comparable: true
+    why_not: ""
+    precision: 0.80
+    recall: 0.44
+    f1: 0.56
+    tp: 438
+    fp: 89
+    fn: 573
+    note: ""
+  - label: "ClinPhen"
+    system_of: ""
+    source: "Garcia et al. 2025, Genome Medicine 17:91, Table 5"
+    cohort: gsc_raghpo_ann
+    n_documents: 114
+    n_gold_terms: 1011
+    unit: document
+    averaging: "per-case mean of P, R and F1; pooled TP/FP/FN printed"
+    compare_against: micro_f1
+    comparable: true
+    why_not: ""
+    precision: 0.61
+    recall: 0.42
+    f1: 0.46
+    tp: 428
+    fp: 204
+    fn: 583
+    note: ""
+
+  # ── Tao et al., AutoPCR (Bioinformatics 2026, 42(Suppl 1):btag304) ────────
+  #
+  # NOT transferable, for three independent reasons, and the row exists to say so rather
+  # than to be quietly omitted:
+  #   (1) the corpus is GSC-2024 (FastHPOCR's refinement of GSC+), 228 abstracts of which 22 are
+  #       development and 206 are evaluated, not RAG-HPO's 114;
+  #   (2) the ground truth is that corpus's own annotation, not RAG-HPO's re-annotation;
+  #   (3) the main is MENTION-level (a hit needs a matching code AND overlapping offsets),
+  #       which no method in t1_overall.csv emits.
+  # Their document-level F1 exists (Table 3's dF1 column) and IS micro-averaged over documents like
+  # ours, so it is the one figure of theirs defined the same way, (1) and (2) still stand.
+  # Our own AutoPCR rows run the published extraction (ee="neural++") but a local LLaMA linker
+  # rather than their Qwen3-Next-80B.
+  - label: "AutoPCR (published, mention-level)"
+    system_of: autopcr_70b
+    source: "Tao et al., Bioinformatics 2026;42(Suppl 1):btag304, Table 1"
+    cohort: gsc_2024_eval_206
+    n_documents: 206
+    n_gold_terms: ""
+    unit: mention
+    averaging: "mention-level, one-to-one matching, mean of three runs"
+    compare_against: ""
+    comparable: false
+    why_not: "mention-level (needs char offsets); 206 GSC-2024 evaluation documents, not RAG-HPO's
+      114; GSC-2024's own annotation, not RAG-HPO's re-annotation"
+    precision: 0.8713
+    recall: 0.7919
+    f1: 0.8297
+    tp: ""
+    fp: ""
+    fn: ""
+    note: "LLM backend Qwen3-Next-80B-A3B-Instruct, temperature 0; ranked 2nd of 11 behind FastHPOCR"
+  - label: "AutoPCR (published, document-level)"
+    system_of: autopcr_70b
+    source: "Tao et al., Bioinformatics 2026;42(Suppl 1):btag304, Table 3 (dF1)"
+    cohort: gsc_2024_eval_206
+    n_documents: 206
+    n_gold_terms: ""
+    unit: document
+    averaging: "micro over documents"
+    compare_against: micro_f1
+    comparable: false
+    why_not: "the metric definition matches ours, but the cohort (206 GSC-2024 evaluation
+      documents) and the gold (GSC-2024's own annotation) do not"
+    precision: ""
+    recall: ""
+    f1: 0.8348
+    tp: ""
+    fp: ""
+    fn: ""
+    note: "no per-method document-level P/R is printed in the main text; only the ablation table's
+      dF1 column. AutoPCR_FT scores 0.8314 on the same column."
+  - label: "PhenoBERT (in AutoPCR's Table 1)"
+    system_of: phenobert
+    source: "Tao et al., Bioinformatics 2026;42(Suppl 1):btag304, Table 1"
+    cohort: gsc_2024_eval_206
+    n_documents: 206
+    n_gold_terms: ""
+    unit: mention
+    averaging: "mention-level, one-to-one matching, mean of three runs"
+    compare_against: ""
+    comparable: false
+    why_not: "mention-level on 206 GSC-2024 documents; printed so AutoPCR's published row has its
+      own comparators rather than being read against ours"
+    precision: 0.8590
+    recall: 0.7488
+    f1: 0.8001
+    tp: ""
+    fp: ""
+    fn: ""
+    note: ""
+  - label: "FastHPOCR (in AutoPCR's Table 1)"
+    system_of: ""
+    source: "Tao et al., Bioinformatics 2026;42(Suppl 1):btag304, Table 1"
+    cohort: gsc_2024_eval_206
+    n_documents: 206
+    n_gold_terms: ""
+    unit: mention
+    averaging: "mention-level, one-to-one matching, mean of three runs"
+    compare_against: ""
+    comparable: false
+    why_not: "mention-level on 206 GSC-2024 documents; the top-ranked system on that frame"
+    precision: 0.8843
+    recall: 0.7925
+    f1: 0.8359
+    tp: ""
+    fp: ""
+    fn: ""
+    note: ""
+
+mlflow_experiment_name: exp13_comparison

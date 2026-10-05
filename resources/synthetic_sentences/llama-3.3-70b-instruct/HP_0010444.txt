@@ -1,0 +1,36 @@
+* The patient's echocardiogram revealed evidence of pulmonic regurgitation, characterized by the backflow of blood into the right ventricle during diastole.
+* Pulmonary valve incompetence was noted on cardiac catheterization, resulting in a significant retrograde flow of blood into the right ventricle.
+* The Doppler study demonstrated pulmonary insufficiency, with a notable reversal of blood flow through the pulmonary valve during diastole.
+* Clinical examination revealed a diastolic murmur consistent with pulmonary valve regurgitation, prompting further investigation.
+* Right ventricular dilatation was observed on MRI, likely secondary to chronic pulmonic regurgitation.
+* The patient's symptoms of exertional dyspnea and fatigue were attributed to pulmonary valve insufficiency, as evidenced by echocardiography.
+* Cardiac MRI confirmed the presence of pulmonic regurgitation, with a regurgitant fraction of 20%.
+* Pulmonary valve regurgitation was diagnosed in a patient with a history of tetralogy of Fallot repair, highlighting the need for long-term follow-up.
+* The severity of pulmonary incompetence was assessed using cardiac catheterization, revealing a significant increase in right ventricular end-diastolic pressure.
+* A new diagnosis of pulmonary valve insufficiency was made in a patient presenting with symptoms of heart failure, prompting initiation of guideline-directed medical therapy.
+* The patient underwent surgical repair of the pulmonary valve to correct severe pulmonic regurgitation, resulting in significant improvement in symptoms.
+* Transthoracic echocardiography revealed mild pulmonic regurgitation in an asymptomatic patient, with no evidence of right ventricular dysfunction.
+* Pulmonary valve regurgitation was identified as a complication of pulmonary valve replacement, highlighting the importance of close surveillance.
+* The patient's right ventricular function was assessed using echocardiography, revealing decreased function secondary to chronic pulmonary insufficiency.
+* A diastolic murmur was auscultated in a patient with known pulmonic regurgitation, consistent with the diagnosis.
+* Cardiac computed tomography angiography revealed a dilated right ventricle in a patient with pulmonary valve regurgitation, suggestive of chronic volume overload.
+* Pulmonic regurgitation was diagnosed in a patient with a history of pulmonary embolism, likely contributing to the development of pulmonary hypertension.
+* The patient underwent cardiac transplantation due to end-stage heart failure secondary to severe pulmonary valve insufficiency.
+* Echocardiography revealed moderate pulmonic regurgitation in a patient with a history of congenital heart disease, prompting close follow-up.
+* Pulmonary valve regurgitation was identified as a cause of exertional dyspnea in a patient with a history of cardiac surgery.
+* Right ventricular dilatation and dysfunction were noted in a patient with chronic pulmonic regurgitation, highlighting the need for timely intervention.
+* The patient's symptoms of palpitations and shortness of breath were attributed to pulmonary valve insufficiency, as diagnosed by echocardiography.
+* A significant diastolic murmur was auscultated in a patient with known pulmonary valve regurgitation, consistent with the diagnosis.
+* Cardiac MRI revealed severe pulmonic regurgitation in a patient with a history of repaired tetralogy of Fallot, prompting consideration of pulmonary valve replacement.
+* Pulmonary insufficiency was diagnosed in a patient with a history of pulmonary valve repair, highlighting the importance of long-term surveillance.
+* The patient underwent percutaneous pulmonary valve implantation to correct severe pulmonic regurgitation, resulting in significant improvement in symptoms.
+* Echocardiography revealed mild pulmonary valve regurgitation in an asymptomatic patient, with no evidence of right ventricular dysfunction.
+* Pulmonic regurgitation was identified as a cause of cardiac dysfunction in a patient with a history of cardiac transplantation.
+* The patient's right ventricular function was assessed using cardiac MRI, revealing decreased function secondary to chronic pulmonary valve insufficiency.
+* A new diagnosis of pulmonary valve regurgitation was made in a patient presenting with symptoms of heart failure, prompting initiation of guideline-directed medical therapy.
+* Pulmonary valve insufficiency was diagnosed in a patient with a history of congenital heart disease, highlighting the need for close follow-up.
+* The patient underwent surgical repair of the pulmonary valve to correct severe pulmonary valve regurgitation, resulting in significant improvement in symptoms.
+* Transthoracic echocardiography revealed moderate pulmonic regurgitation in a patient with a history of cardiac surgery, prompting consideration of percutaneous intervention.
+* Cardiac computed tomography angiography revealed a dilated right ventricle in a patient with pulmonary valve regurgitation, suggestive of chronic volume overload.
+* Pulmonic regurgitation was diagnosed in a patient with a history of pulmonary hypertension, likely contributing to the development of right ventricular dysfunction.
+* Echocardiography revealed severe pulmonic regurgitation in a patient with a history of repaired congenital heart disease, prompting consideration of pulmonary valve replacement.

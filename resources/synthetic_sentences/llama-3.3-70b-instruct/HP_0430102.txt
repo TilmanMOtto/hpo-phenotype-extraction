@@ -1,0 +1,35 @@
+* The patient's lymphoma cells demonstrated strong positivity for CD20, as evidenced by immunohistochemical staining with anti-CD20 antibodies.
+* Flow cytometric analysis revealed a significant population of CD20-positive cells, consistent with a B-cell lineage.
+* Immunophenotypic evaluation by flow cytometry showed the presence of CD20 on the surface of the neoplastic cells, supporting a diagnosis of B-cell lymphoma.
+* The tumor cells expressed CD20, a characteristic feature of B-cell non-Hodgkin lymphoma, as confirmed by immunohistochemistry.
+* CD20 immunohistochemical staining was strongly positive, indicating the presence of B cells in the infiltrate.
+* The B-cell population in the patient's sample was characterized by uniform expression of CD20, as detected by flow cytometry.
+* Anti-CD20 antibody staining highlighted the B-cell nature of the lymphoid infiltrate in the biopsy specimen.
+* CD20 positivity was observed in the majority of the tumor cells, consistent with a B-cell origin.
+* Flow cytometric analysis demonstrated a prominent CD20-positive population, suggesting a diagnosis of B-cell acute lymphoblastic leukemia.
+* Immunohistochemical staining with anti-CD20 antibodies revealed a strong, membranous staining pattern in the lymphoma cells.
+* The presence of CD20 on the surface of the malignant cells was confirmed by immunophenotypic analysis using flow cytometry.
+* The patient's B cells were found to express CD20, as expected, given their normal B-cell lineage.
+* CD20 expression was detected in a subset of the patient's lymphoma cells, suggesting heterogeneity within the tumor.
+* The neoplastic cells in the patient's sample demonstrated strong CD20 positivity, consistent with a diagnosis of diffuse large B-cell lymphoma.
+* Immunohistochemical analysis with anti-CD20 antibodies showed diffuse, strong staining in the B-cell areas of the lymph node.
+* The lymphoma cells exhibited a characteristic CD20-positive, CD3-negative immunophenotype, indicative of B-cell origin.
+* Flow cytometric evaluation revealed a distinct population of CD20-positive cells, which were further characterized by additional immunophenotypic markers.
+* The B-cell nature of the lymphoid infiltrate was confirmed by CD20 immunohistochemical staining, which showed strong positivity.
+* CD20 expression was uniformly strong in the patient's B cells, as demonstrated by flow cytometric analysis.
+* The malignant cells in the patient's sample were found to express CD20, a typical feature of B-cell lymphomas.
+* Anti-CD20 antibody staining highlighted the surface expression of CD20 on the B cells in the patient's sample.
+* The patient's lymphoma was characterized by strong CD20 positivity, as evidenced by immunohistochemical staining with anti-CD20 antibodies.
+* Flow cytometric analysis demonstrated a prominent CD20-positive population, consistent with a B-cell lineage.
+* The presence of CD20 on the surface of the B cells was confirmed by immunophenotypic analysis, which showed uniform expression.
+* The lymphoma cells exhibited strong CD20 positivity, suggesting a diagnosis of B-cell non-Hodgkin lymphoma.
+* Immunohistochemical staining with anti-CD20 antibodies revealed a characteristic membranous staining pattern in the B cells.
+* CD20 expression was detected in the majority of the patient's lymphoma cells, as demonstrated by flow cytometric analysis.
+* The patient's B cells demonstrated strong CD20 positivity, consistent with their normal B-cell lineage.
+* The neoplastic cells in the patient's sample were found to express CD20, as expected for a B-cell lymphoma.
+* Flow cytometric evaluation revealed a distinct population of CD20-positive cells, which were further characterized by additional immunophenotypic markers.
+* The B-cell nature of the lymphoid infiltrate was confirmed by CD20 immunohistochemical staining, which showed strong positivity in the majority of cells.
+* CD20 expression was uniformly strong in the patient's B cells, as demonstrated by immunohistochemical staining with anti-CD20 antibodies.
+* The malignant cells in the patient's sample exhibited strong CD20 positivity, consistent with a diagnosis of B-cell lymphoma.
+* Immunophenotypic analysis by flow cytometry demonstrated the presence of CD20 on the surface of the B cells, supporting a diagnosis of B-cell acute lymphoblastic leukemia.
+* The patient's lymphoma cells demonstrated strong positivity for CD20, as evidenced by flow cytometric analysis and immunohistochemical staining.

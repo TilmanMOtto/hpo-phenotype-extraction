@@ -1,0 +1,35 @@
+* The patient's MRI revealed significant cerebral edema, characterized by a loss of gray-white matter differentiation and sulcal effacement, suggesting a severe underlying pathological process.
+* Brain swelling was noted on CT scan, with extensive low-density areas indicative of vasogenic edema, prompting immediate intervention to reduce intracranial pressure.
+* Following traumatic injury, the patient developed cerebral edema, as evidenced by the shrinking of gyri and decrease in ventricular size on imaging studies.
+* The presence of cytotoxic edema was inferred from the diffusion-weighted imaging (DWI) abnormalities on the patient's MRI, which showed restricted diffusion in the affected areas.
+* Cerebral oedema was diagnosed in a patient with a history of metastatic disease, with imaging revealing a large area of edema surrounding the tumor.
+* The patient's condition was complicated by the development of hydrostatic edema, leading to increased intracranial pressure and necessitating close monitoring.
+* Interstitial edema was suspected in a patient with hydrocephalus, as evidenced by the presence of transependymal CSF flow on MRI.
+* Hypoosmotic edema was thought to be the cause of the patient's brain swelling, which developed after a rapid correction of hyponatremia.
+* The patient's brain imaging showed signs of cerebral edema, including a decrease in sulcal size and ventricular compression, consistent with a mass effect.
+* The MRI FLAIR sequence revealed hyperintensity in the white matter, suggestive of cerebral edema, in a patient with a history of hypoxic-ischemic injury.
+* Cerebral edema was observed in the peritumoral region of a patient with a primary brain tumor, with imaging showing significant mass effect and midline shift.
+* The patient's CT scan demonstrated low-density areas consistent with vasogenic edema, which was thought to be caused by a disruption of the blood-brain barrier.
+* Cerebral oedema was diagnosed in a patient with a history of traumatic brain injury, with imaging revealing a large area of edema and significant midline shift.
+* Brain swelling was noted on MRI, with the patient's diffusion-weighted imaging (DWI) showing restricted diffusion consistent with cytotoxic edema.
+* The presence of cerebral edema was inferred from the patient's imaging studies, which showed a loss of gray-white matter differentiation and sulcal effacement.
+* The patient developed cerebral edema following a hypoxic-ischemic event, with MRI showing significant changes in the diffusion-weighted imaging (DWI) and FLAIR sequences.
+* Cerebral edema was observed in a patient with a brain abscess, with imaging showing a large area of edema surrounding the abscess.
+* The patient's condition was complicated by the development of cerebral edema, leading to increased intracranial pressure and necessitating immediate intervention.
+* Brain edema was diagnosed in a patient with a history of metastatic disease, with imaging revealing a large area of edema surrounding the tumor.
+* The patient's MRI showed signs of cerebral edema, including a decrease in sulcal size and ventricular compression, consistent with a mass effect.
+* Cerebral oedema was thought to be the cause of the patient's brain swelling, which developed after a traumatic injury.
+* The patient's imaging studies revealed cerebral edema, characterized by a loss of gray-white matter differentiation and sulcal effacement, suggesting a severe underlying pathological process.
+* Cerebral edema was observed in the peritumoral region of a patient with a primary brain tumor, with imaging showing significant mass effect and midline shift.
+* The patient developed cerebral edema following a traumatic brain injury, with MRI showing significant changes in the diffusion-weighted imaging (DWI) and FLAIR sequences.
+* Brain swelling was noted on CT scan, with extensive low-density areas indicative of vasogenic edema, prompting immediate intervention to reduce intracranial pressure.
+* The presence of cerebral edema was inferred from the patient's imaging studies, which showed a decrease in sulcal size and ventricular compression, consistent with a mass effect.
+* Cerebral edema was diagnosed in a patient with a history of hypoxic-ischemic injury, with imaging revealing a large area of edema and significant midline shift.
+* The patient's condition was complicated by the development of cerebral edema, leading to increased intracranial pressure and necessitating close monitoring.
+* Cerebral oedema was suspected in a patient with a brain abscess, with imaging showing a large area of edema surrounding the abscess.
+* The patient's MRI showed signs of cerebral edema, including a loss of gray-white matter differentiation and sulcal effacement, suggesting a severe underlying pathological process.
+* Brain edema was thought to be the cause of the patient's brain swelling, which developed after a rapid correction of hyponatremia.
+* The patient developed cerebral edema following a hypoxic-ischemic event, with MRI showing significant changes in the diffusion-weighted imaging (DWI) and FLAIR sequences.
+* Cerebral edema was observed in a patient with a history of metastatic disease, with imaging revealing a large area of edema surrounding the tumor.
+* The patient's imaging studies revealed cerebral edema, characterized by a decrease in sulcal size and ventricular compression, consistent with a mass effect.
+* Cerebral oedema was diagnosed in a patient with a history of traumatic brain injury, with imaging revealing a large area of edema and significant midline shift.

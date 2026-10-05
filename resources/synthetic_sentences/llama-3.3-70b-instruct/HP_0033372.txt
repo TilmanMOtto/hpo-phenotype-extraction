@@ -1,0 +1,36 @@
+* The patient's pulmonary function tests revealed a notable deviation in the KCO, suggesting an issue with alveolar uptake of carbon monoxide.
+* An abnormal KCO value was obtained during the single breath measurement of DLCO, indicating potential difficulties in gas exchange.
+* The KCO measurement was found to be outside the normal range, which may be indicative of an underlying respiratory condition affecting alveolar function.
+* Upon reviewing the patient's lung function test results, it was noted that the KCO was not within the expected range, prompting further investigation.
+* A reduced KCO was observed in the patient, which could be related to impaired alveolar-capillary membrane function or reduced hemoglobin levels.
+* The calculated KCO was higher than anticipated, suggesting possible overestimation of DLCO due to factors such as increased alveolar volume.
+* An abnormality in the KCO value was detected, which may be related to the patient's history of respiratory disease or exposure to environmental pollutants.
+* The single breath DLCO test showed an abnormal KCO, indicating inefficient gas exchange at the alveolar level.
+* The patient's KCO result was below the lower limit of normal, raising concerns about potential pulmonary disease or dysfunction.
+* An elevated KCO was reported, which could be indicative of increased alveolar surface area or enhanced gas diffusion capacity.
+* The KCO measurement was inconsistent with the patient's clinical presentation, warranting further evaluation and possible retesting.
+* A low KCO was associated with symptoms of shortness of breath and decreased exercise tolerance in the patient.
+* The KCO result was influenced by the patient's anemia, which affected the accuracy of the DLCO measurement.
+* The patient's pulmonary function test results indicated an abnormal KCO, which may be related to the presence of interstitial lung disease.
+* An abnormal KCO value was correlated with the patient's history of smoking and occupational exposure to hazardous substances.
+* The KCO was found to be abnormal in the patient with a history of asthma, suggesting possible airway disease affecting alveolar function.
+* The calculated KCO was affected by the patient's body position during the test, resulting in an inaccurate DLCO measurement.
+* A significant deviation in the KCO was observed in the patient with pulmonary hypertension, indicating impaired gas exchange.
+* The patient's KCO result was outside the normal range due to technical issues during the single breath DLCO test.
+* An abnormal KCO was noted in the patient with a history of pneumonia, suggesting possible residual pulmonary damage.
+* The KCO measurement was used to assess the patient's response to treatment for interstitial lung disease, showing an improvement in gas exchange.
+* A reduced KCO was associated with the patient's advanced age and decreased physical activity level.
+* The patient's KCO result was inconsistent with the expected values for their age and sex, prompting further investigation.
+* An elevated KCO was reported in the patient with a history of pulmonary embolism, possibly indicating increased alveolar surface area.
+* The KCO was used as an indicator of disease severity in the patient with chronic obstructive pulmonary disease (COPD).
+* A low KCO was correlated with the patient's decreased oxygen saturation levels and shortness of breath.
+* The patient's pulmonary function test results showed an abnormal KCO, which may be related to the presence of pulmonary vasculitis.
+* An abnormal KCO value was detected in the patient with a history of lung transplantation, indicating possible graft dysfunction.
+* The KCO measurement was affected by the patient's obesity, resulting in an inaccurate DLCO measurement.
+* A significant deviation in the KCO was observed in the patient with cystic fibrosis, suggesting impaired gas exchange.
+* The patient's KCO result was outside the normal range due to the presence of pleural effusion, affecting lung function.
+* An abnormal KCO was noted in the patient with a history of sarcoidosis, indicating possible pulmonary involvement.
+* The KCO measurement was used to monitor the patient's response to treatment for pulmonary arterial hypertension, showing an improvement in gas exchange.
+* A reduced KCO was associated with the patient's history of radiation therapy to the chest, possibly indicating lung damage.
+* The patient's KCO result was inconsistent with the expected values for their disease severity, prompting further investigation.
+* An elevated KCO was reported in the patient with a history of pulmonary thromboendarterectomy, possibly indicating increased alveolar surface area.

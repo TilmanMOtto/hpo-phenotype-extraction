@@ -1,0 +1,38 @@
+* The patient's kidney function has been assessed, indicating a moderate decline in glomerular filtration rate, consistent with stage 3 chronic kidney disease.
+* Radiologic and laboratory findings are compatible with a diagnosis of moderately reduced renal function, classified as stage 3 CKD.
+* CKD stage 3 has been diagnosed based on a GFR of 45 mL/min/1.73 m2, signifying a moderate loss of kidney function.
+* Kidney function tests reveal a GFR of 50 mL/min/1.73 m2, which falls within the range of stage 3 chronic kidney disease.
+* A diagnosis of stage 3 CKD has been made, characterized by a glomerular filtration rate between 30-59 mL/min/1.73 m2.
+* The patient is experiencing a moderate reduction in kidney function, corresponding to stage 3 chronic kidney disease, with a GFR of 40 mL/min/1.73 m2.
+* Laboratory results demonstrate a decline in renal function, consistent with stage 3 CKD, with a GFR of 55 mL/min/1.73 m2.
+* Renal function assessment indicates a GFR of 35 mL/min/1.73 m2, meeting the criteria for stage 3 chronic kidney disease.
+* Stage 3 CKD has been identified, marked by a moderately reduced glomerular filtration rate of 32 mL/min/1.73 m2.
+* The patient's GFR has been calculated to be 48 mL/min/1.73 m2, reflecting a moderate decrease in kidney function typical of stage 3 CKD.
+* Clinical evaluation and laboratory tests confirm a diagnosis of stage 3 chronic kidney disease, characterized by a GFR of 38 mL/min/1.73 m2.
+* Kidney disease progression has resulted in a moderate reduction in renal function, classified as stage 3 CKD, with a GFR of 52 mL/min/1.73 m2.
+* Renal function has declined to a GFR of 42 mL/min/1.73 m2, indicating stage 3 chronic kidney disease.
+* A moderate decline in kidney function has been observed, with a GFR of 58 mL/min/1.73 m2, consistent with stage 3 CKD.
+* The patient's renal function has been evaluated, revealing a GFR of 30 mL/min/1.73 m2, which is indicative of stage 3 CKD.
+* Stage 3 CKD has been diagnosed, marked by a GFR between 30-59 mL/min/1.73 m2, signifying a moderate reduction in kidney function.
+* Laboratory findings indicate a GFR of 59 mL/min/1.73 m2, which is consistent with a diagnosis of stage 3 chronic kidney disease.
+* The patient is experiencing a moderate decrease in renal function, with a GFR of 46 mL/min/1.73 m2, indicating stage 3 CKD.
+* Clinical assessment reveals a moderate reduction in kidney function, classified as stage 3 CKD, with a GFR of 36 mL/min/1.73 m2.
+* Renal function tests demonstrate a GFR of 54 mL/min/1.73 m2, which falls within the range of stage 3 chronic kidney disease.
+* The patient's kidney function has been classified as stage 3 CKD, marked by a GFR of 33 mL/min/1.73 m2.
+* A GFR of 49 mL/min/1.73 m2 has been calculated, indicating a moderate reduction in kidney function, consistent with stage 3 CKD.
+* Stage 3 CKD has been identified, characterized by a moderately reduced glomerular filtration rate of 51 mL/min/1.73 m2.
+* The patient's renal function has declined to a GFR of 44 mL/min/1.73 m2, signifying stage 3 chronic kidney disease.
+* Clinical evaluation and laboratory results confirm a diagnosis of stage 3 CKD, with a GFR of 57 mL/min/1.73 m2.
+* Kidney disease has progressed to stage 3, marked by a moderate reduction in renal function, with a GFR of 39 mL/min/1.73 m2.
+* Renal function has been assessed, revealing a GFR of 53 mL/min/1.73 m2, which is consistent with stage 3 CKD.
+* The patient's kidney function has been evaluated, indicating a GFR of 41 mL/min/1.73 m2, typical of stage 3 chronic kidney disease.
+* A moderate decrease in kidney function has been observed, with a GFR of 47 mL/min/1.73 m2, indicating stage 3 CKD.
+* Stage 3 CKD has been diagnosed, characterized by a moderately reduced glomerular filtration rate of 56 mL/min/1.73 m2.
+* The patient is experiencing a moderate reduction in renal function, with a GFR of 43 mL/min/1.73 m2, signifying stage 3 CKD.
+* Clinical findings indicate a GFR of 34 mL/min/1.73 m2, which is consistent with a diagnosis of stage 3 chronic kidney disease.
+* The patient's kidney function has declined to a GFR of 37 mL/min/1.73 m2, indicating stage 3 CKD.
+* Renal function assessment reveals a GFR of 31 mL/min/1.73 m2, meeting the criteria for stage 3 chronic kidney disease.
+* Stage 3 CKD has been identified, marked by a moderately reduced glomerular filtration rate of 40 mL/min/1.73 m2.
+* Laboratory results demonstrate a decline in renal function, consistent with stage 3 CKD, with a GFR of 48 mL/min/1.73 m2.
+* The patient's renal function has been classified as stage 3 CKD, characterized by a GFR of 50 mL/min/1.73 m2.
+* Clinical evaluation and laboratory tests confirm a diagnosis of stage 3 CKD, with a GFR of 35 mL/min/1.73 m2.

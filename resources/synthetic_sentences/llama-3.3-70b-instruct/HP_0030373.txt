@@ -1,0 +1,35 @@
+* The patient's immune workup revealed a disproportionate number of memory B cells, suggesting an underlying immunological issue.
+* Flow cytometric analysis showed an abnormal proportion of CD19+/CD27+ cells, indicating a potential problem with memory B cell development or function.
+* The proportion of memory B cells to total B cells was found to be outside the normal range, which may be related to the patient's clinical presentation.
+* Further evaluation of the patient's B cell subsets revealed an imbalance in the proportion of memory B cells, defined by CD20+/CD27+ expression.
+* Immunophenotyping by flow cytometry demonstrated an abnormal proportion of memory B cells, which could be contributing to the patient's immune dysfunction.
+* The percentage of CD19+/CD27+ cells was elevated, suggesting an increased proportion of memory B cells in the patient's circulation.
+* Analysis of B cell subsets revealed a deviation from the normal proportion of memory B cells, which may be indicative of an underlying immune disorder.
+* The patient's laboratory results showed an abnormal proportion of memory B cells, which could be related to their recurrent infections.
+* Flow cytometric analysis of the patient's peripheral blood revealed an abnormal proportion of CD20+/CD27+ cells, suggesting a potential issue with memory B cell function.
+* The proportion of memory B cells, as defined by CD19+/CD27+ expression, was found to be lower than expected, which may be contributing to the patient's immune deficiency.
+* Immunological evaluation revealed an abnormal proportion of memory B cells, which could be impacting the patient's ability to mount an effective immune response.
+* The patient's B cell profile showed an abnormal proportion of memory B cells, which may be related to their autoimmune symptoms.
+* Further investigation revealed an abnormal proportion of memory B cells, defined by CD20+/CD27+ expression, which could be contributing to the patient's clinical presentation.
+* The percentage of memory B cells, as assessed by flow cytometry, was found to be outside the normal range, suggesting an underlying immunological issue.
+* The patient's immune system was found to have an abnormal proportion of memory B cells, which may be related to their immunodeficiency.
+* Flow cytometric analysis revealed an abnormal proportion of CD19+/CD27+ cells, indicating a potential problem with memory B cell development or function.
+* The proportion of memory B cells to total B cells was found to be elevated, which may be contributing to the patient's immune dysfunction.
+* The patient's laboratory results showed a decreased proportion of memory B cells, which could be related to their increased susceptibility to infections.
+* Immunophenotyping revealed an abnormal proportion of memory B cells, defined by CD20+/CD27+ expression, which could be indicative of an underlying immune disorder.
+* The patient's B cell subsets revealed an imbalance in the proportion of memory B cells, which may be related to their clinical presentation.
+* Flow cytometric analysis demonstrated an abnormal proportion of memory B cells, which could be contributing to the patient's immune deficiency.
+* The percentage of CD20+/CD27+ cells was found to be lower than expected, suggesting a decreased proportion of memory B cells in the patient's circulation.
+* The patient's immune workup revealed an abnormal proportion of memory B cells, which may be related to their autoimmune symptoms.
+* Further evaluation revealed an abnormal proportion of memory B cells, defined by CD19+/CD27+ expression, which could be impacting the patient's ability to mount an effective immune response.
+* The proportion of memory B cells, as assessed by flow cytometry, was found to be outside the normal range, suggesting an underlying immunological issue.
+* The patient's B cell profile showed an abnormal proportion of memory B cells, which may be contributing to their immunodeficiency.
+* Immunological evaluation revealed an abnormal proportion of memory B cells, which could be related to the patient's recurrent infections.
+* The patient's laboratory results showed an abnormal proportion of memory B cells, which could be indicative of an underlying immune disorder.
+* Flow cytometric analysis revealed an abnormal proportion of CD20+/CD27+ cells, suggesting a potential issue with memory B cell function.
+* The proportion of memory B cells to total B cells was found to be lower than expected, which may be contributing to the patient's immune dysfunction.
+* The patient's immune system was found to have an abnormal proportion of memory B cells, which may be related to their immune deficiency.
+* The percentage of memory B cells, as defined by CD19+/CD27+ expression, was found to be elevated, suggesting an increased proportion of memory B cells in the patient's circulation.
+* Immunophenotyping by flow cytometry demonstrated an abnormal proportion of memory B cells, which could be contributing to the patient's clinical presentation.
+* The patient's B cell subsets revealed an imbalance in the proportion of memory B cells, which may be indicative of an underlying immune disorder.
+* Further investigation revealed an abnormal proportion of memory B cells, defined by CD20+/CD27+ expression, which could be impacting the patient's ability to mount an effective immune response.

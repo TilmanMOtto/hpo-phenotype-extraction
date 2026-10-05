@@ -1,0 +1,49 @@
+# RAG-HPO reproduction: published code, model and supplement prompt (thesis section 3.5, appendix A.5).
+#
+# Command:  METHOD=raghpo_published_prompt sbatch slurm/baseline.sbatch   (DATASET=gsc for GSC+)
+# Model: Meta-Llama-3-70B-Instruct, 8-bit.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: 0 where the tool takes one (greedy decoding).
+# Writes <output>/raghpo_reproduction_published_prompt/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc
+dataset: hcy
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms.csv
+gsc_dir: resources/data/GSC_2024
+
+# [Required]
+llama_dir: ${paths:models.meta_llama_3_70b_instruct}
+output_dir: ${paths:output_dir}
+
+# [RAG-HPO, paper-era pipeline], every value here is the RAG-HPO reproduction with Llama-3 70B's. Do not drift them, or the
+# comparison stops isolating the prompt.
+rag_hpo_dir: third_party/RAG-HPO
+prompts_file: system_prompts_figs1.json   # THE ATOMIC CHANGE, the paper's Fig. S1, not the repo's
+meta_file: hpo_meta_paper.json            # written by build_vector_db_paper.py
+vec_file: hpo_embedded_paper.npz
+embed_model: BAAI/bge-small-en-v1.5       # local dir on the offline compute nodes
+keep_top: 20                              # their `if len(unique_metadata) == 20: break`
+faiss_depth: 800                          # their `index.search(query_vector, 800)`
+
+# [Model], meta-llama/Meta-Llama-3-70B-Instruct, staged at
+# <LEOMED_MODELS_DIR>/Meta-Llama-3-70B-Instruct. Same generation as the RAG-HPO reproduction with the published code's
+# model (LLaMA-3, 8k context), no instruction-tuning detour through function-call syntax.
+load_in_4bit: false        # 8-bit, as baseline_raghpo_8b/04/11, so the size comparison holds
+max_new_tokens: 4096       # they send no cap; LLaMA-3's 8k window is the real bound
+temperature: 0.2           # undisclosed in the paper. Their interactive default is 0.2, the
+                           # LLMClient class default 0.7, run both; 0 gives greedy decoding.
+seed: 0                    # sampling is seeded so the run reproduces itself
+
+# [Pilot]
+max_patients:
+
+mlflow_experiment_name: exp13_comparison

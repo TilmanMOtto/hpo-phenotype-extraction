@@ -1,0 +1,37 @@
+* The patient's arm span was observed to be shorter than expected, measuring 155 cm in an individual with a height of 170 cm.
+* Noted abnormal arm length, with span exceeding 180 cm in a patient who is 165 cm tall.
+* On physical examination, the arm span of the individual was found to be disproportionate to their overall height.
+* Measured arm span was 160 cm, which is less than the patient's height of 168 cm, indicating a potential issue.
+* Patient presented with an abnormally long arm span, with a measurement of 185 cm and a height of only 172 cm.
+* The arm span of the patient was measured at 158 cm, which is shorter than their height, suggesting an abnormality.
+* Observed an unusual disparity between the patient's arm span, which was 152 cm, and their overall height of 162 cm.
+* The patient's arms were measured from fingertip to fingertip, revealing an arm span of 162 cm, which is abnormal for their height.
+* Physical examination revealed an arm span of 168 cm, which is longer than expected for the patient's height of 160 cm.
+* Noted arm span abnormality, with the measurement being 159 cm in a patient whose height is 166 cm.
+* Measurement of the arm span was taken, revealing a length of 161 cm, which is abnormal for the patient's height of 169 cm.
+* Patient has an arm span of 164 cm, which is shorter than their height of 171 cm, suggesting a possible abnormality.
+* Arm span was measured at 167 cm, which is longer than the patient's height, indicating an abnormality.
+* On examination, the patient's arm span was found to be 163 cm, which is abnormal for their height of 165 cm.
+* The patient's arm span was measured and found to be 157 cm, which is shorter than their height of 163 cm.
+* Observed a disparity between the patient's arm span and height, with the arm span being 165 cm and the height being 168 cm.
+* The arm span of the patient was measured at 170 cm, which exceeds their height, indicating an abnormality.
+* Noted an abnormality in the patient's arm span, with a measurement of 156 cm and a height of 161 cm.
+* Patient presented with a shorter than expected arm span, measuring 154 cm, despite being 159 cm tall.
+* Arm span measurement revealed a length of 166 cm, which is abnormal for the patient's height of 164 cm.
+* On physical examination, the patient's arm span was found to be disproportionately long, measuring 181 cm.
+* Measured arm span was 153 cm, which is shorter than the patient's height of 158 cm, indicating a potential issue.
+* The patient's arm span was observed to be abnormally short, with a measurement of 151 cm and a height of 156 cm.
+* Patient has an arm span that exceeds their height, measuring 182 cm and being 175 cm tall.
+* The arm span of the patient was found to be 169 cm, which is longer than their height of 167 cm.
+* Noted an abnormal arm span, with a measurement of 160 cm in a patient whose height is 163 cm.
+* Physical examination revealed an arm span of 174 cm, which exceeds the patient's height, indicating an abnormality.
+* Measured the patient's arm span, revealing a length of 172 cm, which is abnormal for their height of 170 cm.
+* The patient's arm span was measured at 168 cm, which is longer than their height, suggesting an abnormality.
+* Observed an abnormal disparity between the patient's arm span and height, with the arm span being 171 cm and the height being 169 cm.
+* Patient presented with an arm span that is shorter than expected, measuring 155 cm and being 160 cm tall.
+* The arm span of the patient was found to be abnormally short, measuring 150 cm and having a height of 155 cm.
+* Noted arm span abnormality, with the measurement being 162 cm in a patient whose height is 165 cm.
+* On examination, the patient's arm span was found to be disproportionately short, measuring 149 cm.
+* The patient's arm span was measured and found to be 173 cm, which exceeds their height, indicating an abnormality.
+* Arm span measurement revealed a length of 159 cm, which is shorter than the patient's height of 162 cm, suggesting a potential issue.
+* Physical examination revealed an abnormal arm span, with a measurement of 175 cm and a height of 173 cm.

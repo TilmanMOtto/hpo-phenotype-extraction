@@ -1,0 +1,34 @@
+* The patient's flow cytometry results showed a disproportionate number of CD4+ T cells expressing the memory marker CD45RO, suggesting an abnormality in the CD4-positive, alpha-beta memory T cell compartment.
+* Immunophenotyping revealed an elevated percentage of CD4+CD45RO+ T cells, consistent with an abnormal proportion of CD4-positive, alpha-beta memory T cells.
+* Notable laboratory findings included an abnormal CD4+ T cell subset distribution, with a higher-than-expected proportion of CD127+ cells, indicating a potential issue with CD4-positive, alpha-beta memory T cell homeostasis.
+* The peripheral blood analysis indicated an imbalance in the T cell subset distribution, specifically an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are typically characterized by the co-expression of CD45RO and CD127.
+* Flow cytometric analysis demonstrated an increased proportion of CD4+ T cells with a memory phenotype, defined by CD45RO positivity and lack of CD25 expression.
+* The patient's immune profile showed an aberrant CD4+ T cell compartment, with an overrepresentation of CD44-high, CD122-high, and CD25-negative T cells, consistent with an abnormal proportion of CD4-positive, alpha-beta memory T cells.
+* Immunological evaluation revealed a disturbance in the balance between naive and memory T cell subsets, with an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are typically CD45RO-positive and CD127-positive.
+* The laboratory results indicated a skewing of the CD4+ T cell population towards a memory phenotype, characterized by high expression of CD44 and CD122, and negative for CD25.
+* Clinical findings were notable for an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are essential for long-term immune memory and typically express CD45RO and CD127.
+* Further analysis of the patient's T cell subset distribution revealed an abnormal proportion of CD4-positive, alpha-beta memory T cells, defined by the co-expression of CD45RO, CD127, and high levels of CD44 and CD122.
+* The patient's flow cytometry profile showed an abnormal proportion of CD4+ T cells with a memory phenotype, characterized by the absence of CD25 expression and high levels of CD44 and CD122.
+* Immunophenotypic analysis revealed an increased proportion of CD4+CD45RO+CD127+ T cells, consistent with an abnormal proportion of CD4-positive, alpha-beta memory T cells.
+* The patient's immune cell profile indicated an imbalance in the CD4+ T cell compartment, with an overrepresentation of memory T cells, defined by CD45RO positivity, CD127 positivity, and CD25 negativity.
+* The laboratory results demonstrated an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are crucial for secondary immune responses and typically express CD45RO, CD127, and high levels of CD44 and CD122.
+* The flow cytometry data showed an abnormal proportion of CD4+ T cells with a memory phenotype, characterized by high expression of CD44 and CD122, and negative for CD25.
+* Immunological assessment revealed a deviation in the CD4+ T cell subset distribution, with an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are typically CD45RO-positive and CD127-positive.
+* The patient's T cell profile indicated an abnormal proportion of CD4-positive, alpha-beta memory T cells, defined by the co-expression of CD45RO, CD127, and high levels of CD44 and CD122.
+* Clinical evaluation revealed an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are essential for immune memory and typically express CD45RO and CD127.
+* The laboratory findings indicated an abnormal proportion of CD4-positive, alpha-beta memory T cells, characterized by the absence of CD25 expression and high levels of CD44 and CD122.
+* Further analysis of the patient's immune cell profile revealed an abnormal proportion of CD4+ T cells with a memory phenotype, defined by CD45RO positivity, CD127 positivity, and CD25 negativity.
+* The patient's flow cytometry results showed an abnormal proportion of CD4+CD45RO+CD127+ T cells, consistent with an abnormal proportion of CD4-positive, alpha-beta memory T cells.
+* Immunophenotypic analysis demonstrated an increased proportion of CD4+ T cells with a memory phenotype, characterized by high expression of CD44 and CD122, and negative for CD25.
+* The patient's immune profile indicated an imbalance in the CD4+ T cell compartment, with an overrepresentation of memory T cells, defined by CD45RO positivity, CD127 positivity, and CD25 negativity.
+* The laboratory results indicated an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are crucial for secondary immune responses and typically express CD45RO, CD127, and high levels of CD44 and CD122.
+* The flow cytometry data demonstrated an abnormal proportion of CD4+ T cells with a memory phenotype, characterized by the co-expression of CD45RO, CD127, and high levels of CD44 and CD122.
+* Immunological evaluation revealed a disturbance in the balance between naive and memory T cell subsets, with an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are typically CD45RO-positive and CD127-positive.
+* The patient's T cell subset distribution showed an abnormal proportion of CD4-positive, alpha-beta memory T cells, defined by the absence of CD25 expression and high levels of CD44 and CD122.
+* Clinical findings were notable for an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are essential for long-term immune memory and typically express CD45RO and CD127.
+* The laboratory results indicated an abnormal proportion of CD4-positive, alpha-beta memory T cells, characterized by the co-expression of CD45RO, CD127, and high levels of CD44 and CD122.
+* Immunophenotypic analysis revealed an increased proportion of CD4+CD45RO+CD127+ T cells, consistent with an abnormal proportion of CD4-positive, alpha-beta memory T cells.
+* The patient's immune cell profile indicated an imbalance in the CD4+ T cell compartment, with an overrepresentation of memory T cells, defined by CD45RO positivity, CD127 positivity, and CD25 negativity.
+* The flow cytometry data showed an abnormal proportion of CD4+ T cells with a memory phenotype, characterized by high expression of CD44 and CD122, and negative for CD25.
+* Immunological assessment revealed a deviation in the CD4+ T cell subset distribution, with an abnormal proportion of CD4-positive, alpha-beta memory T cells, which are typically CD45RO-positive and CD127-positive.
+* The patient's T cell profile indicated an abnormal proportion of CD4-positive, alpha-beta memory T cells, defined by the co-expression of CD45RO, CD127, and high levels of CD44 and CD122.

@@ -1,0 +1,36 @@
+* The patient's symptoms were noted to be precipitated by the initiation of ACE inhibitor therapy, suggesting a potential causal relationship.
+* Use of benazepril was found to trigger the onset of symptoms in this individual.
+* Captopril-induced exacerbation of symptoms was observed, leading to a reevaluation of the patient's medication regimen.
+* The patient reported a temporal association between starting enalapril and the development of symptoms.
+* Fosinopril was identified as a potential trigger for the patient's condition, prompting consideration of alternative antihypertensive agents.
+* Symptoms were found to be reproducibly induced by challenge with lisinopril, supporting a diagnosis of ACE inhibitor-induced pathology.
+* The patient's clinical presentation was significantly worsened by the addition of an ACE inhibitor to their treatment regimen.
+* ACE inhibitor therapy, specifically with benazepril, was found to provoke symptoms in a dose-dependent manner.
+* Captopril was discontinued due to its association with the onset of symptoms, which subsequently resolved.
+* The temporal relationship between enalapril use and symptom onset suggests a potential trigger effect.
+* The patient experienced a recurrence of symptoms upon rechallenge with fosinopril, confirming the suspected trigger.
+* Lisinopril was implicated in the development of symptoms, which resolved following discontinuation of the medication.
+* The patient's symptoms were exacerbated by ACE inhibitors, leading to a switch to alternative antihypertensive therapy.
+* Benazepril-induced symptoms were found to be reversible upon discontinuation of the medication.
+* Captopril was associated with the onset of symptoms in this patient, highlighting the importance of medication monitoring.
+* Enalapril use was correlated with an increased risk of developing symptoms in this individual.
+* Fosinopril was identified as a potential culprit in the development of the patient's symptoms, prompting a medication change.
+* The patient's condition was found to be worsened by the concomitant use of ACE inhibitors, including lisinopril.
+* ACE inhibitor-induced symptoms were observed in the patient, with benazepril being the most implicated agent.
+* Symptoms were triggered by the use of captopril, leading to a reevaluation of the patient's treatment plan.
+* Enalapril was discontinued due to its suspected role in exacerbating the patient's condition.
+* The patient experienced a significant improvement in symptoms following discontinuation of fosinopril.
+* Lisinopril was found to be the most likely culprit in the development of the patient's symptoms, prompting a switch to an alternative agent.
+* The patient's clinical course was complicated by the use of ACE inhibitors, including benazepril, which triggered symptoms.
+* Captopril-induced symptoms were found to be dose-dependent, with higher doses exacerbating the patient's condition.
+* The temporal association between enalapril use and symptom onset was striking, suggesting a causal relationship.
+* Fosinopril was associated with an increased risk of developing symptoms in this patient, leading to a medication change.
+* The patient's symptoms were reproducibly induced by challenge with lisinopril, confirming the suspected trigger.
+* ACE inhibitors, including benazepril, were found to trigger symptoms in a subset of patients, highlighting the importance of individualized treatment.
+* Captopril was implicated in the development of symptoms, which resolved following discontinuation of the medication.
+* Enalapril use was correlated with an increased risk of symptom development, prompting a reevaluation of the patient's treatment plan.
+* The patient's condition was worsened by the concomitant use of ACE inhibitors, including fosinopril, leading to a medication adjustment.
+* Lisinopril was identified as a potential trigger for the patient's symptoms, prompting consideration of alternative antihypertensive agents.
+* The patient experienced a significant reduction in symptoms following discontinuation of ACE inhibitors, including benazepril.
+* The temporal relationship between captopril use and symptom onset suggests a potential trigger effect, highlighting the importance of medication monitoring.
+* Enalapril was discontinued due to its association with the onset of symptoms, which subsequently resolved, allowing for the introduction of alternative therapy.

@@ -1,0 +1,36 @@
+* The patient's visual acuity is limited to light perception only, with no ability to localize the source of the light.
+* On examination, the patient demonstrated an inability to perceive the direction of light, with vision restricted to light detection.
+* Visual assessment revealed that the patient can detect light but cannot project its source, indicating a significant visual impairment.
+* The patient's eyes are able to detect light, but there is no associated sense of direction or localization.
+* Ophthalmologic evaluation demonstrated a profound visual deficit, with the patient only able to perceive light without any sense of spatial orientation.
+* The patient has a minimal level of visual function, with the ability to detect light but not determine its location.
+* The visual acuity of the patient is severely impaired, with only the ability to perceive light and no associated projection.
+* Examination of the patient's visual system revealed a reduced level of function, with light perception present but no directional sense.
+* The patient is able to detect the presence of light, but this perception is not accompanied by any sense of spatial awareness.
+* Assessment of the patient's vision showed a significant reduction in visual acuity, with only light perception possible and no ability to localize the light source.
+* The patient's visual field is severely constricted, with only the ability to detect light and no sense of direction or projection.
+* The patient has a residual visual function limited to the perception of light, without any ability to determine the direction of the light source.
+* Ophthalmological examination demonstrated that the patient can perceive light, but this perception is not associated with any sense of spatial localization.
+* The patient's visual acuity is at a level where only light can be detected, with no sense of direction or movement.
+* Visual evaluation revealed a profound visual impairment, with the patient only able to detect light and not localize its source.
+* The patient has a severely reduced level of visual function, with the ability to perceive light but not project its source.
+* Examination of the patient's eyes revealed a significant visual deficit, with light perception present but no sense of direction.
+* The patient's visual system is only able to detect the presence or absence of light, with no associated sense of spatial awareness.
+* Assessment of the patient's vision showed a significant reduction in visual acuity, with only the ability to perceive light and no sense of projection.
+* The patient has a minimal level of visual function, limited to the detection of light without any sense of localization.
+* The patient's visual field is severely restricted, with only the ability to detect light and no sense of direction or spatial awareness.
+* Ophthalmologic examination demonstrated a significant visual impairment, with the patient only able to perceive light and not determine its source.
+* The patient's eyes are able to detect light, but there is no associated sense of movement or direction.
+* Visual assessment revealed a profound visual deficit, with the patient only able to detect light and not project its source.
+* The patient has a reduced level of visual function, with the ability to perceive light but not determine its location.
+* Examination of the patient's visual system revealed a significant impairment, with light perception present but no sense of spatial orientation.
+* The patient's visual acuity is severely impaired, with only the ability to detect light and no associated sense of direction.
+* The patient is able to detect the presence of light, but this perception is not accompanied by any sense of spatial localization.
+* Assessment of the patient's vision showed a significant reduction in visual function, with only light perception possible and no ability to project the source of the light.
+* The patient's visual field is severely constricted, with only the ability to detect light and no sense of direction or movement.
+* The patient has a residual visual function limited to the perception of light, without any ability to determine the direction or location of the light source.
+* Ophthalmological examination demonstrated that the patient can perceive light, but this perception is not associated with any sense of spatial awareness or localization.
+* The patient's visual system is only able to detect the presence or absence of light, with no associated sense of direction or spatial orientation.
+* Examination of the patient's eyes revealed a significant visual deficit, with light perception present but no sense of movement or direction.
+* The patient's visual acuity is at a level where only light can be detected, with no sense of localization or spatial awareness.
+* Visual evaluation revealed a profound visual impairment, with the patient only able to detect light and not localize its source or determine its direction.

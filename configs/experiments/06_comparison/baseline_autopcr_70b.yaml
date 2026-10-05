@@ -1,0 +1,61 @@
+# AutoPCR baseline with a 70B linker (thesis section 3.5, appendix A.5).
+#
+# Command:  METHOD=autopcr_70b sbatch slurm/baseline.sbatch   (DATASET=gsc for GSC+)
+# Model: Llama-3.3-70B-Instruct linker, 8-bit; SapBERT retrieval. Tau_1 0.95, tau_2 0.85, k 5.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Seed: 0 where the tool takes one (greedy decoding).
+# Writes <output>/baseline_autopcr_70b/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc
+dataset: hcy
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms.csv
+gsc_dir: resources/data/GSC_2024
+
+# [Required]
+llama_dir: ${paths:models.llama_3_3_70b_instruct}
+output_dir: ${paths:output_dir}
+
+# [AutoPCR]
+autopcr_dir: third_party/AutoPCR
+ontology_dict: third_party/AutoPCR/dict/HPO
+# MUST be a local directory and MUST be the model the index was built with, see the AutoPCR 8B baseline.
+ccr_model:
+# CPU on purpose: an 8-bit 70B placed whole-layer leaves little room beside it, and encoding a few
+# thousand short phrases on CPU costs seconds. This is the only key besides llama_dir that differs
+# from the AutoPCR 8B baseline, and it changes no output, just where the same arithmetic happens.
+ccr_device: cpu
+use_gpu_index: false
+tau_1: 0.95
+tau_2: 0.85
+k: 5
+ee: neural++            # published setting. The parse cache is shared with the AutoPCR 8B baseline, see there
+abbr_recog: false
+only_longest: false
+use_cache: true
+seed: 0
+# The entity linker's name, passed through to AutoPCR. Set `el: none` to disable the LLM stage
+# entirely, retrieval accepts above tau_1 and nothing else is linked. That is the pure-retrieval
+# control for this method: the difference against a normal run is what the linker adds.
+el: local
+stanza_dir: ${paths:stanza_dir}
+
+# [Model], the entity linker
+# 70B: 8-bit on one H200 (141 GB). Set true for tighter VRAM. Kept at 8-bit like the AutoPCR 8B baseline's 8B,
+# because the size comparison needs the quantization held constant.
+load_in_4bit: false
+max_new_tokens: 32
+
+# [Pilot]
+max_patients:
+stage_only: false      # see the AutoPCR 8B baseline
+
+mlflow_experiment_name: exp13_comparison

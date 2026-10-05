@@ -1,0 +1,34 @@
+* The patient exhibited a diminished response to the tuberculin skin test, suggesting reduced cell-mediated immunity.
+* Delayed hypersensitivity reaction was notably absent in response to common allergens, indicating a potential issue with immune function.
+* Skin testing revealed an impaired ability to mount a delayed-type hypersensitivity response, which may be indicative of an underlying immunodeficiency.
+* Upon examination, the patient's skin test results showed decreased reactivity to standard antigens, consistent with reduced delayed hypersensitivity.
+* The results of the Mantoux test were negative, suggesting a possible deficiency in cell-mediated immune response.
+* A lack of induration was observed in response to the purified protein derivative (PPD) skin test, indicating reduced delayed hypersensitivity.
+* Impaired delayed-type hypersensitivity was evident, as the patient failed to exhibit a typical reaction to the candida antigen.
+* The patient's immune system showed a decreased ability to respond to delayed hypersensitivity skin tests, which may be a sign of underlying immunosuppression.
+* Reduced reactivity to trichophyton antigen was noted, consistent with a diagnosis of impaired delayed hypersensitivity.
+* Skin testing with mumps antigen yielded a negative result, suggesting a deficiency in delayed-type hypersensitivity reaction.
+* The patient's anergic response to the skin test suggests a possible issue with T-cell mediated immunity.
+* Decreased delayed hypersensitivity was observed, as evidenced by a lack of reaction to the streptokinase-streptodornase skin test.
+* The patient's immune response to the varidase skin test was blunted, indicating reduced delayed hypersensitivity.
+* A negative reaction to the dermatophytin skin test was observed, which may be indicative of impaired delayed-type hypersensitivity.
+* Reduced delayed hypersensitivity was noted in response to the histoplasmin skin test, suggesting a potential issue with cell-mediated immunity.
+* The patient's skin test results showed decreased reactivity to coccidioidin, consistent with impaired delayed hypersensitivity.
+* A lack of reaction to the PPD-B skin test was observed, suggesting a possible deficiency in delayed-type hypersensitivity reaction.
+* Impaired delayed hypersensitivity was evident, as the patient failed to exhibit a typical reaction to the tetanus toxoid skin test.
+* The patient's immune system showed a decreased ability to respond to delayed hypersensitivity skin tests, which may be a sign of underlying immunodeficiency or immunosuppression.
+* Decreased reactivity to the PPD skin test was noted, consistent with a diagnosis of reduced delayed hypersensitivity.
+* The patient's skin test results showed an impaired ability to mount a delayed-type hypersensitivity response to common antigens.
+* A negative reaction to the diphtheria toxoid skin test was observed, suggesting a possible issue with T-cell mediated immunity.
+* Reduced delayed hypersensitivity was observed, as evidenced by a lack of reaction to the blastomycin skin test.
+* The patient's immune response to the Schick test was blunted, indicating reduced delayed hypersensitivity.
+* Impaired delayed-type hypersensitivity was noted in response to the coccidioidin skin test, suggesting a potential issue with cell-mediated immunity.
+* The patient's skin test results showed decreased reactivity to histoplasmin, consistent with impaired delayed hypersensitivity.
+* A lack of induration was observed in response to the PPD skin test, indicating reduced delayed hypersensitivity.
+* Decreased delayed hypersensitivity was evident, as the patient failed to exhibit a typical reaction to the mumps antigen skin test.
+* The patient's immune system showed a decreased ability to respond to delayed hypersensitivity skin tests, which may be a sign of underlying immunosuppression or immunodeficiency.
+* Reduced reactivity to the trichophyton skin test was noted, consistent with a diagnosis of impaired delayed hypersensitivity.
+* The patient's skin test results showed an impaired ability to mount a delayed-type hypersensitivity response to the tetanus toxoid antigen.
+* Impaired delayed hypersensitivity was noted in response to the dermatophytin skin test, suggesting a potential issue with T-cell mediated immunity.
+* The patient's immune response to the varidase skin test was decreased, indicating reduced delayed hypersensitivity.
+* A negative reaction to the candida skin test was observed, suggesting a possible deficiency in delayed-type hypersensitivity reaction.

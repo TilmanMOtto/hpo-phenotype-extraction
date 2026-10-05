@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hpo-extraction"
+version = "1.0.0"
+description = "Extraction of Human Phenotype Ontology terms from clinical text: TreePhenoRAG and PhenoJury"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.scripts]
+hpo-treephenorag = "hpo_extraction.treephenorag.cli:main"
+hpo-phenojury = "hpo_extraction.phenojury.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "."]

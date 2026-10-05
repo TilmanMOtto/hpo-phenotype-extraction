@@ -1,0 +1,36 @@
+* The electroretinogram (ERG) showed an abnormal response to both light and dark adaptation, indicating a potential issue with rod and cone function.
+* Rod-cone dysfunction was suspected based on the abnormal findings of the dark-adapted 3.0 ERG.
+* The patient's ERG revealed an aberrant combined rod-and-cone response, suggestive of underlying retinal pathology.
+* An abnormal light-adapted ERG was noted, with decreased cone function, while the dark-adapted response showed rod dysfunction.
+* The scotopic ERG (dark-adapted) demonstrated an abnormal rod response, with reduced amplitude and delayed implicit time.
+* Cone function was impaired, as evidenced by the abnormal photopic ERG (light-adapted), with decreased sensitivity and altered waveform.
+* The full-field ERG showed an abnormal combined rod-and-cone response, indicating widespread retinal dysfunction.
+* Rod and cone dysfunction was confirmed by the abnormal ERG findings, which revealed a significantly reduced b-wave amplitude.
+* The dark-adapted ERG demonstrated a decreased a-wave amplitude, suggesting rod photoreceptor dysfunction.
+* An abnormal ERG response was noted in both light and dark conditions, with reduced retinal sensitivity and altered waveform morphology.
+* The patient's abnormal ERG results suggested a diagnosis of cone-rod dystrophy, with significant impairment of central vision.
+* A combined rod-and-cone response abnormality was detected on ERG, indicating a possible genetic or acquired retinal disorder.
+* The light-adapted ERG showed a reduced flicker response, indicative of cone dysfunction, while the dark-adapted response was flat, suggesting rod dysfunction.
+* The ERG findings indicated abnormal rod and cone function, with a significantly prolonged implicit time and reduced amplitude.
+* An abnormal scotopic ERG response was noted, with a decreased b-wave to a-wave ratio, suggestive of inner retinal dysfunction.
+* The photopic ERG (light-adapted) demonstrated an abnormal cone response, with a reduced 30-Hz flicker amplitude and altered waveform.
+* Rod-cone degeneration was suspected based on the abnormal ERG findings, which revealed a significantly reduced response to both light and dark adaptation.
+* The patient's ERG results showed an abnormal combined rod-and-cone response, with a "negative" ERG pattern, indicative of severe retinal dysfunction.
+* The dark-adapted ERG demonstrated a significantly reduced rod response, with a decreased a-wave amplitude and prolonged implicit time.
+* An abnormal ERG response was noted in both eyes, with asymmetrical rod and cone dysfunction, suggestive of a unilateral or asymmetric retinal disorder.
+* The full-field ERG showed an abnormal combined rod-and-cone response, with a significantly reduced retinal sensitivity and altered waveform morphology.
+* Cone dysfunction was confirmed by the abnormal photopic ERG findings, which revealed a reduced 30-Hz flicker response and altered waveform.
+* The ERG results indicated abnormal rod function, with a significantly reduced b-wave amplitude and prolonged implicit time in the dark-adapted condition.
+* A combined rod-and-cone response abnormality was detected on ERG, indicating a possible inherited or acquired retinal disorder.
+* The patient's abnormal ERG results suggested a diagnosis of retinitis pigmentosa, with significant impairment of peripheral and night vision.
+* The light-adapted ERG showed an abnormal cone response, with a reduced sensitivity and altered waveform, while the dark-adapted response was flat, suggesting rod dysfunction.
+* The ERG findings indicated abnormal rod and cone function, with a significantly reduced amplitude and prolonged implicit time in both light and dark conditions.
+* An abnormal scotopic ERG response was noted, with a decreased b-wave to a-wave ratio, suggestive of inner retinal dysfunction and potential retinal degeneration.
+* The photopic ERG (light-adapted) demonstrated an abnormal cone response, with a reduced 30-Hz flicker amplitude and altered waveform, indicative of cone dysfunction.
+* Rod-cone dysfunction was suspected based on the abnormal ERG findings, which revealed a significantly reduced response to both light and dark adaptation, with asymmetrical rod and cone involvement.
+* The patient's ERG results showed an abnormal combined rod-and-cone response, with a significantly reduced retinal sensitivity and altered waveform morphology, suggestive of a severe retinal disorder.
+* The dark-adapted ERG demonstrated a significantly reduced rod response, with a decreased a-wave amplitude and prolonged implicit time, indicative of rod photoreceptor dysfunction.
+* An abnormal ERG response was noted in both eyes, with symmetrical rod and cone dysfunction, suggestive of a systemic or inherited retinal disorder.
+* The full-field ERG showed an abnormal combined rod-and-cone response, with a significantly reduced amplitude and prolonged implicit time, indicative of widespread retinal dysfunction.
+* Cone dysfunction was confirmed by the abnormal photopic ERG findings, which revealed a reduced sensitivity and altered waveform, while the dark-adapted response was flat, suggesting rod dysfunction.
+* The ERG results indicated abnormal rod function, with a significantly reduced b-wave amplitude and prolonged implicit time in the dark-adapted condition, suggestive of rod photoreceptor degeneration.

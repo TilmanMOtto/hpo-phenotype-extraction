@@ -1,0 +1,27 @@
+0:17	HP:0001067	Neurofibromatosis
+31:49	HP:0000006	autosomal-dominant
+41:49	HP:0000006	dominant
+50:68	HP:0002664	multiple neoplasia
+59:68	HP:0002664	neoplasia
+117:123	HP:0002664	tumour
+358:365	HP:0003745	de novo
+358:374	HP:0003745	de novo mutation
+379:396	HP:0001067	neurofibromatosis
+422:444	HP:0004375	nervous system tumours
+437:444	HP:0002664	tumours
+446:457	HP:0100008	schwannomas
+459:470	HP:0002858	meningiomas
+472:483	HP:0002888	ependymomas
+485:497	HP:0009592	astrocytomas
+503:516	HP:0001067	neurofibromas
+519:540	HP:0009830	peripheral neuropathy
+530:540	HP:0009830	neuropathy
+542:566	HP:0000478	ophthalmological lesions
+568:577	HP:0000518	cataracts
+579:599	HP:0100014	epiretinal membranes
+605:623	HP:0009594	retinal hamartomas
+630:647	HP:0011355	cutaneous lesions
+649:661	HP:0008069	skin tumours
+654:661	HP:0002664	tumours
+935:952	HP:0001067	neurofibromatosis
+613:623	HP:0010566	hamartomas

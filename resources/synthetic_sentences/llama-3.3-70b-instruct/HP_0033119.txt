@@ -1,0 +1,34 @@
+* The patient's echocardiogram revealed an estimated right ventricular systolic pressure of 45 mmHg, suggesting elevated pressures.
+* Right heart catheterization confirmed a diagnosis of pulmonary hypertension, with an measured RVSP of 50 mmHg.
+* Elevated right ventricular systolic pressure was noted on electrocardiogram, prompting further evaluation for underlying pulmonary disease.
+* The tricuspid regurgitant jet velocity was used to estimate an RVSP of 38 mmHg, indicating elevated right ventricular pressures.
+* A right ventricular systolic pressure of 42 mmHg was measured during cardiac catheterization, raising concerns for pulmonary vascular disease.
+* Pulmonary artery systolic pressure was estimated to be 48 mmHg based on echocardiographic evaluation of the tricuspid regurgitant jet.
+* The patient presented with symptoms suggestive of pulmonary hypertension, including an elevated RVSP of 55 mmHg on echocardiogram.
+* Right ventricular systolic pressure was elevated at 40 mmHg, consistent with a diagnosis of pulmonary arterial hypertension.
+* Echocardiography demonstrated an estimated RVSP of 35 mmHg, indicating mildly elevated right ventricular pressures.
+* Cardiac catheterization revealed an RVSP of 60 mmHg, confirming severe pulmonary hypertension.
+* The estimated right ventricular systolic pressure was 32 mmHg, approaching the upper limit of normal.
+* Elevated RVSP was noted in the context of left-to-right shunting, suggesting potential for pulmonary vascular disease.
+* A mildly elevated RVSP of 28 mmHg was detected on echocardiogram, warranting close monitoring.
+* Severe pulmonary hypertension was diagnosed based on an RVSP of 80 mmHg measured during right heart catheterization.
+* The patient underwent echocardiography, which revealed an estimated RVSP of 50 mmHg, prompting initiation of pulmonary hypertension therapy.
+* An RVSP of 48 mmHg was measured during exercise stress testing, indicating exercise-induced pulmonary hypertension.
+* Right ventricular systolic pressure was elevated at 58 mmHg, consistent with a diagnosis of chronic thromboembolic pulmonary hypertension.
+* Pulmonary artery systolic pressure was estimated to be 45 mmHg based on Doppler evaluation of the tricuspid regurgitant jet.
+* Elevated right ventricular systolic pressure was detected in the setting of lung disease, with an RVSP of 38 mmHg on echocardiogram.
+* A cardiac catheterization revealed an RVSP of 70 mmHg, indicating severe pulmonary hypertension.
+* Right ventricular systolic pressure was elevated at 42 mmHg, suggesting potential for pulmonary vascular disease.
+* Echocardiography demonstrated an estimated RVSP of 30 mmHg, within normal limits but warranting close monitoring.
+* The patient presented with an RVSP of 62 mmHg, consistent with a diagnosis of idiopathic pulmonary arterial hypertension.
+* Elevated RVSP was noted on electrocardiogram, prompting referral for echocardiography and further evaluation.
+* Right heart catheterization confirmed a diagnosis of pulmonary hypertension, with an measured RVSP of 58 mmHg.
+* The estimated right ventricular systolic pressure was 40 mmHg, indicating mildly elevated right ventricular pressures.
+* Severe pulmonary hypertension was diagnosed based on an RVSP of 90 mmHg measured during right heart catheterization.
+* Elevated right ventricular systolic pressure was detected in the setting of congenital heart disease, with an RVSP of 50 mmHg on echocardiogram.
+* Pulmonary artery systolic pressure was estimated to be 55 mmHg based on Doppler evaluation of the tricuspid regurgitant jet.
+* The patient underwent cardiac catheterization, which revealed an RVSP of 65 mmHg, indicating severe pulmonary hypertension.
+* Right ventricular systolic pressure was elevated at 48 mmHg, consistent with a diagnosis of pulmonary arterial hypertension.
+* Echocardiography demonstrated an estimated RVSP of 35 mmHg, suggesting mildly elevated right ventricular pressures.
+* Elevated RVSP was noted in the context of systemic sclerosis, prompting initiation of pulmonary hypertension therapy.
+* A right ventricular systolic pressure of 60 mmHg was measured during exercise stress testing, indicating exercise-induced pulmonary hypertension.

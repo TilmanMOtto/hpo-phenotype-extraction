@@ -1,0 +1,226 @@
+/* exp13_06 deep dive — the styles this app adds on top of the shared stylesheet.
+
+   `style.css` in this folder is a *symlink* to app/tree_ui/assets/style.css, shared with tree_ui
+   and ensemble_ui, so anything written there changes three apps. This file is the app's own layer,
+   the same arrangement ensemble_ui uses with `ensemble.css`. Dash loads every stylesheet in the
+   assets folder, and every rule here is for a class the shared sheet does not define, so the load
+   order does not matter.
+
+   The classes below are emitted by views/patient.py and views/compare_pb.py. Highlight *colours*
+   stay inline in the Python: they come from theme.palette(mode), which is also what the Plotly
+   figures are drawn from, and splitting one palette across two languages is how the two drift
+   apart. What lives here is layout, spacing and interaction state. */
+
+.view > .field,
+.view > .filter-row { margin-bottom: 14px; }
+
+.filter-row { display: flex; flex-wrap: wrap; gap: 18px; align-items: flex-end; }
+.filter-row .field { flex: 1 1 220px; margin-bottom: 0; }
+
+.check-list label { display: block; font-size: 12.5px; color: var(--text-secondary); }
+
+/* The report picker: ◀ [ dropdown ] ▶ */
+.stepper { display: flex; align-items: center; gap: 8px; }
+.step-btn { padding: 4px 11px; font-size: 13px; line-height: 1.2; }
+.step-btn:disabled { opacity: .3; cursor: default; }
+
+/* The report as a document. Looser line height than a table, because this is prose being read
+   rather than scanned — and the underlined spans need room not to collide with the line below. */
+.report-body {
+  line-height: 1.85;
+  font-size: 13.5px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+  max-height: 460px;
+  overflow: auto;
+}
+
+.legend-row { margin-top: 10px; font-size: 12px; }
+.chip-row { display: flex; flex-wrap: wrap; gap: 4px; margin: 6px 0 8px 0; align-items: center; }
+.baseline-row { font-size: 11px; }
+
+/* A term chip with no colour of its own. `.pill` in the shared sheet is written for *coloured*
+   chips: it sets white text and leaves the caller to supply a background, so a chip drawn without
+   one is white on white. Two classes rather than one so this wins over `.pill` on specificity,
+   whichever order the two stylesheets happen to load in. */
+.pill.pill-term {
+  background: var(--surface-3);
+  color: var(--text);
+  font-weight: 500;
+}
+/* One annotated match: the phrase, underlined, with the term it normalised to inline beside it.
+   Used identically in the report and in every model reply — `views/patient.py:_annotate` renders
+   both — so the two surfaces cannot drift apart.
+
+   `white-space: nowrap` on the wrapper keeps a phrase from being separated from its own tag across
+   a line break, which is the one way this layout can mislead. The text inside still wraps, because
+   only the wrapper is nowrap and long phrases are rare. */
+.pb-ann { white-space: nowrap; }
+.pb-ann mark { white-space: normal; }
+
+.pb-tag {
+  display: inline-block;
+  margin: 0 2px 0 3px;
+  padding: 0 4px;
+  border: 1px solid;
+  border-radius: 4px;
+  font-size: .74em;
+  font-weight: 600;
+  line-height: 1.5;
+  vertical-align: 1px;
+  white-space: normal;
+}
+
+/* A sentence inside the report, as a click target. The hover has to be visible without being
+   loud: this text is read far more often than it is clicked. */
+.report-sent { cursor: pointer; border-radius: 3px; transition: background .1s; }
+.report-sent:hover { background: color-mix(in srgb, var(--accent) 14%, transparent); }
+.report-sent.is-related { background: color-mix(in srgb, var(--warning) 26%, transparent); }
+.report-sent.is-selected {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  box-shadow: 0 0 0 1px var(--accent);
+}
+
+/* The fallback list, for a report whose sentences could not be located in the staged text. */
+.sentence-line { display: flex; gap: 8px; align-items: baseline; margin-bottom: 6px; }
+.sent-num { background: var(--surface-3); color: var(--text-secondary); flex: 0 0 auto; }
+
+/* A term in "Terms in play", doubling as the sentence filter. */
+.term-btn {
+  background: none;
+  border: none;
+  border-bottom: 1px dashed var(--border);
+  padding: 0;
+  font: inherit;
+  color: var(--text);
+  cursor: pointer;
+  text-align: left;
+}
+.term-btn:hover { border-bottom-color: var(--accent); color: var(--accent); }
+.term-btn.is-active {
+  color: var(--accent);
+  border-bottom: 2px solid var(--accent);
+  font-weight: 600;
+}
+
+/* Hover for a term's definition and synonyms. Deliberately quiet — there is one per row, and it
+   is an affordance rather than content. */
+.info-dot {
+  cursor: help;
+  margin-left: 4px;
+  font-size: .85em;
+  color: var(--text-muted);
+}
+.info-dot:hover { color: var(--accent); }
+
+/* One sentence and everything written about it. */
+.sentence-block { border-top: 1px solid var(--border); padding: 12px 0; }
+.sentence-block:first-child { border-top: none; }
+.sentence-head { display: flex; gap: 8px; align-items: baseline; }
+.sentence-text { font-size: 13.5px; line-height: 1.6; }
+
+/* Replies sit side by side: eight models stacked is a page of scrolling, and the comparison the
+   reader is making is between models on the *same* sentence. */
+.reply-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 10px;
+}
+@media (max-width: 900px) { .reply-grid { grid-template-columns: 1fr; } }
+
+.reply-block {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 10px;
+  min-width: 0;
+}
+.reply-text {
+  font-size: 12.5px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 260px;
+  overflow: auto;
+}
+
+.prompt-box {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 12px;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  max-height: 320px;
+  overflow: auto;
+  margin: 4px 0 12px 0;
+}
+
+/* Presentation mode enlarges the evidence, so the two reading surfaces grow with it. */
+body[data-present="1"] .report-body { font-size: 15.5px; max-height: none; }
+body[data-present="1"] .reply-text { font-size: 14px; }
+
+/* ── Annotate ────────────────────────────────────────────────────────────────
+   A queue on the left and one reply on the right. The split is fixed rather than fluid because
+   the queue's rows are a scannable index — letting them grow with the window would turn a column
+   you glance down into a column you read across. */
+.an-split {
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+}
+@media (max-width: 1100px) { .an-split { grid-template-columns: 1fr; } }
+
+.an-queue-col {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  position: sticky;
+  top: 8px;
+}
+.an-reply-col { min-width: 0; }
+
+/* The queue itself scrolls independently, so picking the next reply never means scrolling the
+   annotated generation off the screen. */
+.an-queue-list { display: flex; flex-direction: column; gap: 2px; max-height: 52vh; overflow: auto; }
+
+.an-queue-item {
+  text-align: left;
+  font-size: 12px;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  padding: 4px 6px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.an-queue-item:hover { background: var(--surface); color: var(--text); }
+.an-queue-current {
+  border-color: var(--accent);
+  color: var(--text);
+  font-weight: 600;
+}
+
+.an-head { display: flex; gap: 8px; align-items: center; margin-bottom: 8px; flex-wrap: wrap; }
+.an-head-id { font-weight: 600; font-size: 14px; }
+
+/* The deep-dive cell badge. Hollow rather than filled: it labels a report without competing with
+   the model and outcome pills, which carry the colours that mean something. */
+.pill-cell {
+  background: transparent;
+  border: 1px dashed var(--accent);
+  color: var(--accent);
+}

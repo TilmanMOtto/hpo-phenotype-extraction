@@ -1,0 +1,36 @@
+* The patient's ECG revealed evidence of a second-degree atrioventricular (AV) block, characterized by intermittent failure of atrial impulses to conduct to the ventricles.
+* A Mobitz type II AV block was diagnosed, indicating that some but not all P waves are followed by QRS complexes.
+* On cardiac monitoring, we observed periods of normal conduction interspersed with episodes of non-conducted P waves, consistent with a second-degree AV block.
+* The resting ECG showed a PR interval that was consistently prolonged, but with occasional dropped beats, suggestive of a Type I second-degree AV block.
+* The patient's Holter monitor tracing demonstrated 2:1 AV block, with every other P wave failing to conduct to the ventricles.
+* Intermittent AV block was noted on telemetry, with some P waves not being followed by a QRS complex.
+* A second-degree AV block was detected on exercise stress test, with increasing degrees of AV block noted at higher heart rates.
+* The patient's rhythm strip showed a pattern of P waves with occasional non-conducted beats, indicative of a second-degree AV block.
+* A diagnosis of second-degree AV block, Mobitz type I, was made based on the presence of progressive PR interval prolongation before a non-conducted P wave.
+* Cardiac catheterization revealed no significant coronary artery disease, but the patient's ECG showed a persistent second-degree AV block.
+* We observed a 3:2 conduction ratio in the patient's cardiac rhythm, with two out of every three P waves being conducted to the ventricles.
+* A second-degree AV block was incidentally discovered on a routine ECG in an asymptomatic patient.
+* The patient presented with symptoms of dizziness and near-syncope, which were attributed to a second-degree AV block with significant bradycardia.
+* A cardiac MRI was ordered to evaluate the patient's cardiac structure and function in the setting of a known second-degree AV block.
+* The patient's ECG showed a second-degree AV block with a 4:3 conduction ratio, indicating that four out of every five P waves were conducted to the ventricles.
+* During electrophysiology study, the patient was noted to have a second-degree AV block with a prolonged HV interval.
+* A second-degree AV block was diagnosed in a patient with a history of Lyme disease, which is a known cause of this condition.
+* The patient's pacemaker was programmed to provide backup pacing in the event of a second-degree AV block.
+* On physical examination, the patient's pulse was irregularly irregular due to a second-degree AV block.
+* A second-degree AV block was noted on intraoperative telemetry during a non-cardiac surgery.
+* The patient's cardiac rhythm device was interrogated, revealing episodes of second-degree AV block that-correlated with symptomatic episodes.
+* The ECG showed evidence of a second-degree AV block, with some P waves being conducted to the ventricles with a prolonged PR interval.
+* A diagnosis of second-degree AV block, Mobitz type II, was made based on the presence of intermittent non-conducted P waves.
+* We observed a pattern of alternating conducted and non-conducted P waves on the patient's ECG, consistent with a second-degree AV block.
+* The patient's Holter monitor showed 10% of P waves were not conducted to the ventricles, consistent with a second-degree AV block.
+* The patient presented with chest pain and was found to have a second-degree AV block on ECG, which was thought to be secondary to cardiac ischemia.
+* Cardiac enzyme levels were elevated in the patient with a second-degree AV block, suggesting myocardial injury.
+* A second-degree AV block was diagnosed on a 12-lead ECG in a patient with a history of cardiac sarcoidosis.
+* The patient underwent EP study, which confirmed the diagnosis of a second-degree AV block with infra-Hisian delay.
+* A diagnosis of congenital heart block was considered, given the patient's history of a second-degree AV block since birth.
+* The patient's ECG demonstrated a 5:4 conduction ratio, indicating that five out of every six P waves were conducted to the ventricles.
+* The patient's cardiac rhythm device was reprogrammed to optimize pacing in the setting of a known second-degree AV block.
+* On treadmill stress test, the patient developed a second-degree AV block at peak exercise, which resolved with rest.
+* The patient presented with hypotension and bradycardia, which were thought to be secondary to a second-degree AV block.
+* The patient's ECG showed a second-degree AV block with periods of 2:1 conduction, indicating that every other P wave was conducted to the ventricles.
+* The diagnosis of a second-degree AV block was made based on the presence of intermittent non-conducted P waves on the patient's ECG.

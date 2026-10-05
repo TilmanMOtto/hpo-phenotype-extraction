@@ -1,0 +1,40 @@
+# autopcr_ee_venv — the environment AutoPCR's constituency-parse extraction (ee="neural+"/"neural++")
+# runs in. ONLY src/AutoPCR/extract_phrases.py runs here; the linker run (exp13_19/exp13_20) stays in
+# PhenoRAG_marc_env and reads the two JSON files this environment leaves beside the corpus.
+#
+# Why a separate environment: upstream pins transformers 4.49 and protobuf 6, PhenoRAG_marc_env pins
+# transformers >=4.56 and protobuf 4.25.5. Every version below is copied from upstream's own
+# environment.yml at the vendored pin (c2b46a9c088c696533a43c5cb8e50c7500f055fe), so the parse is
+# the one their published numbers were produced with. Change nothing here without a reason written
+# next to it.
+#
+# Created by cluster/setup_autopcr_ee_venv.sh (python 3.10, as upstream). The spaCy model
+# en_core_web_trf is NOT on PyPI and the benepar model is not a pip package at all — both are staged
+# by scripts/stage_autopcr_ee_assets.sh.
+
+# ── the parser ─────────────────────────────────────────────────────────────────────────────────
+benepar==0.2.0
+torch-struct==0.5
+torch==2.5.1                      # upstream: pytorch 2.5.1 (conda, cuda 11.8); the PyPI wheel is the same release
+transformers==4.49.0
+tokenizers==0.21.4
+sentencepiece==0.2.1
+protobuf==6.31.1
+
+# ── spaCy, and the curated-transformers stack en_core_web_trf 3.7.x is built on ─────────────────
+spacy==3.7.5
+thinc==8.2.5
+spacy-curated-transformers==0.2.2
+curated-transformers==0.1.1
+curated-tokenizers==0.0.9
+spacy-transformers==1.3.9
+spacy-alignments==0.9.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+
+# ── what src/AutoPCR/ee/ itself imports ───────────────────────────────────────────────────────
+nltk==3.9.1
+numpy==1.26.4
+tqdm==4.67.1
+# stanza is deliberately absent: ee/pbert.py builds its pipeline lazily (PATCHES.md §4) and the
+# Stanza pass runs in the linker env, so nothing here imports it.

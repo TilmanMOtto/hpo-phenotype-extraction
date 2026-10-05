@@ -1,0 +1,563 @@
+"""Emission: one table model, rendered as CSV, LaTeX and markdown, plus figures.
+
+Every table is built once as a list of flat dicts by :mod:`sections` and rendered from that single
+object. The three formats therefore cannot disagree, a number corrected in the CSV is corrected in
+the ``\\input``-ready LaTeX and in the prose report by design, which counts because the
+thesis will quote all three at different times.
+
+Conventions:
+
+* **Floats** are formatted at fixed precision in LaTeX and markdown but written at full precision
+  to CSV, so the CSV stays the auditable artifact and the tables stay readable.
+* **Missing** is ``n/a``, never ``0``. A metric that could not be computed and a metric that
+  measured zero are different facts.
+* **Placeholder rows** survive into every format carrying their ``reason``, so a gap in the results
+  is always self-explaining.
+* **Main rows** are marked ``*`` with the oracle-selection footnote attached to the table.
+"""
+
+from __future__ import annotations
+
+import csv
+import json
+import logging
+import math
+from pathlib import Path
+from typing import Any, Iterable, Sequence
+
+logger = logging.getLogger(__name__)
+
+NA = "n/a"
+
+#: Printed under any table containing an oracle-selected main row.
+MAIN_RESULT_FOOTNOTE = (
+    "* headline operating point, selected as the best micro-F1 on this same cohort. "
+    "This is an oracle selection, not a held-out result; every method is treated identically, "
+    "so between-method comparisons remain fair, but the absolute values are optimistic."
+)
+
+
+# ── Formatting ───────────────────────────────────────────────────────────────
+
+def _is_missing(value: Any) -> bool:
+    return value is None or (isinstance(value, float) and math.isnan(value))
+
+
+def fmt(value: Any, precision: int = 3) -> str:
+    """Human-readable cell: fixed-precision floats, ``n/a`` for missing, ints kept exact."""
+    if _is_missing(value):
+        return NA
+    if isinstance(value, bool):
+        return "yes" if value else "no"
+    if isinstance(value, int):
+        return str(value)
+    if isinstance(value, float):
+        if value != 0 and (abs(value) < 10**-precision or abs(value) >= 1e6):
+            return f"{value:.{precision}e}"
+        return f"{value:.{precision}f}"
+    if isinstance(value, dict):
+        return " ".join(f"{k}:{v}" for k, v in value.items()) or NA
+    return str(value)
+
+
+def _latex_escape(text: str) -> str:
+    for char, repl in (("\\", r"\textbackslash{}"), ("&", r"\&"), ("%", r"\%"), ("$", r"\$"),
+                       ("#", r"\#"), ("_", r"\_"), ("{", r"\{"), ("}", r"\}"), ("~", r"\textasciitilde{}"),
+                       ("^", r"\textasciicircum{}")):
+        text = text.replace(char, repl)
+    return text
+
+
+def _columns(rows: Sequence[dict], columns: Sequence[str] | None) -> list[str]:
+    """Explicit column list, or the union of all keys in first-seen order."""
+    if columns is not None:
+        return list(columns)
+    seen: dict[str, None] = {}
+    for row in rows:
+        for key in row:
+            if not key.startswith("_"):
+                seen.setdefault(key, None)
+    return list(seen)
+
+
+def _star_column(columns: Sequence[str]) -> str | None:
+    """Which column carries the main ``*``.
+
+    The configuration when the table shows one, that is what was selected, otherwise the
+    method label. one column, so a main row is not marked twice.
+    """
+    for candidate in ("operating_point", "label", "method"):
+        if candidate in columns:
+            return candidate
+    return None
+
+
+def _display(row: dict, column: str, precision: int, star_column: str | None) -> str:
+    text = fmt(row.get(column), precision)
+    if column == star_column and row.get("is_headline"):
+        text += "*"
+    return text
+
+
+# ── Writers ──────────────────────────────────────────────────────────────────
+
+def write_csv(rows: Sequence[dict], path: Path, columns: Sequence[str] | None = None) -> str:
+    """Full-precision CSV, the auditable form of the table."""
+    cols = _columns(rows, columns)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
+        writer.writeheader()
+        for row in rows:
+            writer.writerow({
+                c: (json.dumps(row[c], sort_keys=True) if isinstance(row.get(c), (dict, list))
+                    else row.get(c, ""))
+                for c in cols
+            })
+    return path.name
+
+
+def write_latex(rows: Sequence[dict], path: Path, caption: str, label: str,
+                columns: Sequence[str] | None = None, precision: int = 3) -> str:
+    """A booktabs ``table`` ready to ``\\input`` into ``thesis/sections/``."""
+    cols = _columns(rows, columns)
+    has_main_result = any(r.get("is_headline") for r in rows)
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+    star = _star_column(cols)
+    lines = [
+        "% Generated by experiments/exp13_07_thesis_metrics — do not edit by hand.",
+        r"\begin{table}[t]",
+        r"  \centering",
+        r"  \small",
+        f"  \\caption{{{_latex_escape(caption)}}}",
+        f"  \\label{{{label}}}",
+        f"  \\begin{{tabular}}{{{'l' * len(cols)}}}",
+        r"    \toprule",
+        "    " + " & ".join(_latex_escape(c.replace("_", " ")) for c in cols) + r" \\",
+        r"    \midrule",
+    ]
+    for row in rows:
+        lines.append("    " + " & ".join(
+            _latex_escape(_display(row, c, precision, star)) for c in cols) + r" \\")
+    lines += [r"    \bottomrule", r"  \end{tabular}"]
+    if has_main_result:
+        lines.append(f"  \\par\\vspace{{2pt}}\\footnotesize {_latex_escape(MAIN_RESULT_FOOTNOTE)}")
+    lines += [r"\end{table}", ""]
+
+    path.write_text("\n".join(lines), encoding="utf-8")
+    return path.name
+
+
+def markdown_table(rows: Sequence[dict], columns: Sequence[str] | None = None,
+                   precision: int = 3) -> str:
+    """A GitHub-flavoured markdown table for ``results.md``."""
+    if not rows:
+        return "_(no rows)_\n"
+    cols = _columns(rows, columns)
+    star = _star_column(cols)
+    out = ["| " + " | ".join(c.replace("_", " ") for c in cols) + " |",
+           "|" + "|".join("---" for _ in cols) + "|"]
+    for row in rows:
+        out.append("| " + " | ".join(
+            _display(row, c, precision, star).replace("|", r"\|") for c in cols) + " |")
+    if any(r.get("is_headline") for r in rows):
+        out.append("")
+        out.append(f"_{MAIN_RESULT_FOOTNOTE}_")
+    return "\n".join(out) + "\n"
+
+
+class Tables:
+    """Accumulates tables, writes each as CSV + LaTeX, and collects markdown for the report.
+
+    Registering a table in one place is what keeps the three renderings in step. Nothing outside
+    this class writes a table file.
+    """
+
+    def __init__(self, run_output_dir: Path):
+        self.tables_dir = Path(run_output_dir) / "tables"
+        self.tables_dir.mkdir(parents=True, exist_ok=True)
+        self.artifacts: list[str] = []
+        self.sections: list[tuple[str, str]] = []   # (heading, markdown body)
+
+    def add(self, name: str, rows: Sequence[dict], caption: str,
+            columns: Sequence[str] | None = None, precision: int = 3,
+            note: str = "", in_report: bool = True) -> None:
+        """Write ``tables/{name}.csv`` and ``tables/{name}.tex``. Stash the markdown.
+
+        *columns* curates the **printed** table, a LaTeX table with forty columns is unusable.
+        The CSV ignores it and writes every field: it is the artifact a number gets
+        re-checked against, so dropping a column there would mean a value the thesis quotes has
+        no auditable record. The identifying columns (`method`, `cohort`, …) in particular must
+        survive even when a printed table shows only the human-readable label.
+        """
+        rows = list(rows)
+        if not rows:
+            rows = [{"status": "placeholder", "reason": "no rows produced for this table"}]
+        csv_name = write_csv(rows, self.tables_dir / f"{name}.csv")
+        tex_name = write_latex(rows, self.tables_dir / f"{name}.tex", caption,
+                               f"tab:exp13_{name}", columns, precision)
+        self.artifacts += [f"tables/{csv_name}", f"tables/{tex_name}"]
+
+        # ``in_report=False`` still writes both files, the bookkeeping tables are wanted as
+        # artifacts, but keeps them out of ``results.md``, where a 77-row applicability matrix
+        # ahead of the first metric would bury the results it exists to explain. They live in
+        # ``availability.md`` instead.
+        if in_report:
+            body = markdown_table(rows, columns, precision)
+            if note:
+                body = f"{note}\n\n{body}"
+            self.sections.append((caption, body))
+
+    def add_note(self, caption: str, text: str) -> None:
+        """A prose-only section of the report, placeholders, notes, provenance."""
+        self.sections.append((caption, text.rstrip() + "\n"))
+
+
+# ── The markdown report ──────────────────────────────────────────────────────
+
+def write_results_md(path: Path, tables: Tables, preamble: str,
+                     title: str = "exp13 results — thesis metrics") -> str:
+    """Assemble ``results.md``, the skeleton's section order, tables inline, notes in prose.
+
+    *title* is a parameter because this module is shared: an earlier exploratory run re-scores the same comparison
+    under ancestor negation and writes its own ``results.md``, and two files headed by the same
+    ``# earlier results — thesis metrics`` would be indistinguishable once either is pasted into the
+    thesis draft.
+    """
+    parts = [f"# {title}", "", preamble.rstrip(), ""]
+    for heading, body in tables.sections:
+        parts += [f"## {heading}", "", body.rstrip(), ""]
+    path.write_text("\n".join(parts), encoding="utf-8")
+    return path.name
+
+
+def write_availability_md(path: Path, rows: Sequence[dict], support_rows: Sequence[dict],
+                          rerun: dict[tuple[str, str], str], counts: dict) -> str:
+    """``availability.md``, what ran, what did not, and the command that would fix it.
+
+    This file is the audit trail behind every placeholder in ``results.md``. It separates the two
+    reasons a number can be absent: the run is missing (fixable by running it) versus the metric
+    does not apply to that method (not fixable, and not a defect).
+    """
+    lines = [
+        "# exp13 run availability",
+        "",
+        f"**{counts.get('present', 0)} present · {counts.get('partial', 0)} partial · "
+        f"{counts.get('missing', 0)} missing** out of {sum(counts.values())} (method x cohort) cells.",
+        "",
+        "## Runs on disk",
+        "",
+        markdown_table(rows, ["label", "experiment", "cohort", "status",
+                              "n_operating_points", "operating_points", "detail"]),
+    ]
+
+    gaps = [r for r in rows if r["status"] != "present"]
+    if gaps:
+        lines += ["", "## How to fill the gaps", ""]
+        for row in gaps:
+            command = rerun.get((row["method"], row["cohort"]), "")
+            lines.append(f"- **{row['label']} / {row['cohort']}** ({row['status']}): "
+                         f"{row['detail'] or 'no detail'}")
+            if command:
+                lines.append(f"  - `{command}`")
+        lines.append("")
+
+    lines += [
+        "",
+        "## Which metrics apply to which method",
+        "",
+        "A blank in the results is one of two different things. Either the run is missing (above),",
+        "or the metric does not apply to that method at all — RAG-HPO retrieves phrase->HPO",
+        "candidates rather than report segments, so segment-level P@S is a category error for it,",
+        "not a failed measurement. This table separates the two.",
+        "",
+        markdown_table([r for r in support_rows if not r["supported"]],
+                       ["metric_group", "label", "reason"]),
+    ]
+    path.write_text("\n".join(lines), encoding="utf-8")
+    return path.name
+
+
+# ── Figures ──────────────────────────────────────────────────────────────────
+
+def _plt():
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+
+    # Group keys (depth "3", organ-system ids) are categorical labels that happen to parse as
+    # numbers. Matplotlib logs an INFO line about that for every such axis, which would drown the
+    # run log. The categorical axis is what we want, so the notice is noise.
+    logging.getLogger("matplotlib.category").setLevel(logging.WARNING)
+    return plt
+
+
+def _group(rows: Iterable[dict], *keys: str) -> dict[tuple, list[dict]]:
+    out: dict[tuple, list[dict]] = {}
+    for row in rows:
+        out.setdefault(tuple(row.get(k) for k in keys), []).append(row)
+    return out
+
+
+def _save(fig, figures_dir: Path, name: str, artifacts: list[str]) -> None:
+    figures_dir.mkdir(parents=True, exist_ok=True)
+    path = figures_dir / f"{name}.png"
+    fig.savefig(path, dpi=150, bbox_inches="tight")
+    _plt().close(fig)
+    artifacts.append(f"figures/{name}.png")
+
+
+def plot_reliability(gap_rows: Sequence[dict], figures_dir: Path) -> list[str]:
+    """Signed reliability diagram with bin populations overlaid.
+
+    Signed, not absolute: "the direction of miscalibration determines the correct threshold
+    adjustment". Populations are overlaid because a dramatic-looking gap in a bin holding twelve
+    predictions is not evidence of anything.
+    """
+    plt = _plt()
+    artifacts: list[str] = []
+    for (method, cohort, score), rows in _group(gap_rows, "method", "cohort", "score").items():
+        rows = [r for r in rows if r.get("status") == "ok"]
+        if not rows:
+            continue
+        conf = [r["confidence"] for r in rows]
+        gaps = [r["gap"] for r in rows]
+        counts = [r["count"] for r in rows]
+
+        fig, ax = plt.subplots(figsize=(5.2, 3.4))
+        ax.axhline(0.0, color="0.4", lw=1)
+        ax.plot(conf, gaps, "o-", color="#1f77b4", label="acc - conf (signed)")
+        ax.set_xlabel("mean confidence in bin")
+        ax.set_ylabel("acc(B) - conf(B)")
+        ax.set_xlim(0, 1)
+
+        ax2 = ax.twinx()
+        ax2.bar(conf, counts, width=0.03, alpha=0.2, color="0.5")
+        ax2.set_ylabel("bin population")
+        ax.set_title(f"{method} / {cohort} / {score}", fontsize=9)
+        ax.legend(fontsize=7, loc="lower right")
+        _save(fig, figures_dir, f"reliability_{method}_{cohort}_{score}", artifacts)
+    return artifacts
+
+
+def plot_discrete_reliability(rows: Sequence[dict], figures_dir: Path) -> list[str]:
+    """Empirical presence frequency with Wilson intervals, one point per attainable score.
+
+    The binning-free limit of a reliability diagram, for a score whose support has ``S+1`` atoms.
+    """
+    plt = _plt()
+    artifacts: list[str] = []
+    for (method, cohort, score), group in _group(rows, "method", "cohort", "score").items():
+        group = [r for r in group if r.get("status") == "ok" and r.get("count")]
+        if len(group) < 2:
+            continue
+        group.sort(key=lambda r: float(r["score_atom"]))
+        xs = [float(r["score_atom"]) for r in group]
+        freq = [r["frequency"] for r in group]
+        lo = [max(0.0, f - r["wilson_lo"]) for f, r in zip(freq, group)]
+        hi = [max(0.0, r["wilson_hi"] - f) for f, r in zip(freq, group)]
+
+        fig, ax = plt.subplots(figsize=(5.2, 3.4))
+        ax.plot([0, 1], [0, 1], "--", color="0.6", lw=1, label="perfect calibration")
+        ax.errorbar(xs, freq, yerr=[lo, hi], fmt="o", capsize=3, color="#d62728",
+                    label="empirical frequency (Wilson 95%)")
+        ax.set_xlabel("score atom")
+        ax.set_ylabel("empirical presence frequency")
+        ax.set_title(f"{method} / {cohort} / {score}", fontsize=9)
+        ax.legend(fontsize=7)
+        _save(fig, figures_dir, f"discrete_score_{method}_{cohort}_{score}", artifacts)
+    return artifacts
+
+
+def plot_risk_coverage(curve_rows: Sequence[dict], figures_dir: Path) -> list[str]:
+    """Risk--coverage curves, one panel per cohort with every method overlaid."""
+    plt = _plt()
+    artifacts: list[str] = []
+    for (cohort,), rows in _group(curve_rows, "cohort").items():
+        fig, ax = plt.subplots(figsize=(5.2, 3.4))
+        drew = False
+        for (method, point, score), group in _group(rows, "method", "operating_point",
+                                                    "score").items():
+            group = [r for r in group if r.get("status") == "ok" and r.get("n_covered")]
+            if len(group) < 2:
+                continue
+            group.sort(key=lambda r: r["coverage"])
+            ax.plot([r["coverage"] for r in group], [r["selective_risk"] for r in group],
+                    lw=1.2, label=f"{method} {point} ({score})")
+            drew = True
+        if not drew:
+            plt.close(fig)
+            continue
+        ax.set_xlabel(r"coverage $\phi(\tau)$")
+        ax.set_ylabel(r"selective risk $R(\tau)$")
+        ax.set_title(f"risk-coverage — {cohort}", fontsize=9)
+        ax.legend(fontsize=6)
+        _save(fig, figures_dir, f"risk_coverage_{cohort}", artifacts)
+    return artifacts
+
+
+def plot_histogram_rows(rows: Sequence[dict], figures_dir: Path, prefix: str,
+                        xlabel: str, title: str) -> list[str]:
+    """Bar chart of a row's ``histogram`` dict, blocking depth, near-miss distance."""
+    plt = _plt()
+    artifacts: list[str] = []
+    for row in rows:
+        hist = row.get("histogram")
+        if not isinstance(hist, dict) or not hist:
+            continue
+        keys = sorted(hist, key=lambda k: float(k))
+        fig, ax = plt.subplots(figsize=(4.6, 3.0))
+        ax.bar([str(k) for k in keys], [hist[k] for k in keys], color="#2ca02c")
+        ax.set_xlabel(xlabel)
+        ax.set_ylabel("count")
+        ax.set_title(f"{title} — {row['method']} / {row['cohort']} / {row['operating_point']}",
+                     fontsize=8)
+        _save(fig, figures_dir,
+              f"{prefix}_{row['method']}_{row['cohort']}_{row['operating_point']}", artifacts)
+    return artifacts
+
+
+def plot_pareto(rows: Sequence[dict], figures_dir: Path) -> list[str]:
+    """Recall against SLM calls per report, the efficiency/recall exchange, per cohort.
+
+    The cost axis is SLM invocations rather than seconds: hardware-independent and
+    reproducible, so the curve stays meaningful when the hardware changes.
+    """
+    plt = _plt()
+    artifacts: list[str] = []
+    for (cohort,), group in _group(rows, "cohort").items():
+        usable = [r for r in group
+                  if r.get("slm_calls_per_report") is not None
+                  and r.get("micro_recall") is not None]
+        if not usable:
+            continue
+        fig, ax = plt.subplots(figsize=(5.2, 3.4))
+        for (method,), points in _group(usable, "method").items():
+            points.sort(key=lambda r: r["slm_calls_per_report"])
+            ax.plot([r["slm_calls_per_report"] for r in points],
+                    [r["micro_recall"] for r in points], "o-", lw=1.2, label=method)
+            for r in points:
+                if r.get("reachability_recall") is not None:
+                    ax.plot(r["slm_calls_per_report"], r["reachability_recall"], "x",
+                            color="0.5", ms=5)
+        ax.set_xlabel("SLM calls per report")
+        ax.set_ylabel("micro recall  (x = reachability ceiling)")
+        ax.set_title(f"recall vs cost — {cohort}", fontsize=9)
+        ax.legend(fontsize=7)
+        _save(fig, figures_dir, f"recall_vs_slm_calls_{cohort}", artifacts)
+    return artifacts
+
+
+def plot_depth_cost(rows: Sequence[dict], figures_dir: Path) -> list[str]:
+    """Frontier size, survival rate and cumulative calls against depth.
+
+    "Efficiency in a hierarchical traversal is determined almost entirely at shallow depths, where
+    the frontier is largest", this figure is that claim, plotted.
+    """
+    plt = _plt()
+    artifacts: list[str] = []
+    for (method, cohort, point), group in _group(rows, "method", "cohort",
+                                                 "operating_point").items():
+        group = [r for r in group if r.get("status") == "ok"]
+        if len(group) < 2:
+            continue
+        group.sort(key=lambda r: r["depth"])
+        depths = [r["depth"] for r in group]
+
+        fig, ax = plt.subplots(figsize=(5.2, 3.4))
+        ax.bar(depths, [r["frontier_size"] for r in group], alpha=0.45, color="#1f77b4",
+               label="frontier size")
+        ax.set_xlabel("ontology depth")
+        ax.set_ylabel("nodes")
+        ax2 = ax.twinx()
+        ax2.plot(depths, [r["survival_rate"] for r in group], "o-", color="#d62728",
+                 label=r"survival rate $p_d$")
+        if group[0].get("cumulative_reachability_recall") is not None:
+            ax2.plot(depths, [r.get("cumulative_reachability_recall") for r in group], "s--",
+                     color="#2ca02c", label="cum. reachability recall")
+        ax2.set_ylabel("rate")
+        ax2.set_ylim(0, 1.05)
+        ax.set_title(f"traversal cost by depth — {method} / {cohort} / {point}", fontsize=8)
+        handles = ax.get_legend_handles_labels()[0] + ax2.get_legend_handles_labels()[0]
+        labels = ax.get_legend_handles_labels()[1] + ax2.get_legend_handles_labels()[1]
+        ax.legend(handles, labels, fontsize=6, loc="upper right")
+        _save(fig, figures_dir, f"depth_cost_{method}_{cohort}_{point}", artifacts)
+    return artifacts
+
+
+def plot_conditional(rows: Sequence[dict], figures_dir: Path) -> list[str]:
+    """Per-group ECE against the aggregate, for each grouping.
+
+    "Aggregate ECE cannot detect group-conditional miscalibration, and our argument is regional by
+    construction." Groups below the sufficiency threshold are drawn hollow so a wild ECE computed
+    on nine predictions cannot be mistaken for a finding.
+    """
+    plt = _plt()
+    artifacts: list[str] = []
+    for (method, cohort, score, grouping), group in _group(
+            rows, "method", "cohort", "score", "grouping").items():
+        group = [r for r in group if r.get("status") == "ok"]
+        if len(group) < 2:
+            continue
+        group.sort(key=lambda r: (not r.get("sufficient", True), str(r["group"])))
+        labels = [str(r["group"]) for r in group]
+        eces = [r["ece"] for r in group]
+        colors = ["#1f77b4" if r.get("sufficient") else "none" for r in group]
+
+        fig, ax = plt.subplots(figsize=(max(4.6, 0.32 * len(labels) + 2), 3.2))
+        ax.bar(labels, eces, color=colors, edgecolor="#1f77b4")
+        if group[0].get("aggregate_ece") is not None:
+            ax.axhline(group[0]["aggregate_ece"], color="#d62728", ls="--", lw=1,
+                       label="aggregate ECE")
+            ax.legend(fontsize=7)
+        ax.set_ylabel("ECE")
+        ax.set_xlabel(grouping)
+        ax.tick_params(axis="x", labelrotation=90, labelsize=6)
+        ax.set_title(f"conditional calibration by {grouping} — {method} / {cohort} / {score}",
+                     fontsize=8)
+        _save(fig, figures_dir, f"conditional_{grouping}_{method}_{cohort}_{score}", artifacts)
+    return artifacts
+
+
+def plot_scaling(scaling_result: dict, figures_dir: Path) -> list[str]:
+    """SLM calls per report against label-space size, log-log, with a linear reference."""
+    if scaling_result.get("status") != "ok":
+        return []
+    plt = _plt()
+    artifacts: list[str] = []
+    points = scaling_result["points"]
+    reference = scaling_result["linear_reference"]
+
+    fig, ax = plt.subplots(figsize=(4.8, 3.4))
+    ax.loglog([p["n_terms"] for p in points], [p["slm_calls_per_report"] for p in points],
+              "o-", label=f"measured (beta={scaling_result['exponent']:.2f})")
+    ax.loglog([p["n_terms"] for p in reference], [p["slm_calls_per_report"] for p in reference],
+              "--", color="0.5", label="linear reference (beta=1)")
+    ax.set_xlabel("label-space size N")
+    ax.set_ylabel("SLM calls per report")
+    ax.set_title("scaling in ontology size", fontsize=9)
+    ax.legend(fontsize=7)
+    _save(fig, figures_dir, "scaling_in_ontology_size", artifacts)
+    return artifacts
+
+
+def flatten_metrics(named_tables: dict[str, Sequence[dict]]) -> dict[str, float]:
+    """Main scalars, flattened for MLflow.
+
+    Only main rows and only numeric fields, keyed ``{table}.{method}.{cohort}.{metric}``, so
+    the MLflow view stays a summary, not a copy of every CSV.
+    """
+    out: dict[str, float] = {}
+    for table, rows in named_tables.items():
+        for row in rows:
+            if not row.get("is_headline"):
+                continue
+            prefix = f"{table}.{row.get('method')}.{row.get('cohort')}"
+            for key, value in row.items():
+                if isinstance(value, bool) or not isinstance(value, (int, float)):
+                    continue
+                if _is_missing(value):
+                    continue
+                out[f"{prefix}.{key}"[:250]] = float(value)
+    return out

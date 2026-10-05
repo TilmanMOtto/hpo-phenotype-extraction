@@ -1,0 +1,39 @@
+* Here are 40 unique sentences that describe the provided HPO label as they would appear in a clinical narrative or interpretive report:
+* The patient was diagnosed with a rare congenital anomaly characterized by a non-functioning mass of lung tissue that receives its blood supply from an anomalous systemic artery.
+* Imaging studies revealed a bronchopulmonary sequestration, a condition where a portion of lung tissue is separated from the rest of the lung and receives its blood supply from a different source.
+* A pulmonary sequestration was identified, which is a congenital condition where a segment of lung tissue is isolated from the rest of the lung and receives its blood supply from an anomalous artery.
+* The patient presented with symptoms suggestive of a pulmonary sequestration, including recurrent infections and chronic cough.
+* A diagnosis of bronchopulmonary sequestration was made based on the presence of a systemic artery supplying a distinct segment of lung tissue.
+* The chest CT scan showed a sequestrated lung segment with an anomalous blood supply, consistent with a diagnosis of bronchopulmonary sequestration.
+* The patient underwent surgical resection of a pulmonary sequestration, which was found to be causing recurrent pneumonia.
+* A congenital anomaly of the lung was identified, characterized by a sequestrated segment of lung tissue that receives its blood supply from a systemic artery.
+* The patient's symptoms were attributed to a bronchopulmonary sequestration, which is a rare condition where a portion of lung tissue is isolated from the rest of the lung.
+* Imaging studies revealed a sequestrated lung segment with an anomalous blood supply, which is consistent with a diagnosis of bronchopulmonary sequestration.
+* The patient was found to have a pulmonary sequestration, a condition where a segment of lung tissue is separated from the rest of the lung and receives its blood supply from a different source.
+* A diagnosis of bronchopulmonary sequestration was made based on the presence of a sequestrated lung segment with an anomalous blood supply.
+* The patient presented with chronic cough and recurrent infections, which were attributed to a bronchopulmonary sequestration.
+* Surgical resection of a pulmonary sequestration was performed, which resolved the patient's symptoms.
+* A sequestrated lung segment was identified, which receives its blood supply from a systemic artery rather than the pulmonary arteries.
+* The patient was diagnosed with a rare congenital lung anomaly, characterized by a sequestrated segment of lung tissue.
+* Imaging studies revealed a bronchopulmonary sequestration, which is a congenital condition where a portion of lung tissue is isolated from the rest of the lung.
+* The patient's symptoms were suggestive of a pulmonary sequestration, including chronic cough and recurrent infections.
+* A diagnosis of bronchopulmonary sequestration was made based on the presence of a sequestrated lung segment with an anomalous blood supply.
+* The patient underwent evaluation for a suspected pulmonary sequestration, which was confirmed by imaging studies.
+* A congenital lung anomaly was identified, characterized by a sequestrated segment of lung tissue that receives its blood supply from a systemic artery.
+* The patient presented with symptoms consistent with a bronchopulmonary sequestration, including recurrent pneumonia.
+* Surgical resection of a bronchopulmonary sequestration was performed, which resolved the patient's symptoms.
+* The patient was found to have a sequestrated lung segment with an anomalous blood supply, consistent with a diagnosis of bronchopulmonary sequestration.
+* A diagnosis of pulmonary sequestration was made based on the presence of a sequestrated lung segment with an anomalous blood supply.
+* The patient's symptoms were attributed to a congenital lung anomaly, characterized by a sequestrated segment of lung tissue.
+* Imaging studies revealed a bronchopulmonary sequestration, which is a rare congenital condition where a portion of lung tissue is isolated from the rest of the lung.
+* The patient underwent evaluation for a suspected bronchopulmonary sequestration, which was confirmed by imaging studies.
+* A sequestrated lung segment was identified, which receives its blood supply from a systemic artery rather than the pulmonary arteries.
+* The patient presented with chronic cough and recurrent infections, which were suggestive of a bronchopulmonary sequestration.
+* A diagnosis of bronchopulmonary sequestration was made based on the presence of a sequestrated lung segment with an anomalous blood supply.
+* Surgical resection of a pulmonary sequestration was performed, which resolved the patient's symptoms.
+* The patient was diagnosed with a rare congenital lung anomaly, characterized by a sequestrated segment of lung tissue that receives its blood supply from a systemic artery.
+* Imaging studies revealed a sequestrated lung segment with an anomalous blood supply, consistent with a diagnosis of bronchopulmonary sequestration.
+* The patient's symptoms were suggestive of a pulmonary sequestration, including recurrent pneumonia and chronic cough.
+* A congenital lung anomaly was identified, characterized by a sequestrated segment of lung tissue that receives its blood supply from a systemic artery.
+* The patient underwent evaluation for a suspected pulmonary sequestration, which was confirmed by imaging studies.
+* A diagnosis of bronchopulmonary sequestration was made based on the presence of a sequestrated lung segment with an anomalous blood supply.

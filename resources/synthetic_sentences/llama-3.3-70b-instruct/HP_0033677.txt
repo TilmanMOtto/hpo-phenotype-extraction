@@ -1,0 +1,38 @@
+* The patient's condition deteriorated rapidly, meeting criteria for acute respiratory distress syndrome (ARDS) with a PaO2/FiO2 ratio of 250 and bilateral lung infiltrates on chest imaging.
+* Severe progressive hypoxemia was noted in the patient, consistent with a diagnosis of ARDS, in the absence of cardiogenic pulmonary edema.
+* Chest X-ray revealed diffuse bilateral infiltrates, suggestive of ARDS, in a patient with a recent history of sepsis.
+* The patient developed ARDS, characterized by poor oxygenation and pulmonary infiltrates, following a massive transfusion.
+* A diagnosis of ARDS was made based on the patient's PaO2/FiO2 ratio of 220 and clinical presentation of acute onset respiratory distress.
+* Pulmonary function continued to decline, with the patient meeting criteria for ARDS, including a PaO2/FiO2 ratio of less than 300.
+* The patient's condition was complicated by the development of ARDS, requiring aggressive respiratory support.
+* Acute respiratory distress syndrome was diagnosed in a patient with a history of trauma and subsequent respiratory failure.
+* The patient presented with severe hypoxemia and bilateral lung infiltrates, consistent with a diagnosis of ARDS.
+* A patient with a recent history of pulmonary infection developed ARDS, characterized by diffuse alveolar damage and capillary endothelial injury.
+* Severe respiratory distress and hypoxemia were noted in a patient, leading to a diagnosis of ARDS and initiation of intensive care.
+* The patient's PaO2/FiO2 ratio was found to be 280, meeting criteria for mild ARDS, and prompting close monitoring and supportive care.
+* Chest CT scan revealed extensive bilateral lung infiltrates, consistent with a diagnosis of ARDS, in a patient with a history of pancreatitis.
+* The development of ARDS was noted in a patient following aspiration, with subsequent severe progressive hypoxemia and respiratory failure.
+* A patient with a history of drug overdose developed ARDS, requiring mechanical ventilation and intensive care.
+* Sepsis was complicated by the development of ARDS, characterized by poor oxygenation and bilateral lung infiltrates.
+* The patient's condition was further complicated by the onset of ARDS, with a PaO2/FiO2 ratio of 240 and severe hypoxemia.
+* Bilateral lung infiltrates and severe progressive hypoxemia were noted in a patient, consistent with a diagnosis of ARDS.
+* The patient developed ARDS, characterized by diffuse alveolar damage and capillary endothelial injury, following a traumatic injury.
+* A diagnosis of ARDS was made in a patient with a history of drowning, with subsequent severe respiratory distress and hypoxemia.
+* The patient's PaO2/FiO2 ratio was found to be 200, indicating severe ARDS, and prompting aggressive respiratory support.
+* Severe respiratory distress and hypoxemia were noted in a patient, leading to a diagnosis of ARDS and initiation of mechanical ventilation.
+* The patient presented with a history of fat embolism and subsequent development of ARDS, characterized by poor oxygenation and bilateral lung infiltrates.
+* A patient with a history of inhalation of toxic fumes developed ARDS, requiring intensive care and supportive therapy.
+* The patient's condition deteriorated, meeting criteria for ARDS, with a PaO2/FiO2 ratio of 260 and severe progressive hypoxemia.
+* The development of ARDS was noted in a patient following a pulmonary infection, with subsequent severe respiratory distress and hypoxemia.
+* Chest imaging revealed extensive bilateral lung infiltrates, consistent with a diagnosis of ARDS, in a patient with a history of trauma.
+* A patient with a history of sepsis developed ARDS, characterized by diffuse alveolar damage and capillary endothelial injury.
+* The patient's condition was complicated by the onset of ARDS, with a PaO2/FiO2 ratio of 230 and severe hypoxemia.
+* Severe progressive hypoxemia and bilateral lung infiltrates were noted in a patient, consistent with a diagnosis of ARDS.
+* A diagnosis of ARDS was made in a patient with a history of massive transfusion, with subsequent severe respiratory distress and hypoxemia.
+* The patient developed ARDS, characterized by poor oxygenation and pulmonary infiltrates, following a drug overdose.
+* The patient's PaO2/FiO2 ratio was found to be 270, indicating moderate ARDS, and prompting close monitoring and supportive care.
+* The patient presented with a history of pancreatitis and subsequent development of ARDS, characterized by diffuse alveolar damage and capillary endothelial injury.
+* A patient with a history of trauma developed ARDS, requiring aggressive respiratory support and intensive care.
+* The development of ARDS was noted in a patient following aspiration, with subsequent severe progressive hypoxemia and respiratory failure.
+* Severe respiratory distress and hypoxemia were noted in a patient, leading to a diagnosis of ARDS and initiation of intensive care.
+* The patient's condition was further complicated by the onset of ARDS, with a PaO2/FiO2 ratio of 250 and severe hypoxemia.

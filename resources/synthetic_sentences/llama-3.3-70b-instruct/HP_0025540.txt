@@ -1,0 +1,34 @@
+* The patient's flow cytometry results showed a skewed T cell subset distribution, with a notable increase in CD4+ T cells compared to CD8+ T cells.
+* An abnormal T cell subset profile was observed, characterized by a decreased proportion of regulatory T cells.
+* The CD4/CD8 ratio was significantly elevated, suggesting an underlying disturbance in T cell homeostasis.
+* Immunophenotyping revealed an altered distribution of T cell subsets, with a predominance of effector memory T cells.
+* Flow cytometric analysis demonstrated a deviation from the normal T cell subset distribution, with an increased percentage of naive T cells.
+* The patient's T cell subset distribution was notable for a decreased proportion of central memory T cells.
+* An imbalance in the T cell compartment was evident, with a skewing towards TH1 cell differentiation.
+* The peripheral blood lymphocyte subset analysis showed an abnormal distribution of T cells, with a relative deficiency of CD8+ T cells.
+* Abnormalities in T cell subset distribution were identified, including a reduced proportion of mucosal-associated invariant T (MAIT) cells.
+* A distortion in the normal T cell subset hierarchy was observed, with an overrepresentation of inflammatory cytokine-producing T cells.
+* T cell subset analysis revealed a perturbed distribution, with an elevated proportion of exhausted T cells.
+* The immune profile showed a disruption in the balance between different T cell subsets, with a notable decrease in Tregs.
+* Flow cytometry results indicated an abnormal T cell subset distribution, characterized by a predominance of CD4+CD45RO+ T cells.
+* The distribution of T cell subsets was altered, with a significant increase in the proportion of CCR7- T cells.
+* An abnormal T cell subset distribution was observed, with a reduced proportion of CD31+ recent thymic emigrant T cells.
+* The patient's immune phenotype was characterized by an abnormal T cell subset distribution, with a notable increase in the proportion of senescent T cells.
+* A disturbance in T cell homeostasis was evident, with an abnormal distribution of T cell subsets, including a decrease in the proportion of CD4+CD25+ T cells.
+* The T cell compartment was notable for an abnormal subset distribution, with an overrepresentation of granzyme B-producing cytotoxic T cells.
+* The immune profile showed an abnormal T cell subset distribution, with a reduced proportion of CD4+ T cells co-expressing CCR6 and CD161.
+* Abnormalities in T cell subset distribution were identified, including an elevated proportion of PD-1+ T cells.
+* A shift in the T cell subset distribution was observed, with an increased proportion of IL-17-producing T helper cells.
+* Flow cytometric analysis revealed an abnormal T cell subset distribution, with a decreased proportion of invariant natural killer T (iNKT) cells.
+* The distribution of T cell subsets was perturbed, with a notable increase in the proportion of effector T cells.
+* The patient's T cell subset distribution was abnormal, with a reduced proportion of central memory CD4+ T cells.
+* An abnormal T cell subset profile was observed, characterized by an elevated proportion of terminally differentiated effector T cells.
+* The immune phenotype was notable for an abnormal T cell subset distribution, with a decrease in the proportion of naive CD8+ T cells.
+* Flow cytometry results showed an abnormal T cell subset distribution, with a predominance of CD8+ T cells expressing high levels of CD57.
+* The T cell subset distribution was abnormal, with a reduced proportion of Tregs expressing FOXP3.
+* An imbalance in the T cell compartment was evident, with an abnormal distribution of T cell subsets, including a decrease in the proportion of NKT cells.
+* The patient's immune profile showed an abnormal T cell subset distribution, with an elevated proportion of TH2 cells.
+* A distortion in the normal T cell subset hierarchy was observed, with an overrepresentation of CD8+ T cells expressing granzyme A.
+* The distribution of T cell subsets was altered, with a significant increase in the proportion of CD4+ T cells expressing CCR4.
+* Abnormalities in T cell subset distribution were identified, including a reduced proportion of CD8+ T cells co-expressing CD28 and CD137.
+* The T cell compartment was notable for an abnormal subset distribution, with an overrepresentation of IL-10-producing T regulatory type 1 (Tr1) cells.

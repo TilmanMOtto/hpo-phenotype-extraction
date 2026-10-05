@@ -1,0 +1,88 @@
+# Locations on the LeoMed cluster. This is the only file in the repository that holds absolute
+# paths. Experiment configs refer to these keys as ${paths:<key>}. Users outside the cluster copy
+# configs/local_example.yaml and set the environment variable HPO_PATHS to their copy.
+#
+# Compute nodes have no outbound internet: every model below is a local folder, and jobs set
+# HF_HUB_OFFLINE=1 and TRANSFORMERS_OFFLINE=1. HCY data must stay on LeoMed.
+
+group_dir: /cluster/work/vogtlab/Group/tiotto
+models_dir: /cluster/work/vogtlab/Models/LLMs
+
+# This repository, checked out on the cluster.
+repo_dir: ${group_dir}/hpo-phenotype-extraction
+
+# Results. The stored thesis runs live in the old repository's output folder under their old
+# directory names. tools/link_stored_results.py adds links with the new names beside them, and new
+# runs write into the same folder, so every stage finds its inputs under one root.
+results_dir: ${group_dir}/PhenoRAG_marc/output
+output_dir: ${results_dir}
+logs_dir: ${group_dir}/logs
+
+# The thesis LaTeX source (an Overleaf checkout). The figure scripts write into it.
+thesis_dir: ${group_dir}/thesis
+
+# HCY data (patient data: never copy it off the cluster).
+hcy:
+  dir: ${group_dir}/hcy
+  input_dir: ${hcy.dir}/input
+  raw_ground_truth: ${hcy.dir}/hcy_ground_truth_raw.csv
+  segmented_reports: ${hcy.dir}/segmented_reports.csv
+  curation_dir: ${hcy.dir}/curation
+  # The curated ground truth the thesis is scored against (built 2026-09-12).
+  curated_dir: ${hcy.dir}/curated_gold_2026-09-12
+  curated_ground_truth: ${hcy.curated_dir}/hcy_ground_truth_curated.csv
+  curated_annotations: ${hcy.curated_dir}/hcy_curated_annotations.csv
+  folds: ${hcy.curated_dir}/folds_hcy.csv
+  # The hand-picked segments of the appendix tables (the final version, 2026-09-28 20:09). It names
+  # HCY reports, so it stays on the cluster.
+  qualitative_examples: ${hcy.dir}/qualitative_examples.csv
+
+# Models (local folders).
+models:
+  llama_3_1_8b_instruct: ${group_dir}/models/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659
+  llama_3_3_70b_instruct: ${models_dir}/Llama-3.3-70B-Instruct
+  meta_llama_3_70b_instruct: ${models_dir}/Meta-Llama-3-70B-Instruct
+  llama_3_groq_70b_tool_use: ${models_dir}/Llama-3-Groq-70B-Tool-Use
+  all_mpnet_base_v2: ${group_dir}/models/models--sentence-transformers--all-mpnet-base-v2/snapshots/e8c3b32edf5434bc2275fc9bab85f82640a19130
+  sapbert: ${group_dir}/models/SapBERT-from-PubMedBERT-fulltext
+  # Sentence encoder of the RAG-HPO baseline.
+  sapbert_mnli: ${group_dir}/models/SapBERT-mnli-snli-scinli-scitail-mednli-stsb
+  # Embedding model of the RAG-HPO reproduction runs, as a Hugging Face cache folder. The
+  # templates use the first model folder under its `snapshots/`.
+  bge_small_cache: ${group_dir}/models--BAAI--bge-small-en-v1.5
+  jurors:
+    apertus: ${models_dir}/Apertus-8B-Instruct-2509
+    deepseek: ${models_dir}/DeepSeek-7B
+    intelligent_internet: ${models_dir}/Intelligent-Internet-Medical-8B-1706
+    openbiollm: ${models_dir}/Llama3-OpenBioLLM-8B
+    llama: ${models.llama_3_1_8b_instruct}
+    medpsy: ${models_dir}/MedPsy-4B
+    medgemma: ${models_dir}/Medgemma-1.5-4b-it
+    phi4: ${models_dir}/Microsoft-Phi-4
+
+# Stanza resources (two copies: PhenoBERT needs the version its environment pins).
+stanza_dir: ${group_dir}/stanza_resources
+stanza_dir_phenobert: ${group_dir}/stanza_resources_phenobert
+
+# PhenoBERT: the code is in third_party/PhenoBERT. Its weights are not tracked:
+# third_party/phenobert_weights.py links them from weights_dir, the checkout the thesis runs used.
+# python is the interpreter of PhenoBERT's own environment.
+phenobert:
+  dir: ${repo_dir}/third_party/PhenoBERT/phenobert/utils
+  weights_dir: ${group_dir}/PhenoRAG_marc/src/PhenoBERT/phenobert
+  python: ${group_dir}/PhenoBERT_venv/bin/python
+
+# RAG-HPO's vector databases (hpo_meta*.json, hpo_embedded*.npz). They are build products and not
+# tracked, so the copies the thesis runs used, in the old repository, are read.
+raghpo:
+  vector_db_dir: ${group_dir}/PhenoRAG_marc/src/RAG-HPO
+
+# AutoPCR's constituency parser runs in its own environment, with these assets.
+autopcr:
+  parser_venv: ${group_dir}/autopcr_ee_venv
+  parser_assets: ${group_dir}/autopcr_ee
+
+# Conda installation and environment the jobs activate.
+conda:
+  base: ${group_dir}/conda
+  env: PhenoRAG_marc_env

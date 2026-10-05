@@ -1,0 +1,36 @@
+* On MRI, the cerebral white matter demonstrated areas of decreased signal intensity, suggestive of underlying pathology.
+* A notable finding on the brain MRI was the presence of hypointense lesions within the cerebral white matter.
+* The T1-weighted images revealed multiple foci of low signal intensity in the cerebral white matter, raising concern for demyelinating disease.
+* Cerebral white matter hypointensity was observed on FLAIR sequences, indicating potential edema or demyelination.
+* MRI of the brain showed scattered areas of low signal in the white matter, possibly indicative of small vessel disease.
+* The patient's MRI demonstrated diffuse hypointensity of the cerebral white matter, concerning for a leukodystrophy.
+* White matter signal abnormality was noted on T2-weighted images, characterized by hypointensity and potential gliosis.
+* Focal areas of decreased signal were seen in the cerebral white matter on GRE sequences, suggestive of microhemorrhages.
+* The cerebral white matter appeared hypointense on DWI, indicating restricted diffusion and possible acute injury.
+* MRI findings included multiple hypointense lesions in the cerebral white matter, concerning for multiple sclerosis.
+* On MRI, the cerebral white matter demonstrated a mottled appearance with areas of hypointensity, raising suspicion for vasculitis.
+* The brain MRI showed a pattern of periventricular hypointensity, consistent with chronic small vessel disease.
+* Cerebral white matter hypointensity was noted on MRA source images, suggesting a possible vascular etiology.
+* A hypointense signal was observed in the subcortical white matter on SWI sequences, concerning for cerebral amyloid angiopathy.
+* On T2 FLAIR, the cerebral white matter signal was decreased, indicating possible inflammation or demyelination.
+* The patient's MRI revealed deep white matter hypointensity, suggestive of atherosclerotic disease.
+* The cerebral white matter demonstrated a "salt and pepper" appearance on MRI, with scattered foci of hypointensity.
+* Hypointensity in the cerebral white matter was associated with surrounding hyperintensity on T2-weighted images, concerning for inflammation.
+* On MRI, the periventricular white matter showed hypointensity, potentially indicative of normal pressure hydrocephalus.
+* The cerebral white matter appeared hypointense on T1-weighted images, raising concern for a chronic demyelinating process.
+* A focal area of hypointensity was seen in the frontal white matter on MRI, possibly representing a tunefractive demyelinating lesion.
+* White matter hypointensity on MRI was noted in the posterior fossa, concerning for a Chiari malformation.
+* The cerebral white matter signal was diffusely decreased on MRI, suggesting a metabolic or toxic etiology.
+* On MRI, the subcortical white matter demonstrated hypointensity, potentially indicative of cerebral vasculitis.
+* Cerebral white matter hypointensity was observed on imelage sequences, concerning for Wallerian degeneration.
+* The patient's brain MRI showed a pattern of hypointensity in the centrum semiovale, consistent with chronic ischemic changes.
+* MRI findings included multiple foci of hypointensity in the cerebral white matter, concerning for multiple small vessel strokes.
+* The cerebral white matter demonstrated a "brush-like" appearance on MRI, with linear hypointensities, potentially indicative of cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL).
+* Hypointensity was noted in the cerebral white matter on proton density images, suggesting possible axonal injury.
+* On MRI, the parietal white matter showed hypointensity, raising concern for a history of traumatic brain injury.
+* The temporal lobe white matter appeared hypointense on FLAIR images, potentially indicative of hippocampal sclerosis.
+* Cerebral white matter hypointensity was observed on susceptibility-weighted images, concerning for superficial siderosis.
+* The cerebellar white matter demonstrated hypointensity on MRI, suggesting a possible mitochondrial disorder.
+* On MRI, the brainstem white matter showed hypointensity, potentially indicative of an inflammatory or demyelinating process.
+* Hypointensity was noted in the cerebral white matter on T2* imaging, raising concern for cerebral microbleeds.
+* The frontal white matter appeared hypointense on diffusion-weighted images, suggesting restricted diffusion and possible cytotoxic edema.

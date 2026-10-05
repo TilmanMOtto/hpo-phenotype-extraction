@@ -1,0 +1,79 @@
+{
+  "features": [
+    "depth_long",
+    "depth_long_missing",
+    "log1p_subtree_size",
+    "margin_max"
+  ],
+  "impute_median": {
+    "depth_long": 5.0,
+    "depth_long_missing": 0.0,
+    "log1p_subtree_size": 2.4849066497880004,
+    "margin_max": -9.25
+  },
+  "standardizer": {
+    "depth_long": {
+      "mean": 4.969609261939219,
+      "scale": 2.0252965316826126
+    },
+    "depth_long_missing": {
+      "mean": 0.005788712011577424,
+      "scale": 0.07586305309453635
+    },
+    "log1p_subtree_size": {
+      "mean": 2.794238184404521,
+      "scale": 2.107995243999063
+    },
+    "margin_max": {
+      "mean": -7.907828663504315,
+      "scale": 4.6114492339079245
+    }
+  },
+  "logistic_standardized": {
+    "coef": {
+      "depth_long": -0.1267526955744901,
+      "depth_long_missing": 0.09655973404598445,
+      "log1p_subtree_size": 0.8339482426289266,
+      "margin_max": 1.4249813777905662
+    },
+    "intercept": -5.028523713126664,
+    "odds_ratio": {
+      "depth_long": 0.8809515088669123,
+      "depth_long_missing": 1.101375368785819,
+      "log1p_subtree_size": 2.3023912174612065,
+      "margin_max": 4.157780414977404
+    }
+  },
+  "deployable_uncalibrated": {
+    "weights": {
+      "depth_long": -0.06258475911632762,
+      "depth_long_missing": 1.2728163461290838,
+      "log1p_subtree_size": 0.3956120133586494,
+      "margin_max": 0.30900944703298416
+    },
+    "intercept": -3.3867103132321357
+  },
+  "platt": {
+    "a": 0.9970141994185006,
+    "b": -0.0005405579997890609
+  },
+  "deployable_calibrated": {
+    "weights": {
+      "depth_long": -0.062397893506165085,
+      "depth_long_missing": 1.2690159703426696,
+      "log1p_subtree_size": 0.39443079477911497,
+      "margin_max": 0.3080868064463443
+    },
+    "intercept": -3.377138829609306
+  },
+  "apply": "p = 1/(1+exp(-(intercept + sum_j w_j * x_j))); features in the order given; if depth_long is undefined (node outside HP:0000118) set depth_long to impute_median['depth_long'] and depth_long_missing = 1.",
+  "metrics": {
+    "base_rate": 0.03651176502117168,
+    "auprc_patient_cv": 0.4701009403750316,
+    "auprc_node_cv": 0.4503327996033421,
+    "ece_uncalibrated": 0.0014568850565851933,
+    "ece_calibrated": 0.0015043555461923446,
+    "brier_uncalibrated": 0.024711098137329572,
+    "brier_calibrated": 0.024709190147575805
+  }
+}

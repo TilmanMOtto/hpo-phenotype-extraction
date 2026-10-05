@@ -1,0 +1,38 @@
+* The patient's immunological workup revealed a notable decrease in the proportion of CD8-positive, alpha-beta memory T cells, suggesting an impaired cellular immune response.
+* Flow cytometric analysis of peripheral blood lymphocytes showed a reduced percentage of CD8+ alpha-beta T cells with a memory phenotype, characterized by CD45RO and CD127 positivity.
+* Immunophenotyping revealed a lower-than-expected proportion of CD8-positive T cells expressing alpha-beta receptors and exhibiting a memory phenotype, marked by CD45RO and CD127 expression.
+* The proportion of CD8+ T cells with a memory phenotype, defined by CD45RO and CD127 positivity, was found to be decreased in the patient's blood sample.
+* Notable diminution in the proportion of CD8-positive, alpha-beta memory T cells was observed, with these cells typically being CD25-negative and CD44-high.
+* Further evaluation of the patient's immune cell subsets revealed a decreased proportion of CD8-positive, alpha-beta T cells with a memory phenotype, which are usually characterized by high CD122 expression.
+* A decrease in the proportion of CD8-positive alpha-beta memory T cells, which are CD45RO-positive and CD127-positive, was identified through flow cytometric analysis.
+* The patient's blood work showed a decrease in the proportion of CD8+ alpha-beta T cells with a memory phenotype, as evidenced by their CD45RO and CD127 expression profiles.
+* Immunological assessment revealed an abnormal decrease in the proportion of CD8-positive, alpha-beta memory T cells, which are typically CD25-negative and CD44-high.
+* Flow cytometry results indicated a reduced proportion of CD8-positive alpha-beta T cells with memory phenotype characteristics, including CD45RO and CD127 positivity.
+* A significant decrease was observed in the proportion of CD8-positive, alpha-beta memory T cells, which are crucial for long-term immune memory and are characterized by CD45RO and CD127 expression.
+* The patient's immune profile showed a diminished proportion of CD8-positive alpha-beta memory T cells, marked by CD45RO positivity and CD127 expression.
+* Decreased proportions of CD8-positive, alpha-beta memory T cells were noted, with these cells typically displaying high CD122 expression and a CD25-negative, CD44-high phenotype.
+* The immunological evaluation revealed an decreased proportion of CD8+ alpha-beta T cells with a memory phenotype, which are known to be important for viral immunity and are characterized by CD45RO and CD127 positivity.
+* A decrease in the proportion of CD8-positive alpha-beta memory T cells was identified, with these cells typically being CD25-negative and exhibiting high CD44 and CD122 expression.
+* Flow cytometric analysis revealed a lower-than-expected proportion of CD8-positive, alpha-beta T cells with a memory phenotype, marked by CD45RO positivity and CD127 expression.
+* The proportion of CD8-positive, alpha-beta memory T cells was found to be decreased, with these cells playing a critical role in cell-mediated immunity and being characterized by CD45RO and CD127 positivity.
+* The patient's lymphocyte subset analysis showed a decrease in the proportion of CD8-positive alpha-beta T cells with memory phenotype, defined by CD45RO and CD127 expression.
+* A notable decrease was observed in the proportion of CD8-positive, alpha-beta memory T cells, which are important for the regulation of immune responses and are characterized by high CD122 expression and a CD25-negative phenotype.
+* Immunophenotypic analysis revealed a decreased proportion of CD8-positive alpha-beta memory T cells, with these cells typically exhibiting high CD44 expression and being CD25-negative.
+* The patient's immune cell profile indicated a decreased proportion of CD8-positive, alpha-beta memory T cells, which are vital for long-term immune memory and are characterized by CD45RO and CD127 positivity.
+* Flow cytometry results showed a reduced proportion of CD8-positive alpha-beta T cells with memory phenotype characteristics, including high CD122 expression and CD25 negativity.
+* The proportion of CD8-positive, alpha-beta memory T cells was decreased, with these cells playing a crucial role in the defense against viral infections and being characterized by CD45RO and CD127 expression.
+* Decreased proportions of CD8-positive, alpha-beta memory T cells were noted, with these cells typically displaying a CD25-negative, CD44-high, and CD122-high phenotype.
+* The patient's immunological profile revealed a decreased proportion of CD8-positive alpha-beta memory T cells, marked by CD45RO positivity and CD127 expression, which are important for immune memory.
+* A decrease in the proportion of CD8-positive, alpha-beta memory T cells was observed, with these cells being crucial for cell-mediated immunity and typically exhibiting high CD122 expression.
+* Immunological assessment showed a decreased proportion of CD8-positive alpha-beta memory T cells, characterized by CD45RO and CD127 positivity, and a CD25-negative phenotype.
+* The patient's blood sample analysis revealed a decreased proportion of CD8-positive, alpha-beta T cells with a memory phenotype, as defined by CD45RO and CD127 expression.
+* Flow cytometric analysis indicated a lower proportion of CD8-positive alpha-beta memory T cells, which are vital for the long-term control of viral infections and are characterized by high CD44 and CD122 expression.
+* A significant decrease was noted in the proportion of CD8-positive, alpha-beta memory T cells, with these cells playing a key role in the adaptive immune response and being characterized by CD45RO positivity and CD127 expression.
+* The patient's immune cell subsets showed a decreased proportion of CD8-positive alpha-beta T cells with memory phenotype characteristics, including CD25 negativity and high CD122 expression.
+* The proportion of CD8-positive, alpha-beta memory T cells was decreased, with these cells being important for the regulation of immune responses and typically exhibiting a CD25-negative, CD44-high phenotype.
+* Immunophenotyping revealed a decreased proportion of CD8-positive alpha-beta memory T cells, marked by CD45RO and CD127 positivity, and high CD122 expression.
+* The patient's lymphocyte profile indicated a decreased proportion of CD8-positive, alpha-beta memory T cells, which are crucial for cell-mediated immunity and are characterized by CD45RO and CD127 positivity.
+* A decrease in the proportion of CD8-positive alpha-beta memory T cells was identified, with these cells typically displaying high CD44 expression and being CD25-negative.
+* Flow cytometry results indicated a reduced proportion of CD8-positive alpha-beta T cells with memory phenotype characteristics, including CD45RO positivity and CD127 expression.
+* The patient's immune profile showed a decreased proportion of CD8-positive, alpha-beta memory T cells, which are vital for long-term immune memory and are characterized by high CD122 expression and a CD25-negative phenotype.
+* Immunological evaluation revealed a decreased proportion of CD8-positive alpha-beta memory T cells, with these cells playing a critical role in the defense against viral infections and being marked by CD45RO and CD127 positivity.

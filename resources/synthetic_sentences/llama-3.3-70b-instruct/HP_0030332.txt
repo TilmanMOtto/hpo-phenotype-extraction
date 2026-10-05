@@ -1,0 +1,36 @@
+* The patient's peripheral blood smear revealed atypical T cell forms, prompting further investigation into potential immunological abnormalities.
+* Notable for abnormal lymphocyte morphology, with a subset of T cells exhibiting irregular nuclear contours and cytoplasmic inclusions.
+* Immunophenotyping by flow cytometry demonstrated an aberrant T cell population characterized by altered size and granularity.
+* T cell morphology was deemed abnormal due to the presence of bizarre nuclear shapes and a high nuclear-to-cytoplasmic ratio.
+* A manual differential count showed a significant proportion of T cells with morphologic features suggestive of dysplasia.
+* Flow cytometric analysis identified a T cell subset with abnormal forward and side scatter characteristics, indicating altered cell size and complexity.
+* The presence of aberrant T cell forms in the bone marrow aspirate raised suspicion for an underlying immunological disorder.
+* Upon examination of the peripheral blood smear, it was noted that a subset of T cells exhibited irregular cell membranes and cytoplasmic vacuolization.
+* An abnormal T cell population was characterized by flow cytometry, displaying aberrant expression of surface antigens.
+* T cell morphology was assessed as abnormal, with a notable increase in the number of cells exhibiting nuclear blebbing and cytoplasmic condensation.
+* Immunofluorescence staining revealed an abnormal pattern of T cell antigen expression, suggesting dysfunction in T cell development or function.
+* Abnormal T cell forms, including cells with irregular nuclei and condensed chromatin, were identified in the lymph node biopsy.
+* A manual count of T cells in the peripheral blood revealed an increased proportion of cells with atypical morphology, including nuclear notches and cytoplasmic inclusions.
+* Immunophenotypic analysis demonstrated abnormal T cell maturation, with an accumulation of immature T cells exhibiting aberrant morphology.
+* An abnormal population of T cells was identified, characterized by decreased CD3 expression and aberrant morphology.
+* Morphological examination of T cells in the bone marrow biopsy demonstrated irregular nuclear contours, nucleoli, and cytoplasmic vacuoles.
+* Atypical T cell forms, including cells with large nucleoli and irregular cell membranes, were observed in the peripheral blood smear.
+* Notable T cell morphological abnormalities included nuclear clefting and cytoplasmic azurophilic granules.
+* Abnormalities in T cell morphology were apparent, including cells with condensed chromatin, nuclear blebbing, and an increased nuclear-to-cytoplasmic ratio.
+* Flow cytometric analysis of T cells revealed an aberrant population characterized by decreased expression of surface antigens and altered size.
+* Upon morphological examination, a subset of T cells exhibited irregular nuclear shapes, anisokaryosis, and cytoplasmic inclusions.
+* Immunophenotypic analysis revealed an abnormal T cell population, characterized by aberrant expression of surface markers and altered morphology.
+* T cell morphology was characterized by the presence of cells with irregular nuclear contours, nucleoli, and a high nuclear-to-cytoplasmic ratio.
+* Examination of the lymph node biopsy revealed abnormal T cell morphology, including cells with large nucleoli and irregular cell membranes.
+* Abnormal T cell forms were observed, including cells with nuclear notches and cytoplasmic vacuolization, in the peripheral blood smear.
+* Immunofluorescence staining revealed an abnormal pattern of T cell antigen expression, suggesting T cell dysfunction or immaturity.
+* T cell morphology was assessed as abnormal, with a notable presence of cells exhibiting nuclear clefting, condensed chromatin, and cytoplasmic azurophilic granules.
+* Notable T cell morphological abnormalities, including irregular nuclear contours and anisokaryosis, were observed in the bone marrow aspirate.
+* An abnormal population of T cells was identified by flow cytometry, characterized by decreased expression of surface antigens and altered forward and side scatter characteristics.
+* Abnormal T cell morphology was characterized by the presence of cells with irregular nuclear shapes, nucleoli, and a high nuclear-to-cytoplasmic ratio.
+* Morphological examination of T cells revealed an abnormal population, including cells with nuclear notches and cytoplasmic inclusions, in the peripheral blood smear.
+* Immunophenotypic analysis demonstrated an abnormal T cell population, with cells exhibiting aberrant expression of surface markers and altered morphology.
+* The presence of aberrant T cell forms, including cells with large nucleoli and irregular cell membranes, raised suspicion for an underlying immunological disorder.
+* T cell morphology was deemed abnormal due to the presence of cells with irregular nuclear contours, anisokaryosis, and cytoplasmic vacuoles.
+* An abnormal T cell population was characterized by flow cytometry, displaying aberrant expression of surface antigens and altered size and granularity.
+* Examination of the bone marrow biopsy revealed abnormal T cell morphology, including cells with nuclear clefting, condensed chromatin, and cytoplasmic azurophilic granules.

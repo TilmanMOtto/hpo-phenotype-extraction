@@ -1,0 +1,112 @@
+# Stored verifier scores, synthetic-sentence index (thesis appendix B.2).
+#
+# Command:  INDEX=synthetic sbatch slurm/treephenorag_score_store.sbatch   (40 shards; DATASET=gsc for GSC+)
+# Models: verifier Llama-3.1-8B-Instruct, 8-bit (load_in_4bit: false). Encoder all-mpnet-base-v2.
+# Ontology: resources/util/hpo.json, SHA-256 fingerprint 8330ca317e71. The thesis names release
+# 2024-08-13. The file itself carries no version field (resources/util/PROVENANCE.md).
+# Thresholds: tau_prune_sweep [0.00015] makes the traversal reach every term; S = top_n = 10.
+# Reads the HCY reports, writes <output>/treephenorag_scores_synthetic/<dataset>/.
+# Paths: ${paths:...} keys resolve against configs/cluster_leomed.yaml (or HPO_PATHS).
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# [Dataset], hcy | gsc
+dataset: hcy
+# hcy paths:
+input_dir: ${paths:hcy.input_dir}
+ground_truth_path: ${paths:hcy.raw_ground_truth}
+target_symptoms_path: resources/data/hpo_code_lists/target_symptoms_all.csv
+# gsc path:
+gsc_dir: resources/data/GSC_2024
+
+# [Required paths]
+llama_dir_base: ${paths:models.llama_3_1_8b_instruct}
+llama_dir_ft:
+sent_transformer_dir: ${paths:models.all_mpnet_base_v2}
+context_dir: resources/synthetic_sentences/llama-3.3-70b-instruct
+stanza_dir: ${paths:stanza_dir}
+output_dir: ${paths:output_dir}
+
+# ── The expansion rule ───────────────────────────────────────────────────────
+# The cache is built on max(noisy_or, LRGate.p_expand), the maximum over the two rule FAMILIES the
+# chapter reports. This is what makes the cached node set a superset of every re-run's:
+#
+#   * noisy_or (= P3_1) dominates every graded margin pooling, P1, P2, P4, P3_k for k > 1, and
+#     lse_beta1, because 1 - prod(1-p) >= max(p) and (1-p)^(1/k) rises with k.
+#   * P0 is NOT pointwise dominated (it is an indicator in {0,1}), but it fires only where P1 > 1/2,
+#     and P3_1 >= P1 > 1/2, so containment holds whenever tau_prune below is <= 0.5. It is.
+#   * LRGate is bounded by no margin rule at all, it mixes in depth and subtree size, so it is
+#     unioned in explicitly. Cheap: it is under-confident ~7.7x and rarely fires where noisy_or
+#     does not.
+#
+# Verified end to end against an earlier exploratory run's cache by scripts/check_replay_containment.py:
+# 8 poolings x 4 thresholds x 3 values of S, 96/96 with zero containment misses.
+gate_json_path:                # null = resources/util/minimal_gate.json
+gate_calibrated: true
+
+# ── Traversal ────────────────────────────────────────────────────────────────
+# [Retrieval index] - what a node's own column is built from. The retrieval-curve analysis's representation axis:
+#   synthetic-sentence     the term's curated .txt synthetic-sentence sentences (~36 vectors/term, ~652k total), with
+#                name/synonyms/definition as a fallback where no .txt exists. R1/R1u.
+#   ontology_r3  ONE vector per term from hpo_extraction.retrieval.term_information_index: "label definition synonyms" as a single
+#                string. No generator model in the retrieval path at all. R3/R3u.
+# The union reduction on top is identical either way, so this is the only thing that differs.
+retrieval_index: exemplar
+
+retrieval_ctx: union_only      # as an earlier exploratory run. Union_prune_own_accept would double the cost
+top_n: 10                      # S_max. The ONLY thing an earlier exploratory run's cache cannot supply.
+
+# [Configuration], ONE point, the cache floor. The grid lives in the TreePhenoRAG protocol now.
+#
+# tau_prune = 1.5e-4 matches an earlier exploratory run's most permissive point, so the two caches are directly
+# comparable at S = 5 and the new one strictly contains the old. Two constraints it satisfies:
+#   * <= 0.5, so P0 is representable (see the expansion-rule note above);
+#   * low enough that g(tau_replay) >= tau_cache for every threshold the chapter reports, where
+#     g(t) = a/(1+a), a = -ln(1-t)  ->  g(1.9e-3) = 1.898e-3, g(0.23) = 0.207, g(0.5) = 0.409.
+#
+# LOWER IT ONLY WITH THE PILOT NUMBER IN HAND. Cost rises steeply and convexly: an earlier exploratory run already
+# paid 18 001 calls/report on HCY at this threshold with S = 5, and S = 10 raises both the per-node
+# cost and the node count. tau_min is the floor of every claim the chapter makes, so the value used
+# belongs in the text.
+tau_prune_sweep: [0.00015]
+
+# tau_accept is irrelevant to the cache: `traverse` expands on the prune score alone, so acceptance
+# never changes which nodes are scored. One value is written. The TreePhenoRAG protocol re-derives the rest for free.
+tau_accept_sweep: [0.5]
+
+# ── Instrumentation ──────────────────────────────────────────────────────────
+# Per-call wall-clock and token counts. The thesis no longer reports token counts, but E4.1 stores
+# them and they are nearly free. The clock is what the median/mean/p95 cost triple needs, and no
+# run has ever recorded it (the shipped timing record carries call and node counts only).
+record_timing: true
+
+# [Performance]
+batch_calls: true
+load_in_4bit: false
+
+# [Report sharding], SLURM array (n_report_shards>1 splits reports round-robin).
+# Raised from an earlier exploratory run's 8: S = 10 makes each report dearer, and the 24 h wall limit binds sooner.
+# --array=0-(N_SHARDS-1) and export N_SHARDS= in the cluster script MUST agree.
+# [Cohort] - optional allowlist of report ids (first CSV column. A patient_id/ID header is
+# skipped). Point it at the curated ground truth's own hcy_ground_truth_curated.csv so the run covers
+# The scored cohort: HCY's input_dir holds 135 .txt files while the ground truth has 118, and at
+# ~8 GPU-hours a report the 17 extras are work no table can quote. Applied before max_patients
+# and before sharding.
+report_ids_path:
+
+report_shard: 0
+n_report_shards: 1
+
+# [Pilot], restrict_to_subtree runs one layer-1 subtree. Max_patients caps the report count.
+restrict_to_subtree:
+max_patients:
+max_nodes:
+
+# [Model / resume], flushed after every report. A wall-clock kill costs the report in flight.
+resume: true
+max_runtime_s:
+
+mlflow_experiment_name: exp13_treephenorag

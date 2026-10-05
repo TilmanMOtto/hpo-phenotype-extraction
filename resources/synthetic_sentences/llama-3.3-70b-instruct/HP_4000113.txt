@@ -1,0 +1,37 @@
+* The patient has a history of aminoglycoside use, which may increase the risk of ototoxicity.
+* Exposure to gentamycin was noted in the patient's medication history.
+* Tobramycin was administered to the patient during their previous hospitalization.
+* The patient reported taking amikacin for a prolonged period, which may have contributed to their current hearing loss.
+* Kanamycin therapy was part of the patient's treatment regimen for a previous infection.
+* A review of the patient's medical history revealed prior use of streptomycin.
+* The patient's chart indicates aminoglycoside exposure, which is a known risk factor for cochlear damage.
+* Gentamycin-induced ototoxicity is a potential concern for this patient given their history of aminoglycoside therapy.
+* The patient was treated with tobramycin for a bacterial infection and is now experiencing tinnitus.
+* Amikacin exposure was documented in the patient's electronic health record.
+* The patient has a history of kanamycin use, which may have contributed to their vestibular dysfunction.
+* Aminoglycoside antibiotics, including streptomycin, have been used to treat the patient's infections in the past.
+* Prior aminoglycoside exposure is a significant factor in the patient's current auditory dysfunction.
+* The patient's medication list includes gentamycin, which was prescribed for a previous illness.
+* Tobramycin-induced hearing loss is a potential complication in this patient given their history of aminoglycoside therapy.
+* The patient reported a history of amikacin treatment, which may be relevant to their current balance problems.
+* Aminoglycoside exposure, specifically kanamycin, was noted in the patient's medical history.
+* The patient's treatment history includes streptomycin, an aminoglycoside antibiotic associated with ototoxicity.
+* Gentamycin therapy was part of the patient's previous treatment regimen, which may have contributed to their hearing impairment.
+* A review of the patient's chart revealed a history of tobramycin exposure.
+* The patient has been treated with aminoglycoside antibiotics, including amikacin, in the past.
+* Kanamycin exposure was documented in the patient's health record, which may be relevant to their current symptoms.
+* The patient's history of streptomycin use is a significant factor in their current auditory and vestibular dysfunction.
+* Aminoglycoside-induced ototoxicity is a potential concern for this patient given their history of gentamycin therapy.
+* Tobramycin was administered to the patient during their previous hospitalization, and they are now experiencing hearing loss.
+* The patient's electronic health record indicates a history of amikacin exposure, which may be relevant to their current balance problems.
+* The patient reported taking kanamycin for a prolonged period, which may have contributed to their current hearing impairment.
+* Aminoglycoside antibiotics, including streptomycin, have been used to treat the patient's infections, and they are now experiencing ototoxicity.
+* The patient's medication history includes gentamycin, which was prescribed for a bacterial infection.
+* A review of the patient's chart revealed prior exposure to tobramycin, an aminoglycoside antibiotic.
+* Amikacin-induced hearing loss is a potential complication in this patient given their history of aminoglycoside therapy.
+* The patient has a history of aminoglycoside exposure, which increases their risk of developing ototoxicity.
+* The patient's treatment history includes kanamycin, which may have contributed to their current vestibular dysfunction.
+* Aminoglycoside exposure, specifically streptomycin, was noted in the patient's medical history, and they are now experiencing tinnitus.
+* Gentamycin therapy was part of the patient's previous treatment regimen, and they are now experiencing auditory dysfunction.
+* The patient's health record indicates a history of tobramycin exposure, which may be relevant to their current symptoms.
+* The patient reported a history of aminoglycoside therapy, including amikacin, which may have contributed to their current hearing impairment.

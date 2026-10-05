@@ -1,0 +1,222 @@
+/* compare_ui — the reading grid, and nothing else.
+ *
+ * Everything general (the shell, panels, stats, tables, notes, tabs, the dark palette, presentation
+ * mode) comes from ../../tree_ui/assets/style.css, symlinked beside this file. What is here is the
+ * one layout no other app has: a grid whose rows are the report's own sentences, with the curated
+ * gold on the left and one narrow verdict gutter per method on the right.
+ *
+ * Every colour below is a var() from that stylesheet. No hex literals: the palette is a validated
+ * CVD-separated set, and a hue invented here would be a meaning nobody defined. The outcome tones
+ * are read from a data-outcome attribute so that the Python side ships a role, not a colour.
+ */
+
+/* ── the grid ──────────────────────────────────────────────────────────────── */
+
+/* ONE grid, and the cells are its direct children.
+ *
+ * The first attempt made the container a grid AND each row a grid inside it. That renders as a
+ * pile, not as an error: a grid container places each *child* into one of its own columns, so
+ * seven consecutive rows landed in the seven columns of a single grid row, stacked on top of one
+ * another. Flat cells also give the alignment for free — column widths are shared across the whole
+ * grid, while each row auto-sizes to its own tallest cell.
+ *
+ * `overflow: auto` in BOTH axes, deliberately. `overflow-x: auto` alone computes `overflow-y` to
+ * `auto` anyway, and then `position: sticky; top: 0` on the header sticks to this scrollport
+ * rather than to the page — which reads as a header that scrolls away. Owning the scrollport makes
+ * the frozen header work and keeps the reasoning panel below the fold-line rather than pushed off
+ * the bottom of a very long report.
+ */
+.cmp-grid {
+  display: grid;
+  align-content: start;
+  overflow: auto;
+  max-height: 68vh;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+}
+
+.cmp-cell {
+  padding: .45rem .6rem;
+  border-bottom: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  min-width: 0;                 /* without this a long unbroken token blows its column out */
+}
+
+/* The header is one sticky cell per column, not a sticky row: there are no rows to make sticky. */
+.cmp-head {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--surface-3);
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+.cmp-head-method { text-align: center; }
+.cmp-head-method[data-family="ours"] { color: var(--accent); }
+
+.cmp-cell-text {
+  line-height: 1.6;
+  white-space: pre-wrap;        /* the report is a document: its own line breaks are content */
+  overflow-wrap: anywhere;
+}
+.cmp-cell-text:hover { background: var(--surface-2); }
+.cmp-cell-gold { background: var(--surface-2); }
+.cmp-cell-method { text-align: center; }
+
+.cmp-foot { background: var(--surface-3); }
+.cmp-span-all { grid-column: 1 / -1; }
+
+/* ── the gold column ───────────────────────────────────────────────────────── */
+
+.cmp-gold-entry {
+  padding: .25rem 0;
+  border-bottom: 1px dotted var(--border);
+}
+.cmp-gold-entry:last-child { border-bottom: none; }
+.cmp-gold-entry.is-selected {
+  box-shadow: inset 3px 0 0 var(--accent);
+  padding-left: .4rem;
+}
+
+.cmp-code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: .68rem;
+  color: var(--text-muted);
+}
+.cmp-trigger {
+  font-size: .75rem;
+  color: var(--text-secondary);
+}
+.cmp-quals { display: flex; flex-wrap: wrap; gap: .2rem; margin-top: .15rem; }
+.cmp-qual {
+  font-size: .62rem;
+  padding: 0 .3rem;
+  border-radius: 3px;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  background: color-mix(in srgb, var(--warning) 10%, var(--surface));
+}
+
+/* ── chips ─────────────────────────────────────────────────────────────────── */
+
+.cmp-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: .25rem;
+  max-width: 100%;
+  margin: .1rem .1rem;
+  padding: .12rem .35rem;
+  font: inherit;
+  font-size: .75rem;
+  text-align: left;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  cursor: pointer;
+}
+.cmp-chip:hover { border-color: var(--accent); }
+.cmp-chip.is-selected {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 30%, transparent);
+}
+.cmp-chip-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cmp-chip-extra { color: var(--text-muted); font-size: .68rem; }
+
+/* The tone is a second channel beside the glyph, never the only one. */
+.cmp-glyph { font-weight: 700; }
+.cmp-chip[data-outcome="tp"] { border-color: var(--good); }
+.cmp-chip[data-outcome="tp"] .cmp-glyph { color: var(--good); }
+.cmp-chip[data-outcome="fp"] { border-color: var(--critical); }
+.cmp-chip[data-outcome="fp"] .cmp-glyph { color: var(--critical); }
+.cmp-chip[data-outcome="fn"] { border-color: var(--warning); }
+.cmp-chip[data-outcome="fn"] .cmp-glyph { color: var(--warning); }
+
+.cmp-blank { color: var(--text-muted); }
+.cmp-legend-row { display: flex; gap: .5rem; flex-wrap: wrap; margin: .5rem 0; }
+.cmp-chip.cmp-legend { cursor: default; font-size: .7rem; }
+
+/* ── the gold drawn in the text ────────────────────────────────────────────── */
+
+.cmp-mark {
+  background: color-mix(in srgb, var(--good) 18%, transparent);
+  border-bottom: 2px solid var(--good);
+  border-radius: 2px;
+  color: inherit;
+  padding: 0 .05rem;
+}
+.cmp-gap {
+  color: var(--text-muted);
+  font-size: .8rem;
+  font-style: italic;
+}
+
+/* ── the reasoning panel ───────────────────────────────────────────────────── */
+
+.cmp-report-head { display: flex; align-items: baseline; gap: .6rem; flex-wrap: wrap;
+                   margin-bottom: .5rem; }
+.cmp-report-id { font-size: 1.15rem; font-weight: 600; }
+.cmp-report-sub { color: var(--text-secondary); font-size: .8rem; }
+.cmp-path { font-size: .7rem; color: var(--text-muted); overflow-wrap: anywhere; }
+
+.cmp-reason-head { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; }
+.cmp-headline { cursor: default; }
+.cmp-def { color: var(--text-secondary); margin: .35rem 0; }
+.cmp-why { margin: .35rem 0; }
+.cmp-prov { font-size: .72rem; color: var(--text-muted); margin-top: .5rem; }
+.cmp-key { color: var(--text-secondary); font-size: .78rem; }
+.cmp-subhead { font-weight: 600; font-size: .82rem; margin: .8rem 0 .3rem; }
+.cmp-foot-label { font-size: .7rem; text-transform: uppercase; color: var(--text-muted); }
+.cmp-foot-note { color: var(--text-secondary); font-size: .8rem; }
+
+.cmp-mention {
+  border-left: 2px solid var(--border);
+  padding: .4rem 0 .4rem .6rem;
+  margin: .5rem 0;
+}
+.cmp-quote {
+  font-style: italic;
+  color: var(--text-secondary);
+  overflow-wrap: anywhere;
+}
+.cmp-generation {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: .4rem .5rem;
+  margin: .3rem 0 0;
+  font-size: .78rem;
+  max-height: 22rem;
+  overflow-y: auto;
+}
+.cmp-generation.is-truncated { border-bottom-style: dashed; }
+.cmp-generation.is-truncated::after {
+  content: " … truncated";
+  color: var(--text-muted);
+}
+
+.cmp-flag {
+  display: inline-block;
+  font-size: .66rem;
+  padding: 0 .3rem;
+  border-radius: 3px;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.cmp-flag[data-tone="good"]     { border-color: var(--good);     color: var(--good); }
+.cmp-flag[data-tone="warning"]  { border-color: var(--warning);  color: var(--warning); }
+.cmp-flag[data-tone="critical"] { border-color: var(--critical); color: var(--critical); }
+.cmp-flag[data-tone="accent"]   { border-color: var(--accent);   color: var(--accent); }
+
+/* ── presentation mode ─────────────────────────────────────────────────────── */
+
+body[data-present="1"] .cmp-cell-text { font-size: 1.05rem; }
+body[data-present="1"] .cmp-chip { font-size: .85rem; }
+body[data-present="1"] .cmp-code,
+body[data-present="1"] .cmp-path { display: none; }

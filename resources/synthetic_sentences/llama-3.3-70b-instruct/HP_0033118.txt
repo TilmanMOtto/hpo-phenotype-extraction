@@ -1,0 +1,37 @@
+* The patient's echocardiogram revealed impaired function of the right ventricle, suggesting a potential issue with cardiac output.
+* Right ventricular dysfunction was noted on cardiac MRI, with reduced ejection fraction and increased end-systolic volume.
+* Anomalous right ventricular physiology was observed, characterized by decreased contractility and abnormal filling patterns.
+* The right ventricle showed signs of strain on stress testing, indicating possible underlying dysfunction.
+* Echocardiography demonstrated abnormal right ventricular motion, with decreased tricuspid annular plane systolic excursion (TAPSE).
+* Cardiac catheterization results indicated abnormal right ventricular pressure and volume curves.
+* The patient's right ventricle exhibited decreased reserve capacity, as evidenced by reduced response to exercise stress.
+* Right ventricular function was found to be impaired, with a reduced ejection fraction of 35% on radionuclide ventriculography.
+* Abnormal right ventricular mechano-energetics were observed, with increased energy expenditure and decreased efficiency.
+* The patient's clinical presentation was consistent with right ventricular failure, characterized by signs of fluid overload and decreased cardiac output.
+* Right ventricular impairment was noted on cardiac computed tomography (CT) angiography, with decreased wall thickness and increased chamber diameter.
+* Anomalous right ventricular function was detected, with abnormal diastolic and systolic function curves.
+* The right ventricle showed signs of dyssynchrony, with abnormal electrical activation and contraction patterns.
+* The patient's right ventricular function was classified as mildly impaired, with a tricuspid regurgitant fraction of 20%.
+* Stress echocardiography revealed inducible right ventricular dysfunction, with decreased contractile reserve.
+* Right ventricular function was significantly impaired, with a right ventricular ejection fraction (RVEF) of 25% on cardiac MRI.
+* The patient's medical history was notable for abnormal right ventricular function, with multiple episodes of decompensated heart failure.
+* Abnormal right ventricular adaptation to exercise was observed, with decreased increase in cardiac output and increased pulmonary artery pressure.
+* The right ventricle showed signs of remodeled geometry, with increased chamber size and decreased wall thickness.
+* Right ventricular dysfunction was associated with decreased exercise tolerance and increased symptoms of dyspnea and fatigue.
+* Anomalous right ventricular physiology was characterized by abnormal hemodynamic responses to stress and volume overload.
+* The patient's right ventricular function was deemed inadequate, with decreased cardiac output and increased pulmonary vascular resistance.
+* Right ventricular impairment was detected, with decreased right ventricular strain and decreased strain rate on echocardiography.
+* Abnormal right ventricular filling patterns were observed, with decreased early diastolic filling and increased atrial contribution.
+* The patient's clinical presentation was consistent with right ventricular failure, characterized by signs of peripheral edema and jugular venous distension.
+* Right ventricular function was classified as severely impaired, with a right ventricular ejection fraction (RVEF) of 15% on radionuclide ventriculography.
+* The right ventricle showed signs of abnormal electrical activation, with widened QRS duration and abnormal T-wave morphology.
+* Stress testing revealed abnormal right ventricular responses, with decreased contractile reserve and increased pulmonary artery pressure.
+* Anomalous right ventricular mechano-energetics were observed, with increased energy expenditure and decreased efficiency.
+* The patient's right ventricular function was deemed abnormal, with decreased right ventricular ejection fraction (RVEF) and increased end-systolic volume.
+* Right ventricular dysfunction was noted, with decreased tricuspid annular plane systolic excursion (TAPSE) and decreased right ventricular strain.
+* The right ventricle showed signs of decreased contractility, with decreased right ventricular dP/dt and decreased right ventricular pressure.
+* The patient's medical history was notable for recurrent episodes of right ventricular failure, with multiple hospitalizations for decompensated heart failure.
+* Abnormal right ventricular adaptation to changes in loading conditions was observed, with decreased ability to increase cardiac output in response to increased preload.
+* Right ventricular impairment was detected, with decreased right ventricular function curve and decreased cardiac output.
+* The patient's right ventricular function was classified as moderately impaired, with a right ventricular ejection fraction (RVEF) of 40% on cardiac MRI.
+* Anomalous right ventricular physiology was characterized by abnormal responses to changes in afterload, with decreased ability to increase cardiac output in response to increased pulmonary artery pressure.

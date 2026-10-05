@@ -1,0 +1,35 @@
+* The patient's electrocardiogram (ECG) revealed a heart rate of 50 beats per minute, consistent with bradycardia.
+* On examination, the patient was found to have a slow heartbeat, with a measured rate of 55 beats per minute.
+* Bradycardia was noted in the patient's vital signs, with a heart rate ranging from 40-58 beats per minute over the course of the day.
+* The patient's telemetry readings indicated a persistent heart rate of less than 60 beats per minute, meeting the criteria for bradycardia.
+* A diagnosis of brachycardia was made based on the patient's symptoms and ECG results, which showed a heart rate of 52 beats per minute.
+* The patient's heart rate was measured at 45 beats per minute, which is slower than the normal range and indicative of bradycardia.
+* During the physical examination, the patient's pulse was characterized as slow and regular, with a rate of 58 beats per minute.
+* The patient's slow heartbeats, with a rate of 48 beats per minute, were likely contributing to their symptoms of fatigue and dizziness.
+* Bradycardia was identified as a potential contributing factor to the patient's decreased cardiac output, with a heart rate of 50 beats per minute.
+* The patient's ECG showed a normal rhythm, but with a slow rate of 55 beats per minute, consistent with a diagnosis of bradycardia.
+* On monitor, the patient's heart rate was consistently below 60 beats per minute, ranging from 42-58 beats per minute.
+* The patient's symptoms of syncope and near-syncope were likely related to their bradycardia, with a measured heart rate of 45 beats per minute.
+* A heart rate of 52 beats per minute was noted in the patient's chart, with a comment indicating that this was slower than normal.
+* The patient's bradycardia was thought to be related to their medications, with a heart rate of 50 beats per minute after initiation of beta blockers.
+* The ECG revealed a heart rate of 48 beats per minute, which is below the normal range and indicative of bradycardia.
+* During the stress test, the patient's heart rate was slower than expected to rise, with a maximum rate of 55 beats per minute.
+* The patient's slow heart rate, with a measured rate of 42 beats per minute, was a concern for decreased perfusion of vital organs.
+* Bradycardia was noted in the patient's discharge summary, with a heart rate of 50 beats per minute at the time of discharge.
+* The patient's Holter monitor results showed a persistent heart rate of less than 60 beats per minute, consistent with a diagnosis of bradycardia.
+* A diagnosis of brachycardia was considered based on the patient's symptoms and ECG results, which showed a heart rate of 55 beats per minute.
+* The patient's heart rate was characterized as slow and regular, with a rate of 58 beats per minute, on physical examination.
+* The patient's medications were adjusted to try to increase their heart rate, which was consistently below 60 beats per minute.
+* The patient's bradycardia was thought to be related to their underlying medical condition, with a heart rate of 50 beats per minute.
+* The ECG revealed a normal rhythm, but with a slow rate of 52 beats per minute, consistent with a diagnosis of bradycardia.
+* The patient's slow heartbeats, with a rate of 45 beats per minute, were likely contributing to their symptoms of shortness of breath.
+* The patient's heart rate was measured at 48 beats per minute, which is slower than the normal range and indicative of bradycardia.
+* During the examination, the patient's pulse was found to be slow and regular, with a rate of 55 beats per minute.
+* The patient's bradycardia was a concern for decreased cardiac output, with a heart rate of 50 beats per minute.
+* The patient's telemetry readings indicated a persistent heart rate of less than 60 beats per minute, consistent with a diagnosis of bradycardia.
+* A heart rate of 42 beats per minute was noted in the patient's chart, with a comment indicating that this was slower than normal.
+* The patient's symptoms of fatigue and dizziness were likely related to their bradycardia, with a measured heart rate of 50 beats per minute.
+* The patient's ECG showed a normal rhythm, but with a slow rate of 55 beats per minute, consistent with a diagnosis of bradycardia.
+* The patient's slow heart rate, with a measured rate of 48 beats per minute, was a concern for decreased perfusion of vital organs.
+* The patient's bradycardia was thought to be related to their medications, with a heart rate of 52 beats per minute after initiation of beta blockers.
+* The patient's Holter monitor results showed a persistent heart rate of less than 60 beats per minute, consistent with a diagnosis of bradycardia.

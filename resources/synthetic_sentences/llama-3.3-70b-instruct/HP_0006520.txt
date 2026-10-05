@@ -1,0 +1,35 @@
+* The patient's lung function has been deteriorating over time, with a notable decline in pulmonary capacity.
+* Pulmonary function tests (PFTs) reveal a progressive decrease in forced expiratory volume (FEV1) and forced vital capacity (FVC).
+* Serial spirometry results demonstrate a steady downward trend in lung function, consistent with progressive impairment.
+* Clinical evaluation indicates a gradual worsening of respiratory symptoms, including shortness of breath and decreased exercise tolerance.
+* The patient's pulmonary function has been progressively declining, with a significant drop in diffusing capacity of the lungs for carbon monoxide (DLCO).
+* Longitudinal PFT data show a consistent pattern of lung function deterioration, with a decrease in total lung capacity (TLC) and residual volume (RV).
+* The patient's respiratory status has been gradually deteriorating, with increasing symptoms of dyspnea and decreased pulmonary function.
+* Progression of pulmonary disease is evident, with a decline in arterial oxygen saturation (SpO2) and an increase in oxygen requirements.
+* Pulmonary function impairment has been worsening over time, with a notable decrease in maximal voluntary ventilation (MVV) and peak expiratory flow rate (PEFR).
+* Serial clinical assessments demonstrate a progressive decline in lung function, with a decrease in 6-minute walk test (6MWT) distance and increased oxygen desaturation.
+* The patient's lung disease has been progressing, with a significant decline in pulmonary function and increased symptoms of respiratory failure.
+* PFT results indicate a steady decline in lung function, with a decrease in functional residual capacity (FRC) and expiratory reserve volume (ERV).
+* Clinical findings suggest a gradual worsening of pulmonary function, with a decline in exercise capacity and increased symptoms of fatigue.
+* The patient's respiratory function has been progressively impaired, with a significant decrease in lung volumes and capacities.
+* Long-term follow-up reveals a consistent pattern of pulmonary function decline, with a decrease in spirometric values and increased respiratory symptoms.
+* The patient's condition is characterized by progressive pulmonary impairment, with a decline in gas exchange and increased dead space ventilation.
+* Pulmonary function tests demonstrate a progressive decline in lung function, with a decrease in inspiratory capacity (IC) and expiratory time.
+* Clinical evaluation indicates a gradual deterioration of respiratory function, with a decline in exercise tolerance and increased symptoms of dyspnea.
+* The patient's lung function has been steadily declining, with a significant decrease in FEV1/FVC ratio and increased airway resistance.
+* Serial PFTs show a progressive decline in lung function, with a decrease in vital capacity (VC) and total lung capacity (TLC).
+* The patient's respiratory status has been worsening over time, with a decline in pulmonary function and increased symptoms of respiratory distress.
+* Progression of pulmonary disease is evident, with a decline in pulmonary function and increased requirements for supplemental oxygen.
+* Clinical findings suggest a gradual decline in lung function, with a decrease in exercise capacity and increased symptoms of fatigue and dyspnea.
+* The patient's pulmonary function has been progressively impaired, with a significant decline in lung volumes and capacities.
+* Long-term follow-up reveals a consistent pattern of pulmonary function decline, with a decrease in spirometric values and increased respiratory symptoms.
+* The patient's condition is characterized by progressive pulmonary impairment, with a decline in gas exchange and increased dead space ventilation.
+* PFT results indicate a steady decline in lung function, with a decrease in functional residual capacity (FRC) and expiratory reserve volume (ERV).
+* Clinical assessment demonstrates a gradual worsening of respiratory function, with a decline in exercise tolerance and increased symptoms of dyspnea.
+* The patient's lung disease has been progressing, with a significant decline in pulmonary function and increased symptoms of respiratory failure.
+* Serial clinical evaluations demonstrate a progressive decline in lung function, with a decrease in 6-minute walk test (6MWT) distance and increased oxygen desaturation.
+* The patient's respiratory function has been progressively impaired, with a significant decrease in lung volumes and capacities.
+* Pulmonary function impairment has been worsening over time, with a notable decrease in maximal voluntary ventilation (MVV) and peak expiratory flow rate (PEFR).
+* Clinical findings suggest a gradual decline in lung function, with a decrease in exercise capacity and increased symptoms of fatigue and dyspnea.
+* The patient's lung function has been steadily declining, with a significant decrease in FEV1/FVC ratio and increased airway resistance.
+* Long-term follow-up reveals a consistent pattern of pulmonary function decline, with a decrease in spirometric values and increased respiratory symptoms.

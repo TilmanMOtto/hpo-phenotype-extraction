@@ -1,0 +1,36 @@
+* The patient's immune cells demonstrated decreased surface expression of MHC class II molecules, suggestive of an underlying immune dysfunction.
+* Flow cytometry analysis revealed reduced levels of MHC II on the surface of peripheral blood mononuclear cells.
+* Impaired antigen presentation was noted due to decreased expression of HLA class II antigens on the surface of antigen-presenting cells.
+* A significant reduction in MHC II surface expression was observed in the patient's dendritic cells, which may contribute to impaired immune responses.
+* The surface density of MHC class II molecules was decreased on B cells, which could impact the patient's ability to mount an effective immune response.
+* Reduced expression of MHC II was identified as a potential contributing factor to the patient's compromised immune function.
+* MHC class II molecule expression on monocytes was found to be lower than expected, which may indicate an underlying immunodeficiency.
+* The patient's condition was characterized by diminished MHC II surface expression, leading to impaired T-cell activation and coordination of the immune response.
+* Antigen-presenting cells from the patient showed diminished surface expression of HLA-DR, a subtype of MHC class II molecule.
+* Flow cytometric analysis confirmed decreased MHC II expression on the surface of the patient's immune cells, consistent with an immunodeficiency disorder.
+* Impaired MHC II surface expression was observed on Langerhans cells, which may contribute to the patient's increased susceptibility to infections.
+* Decreased surface expression of MHC class II molecules was noted on the patient's T cells, although this is not the typical cell type associated with MHC II expression.
+* Reduced MHC II expression on the surface of B cells and dendritic cells suggested an underlying defect in antigen presentation.
+* The patient's immune cells showed a marked decrease in the surface density of MHC class II molecules, which correlated with clinical manifestations of immunodeficiency.
+* A defect in MHC II surface expression was identified as a potential contributing factor to the patient's recurrent infections and compromised immune function.
+* Impaired expression of HLA class II antigens on the surface of antigen-presenting cells was observed, which may impact the patient's ability to respond to pathogens.
+* MHC class II molecule expression was decreased on the surface of the patient's macrophages, which could contribute to impaired immune function.
+* Decreased surface expression of MHC II molecules was noted on the patient's dendritic cells, which may impact the activation and coordination of the adaptive immune response.
+* Reduced MHC II surface expression was observed in the patient's peripheral blood mononuclear cells, which may contribute to the patient's increased susceptibility to infections.
+* Flow cytometric analysis revealed decreased MHC II expression on the surface of the patient's immune cells, consistent with an underlying immunodeficiency disorder.
+* Impaired MHC II surface expression was identified as a potential contributing factor to the patient's compromised immune function and recurrent infections.
+* A significant reduction in MHC II surface expression was observed on the patient's B cells and dendritic cells, which may impact the patient's ability to mount an effective immune response.
+* Decreased expression of MHC class II molecules on the surface of antigen-presenting cells was noted, which may contribute to impaired T-cell activation and coordination of the immune response.
+* The patient's condition was characterized by reduced MHC II surface expression, which correlated with clinical manifestations of immunodeficiency and increased susceptibility to infections.
+* MHC class II molecule expression on the surface of the patient's immune cells was decreased, which may impact the patient's ability to respond to pathogens.
+* A defect in MHC II surface expression was identified, which may contribute to the patient's compromised immune function and increased susceptibility to infections.
+* Impaired antigen presentation due to reduced MHC II surface expression was observed, which may impact the patient's ability to mount an effective immune response.
+* Decreased surface expression of MHC II molecules was noted on the patient's monocytes, which may contribute to impaired immune function.
+* Flow cytometric analysis confirmed reduced MHC II expression on the surface of the patient's immune cells, consistent with an underlying immunodeficiency disorder.
+* The patient's immune cells showed decreased surface expression of MHC class II molecules, which correlated with clinical manifestations of immunodeficiency.
+* Reduced MHC II surface expression was observed on the patient's Langerhans cells, which may contribute to impaired immune function and increased susceptibility to infections.
+* A significant reduction in MHC II surface expression was noted on the patient's dendritic cells and B cells, which may impact the patient's ability to mount an effective immune response.
+* Impaired MHC II surface expression was identified as a potential contributing factor to the patient's compromised immune function, characterized by recurrent infections and increased susceptibility to pathogens.
+* Decreased expression of HLA class II antigens on the surface of antigen-presenting cells was observed, which may contribute to impaired T-cell activation and coordination of the immune response.
+* The patient's condition was characterized by reduced MHC II surface expression, which may impact the patient's ability to respond to pathogens and contribute to increased susceptibility to infections.
+* MHC class II molecule expression on the surface of the patient's immune cells was decreased, which correlated with clinical manifestations of immunodeficiency and compromised immune function.

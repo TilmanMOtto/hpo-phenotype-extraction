@@ -1,0 +1,35 @@
+* The patient's urinary output has been inconsistent, with notable fluctuations in volume over the past 24 hours.
+* Oliguria was observed, with the patient producing less than 400 mL of urine in the past 12 hours.
+* Polyuria is evident, as the patient has been voiding more than 3 liters of urine per day.
+* Noted for decreased urine production, with an average output of 200 mL over the last 8 hours.
+* Renal function appears impaired, with a significant reduction in urine volume noted on multiple occasions.
+* Patient reports frequent urination, exceeding 10 times per day, suggestive of an issue with urine concentration.
+* Urinary output has been poor, with the patient producing less than 0.5 mL/kg/hour.
+* The patient is experiencing nocturia, waking up multiple times at night to void, indicating an abnormality in urine production.
+* Diminished urinary output suggests possible acute kidney injury or other renal pathology.
+* Patient's fluid status is compromised due to excessive urine production, leading to dehydration.
+* Anuria was diagnosed due to the patient's failure to produce any urine over a 12-hour period.
+* Despite aggressive fluid resuscitation, the patient's urine output remains below expected levels.
+* The patient exhibits polyuria, likely secondary to uncontrolled diabetes mellitus.
+* Low urine output, less than 50 mL per hour, was observed in the postoperative period.
+* An increase in urine production, now exceeding 4 liters per day, has been noted over the past week.
+* Patient's urine output is scarce, totaling less than 100 mL in the past 6 hours.
+* Renal insufficiency is suspected given the persistent suboptimal urine volume.
+* We are seeing a picture of oliguric acute kidney injury, with the patient producing minimal urine.
+* Kidney function appears to be impaired, as evidenced by significantly reduced urinary output.
+* Excessive urine production is noted, with the patient voiding more than 6 liters per day.
+* Minimal urine output in the setting of adequate fluid resuscitation raises concern for renal dysfunction.
+* Overnight, the patient's urine output was remarkably low, indicating possible acute kidney damage.
+* Polyuric symptoms, including frequent urination and excessive thirst, are present.
+* Borderline low urine output, at 400 mL per 12 hours, warrants close monitoring.
+* Patient's renal function is impaired, as indicated by consistently low urine volumes.
+* We observed a drop in urine output to less than 20 mL per hour, suggesting severe renal compromise.
+* High urine output, exceeding normal ranges, is likely related to the patient's underlying condition.
+* Persistent low urine output despite fluid resuscitation efforts suggests intrinsic renal disease.
+* Patient's condition has progressed to anuria, necessitating immediate medical intervention.
+* Polyuria and subsequent dehydration are complicating the patient's clinical course.
+* The patient voids an excessive amount of urine, with volumes greater than 5 liters per day.
+* Minimal urine production in the setting of systemic illness raises concern for multi-organ dysfunction.
+* An abnormal pattern of urine output, characterized by oliguria during the day and polyuria at night, is observed.
+* Severe oliguria, less than 100 mL per 12 hours, indicates significant renal impairment.
+* Ongoing diminished urine output, despite aggressive management, suggests chronic renal insufficiency.

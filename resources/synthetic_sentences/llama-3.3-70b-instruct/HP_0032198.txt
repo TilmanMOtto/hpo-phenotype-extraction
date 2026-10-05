@@ -1,0 +1,36 @@
+* The patient's coagulation profile revealed a shortened prothrombin time, indicating an increased tendency towards clotting.
+* Laboratory results showed an INR of 0.8, suggesting a hypercoagulable state.
+* Upon evaluation, the prothrombin time was found to be decreased, which may predispose the patient to thrombotic events.
+* Coagulation studies demonstrated a decreased international normalized ratio, consistent with an accelerated coagulation pathway.
+* The patient's PT was significantly shortened, with an INR of 0.9, indicating a potential risk for clot formation.
+* A decreased prothrombin time was observed, which may be indicative of a coagulopathy with a predisposition towards thrombosis.
+* The INR was calculated to be 0.85, reflecting a decreased prothrombin time and suggesting an increased risk of clotting.
+* The coagulation profile indicated a decreased international normalized ratio, which may be associated with a hypercoagulable condition.
+* Prothrombin time testing revealed a shortened coagulation time, consistent with a decreased INR.
+* The patient's laboratory results showed a decreased PT, with an INR of 0.7, indicating a potential for thrombotic complications.
+* Coagulation studies revealed a decreased prothrombin time, suggesting an increased tendency towards clot formation.
+* Upon review of the patient's coagulation profile, a decreased international normalized ratio was noted, indicating a potential risk for thrombosis.
+* The patient's INR was found to be decreased, at 0.6, which may indicate a coagulopathy with an increased risk of clotting.
+* A shortened prothrombin time was observed, with an INR of 0.95, suggesting a potential for hypercoagulability.
+* Laboratory testing revealed a decreased PT, consistent with a decreased international normalized ratio and an increased risk of thrombotic events.
+* The coagulation profile indicated a decreased prothrombin time, which may be associated with a hypercoagulable state.
+* The patient's INR was calculated to be 0.8, reflecting a decreased prothrombin time and suggesting a potential risk for clot formation.
+* A decreased international normalized ratio was observed, consistent with a shortened prothrombin time and an increased tendency towards clotting.
+* Coagulation studies demonstrated a decreased PT, with an INR of 0.9, indicating a potential for thrombotic complications.
+* The patient's coagulation profile revealed a decreased prothrombin time, suggesting a coagulopathy with an increased risk of clotting.
+* The INR was found to be decreased, at 0.7, which may indicate a hypercoagulable condition.
+* A shortened prothrombin time was noted, consistent with a decreased international normalized ratio and an increased risk of thrombosis.
+* Laboratory results showed a decreased PT, with an INR of 0.85, suggesting a potential for hypercoagulability.
+* The coagulation profile indicated a decreased international normalized ratio, which may be associated with a coagulopathy with an increased tendency towards clotting.
+* The patient's prothrombin time was found to be decreased, with an INR of 0.6, indicating a potential risk for thrombotic events.
+* Coagulation studies revealed a decreased prothrombin time, consistent with a decreased INR and an increased risk of clot formation.
+* Upon evaluation, the patient's INR was calculated to be 0.9, reflecting a decreased prothrombin time and suggesting a potential for hypercoagulability.
+* A decreased international normalized ratio was observed, with an INR of 0.8, indicating a potential risk for thrombosis.
+* The patient's coagulation profile revealed a shortened prothrombin time, consistent with a decreased PT and an increased tendency towards clotting.
+* Laboratory testing demonstrated a decreased prothrombin time, with an INR of 0.7, suggesting a coagulopathy with an increased risk of clotting.
+* The INR was found to be decreased, at 0.95, which may indicate a hypercoagulable state.
+* A decreased prothrombin time was noted, consistent with a decreased international normalized ratio and an increased risk of thrombotic complications.
+* Coagulation studies revealed a decreased PT, with an INR of 0.85, indicating a potential for thrombosis.
+* The patient's coagulation profile indicated a decreased international normalized ratio, which may be associated with a coagulopathy with an increased tendency towards clot formation.
+* The patient's prothrombin time was found to be shortened, with an INR of 0.8, suggesting a potential risk for clotting.
+* Laboratory results showed a decreased INR, consistent with a decreased prothrombin time and an increased risk of thrombotic events.

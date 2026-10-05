@@ -1,0 +1,38 @@
+* The patient's head circumference was measured to be 3 standard deviations below the mean for age and gender, consistent with a diagnosis of microcephaly.
+* On examination, the child's occipitofrontal circumference was found to be significantly reduced, indicating microcephaly.
+* The prenatal ultrasound revealed a fetal head circumference more than 3 standard deviations below the mean, suggesting microcephaly.
+* The patient's cranial size was significantly smaller than expected, with a head circumference at the 1st centile for age and sex.
+* Microcephaly was diagnosed at birth, with a head circumference of 32 cm, which is 2 standard deviations below the mean for gestational age.
+* The child's head size was disproportionate to their height, with a head circumference at the 5th centile and height at the 50th centile, indicating relative microcephaly.
+* On physical examination, the patient's skull was noted to be abnormally small, with a reduced calvarium size.
+* The patient's head circumference has been consistently below the 2nd centile for age and sex, indicating primary microcephaly.
+* Secondary microcephaly was diagnosed in this patient, with a significant decline in head circumference percentile over the past year.
+* The patient's cranial growth has been restricted, resulting in a head circumference that is 2.5 standard deviations below the mean for age and sex.
+* On radiological examination, the patient's cranial size was found to be significantly reduced, with a small cranium and decreased skull size.
+* The patient's head circumference was measured to be 35 cm at 12 months of age, which is significantly below the expected value for age and sex.
+* A diagnosis of microcephaly was made based on a head circumference that is 2 standard deviations below the mean for gestational age.
+* The patient's skull circumference was found to be reduced, with a measurements indicating a small head circumference.
+* The child's head size was evaluated using standard charts, which revealed a head circumference below the 3rd centile for age and sex.
+* The patient's prenatal history was significant for microcephaly, with a fetal head circumference more than 3 standard deviations below the mean on ultrasound.
+* On clinical evaluation, the patient's cranial size was noted to be abnormally small, with a reduced head circumference.
+* The patient's head circumference has been consistently below the expected value for age and sex, indicating a diagnosis of microcephaly.
+* A small calvarium was noted on physical examination, consistent with a diagnosis of microcephaly.
+* The patient's head circumference was found to be significantly reduced, with a measurement of 30 cm at 6 months of age.
+* Microcephaly was diagnosed in this patient, with a head circumference that is 2.8 standard deviations below the mean for age and sex.
+* The patient's cranial growth has been restricted, resulting in a head circumference that is significantly below the expected value for age and sex.
+* On examination, the patient's skull was found to be abnormally small, with a decreased circumference of the cranium.
+* The patient's head circumference was measured to be 38 cm at 18 months of age, which is significantly below the expected value for age and sex.
+* A diagnosis of primary microcephaly was made based on a head circumference that is 2 standard deviations below the mean for gestational age.
+* The patient's head size was evaluated using standard charts, which revealed a head circumference below the 5th centile for age and sex.
+* The patient's prenatal ultrasound revealed a fetal head circumference more than 3 standard deviations below the mean, consistent with a diagnosis of microcephaly.
+* On clinical evaluation, the patient's cranial size was noted to be abnormally small, with a reduced skull size.
+* The patient's head circumference has been consistently below the expected value for age and sex, indicating a diagnosis of microcephaly.
+* A small cranium was noted on physical examination, consistent with a diagnosis of microcephaly.
+* The patient's head circumference was found to be significantly reduced, with a measurement of 32 cm at 12 months of age.
+* Microcephaly was diagnosed in this patient, with a head circumference that is 2.5 standard deviations below the mean for age and sex.
+* The patient's cranial growth has been restricted, resulting in a head circumference that is significantly below the expected value for age and sex.
+* On examination, the patient's skull was found to be abnormally small, with a decreased size of the cranium.
+* The patient's head circumference was measured to be 35 cm at 2 years of age, which is significantly below the expected value for age and sex.
+* A diagnosis of secondary microcephaly was made based on a significant decline in head circumference percentile over the past year.
+* The patient's head size was disproportionate to their height, with a head circumference at the 10th centile and height at the 50th centile, indicating relative microcephaly.
+* On radiological examination, the patient's cranial size was found to be significantly reduced, with a small skull and decreased calvarium size.

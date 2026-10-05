@@ -1,0 +1,36 @@
+* The patient's echocardiogram revealed a left ventricular ejection fraction (LVEF) of 40%, indicating impaired systolic function.
+* Cardiac catheterization showed a reduced ejection fraction, consistent with left ventricular dysfunction.
+* Echocardiographic assessment demonstrated a diminished LVEF of 45%, suggesting underlying cardiac disease.
+* The left ventricular ejection fraction was measured at 50%, which is below the normal threshold.
+* A reduced ejection fraction of 38% was observed on cardiac MRI, indicating significant left ventricular impairment.
+* The patient's LVEF was found to be 42% on radionuclide ventriculography, indicating decreased left ventricular function.
+* Decreased systolic function was evident on echocardiogram, with an LVEF of 48%.
+* Cardiac evaluation revealed a left ventricular ejection fraction of 32%, consistent with severe left ventricular dysfunction.
+* The patient was diagnosed with reduced ejection fraction, with an LVEF of 35% on initial presentation.
+* A follow-up echocardiogram showed an LVEF of 49%, indicating persistent left ventricular dysfunction.
+* The LVEF was measured at 30% on cardiac catheterization, suggesting severe impairment of left ventricular function.
+* Reduced left ventricular ejection fraction was noted on echocardiogram, with an LVEF of 40%.
+* Echocardiographic evaluation demonstrated an LVEF of 55% on the lower end of normal, warranting further monitoring.
+* A reduced ejection fraction of 45% was observed, indicating mild left ventricular dysfunction.
+* Cardiac MRI confirmed reduced left ventricular ejection fraction, with an LVEF of 38%.
+* The patient's left ventricular function was impaired, as evidenced by an LVEF of 42% on radionuclide ventriculography.
+* An LVEF of 50% was recorded on echocardiogram, suggesting mild left ventricular dysfunction.
+* Reduced systolic function was evident, with an LVEF of 35% on cardiac catheterization.
+* The patient was found to have a reduced ejection fraction, with an LVEF of 48% on initial evaluation.
+* A follow-up cardiac MRI showed an LVEF of 40%, indicating persistent left ventricular impairment.
+* Echocardiogram revealed a reduced left ventricular ejection fraction of 32%, consistent with severe cardiac disease.
+* The LVEF was measured at 45% on echocardiogram, indicating mild to moderate left ventricular dysfunction.
+* Reduced left ventricular function was noted, with an LVEF of 38% on cardiac evaluation.
+* A reduced ejection fraction of 42% was observed on radionuclide ventriculography, indicating impaired left ventricular function.
+* The patient's cardiac function was impaired, as evidenced by an LVEF of 30% on cardiac catheterization.
+* Echocardiographic assessment demonstrated an LVEF of 48%, suggesting mild left ventricular dysfunction.
+* The patient was diagnosed with reduced ejection fraction, with an LVEF of 35% on initial presentation.
+* A reduced left ventricular ejection fraction of 40% was noted on echocardiogram, indicating impaired systolic function.
+* Cardiac evaluation revealed an LVEF of 45%, consistent with mild left ventricular dysfunction.
+* The LVEF was found to be 50% on cardiac MRI, indicating mild left ventricular impairment.
+* The patient's left ventricular function was impaired, as evidenced by an LVEF of 38% on echocardiogram.
+* Reduced systolic function was evident, with an LVEF of 32% on cardiac catheterization.
+* A reduced ejection fraction of 48% was observed, indicating mild to moderate left ventricular dysfunction.
+* Echocardiogram revealed an LVEF of 40%, suggesting impaired left ventricular function.
+* The patient was found to have a reduced left ventricular ejection fraction, with an LVEF of 42% on initial evaluation.
+* Cardiac MRI confirmed reduced left ventricular ejection fraction, with an LVEF of 35%.
